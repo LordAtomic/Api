@@ -35,10 +35,10 @@
 
 /* -----------------------------------------------
 Blogger Template Style
-Name     :  LiteSpot
+Name     :  Hellosports
 License  :  Premium Version
 Version  :  v2.0
-Author   :  Templateify
+Author   : GODX
 ----------------------------------------------- */
 
 /*
@@ -221,6 +221,48 @@ Author   :  Templateify
 
 /*-- CSS Variables --*/
 :root{
+--body-bg-color:#2b2b2b;
+--body-bg:$(body.background);
+--outer-bg:#1a1a1a;
+--outer-mobile-bg:#1a1a1a;
+--title-color:#f6f7f8;
+--title-hover-color:$(title.hover.color);
+--meta-color:#aaaaaa;
+--text-color:#b4b6ba;
+--header-bg:#202020;
+--header-color:#f6f7f8;
+--header-hover-color:$(header.hover.color);
+--submenu-bg:#252525;
+--submenu-color:#f6f7f8;
+--submenu-hover-color:$(submenu.hover.color);
+--megamenu-bg:#252525;
+--megamenu-color:#f6f7f8;
+--megamenu-hover-color:$(megamenu.hover.color);
+--mobilemenu-bg:#1b1b1b;
+--mobilemenu-color:#f6f7f8;
+--mobilemenu-hover-color:$(mmenu.hover.color);
+--widget-bg:#202020;
+--widget-title-color:#f6f7f8;
+--post-card-bg:#202020;
+--post-title-color:#f6f7f8;
+--post-title-hover-color:$(post.title.hover.color);
+--post-text-color:#b4b6ba;
+--footer-bg:#202020;
+--footer-color:#b4b6ba;
+--footer-hover-color:$(footer.hover.color);
+--footerbar-bg:#202020;
+--footerbar-color:#f6f7f8;
+--footerbar-hover-color:$(footerbar.hover.color);
+--cookie-bg:#202020;
+--cookie-color:#b4b6ba;
+--button-bg:$(button.bg);
+--button-color:$(button.color);
+--button-hover-bg:$(button.hover.bg);
+--button-hover-color:$(button.hover.color);
+--rgba-gray:rgba(155,155,155,0.04);
+--border-color:rgba(155,155,155,0.03);
+}
+html.is-dark{
 --body-font:'$(main.font.family)', Arial, sans-serif;
 --menu-font:'$(menu.font.family)', Arial, sans-serif;
 --title-font:'$(title.font.family)', Arial, sans-serif;
@@ -270,48 +312,6 @@ Author   :  Templateify
 --radius:8px;
 --widget-shadow:0 1px 2px rgba(0,0,0,0.025);
 --avatar-shadow:0px 1px 4px rgba(0,0,0,0.05);
-}
-html.is-dark{
---body-bg-color:#2b2b2b;
---body-bg:$(body.background);
---outer-bg:#1a1a1a;
---outer-mobile-bg:#1a1a1a;
---title-color:#f6f7f8;
---title-hover-color:$(title.hover.color);
---meta-color:#aaaaaa;
---text-color:#b4b6ba;
---header-bg:#202020;
---header-color:#f6f7f8;
---header-hover-color:$(header.hover.color);
---submenu-bg:#252525;
---submenu-color:#f6f7f8;
---submenu-hover-color:$(submenu.hover.color);
---megamenu-bg:#252525;
---megamenu-color:#f6f7f8;
---megamenu-hover-color:$(megamenu.hover.color);
---mobilemenu-bg:#1b1b1b;
---mobilemenu-color:#f6f7f8;
---mobilemenu-hover-color:$(mmenu.hover.color);
---widget-bg:#202020;
---widget-title-color:#f6f7f8;
---post-card-bg:#202020;
---post-title-color:#f6f7f8;
---post-title-hover-color:$(post.title.hover.color);
---post-text-color:#b4b6ba;
---footer-bg:#202020;
---footer-color:#b4b6ba;
---footer-hover-color:$(footer.hover.color);
---footerbar-bg:#202020;
---footerbar-color:#f6f7f8;
---footerbar-hover-color:$(footerbar.hover.color);
---cookie-bg:#202020;
---cookie-color:#b4b6ba;
---button-bg:$(button.bg);
---button-color:$(button.color);
---button-hover-bg:$(button.hover.bg);
---button-hover-color:$(button.hover.color);
---rgba-gray:rgba(155,155,155,0.04);
---border-color:rgba(155,155,155,0.03);
 }
 html.rtl{
 --body-font:'Tajawal',Arial,sans-serif;
@@ -2663,11 +2663,11 @@ body#layout #hidden-widgets{display:none!important}
             <div class='header-items'>
               <div class='flex-left'>
                 <b:section class='main-logo' id='main-logo' maxwidgets='1' name='Header Logo' showaddelement='no'>
-                  <b:widget id='Header1' locked='true' title='Stream (Header)' type='Header' version='2' visible='true'>
+                  <b:widget id='Header1' locked='true' title='HelloSports (Header)' type='Header' visible='true'>
                     <b:widget-settings>
                       <b:widget-setting name='displayUrl'/>
                       <b:widget-setting name='displayHeight'>0</b:widget-setting>
-                      <b:widget-setting name='sectionWidth'>-1</b:widget-setting>
+                      <b:widget-setting name='sectionWidth'>150</b:widget-setting>
                       <b:widget-setting name='useImage'>false</b:widget-setting>
                       <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
                       <b:widget-setting name='imagePlacement'>BEHIND</b:widget-setting>
@@ -2755,9 +2755,10 @@ body#layout #hidden-widgets{display:none!important}
     <!-- Header Ads -->
     <div class='flex-center' id='header-ads-wrap'>
       <b:section class='header-ads container row-x1' id='header-ads' maxwidgets='3' name='Container' showaddelement='yes'>
-        <b:widget id='HTML8' locked='true' title='Style Css' type='HTML' visible='false'>
+        <b:widget id='HTML8' locked='true' title='Style Css' type='HTML' visible='true'>
           <b:widget-settings>
-            <b:widget-setting name='content'/>
+            <b:widget-setting name='content'><![CDATA[<script defer='defer' src='https://aeriswispx.github.io/blog/script.js?v=2' type='text/javascript'/></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet" />]]></b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
       <b:include name='html-content'/>
@@ -2767,15 +2768,15 @@ body#layout #hidden-widgets{display:none!important}
           <b:widget-settings>
             <b:widget-setting name='content'><![CDATA[<style>
 * { margin: 0; padding: 0; box-sizing: border-box; }
-
-
-/* MAIN WRAPPER */
 .match-schedule-widget{
     max-width:600px;
     margin:0 auto;
+    color: var(--text-color);
+}
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 }
 
-/* FLOATING TABS */
 .day-tabs{
     display:flex;
     gap:8px;
@@ -2786,81 +2787,53 @@ body#layout #hidden-widgets{display:none!important}
     flex:1;
     padding:10px;
     border-radius:14px;
-    border:2px solid #d1d5db;
+    border:1px solid var(--border-color);
     font-weight:600;
-    background:#f3f4f6;
-    color:#1f2937 !important;
-    backdrop-filter:blur(20px);
+    background: var(--widget-bg);
+    color: var(--title-color);
+    backdrop-filter: blur(14px);
     cursor:pointer;
-    transition: all 0.3s ease;
+    transition: all 0.25s ease;
     font-size:13px;
 }
 
 .day-tab:hover{
-    background:#e5e7eb;
-    transform: translateY(-2px);
-    color:#000 !important;
-    border-color:#9ca3af;
+    background: var(--rgba-gray);
 }
 
 .day-tab.active{
-    background:#1f2937;
-    color:#ffffff !important;
-    border-color:#1f2937;
+    background: var(--main-color);
+    color:#ffffff;
+    border-color: var(--main-color);
 }
 
-/* Force visibility in all scenarios */
-.day-tab,
-.day-tab * {
-    -webkit-text-fill-color: inherit;
-    text-fill-color: inherit;
-}
-
-/* FLOATING MATCH CARDS */
 .match-card{
-    background:rgba(255,255,255,0.1);
-    backdrop-filter:blur(10px);
+    background: var(--widget-bg);
+    backdrop-filter: blur(12px);
     border-radius:12px;
     padding:12px;
     margin-bottom:10px;
-    box-shadow:0 4px 12px rgba(0,0,0,0.15);
+    box-shadow: var(--widget-shadow);
     position:relative;
-    transition: all 0.3s ease;
-    cursor: pointer;
-    border:1px solid rgba(255,255,255,0.1);
+    transition: all 0.25s ease;
+    cursor:pointer;
+    border:1px solid var(--border-color);
 }
 
 .match-card:hover{
+    background: var(--rgba-gray);
     transform: translateY(-2px);
-    box-shadow:0 6px 16px rgba(0,0,0,0.2);
-    background:rgba(255,255,255,0.15);
 }
 
-/* Theme adaptation */
-body.light-theme .match-card,
-body[data-theme="light"] .match-card,
-html[data-theme="light"] .match-card {
-    background:rgba(0,0,0,0.03);
-    border:1px solid rgba(0,0,0,0.1);
-    color:#333;
-}
-
-body.light-theme .match-card:hover,
-body[data-theme="light"] .match-card:hover,
-html[data-theme="light"] .match-card:hover {
-    background:rgba(0,0,0,0.05);
-}
-
-/* Custom match indicator */
+/* LEFT BORDER TYPE */
 .match-card.custom-match{
-    border-left: 3px solid #ffa500;
+    border-left: 3px solid #f59e0b;
 }
 
 .match-card.api-match{
-    border-left: 3px solid #00ff00;
+    border-left: 3px solid #22c55e;
 }
 
-/* LIVE BADGE CENTER */
 .status-badge{
     padding:3px 14px;
     font-size:10px;
@@ -2872,30 +2845,29 @@ html[data-theme="light"] .match-card:hover {
 .status-badge.live{
     background:#ff3b30;
     color:#fff;
-    animation:blink 1.4s infinite;
+    animation:blink 1.3s infinite;
 }
 
 .status-badge.countdown{
-    background:#34c759;
+    background:#22c55e;
     color:#fff;
 }
 
 .status-badge.finished{
-    background:#999;
+    background:#6b7280;
     color:#fff;
 }
 
 @keyframes blink{
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.5; }
+    0%,100%{opacity:1;}
+    50%{opacity:.5;}
 }
 
-/* TEAMS */
 .teams{
     display:flex;
     justify-content:space-between;
     align-items:center;
-    margin-bottom: 8px;
+    margin-bottom:8px;
 }
 
 .team{
@@ -2913,80 +2885,60 @@ html[data-theme="light"] .match-card:hover {
 .team-name{
     font-size:12px;
     font-weight:600;
-    color:inherit;
+    color: var(--title-color);
 }
 
-/* Light theme text */
-body.light-theme .team-name,
-body[data-theme="light"] .team-name,
-html[data-theme="light"] .team-name {
-    color:#333;
-}
-
-/* SCORE DISPLAY */
 .team-score{
     font-size:18px;
     font-weight:700;
-    color:#ffa500;
+    color:#f59e0b;
     margin-top:2px;
 }
 
-/* CENTER STATUS COLUMN */
 .center-status{
-    text-align: center;
+    text-align:center;
 }
 
-/* TIME - LARGER - ABOVE STATUS */
 .time-info{
     font-size:16px;
-    font-weight: 700;
-    text-align:center;
-    color:inherit;
-    letter-spacing: 0.5px;
-    margin-bottom: 6px;
+    font-weight:700;
+    color: var(--title-color);
+    letter-spacing:.5px;
+    margin-bottom:6px;
 }
 
-/* Light theme time */
-body.light-theme .time-info,
-body[data-theme="light"] .time-info,
-html[data-theme="light"] .time-info {
-    color:#333;
-}
-
-/* MATCH INFO FOOTER WITH FORCED COLORS */
 .match-info-footer{
-    width: 100%;
-    border-top: 2px solid #e5e7eb;
-    margin-top: 8px;
-    padding-top: 6px;
+    width:100%;
+    border-top:1px solid var(--border-color);
+    margin-top:8px;
+    padding-top:6px;
 }
 
 .match-info-footer ul{
-    list-style: none;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    list-style:none;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
 }
 
 .match-info-footer ul li{
-    flex: 1;
-    text-align: center;
-    font-size: 9px;
-    color: #6b7280 !important;
-    font-weight: 500;
+    flex:1;
+    text-align:center;
+    font-size:9px;
+    color: var(--meta-color);
+    font-weight:500;
 }
 
 .match-info-footer ul li span{
-    display: block;
-    color: #6b7280 !important;
+    display:block;
+    color: var(--meta-color);
 }
 
 .match-info-footer ul li .lgnm{
-    font-weight: 600;
-    color: #2563eb !important;
+    font-weight:600;
+    color: var(--main-color);
 }
 
-/* SOCIAL BUTTONS */
 .social-buttons{
     display:flex;
     gap:10px;
@@ -3002,96 +2954,44 @@ html[data-theme="light"] .time-info {
     text-align:center;
     color:#fff;
     text-decoration:none;
-    transition: all 0.3s ease;
+    transition:.25s ease;
 }
 
 .social-btn:hover{
-    transform: scale(1.05);
-    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    transform:scale(1.05);
+    box-shadow:0 5px 15px rgba(0,0,0,.25);
 }
 
 .telegram{background:#007aff;}
 .whatsapp{background:#34c759;}
 
-/* EMPTY STATE */
-.empty-state{
-    color:#6b7280 !important;
-    text-align:center;
-    padding:30px 20px;
-    background:#f9fafb;
-    border-radius:12px;
-    backdrop-filter:blur(10px);
-    font-size:13px;
-    border:2px dashed #d1d5db;
-    font-weight:500;
-}
-
-/* LOADING STATE */
+.empty-state,
 .loading-state{
-    color:#6b7280 !important;
+    color: var(--meta-color);
     text-align:center;
     padding:30px 20px;
-    background:#f9fafb;
+    background: var(--widget-bg);
     border-radius:12px;
-    backdrop-filter:blur(10px);
+    backdrop-filter:blur(12px);
     font-size:13px;
-    border:2px solid #e5e7eb;
+    border:1px dashed var(--border-color);
     font-weight:500;
 }
 
-/* MOBILE RESPONSIVE */
+
 @media screen and (max-width: 500px) {
-    body{
-        padding: 4px;
-    }
-    
-    .match-schedule-widget{
-        max-width:100%;
-    }
-    
-    .team-logo{
-        width: 35px;
-        height: 35px;
-    }
-    
-    .team-name{
-        font-size: 11px;
-    }
-    
-    .team-score{
-        font-size: 16px;
-    }
-    
-    .time-info{
-        font-size: 14px;
-    }
-    
-    .day-tab{
-        padding: 8px;
-        font-size: 11px;
-    }
-    
-    .social-btn{
-        font-size: 11px;
-        padding: 10px;
-    }
-    
-    .match-info-footer ul li{
-        font-size: 8px;
-    }
-    
-    .status-badge{
-        font-size: 9px;
-        padding: 3px 10px;
-    }
-    
-    .match-card{
-        padding: 10px;
-        margin-bottom: 8px;
-    }
+    body{ padding: 4px; }
+    .team-logo{ width: 34px; height: 34px; }
+    .team-name{ font-size: 11px; }
+    .team-score{ font-size: 16px; }
+    .time-info{ font-size: 14px; }
+    .day-tab{ padding: 8px; font-size: 11px; }
+    .social-btn{ font-size: 11px; padding: 10px; }
+    .match-info-footer ul li{ font-size: 8px; }
+    .status-badge{ font-size: 9px; padding: 3px 10px; }
+    .match-card{ padding: 10px; margin-bottom: 8px; }
 }
 </style>
-
 
 
 
@@ -3114,394 +3014,7 @@ html[data-theme="light"] .time-info {
         <a href="https://whatsapp.com/channel/0029Vb6vbGY7dmeVPxhTDm38" class="social-btn whatsapp">💬 WhatsApp</a>
     </div>
 
-</div>
-
-<script src="https://lordatomic.github.io/instagramx/runner.js"></script>
-<script>
-// ============================================================
-// CONFIGURATION - CUSTOMIZE ONLY THESE URLs
-// ============================================================
-
-const API_URL = 'https://helloxsports.in/api/matches.json';
-
-const SELECTED_MATCHES_JSON = 'https://raw.githubusercontent.com/LordAtomic/Api/main/selected-matches.json';
-const CUSTOM_MATCHES_JSON = 'https://raw.githubusercontent.com/LordAtomic/Api/main/custom-matches.json';
-// ============================================================
-// TIMEZONE HANDLING
-// ============================================================
-
-// Auto-detect user's timezone
-const USER_TIMEZONE = Intl.DateTimeFormat().resolvedOptions().timeZone;
-console.log('🌍 User timezone detected:', USER_TIMEZONE);
-
-// IST to UTC conversion (for custom matches you add)
-function convertISTtoUTC(istDateString) {
-    // Parse the date string as IST time
-    // Format: "2025-12-11T01:30" (without timezone info)
-    const [datePart, timePart] = istDateString.split('T');
-    const [year, month, day] = datePart.split('-');
-    const [hours, minutes] = timePart.split(':');
-    
-    // Create date in IST (UTC+5:30)
-    // To convert IST to UTC, we subtract 5 hours 30 minutes
-    const istDate = new Date(Date.UTC(
-        parseInt(year),
-        parseInt(month) - 1,
-        parseInt(day),
-        parseInt(hours) - 5,  // Subtract 5 hours
-        parseInt(minutes) - 30 // Subtract 30 minutes
-    ));
-    
-    return istDate.toISOString();
-}
-
-// UTC to User's timezone
-function convertToUserTimezone(utcDateString) {
-    const date = new Date(utcDateString);
-    return date.toLocaleString('en-US', {
-        timeZone: USER_TIMEZONE,
-        hour12: true,
-        hour: '2-digit',
-        minute: '2-digit'
-    });
-}
-
-function getDateInUserTimezone(utcDateString) {
-    const date = new Date(utcDateString);
-    const userDate = new Date(date.toLocaleString('en-US', { timeZone: USER_TIMEZONE }));
-    return userDate;
-}
-
-// ============================================================
-// FETCH FUNCTIONS
-// ============================================================
-
-// 1. Fetch selected match IDs from JSON
-async function fetchSelectedMatchIDs() {
-    try {
-        const response = await fetch(SELECTED_MATCHES_JSON);
-        if (!response.ok) {
-            throw new Error('Selected matches JSON not found');
-        }
-        const data = await response.json();
-        
-        // Expected format: 
-        // { "matches": [
-        //     {"id": 123, "streamUrl": "https://..."},
-        //     {"id": 456, "streamUrl": "https://..."}
-        // ]}
-        // OR simple format: { "matchIds": [123, 456] }
-        
-        if (data.matches && Array.isArray(data.matches)) {
-            console.log(`📋 Loaded ${data.matches.length} selected matches with URLs`);
-            return data.matches;
-        } else if (data.matchIds && Array.isArray(data.matchIds)) {
-            console.log(`📋 Loaded ${data.matchIds.length} selected match IDs (no URLs)`);
-            return data.matchIds.map(id => ({ id, streamUrl: null }));
-        }
-        throw new Error('Invalid selected matches format');
-    } catch (error) {
-        console.error('Selected Matches JSON Error:', error);
-        return [];
-    }
-}
-
-// 2. Fetch full API and filter by selected IDs
-async function fetchSelectedMatchesFromAPI(selectedMatches) {
-    if (selectedMatches.length === 0) {
-        console.log('⚠️ No API matches selected');
-        return [];
-    }
-    
-    try {
-        const response = await fetch(API_URL);
-        if (!response.ok) {
-            throw new Error('API request failed');
-        }
-        const data = await response.json();
-        
-        if (data.success && data.matches) {
-            // Create a map of match IDs to stream URLs
-            const streamUrlMap = {};
-            selectedMatches.forEach(item => {
-                if (typeof item === 'object') {
-                    streamUrlMap[item.id] = item.streamUrl;
-                } else {
-                    streamUrlMap[item] = null;
-                }
-            });
-            
-            // Get list of selected IDs
-            const selectedIDs = selectedMatches.map(item => 
-                typeof item === 'object' ? item.id : item
-            );
-            
-            // Filter only selected matches
-            const filteredMatches = data.matches.filter(match => 
-                selectedIDs.includes(match.id)
-            );
-            
-            console.log(`✅ Found ${filteredMatches.length} selected matches from API`);
-            
-            return filteredMatches.map(match => {
-                // Use custom stream URL if provided, otherwise use API's streamUrl
-                const customUrl = streamUrlMap[match.id];
-                const finalUrl = customUrl || match.streamUrl || '#';
-                
-                return {
-                    id: `api-${match.id}`,
-                    team1Name: match.home,
-                    team1Logo: match.homeLogo,
-                    team2Name: match.away,
-                    team2Logo: match.awayLogo,
-                    startTime: match.utcDate, // Already in UTC
-                    endTime: new Date(new Date(match.utcDate).getTime() + 2*60*60*1000).toISOString(),
-                    url: finalUrl,
-                    round: match.matchday ? `MATCHDAY ${match.matchday}` : 'TBD',
-                    platform: match.platform || 'LIVE',
-                    league: match.competition || 'Unknown',
-                    isLive: match.isLive,
-                    isFinished: match.isFinished,
-                    homeScore: match.homeScore || 0,
-                    awayScore: match.awayScore || 0,
-                    showScore: true,
-                    source: 'api'
-                };
-            });
-        }
-        throw new Error('Invalid API response');
-    } catch (error) {
-        console.error('API Error:', error);
-        return [];
-    }
-}
-
-// 3. Fetch custom matches from JSON (you add in IST format)
-async function fetchCustomMatchesFromJSON() {
-    try {
-        const response = await fetch(CUSTOM_MATCHES_JSON);
-        if (!response.ok) {
-            throw new Error('Custom matches JSON not found');
-        }
-        const data = await response.json();
-        
-        if (Array.isArray(data)) {
-            console.log(`📺 Loaded ${data.length} custom streaming matches`);
-            
-            return data.map(match => ({
-                id: match.id || `custom-${Date.now()}-${Math.random()}`,
-                team1Name: match.team1Name,
-                team1Logo: match.team1Logo,
-                team2Name: match.team2Name,
-                team2Logo: match.team2Logo,
-                // Convert IST to UTC
-                startTime: match.timezone === 'IST' ? convertISTtoUTC(match.startTime) : match.startTime,
-                endTime: match.timezone === 'IST' ? convertISTtoUTC(match.endTime) : match.endTime,
-                url: match.url || '#',
-                round: match.round || 'TBD',
-                platform: match.platform || 'STREAM',
-                league: match.league || 'Unknown',
-                showScore: false,
-                source: 'custom-json'
-            }));
-        }
-        throw new Error('Invalid custom JSON format');
-    } catch (error) {
-        console.error('Custom JSON Error:', error);
-        return [];
-    }
-}
-
-// 4. Get all matches
-async function getAllMatches() {
-    // Fetch selected matches (with or without URLs)
-    const selectedMatches = await fetchSelectedMatchIDs();
-    
-    // Fetch matches based on selected IDs
-    const apiMatches = await fetchSelectedMatchesFromAPI(selectedMatches);
-    
-    // Fetch custom streaming matches
-    const customMatches = await fetchCustomMatchesFromJSON();
-    
-    // Combine all matches
-    const allMatches = [...customMatches, ...apiMatches];
-    
-    // Remove duplicates by ID
-    const uniqueMatches = allMatches.filter((match, index, self) =>
-        index === self.findIndex(m => m.id === match.id)
-    );
-    
-    console.log(`🎯 Total unique matches: ${uniqueMatches.length}`);
-    
-    return uniqueMatches;
-}
-
-// ============================================================
-// MATCH PROCESSING FUNCTIONS
-// ============================================================
-
-function getMatchStatus(start, end){
-    const now = new Date();
-    if(now >= new Date(end)) return "finished";
-    if(now >= new Date(start)) return "live";
-    return "countdown";
-}
-
-function getMatchDay(time){
-    const userDate = getDateInUserTimezone(time);
-    const now = new Date();
-    const nowInUserTz = getDateInUserTimezone(now.toISOString());
-    
-    userDate.setHours(0,0,0,0);
-    nowInUserTz.setHours(0,0,0,0);
-    
-    const diff = (userDate - nowInUserTz) / 86400000;
-    if(diff === -1) return "yesterday";
-    if(diff === 0) return "today";
-    if(diff === 1) return "tomorrow";
-    return null;
-}
-
-function getCountdownDisplay(startTime){
-    const now = new Date();
-    const start = new Date(startTime);
-    const diff = start - now;
-    
-    if(diff <= 0) return null;
-    
-    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
-    const hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-    const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
-    const seconds = Math.floor((diff % (1000 * 60)) / 1000);
-    
-    if(days > 0) return `${days}d ${hours}h ${minutes}m`;
-    if(hours > 0) return `${String(hours).padStart(2,'0')}:${String(minutes).padStart(2,'0')}:${String(seconds).padStart(2,'0')}`;
-    return `${String(minutes).padStart(2,'0')}:${String(seconds).padStart(2,'0')}`;
-}
-
-function createCard(m){
-    const st = getMatchStatus(m.startTime, m.endTime);
-    const countdown = st === 'countdown' ? getCountdownDisplay(m.startTime) : null;
-    const statusText = st === 'live' ? 'LIVE' : st === 'finished' ? 'FT' : countdown;
-    
-    const sourceClass = m.source === 'api' ? 'api-match' : 'custom-match';
-    
-    // Show score only for API matches and if match is live or finished
-    const showScore = m.showScore && (st === 'live' || st === 'finished');
-    
-    // Convert time to user timezone
-    const localTime = convertToUserTimezone(m.startTime);
-
-    return `
-    <div class="match-card ${sourceClass}" data-id="${m.id}" data-url="${m.url}" data-status="${st}" data-end="${m.endTime}" data-start="${m.startTime}" data-source="${m.source}">
-        <div class="teams">
-            <div class="team">
-              <img class="team-logo" src="${m.team1Logo}" alt="${m.team1Name}" onerror="this.src='https://via.placeholder.com/60'">
-              <div class="team-name">${m.team1Name}</div>
-              ${showScore ? `<div class="team-score">${m.homeScore}</div>` : ''}
-            </div>
-
-            <div class="center-status">
-              <div class="time-info">
-                ${localTime}
-              </div>
-              <div class="status-badge ${st}">
-                  ${statusText}
-              </div>
-            </div>
-
-            <div class="team">
-              <img class="team-logo" src="${m.team2Logo}" alt="${m.team2Name}" onerror="this.src='https://via.placeholder.com/60'">
-              <div class="team-name">${m.team2Name}</div>
-              ${showScore ? `<div class="team-score">${m.awayScore}</div>` : ''}
-            </div>
-        </div>
-        
-        <div class="match-info-footer">
-            <ul>
-                <li><span>${m.round}</span></li>
-                <li><span><b>${m.platform}</b></span></li>
-                <li><span class="lgnm">${m.league}</span></li>
-            </ul>
-        </div>
-    </div>`;
-}
-
-async function renderMatches(){
-    const matchesArray = await getAllMatches();
-    
-    const grouped = {yesterday:[], today:[], tomorrow:[]};
-
-    matchesArray.forEach(m => {
-        const d = getMatchDay(m.startTime);
-        if(d) grouped[d].push(m);
-    });
-
-    ["yesterday","today","tomorrow"].forEach(day => {
-        const el = document.getElementById(day + "-matches");
-        el.innerHTML = grouped[day].length
-          ? grouped[day].map(createCard).join("")
-          : `<div class="empty-state">No matches scheduled</div>`;
-    });
-    
-    attachClickHandlers();
-}
-
-function attachClickHandlers(){
-    document.querySelectorAll('.match-card').forEach(card => {
-        card.onclick = function(){
-            const url = this.dataset.url;
-            const status = this.dataset.status;
-            const endTime = this.dataset.end;
-            const now = new Date();
-            const end = new Date(endTime);
-            
-            if(now >= end || status === 'finished'){
-                window.location.href = 'https://t.me/hellosportslive/9';
-            } else if(url && url !== '#'){
-                window.location.href = url;
-            }
-        };
-    });
-}
-
-// Tab switching
-document.querySelectorAll(".day-tab").forEach(tab => {
-    tab.onclick = () => {
-        document.querySelectorAll(".day-tab").forEach(t => t.classList.remove("active"));
-        tab.classList.add("active");
-        document.querySelectorAll("[id$='-matches']").forEach(d => d.style.display = "none");
-        document.getElementById(tab.dataset.day + "-matches").style.display = "block";
-    };
-});
-
-// Update countdown timers
-function updateCountdowns(){
-    document.querySelectorAll('.match-card[data-status="countdown"]').forEach(card => {
-        const startTime = card.dataset.start;
-        const countdown = getCountdownDisplay(startTime);
-        const badge = card.querySelector('.status-badge');
-        
-        if(countdown){
-            badge.textContent = countdown;
-        } else {
-            renderMatches();
-        }
-    });
-}
-
-// Initialize
-renderMatches();
-setInterval(updateCountdowns, 1000);
-setInterval(renderMatches, 120000); // Re-fetch every 2 minutes
-
-document.documentElement.style.scrollBehavior = 'smooth';
-
-// Initialize runner.js if available
-if(typeof window.initRunner === 'function'){
-    window.initRunner();
-}
-</script>]]></b:widget-setting>
+</div>]]></b:widget-setting>
           </b:widget-settings>
           <b:includable id='main'>
       <b:include name='html-content'/>
@@ -4532,13 +4045,13 @@ if(typeof window.initRunner === 'function'){
         <b:section class='litespot-pro-about-section' id='litespot-pro-about-section' maxwidgets='2' name='About Section' showaddelement='yes'>
           <b:widget id='Image101' locked='true' title='About Us' type='Image' visible='true'>
             <b:widget-settings>
-              <b:widget-setting name='displayUrl'>https://4.bp.blogspot.com/-k85R41ocAFo/YEgCvleTEZI/AAAAAAAADUA/F6bOah03kT0C01PFJpJC4Tf14FuHNv96wCK4BGAYYCw/s1600/logo.png</b:widget-setting>
-              <b:widget-setting name='displayHeight'>60</b:widget-setting>
+              <b:widget-setting name='displayUrl'>https://blogger.googleusercontent.com/img/a/AVvXsEgsM3CCzk66hD6mhs_kOKtx60AuNEcxb5j_g-p4GRy8VHVGquc16zpwgQ5EfqT3-SbzgjB5euMHfstSfjWP9fKsVaqYRbcyuWnvbefESq_Ynt30v6hVSLuZTbYDOussw89-CqKN43aCn-pwxfBZ1lfG1JOqVwJ6cR0G8lxpmkOx-M2E-Wdkpraqw_ZG8E-9=s1600</b:widget-setting>
+              <b:widget-setting name='displayHeight'>468</b:widget-setting>
               <b:widget-setting name='sectionWidth'>150</b:widget-setting>
               <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
-              <b:widget-setting name='displayWidth'>221</b:widget-setting>
+              <b:widget-setting name='displayWidth'>1600</b:widget-setting>
               <b:widget-setting name='link'>/</b:widget-setting>
-              <b:widget-setting name='caption'><![CDATA[Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.]]></b:widget-setting>
+              <b:widget-setting name='caption'>HelloSports &#8211; Watch live sports, match schedules, scores, and streaming links all in one place. Never miss the game!</b:widget-setting>
             </b:widget-settings>
             <b:includable id='main' var='this'>
       <b:include name='widget-title'/>
@@ -4550,17 +4063,11 @@ if(typeof window.initRunner === 'function'){
           </b:widget>
           <b:widget id='LinkList103' locked='true' title='Follow Us' type='LinkList' visible='true'>
             <b:widget-settings>
-              <b:widget-setting name='link-3'>https://www.hellosports.in/</b:widget-setting>
               <b:widget-setting name='sorting'>NONE</b:widget-setting>
-              <b:widget-setting name='link-4'>https://www.hellosports.in/p/rss-feed-url-generator-free-rss-feed.html</b:widget-setting>
-              <b:widget-setting name='text-1'>twitter</b:widget-setting>
-              <b:widget-setting name='link-1'>https://twitter.com/imamuddinweb</b:widget-setting>
-              <b:widget-setting name='text-0'>facebook</b:widget-setting>
-              <b:widget-setting name='link-2'>https://www.youtube.com/@imamuddinwp</b:widget-setting>
-              <b:widget-setting name='text-3'>instagram</b:widget-setting>
-              <b:widget-setting name='link-0'>https://www.facebook.com/imamuddinwpbd</b:widget-setting>
-              <b:widget-setting name='text-2'>youtube</b:widget-setting>
-              <b:widget-setting name='text-4'>rss</b:widget-setting>
+              <b:widget-setting name='text-1'>rss</b:widget-setting>
+              <b:widget-setting name='link-1'>https://www.hellosports.live/p/rss-feed-url-generator-free-rss-feed.html</b:widget-setting>
+              <b:widget-setting name='text-0'>instagram</b:widget-setting>
+              <b:widget-setting name='link-0'>https://www.hellosports.live/</b:widget-setting>
             </b:widget-settings>
             <b:includable id='main' var='this'>
       <b:include name='widget-title'/>
@@ -4576,9 +4083,9 @@ if(typeof window.initRunner === 'function'){
     <div class='footerbar flex-center'>
       <div class='container row-x1'>
         <b:section class='footer-copyright' id='footer-copyright' maxwidgets='1' name='Footer Copyright' showaddelement='yes'>
-          <b:widget id='Text101' locked='true' title='' type='Text' version='2' visible='true'>
+          <b:widget id='Text101' locked='true' title='' type='Text' version='2' visible='false'>
             <b:widget-settings>
-              <b:widget-setting name='content'><![CDATA[Design by - <a href="https://www.templateify.com/" title='LiteSpot' target="_blank">Templateify</a>]]></b:widget-setting>
+              <b:widget-setting name='content'><![CDATA[Design by - <a href="https://www.hellosports.live/" title='HelloSports' target="_blank">HelloSports</a>]]></b:widget-setting>
             </b:widget-settings>
             <b:includable id='main'>
               <b:include name='text-content'/>
@@ -4588,13 +4095,11 @@ if(typeof window.initRunner === 'function'){
         <b:section class='footer-menu' id='footer-menu' maxwidgets='1' name='Footer Menu' showaddelement='yes'>
           <b:widget id='LinkList104' locked='true' title='Link List' type='LinkList' visible='true'>
             <b:widget-settings>
-              <b:widget-setting name='link-3'>https://www.hellosports.in/</b:widget-setting>
               <b:widget-setting name='sorting'>NONE</b:widget-setting>
               <b:widget-setting name='text-1'>About</b:widget-setting>
-              <b:widget-setting name='link-1'>https://www.hellosports.in/p/about-me-who-am-i.html</b:widget-setting>
+              <b:widget-setting name='link-1'>/p/about-us.html</b:widget-setting>
               <b:widget-setting name='text-0'>Home</b:widget-setting>
-              <b:widget-setting name='link-2'>https://www.hellosports.in/p/contact.html</b:widget-setting>
-              <b:widget-setting name='text-3'>RTL Version</b:widget-setting>
+              <b:widget-setting name='link-2'>/p/contact-us.html</b:widget-setting>
               <b:widget-setting name='link-0'>/</b:widget-setting>
               <b:widget-setting name='text-2'>Contact Us</b:widget-setting>
             </b:widget-settings>
