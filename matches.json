@@ -615,7 +615,7 @@
             "dayCategory": "tomorrow",
             "venue": "Atalanta BC (Home)",
             "lastUpdated": "2025-12-13T01:32:01Z",
-            "referee": null,
+            "referee": "Davide Di Marco",
             "season": 15,
             "group": null,
             "minutesUntilStart": 120,
@@ -2112,7 +2112,7 @@
                 "dayCategory": "tomorrow",
                 "venue": "Atalanta BC (Home)",
                 "lastUpdated": "2025-12-13T01:32:01Z",
-                "referee": null,
+                "referee": "Davide Di Marco",
                 "season": 15,
                 "group": null,
                 "minutesUntilStart": 120,
@@ -3002,21 +3002,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 56,
-        "current_time_local": "2025-12-13 23:15:03"
+        "from_cache": false,
+        "api_call_time_ms": 4061.26,
+        "current_time_local": "2025-12-13 23:15:07",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-13 17:44:07",
-        "api_call_time": 3991.18
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-13 17:45:03",
-    "generated_at": "2025-12-13 17:45:03 UTC",
+    "last_updated": "2025-12-13 17:45:07",
+    "generated_at": "2025-12-13 17:45:07 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 112845,
+        "file_size": 113033,
         "file_path": "matches.json"
     }
 }
