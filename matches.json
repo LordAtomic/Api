@@ -1324,14 +1324,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "0m",
+            "timeUntilStart": null,
             "dayCategory": "today",
             "venue": "Bologna FC 1909 (Home)",
             "lastUpdated": "2025-12-08T01:32:03Z",
             "referee": "Davide Massa",
             "season": 15,
             "group": null,
-            "minutesUntilStart": 1,
+            "minutesUntilStart": null,
             "isRecent": false
         },
         {
@@ -1355,14 +1355,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "0m",
+            "timeUntilStart": null,
             "dayCategory": "today",
             "venue": "Olympique de Marseille (Home)",
             "lastUpdated": "2025-12-14T01:32:00Z",
             "referee": "Fran\u00e7ois Letexier",
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1,
+            "minutesUntilStart": null,
             "isRecent": false
         },
         {
@@ -1386,14 +1386,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "15m",
+            "timeUntilStart": "14m",
             "dayCategory": "today",
             "venue": "Deportivo Alav\u00e9s (Home)",
             "lastUpdated": "2025-12-14T00:20:50Z",
             "referee": "V\u00edctor Garc\u00eda Verdura",
             "season": 16,
             "group": null,
-            "minutesUntilStart": 16,
+            "minutesUntilStart": 15,
             "isRecent": false
         },
         {
@@ -1417,14 +1417,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "Tomorrow",
+            "timeUntilStart": "23h 59m",
             "dayCategory": "tomorrow",
             "venue": "AS Roma (Home)",
             "lastUpdated": "2025-12-09T01:32:02Z",
             "referee": null,
             "season": 15,
             "group": null,
-            "minutesUntilStart": 1441,
+            "minutesUntilStart": 1440,
             "isRecent": false
         },
         {
@@ -1455,7 +1455,7 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1456,
+            "minutesUntilStart": 1455,
             "isRecent": false
         },
         {
@@ -1486,7 +1486,7 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1456,
+            "minutesUntilStart": 1455,
             "isRecent": false
         }
     ],
@@ -1547,14 +1547,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "0m",
+                "timeUntilStart": null,
                 "dayCategory": "today",
                 "venue": "Bologna FC 1909 (Home)",
                 "lastUpdated": "2025-12-08T01:32:03Z",
                 "referee": "Davide Massa",
                 "season": 15,
                 "group": null,
-                "minutesUntilStart": 1,
+                "minutesUntilStart": null,
                 "isRecent": false
             },
             "43": {
@@ -1578,14 +1578,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "0m",
+                "timeUntilStart": null,
                 "dayCategory": "today",
                 "venue": "Olympique de Marseille (Home)",
                 "lastUpdated": "2025-12-14T01:32:00Z",
                 "referee": "Fran\u00e7ois Letexier",
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1,
+                "minutesUntilStart": null,
                 "isRecent": false
             },
             "44": {
@@ -1609,14 +1609,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "15m",
+                "timeUntilStart": "14m",
                 "dayCategory": "today",
                 "venue": "Deportivo Alav\u00e9s (Home)",
                 "lastUpdated": "2025-12-14T00:20:50Z",
                 "referee": "V\u00edctor Garc\u00eda Verdura",
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 16,
+                "minutesUntilStart": 15,
                 "isRecent": false
             }
         },
@@ -1642,14 +1642,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "Tomorrow",
+                "timeUntilStart": "23h 59m",
                 "dayCategory": "tomorrow",
                 "venue": "AS Roma (Home)",
                 "lastUpdated": "2025-12-09T01:32:02Z",
                 "referee": null,
                 "season": 15,
                 "group": null,
-                "minutesUntilStart": 1441,
+                "minutesUntilStart": 1440,
                 "isRecent": false
             },
             "46": {
@@ -1680,7 +1680,7 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1456,
+                "minutesUntilStart": 1455,
                 "isRecent": false
             },
             "47": {
@@ -1711,7 +1711,7 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1456,
+                "minutesUntilStart": 1455,
                 "isRecent": false
             }
         },
@@ -3004,29 +3004,21 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competitions_fetched": [
-            "PL",
-            "PD",
-            "BL1",
-            "SA",
-            "FL1"
-        ],
-        "competition_name": "All Major Leagues",
+        "competition_name": "Unknown Competition",
         "timezone": "Asia\/Kolkata",
-        "from_cache": false,
-        "api_call_time_ms": 6959.73,
-        "current_time_local": "2025-12-15 01:14:10",
-        "api_errors": []
+        "from_cache": true,
+        "cache_age_seconds": 57,
+        "current_time_local": "2025-12-15 01:15:04"
     },
     "cache_info": {
-        "cache_written": true,
-        "cache_file": "matches_cache.json"
+        "cached_at": "2025-12-14 19:44:07",
+        "api_call_time": 4282.61
     },
-    "last_updated": "2025-12-14 19:44:10",
-    "generated_at": "2025-12-14 19:44:10 UTC",
+    "last_updated": "2025-12-14 19:45:04",
+    "generated_at": "2025-12-14 19:45:04 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113831,
+        "file_size": 113679,
         "file_path": "matches.json"
     }
 }
