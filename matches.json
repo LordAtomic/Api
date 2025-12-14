@@ -68,7 +68,7 @@
             "home": "Auxerre",
             "away": "Lille",
             "homeScore": 0,
-            "awayScore": 0,
+            "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/519.png",
             "awayLogo": "https:\/\/crests.football-data.org\/521.png",
             "status": "IN_PLAY",
@@ -87,7 +87,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "AJ Auxerre (Home)",
-            "lastUpdated": "2025-12-14T16:20:05Z",
+            "lastUpdated": "2025-12-14T16:29:24Z",
             "referee": "J\u00e9r\u00e9mie Pignard",
             "season": 16,
             "group": null,
@@ -1297,7 +1297,7 @@
             "dayCategory": "tomorrow",
             "venue": "SV Werder Bremen (Home)",
             "lastUpdated": "2025-12-14T01:32:00Z",
-            "referee": null,
+            "referee": "Robert Hartmann",
             "season": 14,
             "group": null,
             "minutesUntilStart": 120,
@@ -1559,7 +1559,7 @@
                 "home": "Auxerre",
                 "away": "Lille",
                 "homeScore": 0,
-                "awayScore": 0,
+                "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/519.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/521.png",
                 "status": "IN_PLAY",
@@ -1578,7 +1578,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "AJ Auxerre (Home)",
-                "lastUpdated": "2025-12-14T16:20:05Z",
+                "lastUpdated": "2025-12-14T16:29:24Z",
                 "referee": "J\u00e9r\u00e9mie Pignard",
                 "season": 16,
                 "group": null,
@@ -2205,7 +2205,7 @@
                 "dayCategory": "tomorrow",
                 "venue": "SV Werder Bremen (Home)",
                 "lastUpdated": "2025-12-14T01:32:00Z",
-                "referee": null,
+                "referee": "Robert Hartmann",
                 "season": 14,
                 "group": null,
                 "minutesUntilStart": 120,
@@ -3003,21 +3003,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 58,
-        "current_time_local": "2025-12-14 22:00:04"
+        "from_cache": false,
+        "api_call_time_ms": 8338.68,
+        "current_time_local": "2025-12-14 22:00:12",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-14 16:29:06",
-        "api_call_time": 3321.04
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-14 16:30:04",
-    "generated_at": "2025-12-14 16:30:04 UTC",
+    "last_updated": "2025-12-14 16:30:12",
+    "generated_at": "2025-12-14 16:30:12 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113618,
+        "file_size": 113806,
         "file_path": "matches.json"
     }
 }
