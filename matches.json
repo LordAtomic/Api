@@ -67,7 +67,7 @@
             "id": 544361,
             "home": "Alav\u00e9s",
             "away": "Real Madrid",
-            "homeScore": 0,
+            "homeScore": 1,
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/263.png",
             "awayLogo": "https:\/\/crests.football-data.org\/86.png",
@@ -87,7 +87,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Deportivo Alav\u00e9s (Home)",
-            "lastUpdated": "2025-12-14T21:09:15Z",
+            "lastUpdated": "2025-12-14T21:33:55Z",
             "referee": "V\u00edctor Garc\u00eda Verdura",
             "season": 16,
             "group": null,
@@ -1417,14 +1417,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "22h 11m",
+            "timeUntilStart": "22h 10m",
             "dayCategory": "tomorrow",
             "venue": "AS Roma (Home)",
             "lastUpdated": "2025-12-09T01:32:02Z",
             "referee": null,
             "season": 15,
             "group": null,
-            "minutesUntilStart": 1332,
+            "minutesUntilStart": 1331,
             "isRecent": false
         },
         {
@@ -1448,14 +1448,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "22h 26m",
+            "timeUntilStart": "22h 25m",
             "dayCategory": "tomorrow",
             "venue": "Manchester United FC (Home)",
             "lastUpdated": "2025-12-14T01:32:00Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1347,
+            "minutesUntilStart": 1346,
             "isRecent": false
         },
         {
@@ -1479,14 +1479,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "22h 26m",
+            "timeUntilStart": "22h 25m",
             "dayCategory": "tomorrow",
             "venue": "Rayo Vallecano de Madrid (Home)",
             "lastUpdated": "2025-12-09T01:32:03Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1347,
+            "minutesUntilStart": 1346,
             "isRecent": false
         }
     ],
@@ -1558,7 +1558,7 @@
                 "id": 544361,
                 "home": "Alav\u00e9s",
                 "away": "Real Madrid",
-                "homeScore": 0,
+                "homeScore": 1,
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/263.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/86.png",
@@ -1578,7 +1578,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Deportivo Alav\u00e9s (Home)",
-                "lastUpdated": "2025-12-14T21:09:15Z",
+                "lastUpdated": "2025-12-14T21:33:55Z",
                 "referee": "V\u00edctor Garc\u00eda Verdura",
                 "season": 16,
                 "group": null,
@@ -1642,14 +1642,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "22h 11m",
+                "timeUntilStart": "22h 10m",
                 "dayCategory": "tomorrow",
                 "venue": "AS Roma (Home)",
                 "lastUpdated": "2025-12-09T01:32:02Z",
                 "referee": null,
                 "season": 15,
                 "group": null,
-                "minutesUntilStart": 1332,
+                "minutesUntilStart": 1331,
                 "isRecent": false
             },
             "46": {
@@ -1673,14 +1673,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "22h 26m",
+                "timeUntilStart": "22h 25m",
                 "dayCategory": "tomorrow",
                 "venue": "Manchester United FC (Home)",
                 "lastUpdated": "2025-12-14T01:32:00Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1347,
+                "minutesUntilStart": 1346,
                 "isRecent": false
             },
             "47": {
@@ -1704,14 +1704,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "22h 26m",
+                "timeUntilStart": "22h 25m",
                 "dayCategory": "tomorrow",
                 "venue": "Rayo Vallecano de Madrid (Home)",
                 "lastUpdated": "2025-12-09T01:32:03Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1347,
+                "minutesUntilStart": 1346,
                 "isRecent": false
             }
         },
@@ -3004,21 +3004,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 55,
-        "current_time_local": "2025-12-15 03:03:03"
+        "from_cache": false,
+        "api_call_time_ms": 3938.51,
+        "current_time_local": "2025-12-15 03:04:08",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-14 21:32:08",
-        "api_call_time": 4810.98
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-14 21:33:03",
-    "generated_at": "2025-12-14 21:33:03 UTC",
+    "last_updated": "2025-12-14 21:34:08",
+    "generated_at": "2025-12-14 21:34:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113711,
+        "file_size": 113873,
         "file_path": "matches.json"
     }
 }
