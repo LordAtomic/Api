@@ -133,7 +133,7 @@
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/99.png",
             "awayLogo": "https:\/\/crests.football-data.org\/450.png",
-            "status": "PAUSED",
+            "status": "IN_PLAY",
             "utcDate": "2025-12-14T14:00:00Z",
             "localDate": "2025-12-14 19:30:00",
             "localTime": "19:30",
@@ -149,7 +149,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "ACF Fiorentina (Home)",
-            "lastUpdated": "2025-12-14T14:57:28Z",
+            "lastUpdated": "2025-12-14T15:17:02Z",
             "referee": "Andrea Colombo",
             "season": 15,
             "group": null,
@@ -180,7 +180,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Udinese Calcio (Home)",
-            "lastUpdated": "2025-12-14T15:15:07Z",
+            "lastUpdated": "2025-12-14T15:17:02Z",
             "referee": "Simone Sozza",
             "season": 15,
             "group": null,
@@ -1624,7 +1624,7 @@
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/99.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/450.png",
-                "status": "PAUSED",
+                "status": "IN_PLAY",
                 "utcDate": "2025-12-14T14:00:00Z",
                 "localDate": "2025-12-14 19:30:00",
                 "localTime": "19:30",
@@ -1640,7 +1640,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "ACF Fiorentina (Home)",
-                "lastUpdated": "2025-12-14T14:57:28Z",
+                "lastUpdated": "2025-12-14T15:17:02Z",
                 "referee": "Andrea Colombo",
                 "season": 15,
                 "group": null,
@@ -1671,7 +1671,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Udinese Calcio (Home)",
-                "lastUpdated": "2025-12-14T15:15:07Z",
+                "lastUpdated": "2025-12-14T15:17:02Z",
                 "referee": "Simone Sozza",
                 "season": 15,
                 "group": null,
@@ -3003,21 +3003,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 56,
-        "current_time_local": "2025-12-14 20:47:03"
+        "from_cache": false,
+        "api_call_time_ms": 4122.2,
+        "current_time_local": "2025-12-14 20:47:07",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-14 15:16:07",
-        "api_call_time": 4215.66
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-14 15:17:03",
-    "generated_at": "2025-12-14 15:17:03 UTC",
+    "last_updated": "2025-12-14 15:17:07",
+    "generated_at": "2025-12-14 15:17:07 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113460,
+        "file_size": 113623,
         "file_path": "matches.json"
     }
 }
