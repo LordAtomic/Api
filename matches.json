@@ -87,7 +87,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Olympique de Marseille (Home)",
-            "lastUpdated": "2025-12-14T19:50:10Z",
+            "lastUpdated": "2025-12-14T19:50:09Z",
             "referee": "Fran\u00e7ois Letexier",
             "season": 16,
             "group": null,
@@ -1578,7 +1578,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Olympique de Marseille (Home)",
-                "lastUpdated": "2025-12-14T19:50:10Z",
+                "lastUpdated": "2025-12-14T19:50:09Z",
                 "referee": "Fran\u00e7ois Letexier",
                 "season": 16,
                 "group": null,
@@ -3003,21 +3003,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 54,
-        "current_time_local": "2025-12-15 01:45:03"
+        "from_cache": false,
+        "api_call_time_ms": 5531.05,
+        "current_time_local": "2025-12-15 01:45:08",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-14 20:14:09",
-        "api_call_time": 5807.21
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-14 20:15:03",
-    "generated_at": "2025-12-14 20:15:03 UTC",
+    "last_updated": "2025-12-14 20:15:08",
+    "generated_at": "2025-12-14 20:15:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113674,
+        "file_size": 113836,
         "file_path": "matches.json"
     }
 }
