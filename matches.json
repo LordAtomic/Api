@@ -5,7 +5,7 @@
             "id": 544370,
             "home": "Sevilla FC",
             "away": "Real Oviedo",
-            "homeScore": 3,
+            "homeScore": 4,
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/559.png",
             "awayLogo": "https:\/\/crests.football-data.org\/1048.png",
@@ -25,7 +25,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Sevilla FC (Home)",
-            "lastUpdated": "2025-12-14T14:22:46Z",
+            "lastUpdated": "2025-12-14T14:59:54Z",
             "referee": "Isidro D\u00edaz de Mera",
             "season": 16,
             "group": null,
@@ -1235,7 +1235,7 @@
             "dayCategory": "today",
             "venue": "Genoa CFC (Home)",
             "lastUpdated": "2025-12-13T01:32:01Z",
-            "referee": null,
+            "referee": "Daniele Doveri",
             "season": 15,
             "group": null,
             "minutesUntilStart": 120,
@@ -1496,7 +1496,7 @@
                 "id": 544370,
                 "home": "Sevilla FC",
                 "away": "Real Oviedo",
-                "homeScore": 3,
+                "homeScore": 4,
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/559.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/1048.png",
@@ -1516,7 +1516,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Sevilla FC (Home)",
-                "lastUpdated": "2025-12-14T14:22:46Z",
+                "lastUpdated": "2025-12-14T14:59:54Z",
                 "referee": "Isidro D\u00edaz de Mera",
                 "season": 16,
                 "group": null,
@@ -2141,7 +2141,7 @@
                 "dayCategory": "today",
                 "venue": "Genoa CFC (Home)",
                 "lastUpdated": "2025-12-13T01:32:01Z",
-                "referee": null,
+                "referee": "Daniele Doveri",
                 "season": 15,
                 "group": null,
                 "minutesUntilStart": 120,
@@ -3003,21 +3003,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 56,
-        "current_time_local": "2025-12-14 20:30:04"
+        "from_cache": false,
+        "api_call_time_ms": 8456.81,
+        "current_time_local": "2025-12-14 20:30:13",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-14 14:59:08",
-        "api_call_time": 4688.42
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-14 15:00:04",
-    "generated_at": "2025-12-14 15:00:04 UTC",
+    "last_updated": "2025-12-14 15:00:13",
+    "generated_at": "2025-12-14 15:00:13 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113415,
+        "file_size": 113601,
         "file_path": "matches.json"
     }
 }
