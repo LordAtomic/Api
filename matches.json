@@ -6,7 +6,7 @@
             "home": "Bremen",
             "away": "Stuttgart",
             "homeScore": 0,
-            "awayScore": 2,
+            "awayScore": 3,
             "homeLogo": "https:\/\/crests.football-data.org\/12.png",
             "awayLogo": "https:\/\/crests.football-data.org\/10.png",
             "status": "IN_PLAY",
@@ -25,7 +25,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "SV Werder Bremen (Home)",
-            "lastUpdated": "2025-12-14T19:39:44Z",
+            "lastUpdated": "2025-12-14T20:13:04Z",
             "referee": "Robert Hartmann",
             "season": 14,
             "group": null,
@@ -87,7 +87,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Olympique de Marseille (Home)",
-            "lastUpdated": "2025-12-14T19:50:10Z",
+            "lastUpdated": "2025-12-14T19:50:09Z",
             "referee": "Fran\u00e7ois Letexier",
             "season": 16,
             "group": null,
@@ -1497,7 +1497,7 @@
                 "home": "Bremen",
                 "away": "Stuttgart",
                 "homeScore": 0,
-                "awayScore": 2,
+                "awayScore": 3,
                 "homeLogo": "https:\/\/crests.football-data.org\/12.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/10.png",
                 "status": "IN_PLAY",
@@ -1516,7 +1516,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "SV Werder Bremen (Home)",
-                "lastUpdated": "2025-12-14T19:39:44Z",
+                "lastUpdated": "2025-12-14T20:13:04Z",
                 "referee": "Robert Hartmann",
                 "season": 14,
                 "group": null,
@@ -1578,7 +1578,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Olympique de Marseille (Home)",
-                "lastUpdated": "2025-12-14T19:50:10Z",
+                "lastUpdated": "2025-12-14T19:50:09Z",
                 "referee": "Fran\u00e7ois Letexier",
                 "season": 16,
                 "group": null,
@@ -3003,21 +3003,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 53,
-        "current_time_local": "2025-12-15 01:43:03"
+        "from_cache": false,
+        "api_call_time_ms": 5020.28,
+        "current_time_local": "2025-12-15 01:43:08",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-14 20:12:10",
-        "api_call_time": 7886.05
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-14 20:13:03",
-    "generated_at": "2025-12-14 20:13:03 UTC",
+    "last_updated": "2025-12-14 20:13:08",
+    "generated_at": "2025-12-14 20:13:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113674,
+        "file_size": 113836,
         "file_path": "matches.json"
     }
 }
