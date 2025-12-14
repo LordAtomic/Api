@@ -71,7 +71,7 @@
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/546.png",
             "awayLogo": "https:\/\/crests.football-data.org\/522.png",
-            "status": "PAUSED",
+            "status": "IN_PLAY",
             "utcDate": "2025-12-14T16:15:00Z",
             "localDate": "2025-12-14 21:45:00",
             "localTime": "21:45",
@@ -87,7 +87,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Racing Club de Lens (Home)",
-            "lastUpdated": "2025-12-14T17:07:25Z",
+            "lastUpdated": "2025-12-14T17:24:44Z",
             "referee": "Willy Delajod",
             "season": 16,
             "group": null,
@@ -102,7 +102,7 @@
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/402.png",
             "awayLogo": "https:\/\/crests.football-data.org\/341.png",
-            "status": "IN_PLAY",
+            "status": "PAUSED",
             "utcDate": "2025-12-14T16:30:00Z",
             "localDate": "2025-12-14 22:00:00",
             "localTime": "22:00",
@@ -118,7 +118,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Brentford FC (Home)",
-            "lastUpdated": "2025-12-14T16:35:02Z",
+            "lastUpdated": "2025-12-14T17:25:25Z",
             "referee": "John Brooks",
             "season": 16,
             "group": null,
@@ -133,7 +133,7 @@
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/5.png",
             "awayLogo": "https:\/\/crests.football-data.org\/15.png",
-            "status": "IN_PLAY",
+            "status": "PAUSED",
             "utcDate": "2025-12-14T16:30:00Z",
             "localDate": "2025-12-14 22:00:00",
             "localTime": "22:00",
@@ -149,7 +149,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "FC Bayern M\u00fcnchen (Home)",
-            "lastUpdated": "2025-12-14T17:21:25Z",
+            "lastUpdated": "2025-12-14T17:25:25Z",
             "referee": "Robin Braun",
             "season": 14,
             "group": null,
@@ -1293,14 +1293,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 4m",
+            "timeUntilStart": "1h 3m",
             "dayCategory": "tomorrow",
             "venue": "SV Werder Bremen (Home)",
             "lastUpdated": "2025-12-14T01:32:00Z",
             "referee": "Robert Hartmann",
             "season": 14,
             "group": null,
-            "minutesUntilStart": 65,
+            "minutesUntilStart": 64,
             "isRecent": false
         },
         {
@@ -1324,14 +1324,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 19m",
+            "timeUntilStart": "2h 18m",
             "dayCategory": "tomorrow",
             "venue": "Bologna FC 1909 (Home)",
             "lastUpdated": "2025-12-08T01:32:03Z",
             "referee": null,
             "season": 15,
             "group": null,
-            "minutesUntilStart": 140,
+            "minutesUntilStart": 139,
             "isRecent": false
         },
         {
@@ -1355,14 +1355,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 19m",
+            "timeUntilStart": "2h 18m",
             "dayCategory": "tomorrow",
             "venue": "Olympique de Marseille (Home)",
             "lastUpdated": "2025-12-14T01:32:00Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 140,
+            "minutesUntilStart": 139,
             "isRecent": false
         },
         {
@@ -1386,14 +1386,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 34m",
+            "timeUntilStart": "2h 33m",
             "dayCategory": "tomorrow",
             "venue": "Deportivo Alav\u00e9s (Home)",
             "lastUpdated": "2025-12-14T00:20:50Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 155,
+            "minutesUntilStart": 154,
             "isRecent": false
         },
         {
@@ -1424,7 +1424,7 @@
             "referee": null,
             "season": 15,
             "group": null,
-            "minutesUntilStart": 1580,
+            "minutesUntilStart": 1579,
             "isRecent": false
         },
         {
@@ -1455,7 +1455,7 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1595,
+            "minutesUntilStart": 1594,
             "isRecent": false
         },
         {
@@ -1486,7 +1486,7 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1595,
+            "minutesUntilStart": 1594,
             "isRecent": false
         }
     ],
@@ -1562,7 +1562,7 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/546.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/522.png",
-                "status": "PAUSED",
+                "status": "IN_PLAY",
                 "utcDate": "2025-12-14T16:15:00Z",
                 "localDate": "2025-12-14 21:45:00",
                 "localTime": "21:45",
@@ -1578,7 +1578,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Racing Club de Lens (Home)",
-                "lastUpdated": "2025-12-14T17:07:25Z",
+                "lastUpdated": "2025-12-14T17:24:44Z",
                 "referee": "Willy Delajod",
                 "season": 16,
                 "group": null,
@@ -1593,7 +1593,7 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/402.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/341.png",
-                "status": "IN_PLAY",
+                "status": "PAUSED",
                 "utcDate": "2025-12-14T16:30:00Z",
                 "localDate": "2025-12-14 22:00:00",
                 "localTime": "22:00",
@@ -1609,7 +1609,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Brentford FC (Home)",
-                "lastUpdated": "2025-12-14T16:35:02Z",
+                "lastUpdated": "2025-12-14T17:25:25Z",
                 "referee": "John Brooks",
                 "season": 16,
                 "group": null,
@@ -1624,7 +1624,7 @@
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/5.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/15.png",
-                "status": "IN_PLAY",
+                "status": "PAUSED",
                 "utcDate": "2025-12-14T16:30:00Z",
                 "localDate": "2025-12-14 22:00:00",
                 "localTime": "22:00",
@@ -1640,7 +1640,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "FC Bayern M\u00fcnchen (Home)",
-                "lastUpdated": "2025-12-14T17:21:25Z",
+                "lastUpdated": "2025-12-14T17:25:25Z",
                 "referee": "Robin Braun",
                 "season": 14,
                 "group": null,
@@ -2201,14 +2201,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 4m",
+                "timeUntilStart": "1h 3m",
                 "dayCategory": "tomorrow",
                 "venue": "SV Werder Bremen (Home)",
                 "lastUpdated": "2025-12-14T01:32:00Z",
                 "referee": "Robert Hartmann",
                 "season": 14,
                 "group": null,
-                "minutesUntilStart": 65,
+                "minutesUntilStart": 64,
                 "isRecent": false
             },
             "42": {
@@ -2232,14 +2232,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 19m",
+                "timeUntilStart": "2h 18m",
                 "dayCategory": "tomorrow",
                 "venue": "Bologna FC 1909 (Home)",
                 "lastUpdated": "2025-12-08T01:32:03Z",
                 "referee": null,
                 "season": 15,
                 "group": null,
-                "minutesUntilStart": 140,
+                "minutesUntilStart": 139,
                 "isRecent": false
             },
             "43": {
@@ -2263,14 +2263,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 19m",
+                "timeUntilStart": "2h 18m",
                 "dayCategory": "tomorrow",
                 "venue": "Olympique de Marseille (Home)",
                 "lastUpdated": "2025-12-14T01:32:00Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 140,
+                "minutesUntilStart": 139,
                 "isRecent": false
             },
             "44": {
@@ -2294,14 +2294,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 34m",
+                "timeUntilStart": "2h 33m",
                 "dayCategory": "tomorrow",
                 "venue": "Deportivo Alav\u00e9s (Home)",
                 "lastUpdated": "2025-12-14T00:20:50Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 155,
+                "minutesUntilStart": 154,
                 "isRecent": false
             },
             "45": {
@@ -2332,7 +2332,7 @@
                 "referee": null,
                 "season": 15,
                 "group": null,
-                "minutesUntilStart": 1580,
+                "minutesUntilStart": 1579,
                 "isRecent": false
             },
             "46": {
@@ -2363,7 +2363,7 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1595,
+                "minutesUntilStart": 1594,
                 "isRecent": false
             },
             "47": {
@@ -2394,7 +2394,7 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1595,
+                "minutesUntilStart": 1594,
                 "isRecent": false
             }
         },
@@ -3003,21 +3003,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 57,
-        "current_time_local": "2025-12-14 22:55:04"
+        "from_cache": false,
+        "api_call_time_ms": 6790.78,
+        "current_time_local": "2025-12-14 22:56:10",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-14 17:24:07",
-        "api_call_time": 4260.23
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-14 17:25:04",
-    "generated_at": "2025-12-14 17:25:04 UTC",
+    "last_updated": "2025-12-14 17:26:10",
+    "generated_at": "2025-12-14 17:26:10 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113681,
+        "file_size": 113841,
         "file_path": "matches.json"
     }
 }
