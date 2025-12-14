@@ -371,7 +371,7 @@
             "season": 16,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": true
+            "isRecent": false
         },
         {
             "id": 537936,
@@ -402,7 +402,7 @@
             "season": 16,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": true
+            "isRecent": false
         },
         {
             "id": 537943,
@@ -433,7 +433,7 @@
             "season": 16,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": true
+            "isRecent": false
         },
         {
             "id": 537944,
@@ -464,7 +464,7 @@
             "season": 16,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": true
+            "isRecent": false
         },
         {
             "id": 536955,
@@ -495,7 +495,7 @@
             "season": 15,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": true
+            "isRecent": false
         },
         {
             "id": 536963,
@@ -526,7 +526,7 @@
             "season": 15,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": true
+            "isRecent": false
         },
         {
             "id": 542544,
@@ -557,7 +557,7 @@
             "season": 16,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": true
+            "isRecent": false
         },
         {
             "id": 544370,
@@ -1386,14 +1386,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "0m",
+            "timeUntilStart": null,
             "dayCategory": "today",
             "venue": "Deportivo Alav\u00e9s (Home)",
             "lastUpdated": "2025-12-14T00:20:50Z",
             "referee": "V\u00edctor Garc\u00eda Verdura",
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1,
+            "minutesUntilStart": null,
             "isRecent": false
         },
         {
@@ -1417,14 +1417,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "23h 45m",
+            "timeUntilStart": "23h 44m",
             "dayCategory": "tomorrow",
             "venue": "AS Roma (Home)",
             "lastUpdated": "2025-12-09T01:32:02Z",
             "referee": null,
             "season": 15,
             "group": null,
-            "minutesUntilStart": 1426,
+            "minutesUntilStart": 1425,
             "isRecent": false
         },
         {
@@ -1448,14 +1448,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "Tomorrow",
+            "timeUntilStart": "23h 59m",
             "dayCategory": "tomorrow",
             "venue": "Manchester United FC (Home)",
             "lastUpdated": "2025-12-14T01:32:00Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1441,
+            "minutesUntilStart": 1440,
             "isRecent": false
         },
         {
@@ -1479,14 +1479,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "Tomorrow",
+            "timeUntilStart": "23h 59m",
             "dayCategory": "tomorrow",
             "venue": "Rayo Vallecano de Madrid (Home)",
             "lastUpdated": "2025-12-09T01:32:03Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1441,
+            "minutesUntilStart": 1440,
             "isRecent": false
         }
     ],
@@ -1609,14 +1609,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "0m",
+                "timeUntilStart": null,
                 "dayCategory": "today",
                 "venue": "Deportivo Alav\u00e9s (Home)",
                 "lastUpdated": "2025-12-14T00:20:50Z",
                 "referee": "V\u00edctor Garc\u00eda Verdura",
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1,
+                "minutesUntilStart": null,
                 "isRecent": false
             }
         },
@@ -1642,14 +1642,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "23h 45m",
+                "timeUntilStart": "23h 44m",
                 "dayCategory": "tomorrow",
                 "venue": "AS Roma (Home)",
                 "lastUpdated": "2025-12-09T01:32:02Z",
                 "referee": null,
                 "season": 15,
                 "group": null,
-                "minutesUntilStart": 1426,
+                "minutesUntilStart": 1425,
                 "isRecent": false
             },
             "46": {
@@ -1673,14 +1673,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "Tomorrow",
+                "timeUntilStart": "23h 59m",
                 "dayCategory": "tomorrow",
                 "venue": "Manchester United FC (Home)",
                 "lastUpdated": "2025-12-14T01:32:00Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1441,
+                "minutesUntilStart": 1440,
                 "isRecent": false
             },
             "47": {
@@ -1704,14 +1704,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "Tomorrow",
+                "timeUntilStart": "23h 59m",
                 "dayCategory": "tomorrow",
                 "venue": "Rayo Vallecano de Madrid (Home)",
                 "lastUpdated": "2025-12-09T01:32:03Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1441,
+                "minutesUntilStart": 1440,
                 "isRecent": false
             }
         },
@@ -2026,7 +2026,7 @@
                 "season": 16,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
             "12": {
                 "id": 537936,
@@ -2057,7 +2057,7 @@
                 "season": 16,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
             "13": {
                 "id": 537943,
@@ -2088,7 +2088,7 @@
                 "season": 16,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
             "14": {
                 "id": 537944,
@@ -2119,7 +2119,7 @@
                 "season": 16,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
             "15": {
                 "id": 536955,
@@ -2150,7 +2150,7 @@
                 "season": 15,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
             "16": {
                 "id": 536963,
@@ -2181,7 +2181,7 @@
                 "season": 15,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
             "17": {
                 "id": 542544,
@@ -2212,7 +2212,7 @@
                 "season": 16,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
             "18": {
                 "id": 544370,
@@ -3004,29 +3004,21 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competitions_fetched": [
-            "PL",
-            "PD",
-            "BL1",
-            "SA",
-            "FL1"
-        ],
-        "competition_name": "All Major Leagues",
+        "competition_name": "Unknown Competition",
         "timezone": "Asia\/Kolkata",
-        "from_cache": false,
-        "api_call_time_ms": 3841.68,
-        "current_time_local": "2025-12-15 01:29:07",
-        "api_errors": []
+        "from_cache": true,
+        "cache_age_seconds": 58,
+        "current_time_local": "2025-12-15 01:30:05"
     },
     "cache_info": {
-        "cache_written": true,
-        "cache_file": "matches_cache.json"
+        "cached_at": "2025-12-14 19:59:07",
+        "api_call_time": 3841.68
     },
-    "last_updated": "2025-12-14 19:59:07",
-    "generated_at": "2025-12-14 19:59:07 UTC",
+    "last_updated": "2025-12-14 20:00:05",
+    "generated_at": "2025-12-14 20:00:05 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113831,
+        "file_size": 113685,
         "file_path": "matches.json"
     }
 }
