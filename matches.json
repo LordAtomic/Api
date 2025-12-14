@@ -2,37 +2,6 @@
     "success": true,
     "matches": [
         {
-            "id": 536959,
-            "home": "Genoa",
-            "away": "Inter",
-            "homeScore": 1,
-            "awayScore": 2,
-            "homeLogo": "https:\/\/crests.football-data.org\/107.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/108.png",
-            "status": "IN_PLAY",
-            "utcDate": "2025-12-14T17:00:00Z",
-            "localDate": "2025-12-14 22:30:00",
-            "localTime": "22:30",
-            "matchday": 15,
-            "competition": "Serie A",
-            "competitionCode": "SA",
-            "isLive": true,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "live",
-            "venue": "Genoa CFC (Home)",
-            "lastUpdated": "2025-12-14T18:35:59Z",
-            "referee": "Daniele Doveri",
-            "season": 15,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 540527,
             "home": "Bremen",
             "away": "Stuttgart",
@@ -62,6 +31,37 @@
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
+        },
+        {
+            "id": 536959,
+            "home": "Genoa",
+            "away": "Inter",
+            "homeScore": 1,
+            "awayScore": 2,
+            "homeLogo": "https:\/\/crests.football-data.org\/107.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/108.png",
+            "status": "FINISHED",
+            "utcDate": "2025-12-14T17:00:00Z",
+            "localDate": "2025-12-14 22:30:00",
+            "localTime": "22:30",
+            "matchday": 15,
+            "competition": "Serie A",
+            "competitionCode": "SA",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": true,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_yesterday",
+            "venue": "Genoa CFC (Home)",
+            "lastUpdated": "2025-12-14T19:04:38Z",
+            "referee": "Daniele Doveri",
+            "season": 15,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": true
         },
         {
             "id": 537938,
@@ -1324,14 +1324,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "39m",
+            "timeUntilStart": "38m",
             "dayCategory": "today",
             "venue": "Bologna FC 1909 (Home)",
             "lastUpdated": "2025-12-08T01:32:03Z",
             "referee": "Davide Massa",
             "season": 15,
             "group": null,
-            "minutesUntilStart": 40,
+            "minutesUntilStart": 39,
             "isRecent": false
         },
         {
@@ -1355,14 +1355,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "39m",
+            "timeUntilStart": "38m",
             "dayCategory": "today",
             "venue": "Olympique de Marseille (Home)",
             "lastUpdated": "2025-12-14T01:32:00Z",
             "referee": "Fran\u00e7ois Letexier",
             "season": 16,
             "group": null,
-            "minutesUntilStart": 40,
+            "minutesUntilStart": 39,
             "isRecent": false
         },
         {
@@ -1386,14 +1386,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "54m",
+            "timeUntilStart": "53m",
             "dayCategory": "today",
             "venue": "Deportivo Alav\u00e9s (Home)",
             "lastUpdated": "2025-12-14T00:20:50Z",
             "referee": "V\u00edctor Garc\u00eda Verdura",
             "season": 16,
             "group": null,
-            "minutesUntilStart": 55,
+            "minutesUntilStart": 54,
             "isRecent": false
         },
         {
@@ -1424,7 +1424,7 @@
             "referee": null,
             "season": 15,
             "group": null,
-            "minutesUntilStart": 1480,
+            "minutesUntilStart": 1479,
             "isRecent": false
         },
         {
@@ -1455,7 +1455,7 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1495,
+            "minutesUntilStart": 1494,
             "isRecent": false
         },
         {
@@ -1486,43 +1486,12 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1495,
+            "minutesUntilStart": 1494,
             "isRecent": false
         }
     ],
     "grouped_matches": {
         "live": [
-            {
-                "id": 536959,
-                "home": "Genoa",
-                "away": "Inter",
-                "homeScore": 1,
-                "awayScore": 2,
-                "homeLogo": "https:\/\/crests.football-data.org\/107.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/108.png",
-                "status": "IN_PLAY",
-                "utcDate": "2025-12-14T17:00:00Z",
-                "localDate": "2025-12-14 22:30:00",
-                "localTime": "22:30",
-                "matchday": 15,
-                "competition": "Serie A",
-                "competitionCode": "SA",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "Genoa CFC (Home)",
-                "lastUpdated": "2025-12-14T18:35:59Z",
-                "referee": "Daniele Doveri",
-                "season": 15,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
             {
                 "id": 540527,
                 "home": "Bremen",
@@ -1578,14 +1547,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "39m",
+                "timeUntilStart": "38m",
                 "dayCategory": "today",
                 "venue": "Bologna FC 1909 (Home)",
                 "lastUpdated": "2025-12-08T01:32:03Z",
                 "referee": "Davide Massa",
                 "season": 15,
                 "group": null,
-                "minutesUntilStart": 40,
+                "minutesUntilStart": 39,
                 "isRecent": false
             },
             "43": {
@@ -1609,14 +1578,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "39m",
+                "timeUntilStart": "38m",
                 "dayCategory": "today",
                 "venue": "Olympique de Marseille (Home)",
                 "lastUpdated": "2025-12-14T01:32:00Z",
                 "referee": "Fran\u00e7ois Letexier",
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 40,
+                "minutesUntilStart": 39,
                 "isRecent": false
             },
             "44": {
@@ -1640,14 +1609,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "54m",
+                "timeUntilStart": "53m",
                 "dayCategory": "today",
                 "venue": "Deportivo Alav\u00e9s (Home)",
                 "lastUpdated": "2025-12-14T00:20:50Z",
                 "referee": "V\u00edctor Garc\u00eda Verdura",
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 55,
+                "minutesUntilStart": 54,
                 "isRecent": false
             }
         },
@@ -1680,7 +1649,7 @@
                 "referee": null,
                 "season": 15,
                 "group": null,
-                "minutesUntilStart": 1480,
+                "minutesUntilStart": 1479,
                 "isRecent": false
             },
             "46": {
@@ -1711,7 +1680,7 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1495,
+                "minutesUntilStart": 1494,
                 "isRecent": false
             },
             "47": {
@@ -1742,7 +1711,7 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1495,
+                "minutesUntilStart": 1494,
                 "isRecent": false
             }
         },
@@ -1780,6 +1749,37 @@
             }
         },
         "finished_yesterday": {
+            "1": {
+                "id": 536959,
+                "home": "Genoa",
+                "away": "Inter",
+                "homeScore": 1,
+                "awayScore": 2,
+                "homeLogo": "https:\/\/crests.football-data.org\/107.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/108.png",
+                "status": "FINISHED",
+                "utcDate": "2025-12-14T17:00:00Z",
+                "localDate": "2025-12-14 22:30:00",
+                "localTime": "22:30",
+                "matchday": 15,
+                "competition": "Serie A",
+                "competitionCode": "SA",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": true,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_yesterday",
+                "venue": "Genoa CFC (Home)",
+                "lastUpdated": "2025-12-14T19:04:38Z",
+                "referee": "Daniele Doveri",
+                "season": 15,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": true
+            },
             "2": {
                 "id": 537938,
                 "home": "Brentford",
@@ -2996,7 +2996,7 @@
     },
     "stats": {
         "total_matches": 48,
-        "live_matches": 2,
+        "live_matches": 1,
         "today_matches": 3,
         "tomorrow_matches": 3,
         "finished_today": 0,
@@ -3004,21 +3004,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 57,
-        "current_time_local": "2025-12-15 00:35:05"
+        "from_cache": false,
+        "api_call_time_ms": 5115.83,
+        "current_time_local": "2025-12-15 00:36:08",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-14 19:04:08",
-        "api_call_time": 4861.22
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-14 19:05:05",
-    "generated_at": "2025-12-14 19:05:05 UTC",
+    "last_updated": "2025-12-14 19:06:08",
+    "generated_at": "2025-12-14 19:06:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113646,
+        "file_size": 113839,
         "file_path": "matches.json"
     }
 }
