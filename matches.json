@@ -1386,14 +1386,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1m",
+            "timeUntilStart": "0m",
             "dayCategory": "today",
             "venue": "Deportivo Alav\u00e9s (Home)",
             "lastUpdated": "2025-12-14T00:20:50Z",
             "referee": "V\u00edctor Garc\u00eda Verdura",
             "season": 16,
             "group": null,
-            "minutesUntilStart": 2,
+            "minutesUntilStart": 1,
             "isRecent": false
         },
         {
@@ -1417,14 +1417,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "23h 46m",
+            "timeUntilStart": "23h 45m",
             "dayCategory": "tomorrow",
             "venue": "AS Roma (Home)",
             "lastUpdated": "2025-12-09T01:32:02Z",
             "referee": null,
             "season": 15,
             "group": null,
-            "minutesUntilStart": 1427,
+            "minutesUntilStart": 1426,
             "isRecent": false
         },
         {
@@ -1455,7 +1455,7 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1442,
+            "minutesUntilStart": 1441,
             "isRecent": false
         },
         {
@@ -1486,7 +1486,7 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1442,
+            "minutesUntilStart": 1441,
             "isRecent": false
         }
     ],
@@ -1609,14 +1609,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1m",
+                "timeUntilStart": "0m",
                 "dayCategory": "today",
                 "venue": "Deportivo Alav\u00e9s (Home)",
                 "lastUpdated": "2025-12-14T00:20:50Z",
                 "referee": "V\u00edctor Garc\u00eda Verdura",
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 2,
+                "minutesUntilStart": 1,
                 "isRecent": false
             }
         },
@@ -1642,14 +1642,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "23h 46m",
+                "timeUntilStart": "23h 45m",
                 "dayCategory": "tomorrow",
                 "venue": "AS Roma (Home)",
                 "lastUpdated": "2025-12-09T01:32:02Z",
                 "referee": null,
                 "season": 15,
                 "group": null,
-                "minutesUntilStart": 1427,
+                "minutesUntilStart": 1426,
                 "isRecent": false
             },
             "46": {
@@ -1680,7 +1680,7 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1442,
+                "minutesUntilStart": 1441,
                 "isRecent": false
             },
             "47": {
@@ -1711,7 +1711,7 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1442,
+                "minutesUntilStart": 1441,
                 "isRecent": false
             }
         },
@@ -3004,29 +3004,21 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competitions_fetched": [
-            "PL",
-            "PD",
-            "BL1",
-            "SA",
-            "FL1"
-        ],
-        "competition_name": "All Major Leagues",
+        "competition_name": "Unknown Competition",
         "timezone": "Asia\/Kolkata",
-        "from_cache": false,
-        "api_call_time_ms": 4939.02,
-        "current_time_local": "2025-12-15 01:28:08",
-        "api_errors": []
+        "from_cache": true,
+        "cache_age_seconds": 55,
+        "current_time_local": "2025-12-15 01:29:03"
     },
     "cache_info": {
-        "cache_written": true,
-        "cache_file": "matches_cache.json"
+        "cached_at": "2025-12-14 19:58:08",
+        "api_call_time": 4939.02
     },
-    "last_updated": "2025-12-14 19:58:08",
-    "generated_at": "2025-12-14 19:58:08 UTC",
+    "last_updated": "2025-12-14 19:59:03",
+    "generated_at": "2025-12-14 19:59:03 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113831,
+        "file_size": 113669,
         "file_path": "matches.json"
     }
 }
