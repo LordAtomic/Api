@@ -25,7 +25,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "SV Werder Bremen (Home)",
-            "lastUpdated": "2025-12-14T18:59:45Z",
+            "lastUpdated": "2025-12-14T19:15:05Z",
             "referee": "Robert Hartmann",
             "season": 14,
             "group": null,
@@ -1324,14 +1324,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "29m",
+            "timeUntilStart": "28m",
             "dayCategory": "today",
             "venue": "Bologna FC 1909 (Home)",
             "lastUpdated": "2025-12-08T01:32:03Z",
             "referee": "Davide Massa",
             "season": 15,
             "group": null,
-            "minutesUntilStart": 30,
+            "minutesUntilStart": 29,
             "isRecent": false
         },
         {
@@ -1355,14 +1355,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "29m",
+            "timeUntilStart": "28m",
             "dayCategory": "today",
             "venue": "Olympique de Marseille (Home)",
             "lastUpdated": "2025-12-14T01:32:00Z",
             "referee": "Fran\u00e7ois Letexier",
             "season": 16,
             "group": null,
-            "minutesUntilStart": 30,
+            "minutesUntilStart": 29,
             "isRecent": false
         },
         {
@@ -1386,14 +1386,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "44m",
+            "timeUntilStart": "43m",
             "dayCategory": "today",
             "venue": "Deportivo Alav\u00e9s (Home)",
             "lastUpdated": "2025-12-14T00:20:50Z",
             "referee": "V\u00edctor Garc\u00eda Verdura",
             "season": 16,
             "group": null,
-            "minutesUntilStart": 45,
+            "minutesUntilStart": 44,
             "isRecent": false
         },
         {
@@ -1424,7 +1424,7 @@
             "referee": null,
             "season": 15,
             "group": null,
-            "minutesUntilStart": 1470,
+            "minutesUntilStart": 1469,
             "isRecent": false
         },
         {
@@ -1455,7 +1455,7 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1485,
+            "minutesUntilStart": 1484,
             "isRecent": false
         },
         {
@@ -1486,7 +1486,7 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1485,
+            "minutesUntilStart": 1484,
             "isRecent": false
         }
     ],
@@ -1516,7 +1516,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "SV Werder Bremen (Home)",
-                "lastUpdated": "2025-12-14T18:59:45Z",
+                "lastUpdated": "2025-12-14T19:15:05Z",
                 "referee": "Robert Hartmann",
                 "season": 14,
                 "group": null,
@@ -1547,14 +1547,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "29m",
+                "timeUntilStart": "28m",
                 "dayCategory": "today",
                 "venue": "Bologna FC 1909 (Home)",
                 "lastUpdated": "2025-12-08T01:32:03Z",
                 "referee": "Davide Massa",
                 "season": 15,
                 "group": null,
-                "minutesUntilStart": 30,
+                "minutesUntilStart": 29,
                 "isRecent": false
             },
             "43": {
@@ -1578,14 +1578,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "29m",
+                "timeUntilStart": "28m",
                 "dayCategory": "today",
                 "venue": "Olympique de Marseille (Home)",
                 "lastUpdated": "2025-12-14T01:32:00Z",
                 "referee": "Fran\u00e7ois Letexier",
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 30,
+                "minutesUntilStart": 29,
                 "isRecent": false
             },
             "44": {
@@ -1609,14 +1609,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "44m",
+                "timeUntilStart": "43m",
                 "dayCategory": "today",
                 "venue": "Deportivo Alav\u00e9s (Home)",
                 "lastUpdated": "2025-12-14T00:20:50Z",
                 "referee": "V\u00edctor Garc\u00eda Verdura",
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 45,
+                "minutesUntilStart": 44,
                 "isRecent": false
             }
         },
@@ -1649,7 +1649,7 @@
                 "referee": null,
                 "season": 15,
                 "group": null,
-                "minutesUntilStart": 1470,
+                "minutesUntilStart": 1469,
                 "isRecent": false
             },
             "46": {
@@ -1680,7 +1680,7 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1485,
+                "minutesUntilStart": 1484,
                 "isRecent": false
             },
             "47": {
@@ -1711,7 +1711,7 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1485,
+                "minutesUntilStart": 1484,
                 "isRecent": false
             }
         },
@@ -3004,21 +3004,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 52,
-        "current_time_local": "2025-12-15 00:45:03"
+        "from_cache": false,
+        "api_call_time_ms": 4468.97,
+        "current_time_local": "2025-12-15 00:46:08",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-14 19:14:11",
-        "api_call_time": 8593.51
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-14 19:15:03",
-    "generated_at": "2025-12-14 19:15:03 UTC",
+    "last_updated": "2025-12-14 19:16:08",
+    "generated_at": "2025-12-14 19:16:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113677,
+        "file_size": 113839,
         "file_path": "matches.json"
     }
 }
