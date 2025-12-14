@@ -191,7 +191,7 @@
             "id": 542544,
             "home": "Olympique Lyon",
             "away": "Le Havre",
-            "homeScore": 0,
+            "homeScore": 1,
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/523.png",
             "awayLogo": "https:\/\/crests.football-data.org\/533.png",
@@ -211,7 +211,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Olympique Lyonnais (Home)",
-            "lastUpdated": "2025-12-14T15:13:05Z",
+            "lastUpdated": "2025-12-14T15:18:56Z",
             "referee": "Marc Bollengier",
             "season": 16,
             "group": null,
@@ -1682,7 +1682,7 @@
                 "id": 542544,
                 "home": "Olympique Lyon",
                 "away": "Le Havre",
-                "homeScore": 0,
+                "homeScore": 1,
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/523.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/533.png",
@@ -1702,7 +1702,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Olympique Lyonnais (Home)",
-                "lastUpdated": "2025-12-14T15:13:05Z",
+                "lastUpdated": "2025-12-14T15:18:56Z",
                 "referee": "Marc Bollengier",
                 "season": 16,
                 "group": null,
@@ -3003,21 +3003,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 54,
-        "current_time_local": "2025-12-14 20:49:03"
+        "from_cache": false,
+        "api_call_time_ms": 3584.16,
+        "current_time_local": "2025-12-14 20:49:07",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-14 15:18:09",
-        "api_call_time": 6100.27
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-14 15:19:03",
-    "generated_at": "2025-12-14 15:19:03 UTC",
+    "last_updated": "2025-12-14 15:19:07",
+    "generated_at": "2025-12-14 15:19:07 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113462,
+        "file_size": 113624,
         "file_path": "matches.json"
     }
 }
