@@ -2,37 +2,6 @@
     "success": true,
     "matches": [
         {
-            "id": 544365,
-            "home": "Celta",
-            "away": "Athletic",
-            "homeScore": 2,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/558.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/77.png",
-            "status": "IN_PLAY",
-            "utcDate": "2025-12-14T15:15:00Z",
-            "localDate": "2025-12-14 20:45:00",
-            "localTime": "20:45",
-            "matchday": 16,
-            "competition": "Primera Division",
-            "competitionCode": "PD",
-            "isLive": true,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "live",
-            "venue": "RC Celta de Vigo (Home)",
-            "lastUpdated": "2025-12-14T16:31:59Z",
-            "referee": "Alejandro Hern\u00e1ndez Hern\u00e1ndez",
-            "season": 16,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 542541,
             "home": "Auxerre",
             "away": "Lille",
@@ -217,6 +186,37 @@
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
+        },
+        {
+            "id": 544365,
+            "home": "Celta",
+            "away": "Athletic",
+            "homeScore": 2,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/558.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/77.png",
+            "status": "FINISHED",
+            "utcDate": "2025-12-14T15:15:00Z",
+            "localDate": "2025-12-14 20:45:00",
+            "localTime": "20:45",
+            "matchday": 16,
+            "competition": "Primera Division",
+            "competitionCode": "PD",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_today",
+            "venue": "RC Celta de Vigo (Home)",
+            "lastUpdated": "2025-12-14T17:16:39Z",
+            "referee": "Alejandro Hern\u00e1ndez Hern\u00e1ndez",
+            "season": 16,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": true
         },
         {
             "id": 540526,
@@ -1293,14 +1293,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 12m",
+            "timeUntilStart": "1h 11m",
             "dayCategory": "tomorrow",
             "venue": "SV Werder Bremen (Home)",
             "lastUpdated": "2025-12-14T01:32:00Z",
             "referee": "Robert Hartmann",
             "season": 14,
             "group": null,
-            "minutesUntilStart": 73,
+            "minutesUntilStart": 72,
             "isRecent": false
         },
         {
@@ -1324,14 +1324,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 27m",
+            "timeUntilStart": "2h 26m",
             "dayCategory": "tomorrow",
             "venue": "Bologna FC 1909 (Home)",
             "lastUpdated": "2025-12-08T01:32:03Z",
             "referee": null,
             "season": 15,
             "group": null,
-            "minutesUntilStart": 148,
+            "minutesUntilStart": 147,
             "isRecent": false
         },
         {
@@ -1355,14 +1355,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 27m",
+            "timeUntilStart": "2h 26m",
             "dayCategory": "tomorrow",
             "venue": "Olympique de Marseille (Home)",
             "lastUpdated": "2025-12-14T01:32:00Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 148,
+            "minutesUntilStart": 147,
             "isRecent": false
         },
         {
@@ -1386,14 +1386,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 42m",
+            "timeUntilStart": "2h 41m",
             "dayCategory": "tomorrow",
             "venue": "Deportivo Alav\u00e9s (Home)",
             "lastUpdated": "2025-12-14T00:20:50Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 163,
+            "minutesUntilStart": 162,
             "isRecent": false
         },
         {
@@ -1424,7 +1424,7 @@
             "referee": null,
             "season": 15,
             "group": null,
-            "minutesUntilStart": 1588,
+            "minutesUntilStart": 1587,
             "isRecent": false
         },
         {
@@ -1455,7 +1455,7 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1603,
+            "minutesUntilStart": 1602,
             "isRecent": false
         },
         {
@@ -1486,43 +1486,12 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1603,
+            "minutesUntilStart": 1602,
             "isRecent": false
         }
     ],
     "grouped_matches": {
         "live": [
-            {
-                "id": 544365,
-                "home": "Celta",
-                "away": "Athletic",
-                "homeScore": 2,
-                "awayScore": 0,
-                "homeLogo": "https:\/\/crests.football-data.org\/558.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/77.png",
-                "status": "IN_PLAY",
-                "utcDate": "2025-12-14T15:15:00Z",
-                "localDate": "2025-12-14 20:45:00",
-                "localTime": "20:45",
-                "matchday": 16,
-                "competition": "Primera Division",
-                "competitionCode": "PD",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "RC Celta de Vigo (Home)",
-                "lastUpdated": "2025-12-14T16:31:59Z",
-                "referee": "Alejandro Hern\u00e1ndez Hern\u00e1ndez",
-                "season": 16,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
             {
                 "id": 542541,
                 "home": "Auxerre",
@@ -1711,6 +1680,37 @@
             }
         ],
         "finished_today": {
+            "6": {
+                "id": 544365,
+                "home": "Celta",
+                "away": "Athletic",
+                "homeScore": 2,
+                "awayScore": 0,
+                "homeLogo": "https:\/\/crests.football-data.org\/558.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/77.png",
+                "status": "FINISHED",
+                "utcDate": "2025-12-14T15:15:00Z",
+                "localDate": "2025-12-14 20:45:00",
+                "localTime": "20:45",
+                "matchday": 16,
+                "competition": "Primera Division",
+                "competitionCode": "PD",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": false,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_today",
+                "venue": "RC Celta de Vigo (Home)",
+                "lastUpdated": "2025-12-14T17:16:39Z",
+                "referee": "Alejandro Hern\u00e1ndez Hern\u00e1ndez",
+                "season": 16,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": true
+            },
             "7": {
                 "id": 540526,
                 "home": "Freiburg",
@@ -2201,14 +2201,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 12m",
+                "timeUntilStart": "1h 11m",
                 "dayCategory": "tomorrow",
                 "venue": "SV Werder Bremen (Home)",
                 "lastUpdated": "2025-12-14T01:32:00Z",
                 "referee": "Robert Hartmann",
                 "season": 14,
                 "group": null,
-                "minutesUntilStart": 73,
+                "minutesUntilStart": 72,
                 "isRecent": false
             },
             "42": {
@@ -2232,14 +2232,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 27m",
+                "timeUntilStart": "2h 26m",
                 "dayCategory": "tomorrow",
                 "venue": "Bologna FC 1909 (Home)",
                 "lastUpdated": "2025-12-08T01:32:03Z",
                 "referee": null,
                 "season": 15,
                 "group": null,
-                "minutesUntilStart": 148,
+                "minutesUntilStart": 147,
                 "isRecent": false
             },
             "43": {
@@ -2263,14 +2263,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 27m",
+                "timeUntilStart": "2h 26m",
                 "dayCategory": "tomorrow",
                 "venue": "Olympique de Marseille (Home)",
                 "lastUpdated": "2025-12-14T01:32:00Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 148,
+                "minutesUntilStart": 147,
                 "isRecent": false
             },
             "44": {
@@ -2294,14 +2294,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 42m",
+                "timeUntilStart": "2h 41m",
                 "dayCategory": "tomorrow",
                 "venue": "Deportivo Alav\u00e9s (Home)",
                 "lastUpdated": "2025-12-14T00:20:50Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 163,
+                "minutesUntilStart": 162,
                 "isRecent": false
             },
             "45": {
@@ -2332,7 +2332,7 @@
                 "referee": null,
                 "season": 15,
                 "group": null,
-                "minutesUntilStart": 1588,
+                "minutesUntilStart": 1587,
                 "isRecent": false
             },
             "46": {
@@ -2363,7 +2363,7 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1603,
+                "minutesUntilStart": 1602,
                 "isRecent": false
             },
             "47": {
@@ -2394,7 +2394,7 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1603,
+                "minutesUntilStart": 1602,
                 "isRecent": false
             }
         },
@@ -2995,29 +2995,37 @@
     },
     "stats": {
         "total_matches": 48,
-        "live_matches": 7,
+        "live_matches": 6,
         "today_matches": 1,
         "tomorrow_matches": 7,
-        "finished_today": 14,
+        "finished_today": 15,
         "finished_recent": 0
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 51,
-        "current_time_local": "2025-12-14 22:47:03"
+        "from_cache": false,
+        "api_call_time_ms": 6409.95,
+        "current_time_local": "2025-12-14 22:48:10",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-14 17:16:12",
-        "api_call_time": 6749.13
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-14 17:17:03",
-    "generated_at": "2025-12-14 17:17:03 UTC",
+    "last_updated": "2025-12-14 17:18:10",
+    "generated_at": "2025-12-14 17:18:10 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113654,
+        "file_size": 113841,
         "file_path": "matches.json"
     }
 }
