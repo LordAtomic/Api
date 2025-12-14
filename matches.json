@@ -1417,14 +1417,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "19h 51m",
+            "timeUntilStart": "19h 50m",
             "dayCategory": "tomorrow",
             "venue": "AS Roma (Home)",
             "lastUpdated": "2025-12-09T01:32:02Z",
             "referee": null,
             "season": 15,
             "group": null,
-            "minutesUntilStart": 1192,
+            "minutesUntilStart": 1191,
             "isRecent": false
         },
         {
@@ -1448,14 +1448,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "20h 6m",
+            "timeUntilStart": "20h 5m",
             "dayCategory": "tomorrow",
             "venue": "Manchester United FC (Home)",
             "lastUpdated": "2025-12-14T01:32:00Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1207,
+            "minutesUntilStart": 1206,
             "isRecent": false
         },
         {
@@ -1479,14 +1479,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "20h 6m",
+            "timeUntilStart": "20h 5m",
             "dayCategory": "tomorrow",
             "venue": "Rayo Vallecano de Madrid (Home)",
             "lastUpdated": "2025-12-09T01:32:03Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1207,
+            "minutesUntilStart": 1206,
             "isRecent": false
         }
     ],
@@ -1641,14 +1641,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "19h 51m",
+                "timeUntilStart": "19h 50m",
                 "dayCategory": "tomorrow",
                 "venue": "AS Roma (Home)",
                 "lastUpdated": "2025-12-09T01:32:02Z",
                 "referee": null,
                 "season": 15,
                 "group": null,
-                "minutesUntilStart": 1192,
+                "minutesUntilStart": 1191,
                 "isRecent": false
             },
             "46": {
@@ -1672,14 +1672,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "20h 6m",
+                "timeUntilStart": "20h 5m",
                 "dayCategory": "tomorrow",
                 "venue": "Manchester United FC (Home)",
                 "lastUpdated": "2025-12-14T01:32:00Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1207,
+                "minutesUntilStart": 1206,
                 "isRecent": false
             },
             "47": {
@@ -1703,14 +1703,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "20h 6m",
+                "timeUntilStart": "20h 5m",
                 "dayCategory": "tomorrow",
                 "venue": "Rayo Vallecano de Madrid (Home)",
                 "lastUpdated": "2025-12-09T01:32:03Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1207,
+                "minutesUntilStart": 1206,
                 "isRecent": false
             }
         },
@@ -3003,29 +3003,21 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competitions_fetched": [
-            "PL",
-            "PD",
-            "BL1",
-            "SA",
-            "FL1"
-        ],
-        "competition_name": "All Major Leagues",
+        "competition_name": "Unknown Competition",
         "timezone": "Asia\/Kolkata",
-        "from_cache": false,
-        "api_call_time_ms": 3393.78,
-        "current_time_local": "2025-12-15 05:23:06",
-        "api_errors": []
+        "from_cache": true,
+        "cache_age_seconds": 57,
+        "current_time_local": "2025-12-15 05:24:03"
     },
     "cache_info": {
-        "cache_written": true,
-        "cache_file": "matches_cache.json"
+        "cached_at": "2025-12-14 23:53:06",
+        "api_call_time": 3393.78
     },
-    "last_updated": "2025-12-14 23:53:06",
-    "generated_at": "2025-12-14 23:53:06 UTC",
+    "last_updated": "2025-12-14 23:54:03",
+    "generated_at": "2025-12-14 23:54:03 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113928,
+        "file_size": 113766,
         "file_path": "matches.json"
     }
 }
