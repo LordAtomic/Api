@@ -9,28 +9,28 @@
             "awayScore": 2,
             "homeLogo": "https:\/\/crests.football-data.org\/263.png",
             "awayLogo": "https:\/\/crests.football-data.org\/86.png",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "utcDate": "2025-12-14T20:00:00Z",
             "localDate": "2025-12-15 01:30:00",
             "localTime": "01:30",
             "matchday": 16,
             "competition": "Primera Division",
             "competitionCode": "PD",
-            "isLive": true,
-            "isFinished": false,
+            "isLive": false,
+            "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "live",
+            "dayCategory": "finished_today",
             "venue": "Deportivo Alav\u00e9s (Home)",
-            "lastUpdated": "2025-12-14T21:41:15Z",
+            "lastUpdated": "2025-12-14T22:01:13Z",
             "referee": "V\u00edctor Garc\u00eda Verdura",
             "season": 16,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
+            "isRecent": true
         },
         {
             "id": 536960,
@@ -1417,14 +1417,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 43m",
+            "timeUntilStart": "21h 42m",
             "dayCategory": "tomorrow",
             "venue": "AS Roma (Home)",
             "lastUpdated": "2025-12-09T01:32:02Z",
             "referee": null,
             "season": 15,
             "group": null,
-            "minutesUntilStart": 1304,
+            "minutesUntilStart": 1303,
             "isRecent": false
         },
         {
@@ -1448,14 +1448,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 58m",
+            "timeUntilStart": "21h 57m",
             "dayCategory": "tomorrow",
             "venue": "Manchester United FC (Home)",
             "lastUpdated": "2025-12-14T01:32:00Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1319,
+            "minutesUntilStart": 1318,
             "isRecent": false
         },
         {
@@ -1479,19 +1479,20 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 58m",
+            "timeUntilStart": "21h 57m",
             "dayCategory": "tomorrow",
             "venue": "Rayo Vallecano de Madrid (Home)",
             "lastUpdated": "2025-12-09T01:32:03Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1319,
+            "minutesUntilStart": 1318,
             "isRecent": false
         }
     ],
     "grouped_matches": {
-        "live": [
+        "live": [],
+        "finished_today": [
             {
                 "id": 544361,
                 "home": "Alav\u00e9s",
@@ -1500,32 +1501,30 @@
                 "awayScore": 2,
                 "homeLogo": "https:\/\/crests.football-data.org\/263.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/86.png",
-                "status": "IN_PLAY",
+                "status": "FINISHED",
                 "utcDate": "2025-12-14T20:00:00Z",
                 "localDate": "2025-12-15 01:30:00",
                 "localTime": "01:30",
                 "matchday": 16,
                 "competition": "Primera Division",
                 "competitionCode": "PD",
-                "isLive": true,
-                "isFinished": false,
+                "isLive": false,
+                "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "live",
+                "dayCategory": "finished_today",
                 "venue": "Deportivo Alav\u00e9s (Home)",
-                "lastUpdated": "2025-12-14T21:41:15Z",
+                "lastUpdated": "2025-12-14T22:01:13Z",
                 "referee": "V\u00edctor Garc\u00eda Verdura",
                 "season": 16,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
-        "finished_today": {
-            "1": {
+                "isRecent": true
+            },
+            {
                 "id": 536960,
                 "home": "Bologna",
                 "away": "Juventus",
@@ -1556,7 +1555,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "2": {
+            {
                 "id": 542545,
                 "home": "Marseille",
                 "away": "Monaco",
@@ -1587,7 +1586,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "3": {
+            {
                 "id": 540527,
                 "home": "Bremen",
                 "away": "Stuttgart",
@@ -1618,7 +1617,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             }
-        },
+        ],
         "today": [],
         "tomorrow": {
             "45": {
@@ -1642,14 +1641,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 43m",
+                "timeUntilStart": "21h 42m",
                 "dayCategory": "tomorrow",
                 "venue": "AS Roma (Home)",
                 "lastUpdated": "2025-12-09T01:32:02Z",
                 "referee": null,
                 "season": 15,
                 "group": null,
-                "minutesUntilStart": 1304,
+                "minutesUntilStart": 1303,
                 "isRecent": false
             },
             "46": {
@@ -1673,14 +1672,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 58m",
+                "timeUntilStart": "21h 57m",
                 "dayCategory": "tomorrow",
                 "venue": "Manchester United FC (Home)",
                 "lastUpdated": "2025-12-14T01:32:00Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1319,
+                "minutesUntilStart": 1318,
                 "isRecent": false
             },
             "47": {
@@ -1704,14 +1703,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 58m",
+                "timeUntilStart": "21h 57m",
                 "dayCategory": "tomorrow",
                 "venue": "Rayo Vallecano de Madrid (Home)",
                 "lastUpdated": "2025-12-09T01:32:03Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1319,
+                "minutesUntilStart": 1318,
                 "isRecent": false
             }
         },
@@ -2996,29 +2995,37 @@
     },
     "stats": {
         "total_matches": 48,
-        "live_matches": 1,
+        "live_matches": 0,
         "today_matches": 0,
         "tomorrow_matches": 3,
-        "finished_today": 3,
+        "finished_today": 4,
         "finished_recent": 0
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 50,
-        "current_time_local": "2025-12-15 03:31:03"
+        "from_cache": false,
+        "api_call_time_ms": 3929.32,
+        "current_time_local": "2025-12-15 03:32:08",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-14 22:00:13",
-        "api_call_time": 8669.51
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-14 22:01:03",
-    "generated_at": "2025-12-14 22:01:03 UTC",
+    "last_updated": "2025-12-14 22:02:08",
+    "generated_at": "2025-12-14 22:02:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113761,
+        "file_size": 113920,
         "file_path": "matches.json"
     }
 }
