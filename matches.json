@@ -223,7 +223,7 @@
             "home": "Freiburg",
             "away": "Dortmund",
             "homeScore": 0,
-            "awayScore": 0,
+            "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/17.png",
             "awayLogo": "https:\/\/crests.football-data.org\/4.png",
             "status": "IN_PLAY",
@@ -242,7 +242,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "SC Freiburg (Home)",
-            "lastUpdated": "2025-12-14T14:35:15Z",
+            "lastUpdated": "2025-12-14T15:06:38Z",
             "referee": "Felix Zwayer",
             "season": 14,
             "group": null,
@@ -1714,7 +1714,7 @@
                 "home": "Freiburg",
                 "away": "Dortmund",
                 "homeScore": 0,
-                "awayScore": 0,
+                "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/17.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/4.png",
                 "status": "IN_PLAY",
@@ -1733,7 +1733,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "SC Freiburg (Home)",
-                "lastUpdated": "2025-12-14T14:35:15Z",
+                "lastUpdated": "2025-12-14T15:06:38Z",
                 "referee": "Felix Zwayer",
                 "season": 14,
                 "group": null,
@@ -3003,21 +3003,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 57,
-        "current_time_local": "2025-12-14 20:37:05"
+        "from_cache": false,
+        "api_call_time_ms": 4584.39,
+        "current_time_local": "2025-12-14 20:37:09",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-14 15:06:08",
-        "api_call_time": 4517.71
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-14 15:07:05",
-    "generated_at": "2025-12-14 15:07:05 UTC",
+    "last_updated": "2025-12-14 15:07:09",
+    "generated_at": "2025-12-14 15:07:09 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113454,
+        "file_size": 113616,
         "file_path": "matches.json"
     }
 }
