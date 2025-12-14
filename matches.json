@@ -71,7 +71,7 @@
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/576.png",
             "awayLogo": "https:\/\/crests.football-data.org\/525.png",
-            "status": "IN_PLAY",
+            "status": "PAUSED",
             "utcDate": "2025-12-14T16:15:00Z",
             "localDate": "2025-12-14 21:45:00",
             "localTime": "21:45",
@@ -87,7 +87,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "RC Strasbourg Alsace (Home)",
-            "lastUpdated": "2025-12-14T16:20:05Z",
+            "lastUpdated": "2025-12-14T17:06:04Z",
             "referee": "Ga\u00ebl Angoula",
             "season": 16,
             "group": null,
@@ -183,6 +183,37 @@
             "lastUpdated": "2025-12-14T17:04:06Z",
             "referee": "Robin Braun",
             "season": 14,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
+        },
+        {
+            "id": 536959,
+            "home": "Genoa",
+            "away": "Inter",
+            "homeScore": 0,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/107.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/108.png",
+            "status": "IN_PLAY",
+            "utcDate": "2025-12-14T17:00:00Z",
+            "localDate": "2025-12-14 22:30:00",
+            "localTime": "22:30",
+            "matchday": 15,
+            "competition": "Serie A",
+            "competitionCode": "SA",
+            "isLive": true,
+            "isFinished": false,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "live",
+            "venue": "Genoa CFC (Home)",
+            "lastUpdated": "2025-12-14T17:05:28Z",
+            "referee": "Daniele Doveri",
+            "season": 15,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -1242,37 +1273,6 @@
             "isRecent": false
         },
         {
-            "id": 536959,
-            "home": "Genoa",
-            "away": "Inter",
-            "homeScore": 0,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/107.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/108.png",
-            "status": "TIMED",
-            "utcDate": "2025-12-14T17:00:00Z",
-            "localDate": "2025-12-14 22:30:00",
-            "localTime": "22:30",
-            "matchday": 15,
-            "competition": "Serie A",
-            "competitionCode": "SA",
-            "isLive": false,
-            "isFinished": false,
-            "isToday": true,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "today",
-            "venue": "Genoa CFC (Home)",
-            "lastUpdated": "2025-12-13T01:32:01Z",
-            "referee": "Daniele Doveri",
-            "season": 15,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 540527,
             "home": "Bremen",
             "away": "Stuttgart",
@@ -1293,14 +1293,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 24m",
+            "timeUntilStart": "1h 23m",
             "dayCategory": "tomorrow",
             "venue": "SV Werder Bremen (Home)",
             "lastUpdated": "2025-12-14T01:32:00Z",
             "referee": "Robert Hartmann",
             "season": 14,
             "group": null,
-            "minutesUntilStart": 85,
+            "minutesUntilStart": 84,
             "isRecent": false
         },
         {
@@ -1324,14 +1324,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 39m",
+            "timeUntilStart": "2h 38m",
             "dayCategory": "tomorrow",
             "venue": "Bologna FC 1909 (Home)",
             "lastUpdated": "2025-12-08T01:32:03Z",
             "referee": null,
             "season": 15,
             "group": null,
-            "minutesUntilStart": 160,
+            "minutesUntilStart": 159,
             "isRecent": false
         },
         {
@@ -1355,14 +1355,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 39m",
+            "timeUntilStart": "2h 38m",
             "dayCategory": "tomorrow",
             "venue": "Olympique de Marseille (Home)",
             "lastUpdated": "2025-12-14T01:32:00Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 160,
+            "minutesUntilStart": 159,
             "isRecent": false
         },
         {
@@ -1386,14 +1386,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 54m",
+            "timeUntilStart": "2h 53m",
             "dayCategory": "tomorrow",
             "venue": "Deportivo Alav\u00e9s (Home)",
             "lastUpdated": "2025-12-14T00:20:50Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 175,
+            "minutesUntilStart": 174,
             "isRecent": false
         },
         {
@@ -1424,7 +1424,7 @@
             "referee": null,
             "season": 15,
             "group": null,
-            "minutesUntilStart": 1600,
+            "minutesUntilStart": 1599,
             "isRecent": false
         },
         {
@@ -1455,7 +1455,7 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1615,
+            "minutesUntilStart": 1614,
             "isRecent": false
         },
         {
@@ -1486,7 +1486,7 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1615,
+            "minutesUntilStart": 1614,
             "isRecent": false
         }
     ],
@@ -1562,7 +1562,7 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/576.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/525.png",
-                "status": "IN_PLAY",
+                "status": "PAUSED",
                 "utcDate": "2025-12-14T16:15:00Z",
                 "localDate": "2025-12-14 21:45:00",
                 "localTime": "21:45",
@@ -1578,7 +1578,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "RC Strasbourg Alsace (Home)",
-                "lastUpdated": "2025-12-14T16:20:05Z",
+                "lastUpdated": "2025-12-14T17:06:04Z",
                 "referee": "Ga\u00ebl Angoula",
                 "season": 16,
                 "group": null,
@@ -1677,10 +1677,41 @@
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
+            },
+            {
+                "id": 536959,
+                "home": "Genoa",
+                "away": "Inter",
+                "homeScore": 0,
+                "awayScore": 0,
+                "homeLogo": "https:\/\/crests.football-data.org\/107.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/108.png",
+                "status": "IN_PLAY",
+                "utcDate": "2025-12-14T17:00:00Z",
+                "localDate": "2025-12-14 22:30:00",
+                "localTime": "22:30",
+                "matchday": 15,
+                "competition": "Serie A",
+                "competitionCode": "SA",
+                "isLive": true,
+                "isFinished": false,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": false,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "live",
+                "venue": "Genoa CFC (Home)",
+                "lastUpdated": "2025-12-14T17:05:28Z",
+                "referee": "Daniele Doveri",
+                "season": 15,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": false
             }
         ],
         "finished_today": {
-            "6": {
+            "7": {
                 "id": 540526,
                 "home": "Freiburg",
                 "away": "Dortmund",
@@ -1711,7 +1742,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "7": {
+            "8": {
                 "id": 537935,
                 "home": "Sunderland",
                 "away": "Newcastle",
@@ -1742,7 +1773,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "8": {
+            "9": {
                 "id": 537936,
                 "home": "Crystal Palace",
                 "away": "Man City",
@@ -1773,7 +1804,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "9": {
+            "10": {
                 "id": 537943,
                 "home": "Nottingham",
                 "away": "Tottenham",
@@ -1804,7 +1835,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "10": {
+            "11": {
                 "id": 537944,
                 "home": "West Ham",
                 "away": "Aston Villa",
@@ -1835,7 +1866,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "11": {
+            "12": {
                 "id": 536955,
                 "home": "Fiorentina",
                 "away": "Verona",
@@ -1866,7 +1897,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "12": {
+            "13": {
                 "id": 536963,
                 "home": "Udinese",
                 "away": "Napoli",
@@ -1897,7 +1928,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "13": {
+            "14": {
                 "id": 542544,
                 "home": "Olympique Lyon",
                 "away": "Le Havre",
@@ -1928,7 +1959,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "14": {
+            "15": {
                 "id": 544370,
                 "home": "Sevilla FC",
                 "away": "Real Oviedo",
@@ -1959,7 +1990,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "15": {
+            "16": {
                 "id": 536956,
                 "home": "Milan",
                 "away": "Sassuolo",
@@ -1990,7 +2021,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "16": {
+            "17": {
                 "id": 542543,
                 "home": "Paris FC",
                 "away": "Toulouse",
@@ -2021,7 +2052,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "17": {
+            "18": {
                 "id": 537937,
                 "home": "Arsenal",
                 "away": "Wolverhampton",
@@ -2052,7 +2083,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "18": {
+            "19": {
                 "id": 544368,
                 "home": "Getafe",
                 "away": "Espanyol",
@@ -2083,7 +2114,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "19": {
+            "20": {
                 "id": 536958,
                 "home": "Atalanta",
                 "away": "Cagliari",
@@ -2116,7 +2147,7 @@
             }
         },
         "today": {
-            "39": {
+            "40": {
                 "id": 544364,
                 "home": "Levante",
                 "away": "Villarreal",
@@ -2146,37 +2177,6 @@
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
-            },
-            "40": {
-                "id": 536959,
-                "home": "Genoa",
-                "away": "Inter",
-                "homeScore": 0,
-                "awayScore": 0,
-                "homeLogo": "https:\/\/crests.football-data.org\/107.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/108.png",
-                "status": "TIMED",
-                "utcDate": "2025-12-14T17:00:00Z",
-                "localDate": "2025-12-14 22:30:00",
-                "localTime": "22:30",
-                "matchday": 15,
-                "competition": "Serie A",
-                "competitionCode": "SA",
-                "isLive": false,
-                "isFinished": false,
-                "isToday": true,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "today",
-                "venue": "Genoa CFC (Home)",
-                "lastUpdated": "2025-12-13T01:32:01Z",
-                "referee": "Daniele Doveri",
-                "season": 15,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
             }
         },
         "tomorrow": {
@@ -2201,14 +2201,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 24m",
+                "timeUntilStart": "1h 23m",
                 "dayCategory": "tomorrow",
                 "venue": "SV Werder Bremen (Home)",
                 "lastUpdated": "2025-12-14T01:32:00Z",
                 "referee": "Robert Hartmann",
                 "season": 14,
                 "group": null,
-                "minutesUntilStart": 85,
+                "minutesUntilStart": 84,
                 "isRecent": false
             },
             "42": {
@@ -2232,14 +2232,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 39m",
+                "timeUntilStart": "2h 38m",
                 "dayCategory": "tomorrow",
                 "venue": "Bologna FC 1909 (Home)",
                 "lastUpdated": "2025-12-08T01:32:03Z",
                 "referee": null,
                 "season": 15,
                 "group": null,
-                "minutesUntilStart": 160,
+                "minutesUntilStart": 159,
                 "isRecent": false
             },
             "43": {
@@ -2263,14 +2263,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 39m",
+                "timeUntilStart": "2h 38m",
                 "dayCategory": "tomorrow",
                 "venue": "Olympique de Marseille (Home)",
                 "lastUpdated": "2025-12-14T01:32:00Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 160,
+                "minutesUntilStart": 159,
                 "isRecent": false
             },
             "44": {
@@ -2294,14 +2294,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 54m",
+                "timeUntilStart": "2h 53m",
                 "dayCategory": "tomorrow",
                 "venue": "Deportivo Alav\u00e9s (Home)",
                 "lastUpdated": "2025-12-14T00:20:50Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 175,
+                "minutesUntilStart": 174,
                 "isRecent": false
             },
             "45": {
@@ -2332,7 +2332,7 @@
                 "referee": null,
                 "season": 15,
                 "group": null,
-                "minutesUntilStart": 1600,
+                "minutesUntilStart": 1599,
                 "isRecent": false
             },
             "46": {
@@ -2363,7 +2363,7 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1615,
+                "minutesUntilStart": 1614,
                 "isRecent": false
             },
             "47": {
@@ -2394,13 +2394,13 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1615,
+                "minutesUntilStart": 1614,
                 "isRecent": false
             }
         },
         "upcoming": [],
         "finished_yesterday": {
-            "20": {
+            "21": {
                 "id": 542542,
                 "home": "FC Metz",
                 "away": "PSG",
@@ -2431,7 +2431,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "21": {
+            "22": {
                 "id": 537939,
                 "home": "Burnley",
                 "away": "Fulham",
@@ -2462,7 +2462,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "22": {
+            "23": {
                 "id": 544363,
                 "home": "Bar\u00e7a",
                 "away": "Osasuna",
@@ -2493,7 +2493,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "23": {
+            "24": {
                 "id": 540524,
                 "home": "Leverkusen",
                 "away": "1. FC K\u00f6ln",
@@ -2524,7 +2524,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "24": {
+            "25": {
                 "id": 536962,
                 "home": "Parma",
                 "away": "Lazio",
@@ -2555,7 +2555,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "25": {
+            "26": {
                 "id": 542549,
                 "home": "Stade Rennais",
                 "away": "Brest",
@@ -2586,7 +2586,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "26": {
+            "27": {
                 "id": 544367,
                 "home": "Mallorca",
                 "away": "Elche",
@@ -2617,7 +2617,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "27": {
+            "28": {
                 "id": 537940,
                 "home": "Chelsea",
                 "away": "Everton",
@@ -2648,7 +2648,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "28": {
+            "29": {
                 "id": 537941,
                 "home": "Liverpool",
                 "away": "Brighton Hove",
@@ -2679,7 +2679,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "29": {
+            "30": {
                 "id": 540525,
                 "home": "Frankfurt",
                 "away": "Augsburg",
@@ -2710,7 +2710,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "30": {
+            "31": {
                 "id": 540528,
                 "home": "M'gladbach",
                 "away": "Wolfsburg",
@@ -2741,7 +2741,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "31": {
+            "32": {
                 "id": 540530,
                 "home": "St. Pauli",
                 "away": "Heidenheim",
@@ -2772,7 +2772,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "32": {
+            "33": {
                 "id": 540531,
                 "home": "Hoffenheim",
                 "away": "HSV",
@@ -2803,7 +2803,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "33": {
+            "34": {
                 "id": 536961,
                 "home": "Torino",
                 "away": "Cremonese",
@@ -2834,7 +2834,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "34": {
+            "35": {
                 "id": 544362,
                 "home": "Atleti",
                 "away": "Valencia",
@@ -2865,7 +2865,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "35": {
+            "36": {
                 "id": 544369,
                 "home": "Real Sociedad",
                 "away": "Girona",
@@ -2896,7 +2896,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "36": {
+            "37": {
                 "id": 536964,
                 "home": "Lecce",
                 "away": "AC Pisa",
@@ -2927,7 +2927,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "37": {
+            "38": {
                 "id": 542548,
                 "home": "Angers SCO",
                 "away": "Nantes",
@@ -2958,7 +2958,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "38": {
+            "39": {
                 "id": 540529,
                 "home": "Union Berlin",
                 "away": "RB Leipzig",
@@ -2995,29 +2995,37 @@
     },
     "stats": {
         "total_matches": 48,
-        "live_matches": 6,
-        "today_matches": 2,
+        "live_matches": 7,
+        "today_matches": 1,
         "tomorrow_matches": 7,
         "finished_today": 14,
         "finished_recent": 0
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 53,
-        "current_time_local": "2025-12-14 22:35:03"
+        "from_cache": false,
+        "api_call_time_ms": 5605.73,
+        "current_time_local": "2025-12-14 22:36:09",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-14 17:04:10",
-        "api_call_time": 7302.42
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-14 17:05:03",
-    "generated_at": "2025-12-14 17:05:03 UTC",
+    "last_updated": "2025-12-14 17:06:09",
+    "generated_at": "2025-12-14 17:06:09 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113663,
+        "file_size": 113820,
         "file_path": "matches.json"
     }
 }
