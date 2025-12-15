@@ -9,28 +9,28 @@
             "awayScore": 4,
             "homeLogo": "https:\/\/crests.football-data.org\/66.png",
             "awayLogo": "https:\/\/crests.football-data.org\/bournemouth.png",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "utcDate": "2025-12-15T20:00:00Z",
             "localDate": "2025-12-16 01:30:00",
             "localTime": "01:30",
             "matchday": 16,
             "competition": "Premier League",
             "competitionCode": "PL",
-            "isLive": true,
-            "isFinished": false,
+            "isLive": false,
+            "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "live",
+            "dayCategory": "finished_today",
             "venue": "Manchester United FC (Home)",
-            "lastUpdated": "2025-12-15T21:50:49Z",
+            "lastUpdated": "2025-12-15T22:08:09Z",
             "referee": "Simon Hooper",
             "season": 16,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
+            "isRecent": true
         },
         {
             "id": 544366,
@@ -1367,7 +1367,8 @@
         }
     ],
     "grouped_matches": {
-        "live": [
+        "live": [],
+        "finished_today": [
             {
                 "id": 537942,
                 "home": "Man United",
@@ -1376,32 +1377,30 @@
                 "awayScore": 4,
                 "homeLogo": "https:\/\/crests.football-data.org\/66.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/bournemouth.png",
-                "status": "IN_PLAY",
+                "status": "FINISHED",
                 "utcDate": "2025-12-15T20:00:00Z",
                 "localDate": "2025-12-16 01:30:00",
                 "localTime": "01:30",
                 "matchday": 16,
                 "competition": "Premier League",
                 "competitionCode": "PL",
-                "isLive": true,
-                "isFinished": false,
+                "isLive": false,
+                "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "live",
+                "dayCategory": "finished_today",
                 "venue": "Manchester United FC (Home)",
-                "lastUpdated": "2025-12-15T21:50:49Z",
+                "lastUpdated": "2025-12-15T22:08:09Z",
                 "referee": "Simon Hooper",
                 "season": 16,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
-        "finished_today": {
-            "1": {
+                "isRecent": true
+            },
+            {
                 "id": 544366,
                 "home": "Rayo Vallecano",
                 "away": "Real Betis",
@@ -1432,7 +1431,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "2": {
+            {
                 "id": 536957,
                 "home": "Roma",
                 "away": "Como 1907",
@@ -1463,7 +1462,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             }
-        },
+        ],
         "today": [],
         "tomorrow": [],
         "upcoming": {
@@ -2747,29 +2746,37 @@
     },
     "stats": {
         "total_matches": 44,
-        "live_matches": 1,
+        "live_matches": 0,
         "today_matches": 0,
         "tomorrow_matches": 0,
-        "finished_today": 2,
+        "finished_today": 3,
         "finished_recent": 0
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 55,
-        "current_time_local": "2025-12-16 03:39:03"
+        "from_cache": false,
+        "api_call_time_ms": 4050.97,
+        "current_time_local": "2025-12-16 03:40:08",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-15 22:08:08",
-        "api_call_time": 4325.82
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-15 22:09:03",
-    "generated_at": "2025-12-15 22:09:03 UTC",
+    "last_updated": "2025-12-15 22:10:08",
+    "generated_at": "2025-12-15 22:10:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 104121,
+        "file_size": 104285,
         "file_path": "matches.json"
     }
 }
