@@ -71,7 +71,7 @@
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/87.png",
             "awayLogo": "https:\/\/crests.football-data.org\/90.png",
-            "status": "IN_PLAY",
+            "status": "PAUSED",
             "utcDate": "2025-12-15T20:00:00Z",
             "localDate": "2025-12-16 01:30:00",
             "localTime": "01:30",
@@ -87,7 +87,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Rayo Vallecano de Madrid (Home)",
-            "lastUpdated": "2025-12-15T20:05:32Z",
+            "lastUpdated": "2025-12-15T20:59:32Z",
             "referee": "Ricardo de Burgos",
             "season": 16,
             "group": null,
@@ -1438,7 +1438,7 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/87.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/90.png",
-                "status": "IN_PLAY",
+                "status": "PAUSED",
                 "utcDate": "2025-12-15T20:00:00Z",
                 "localDate": "2025-12-16 01:30:00",
                 "localTime": "01:30",
@@ -1454,7 +1454,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Rayo Vallecano de Madrid (Home)",
-                "lastUpdated": "2025-12-15T20:05:32Z",
+                "lastUpdated": "2025-12-15T20:59:32Z",
                 "referee": "Ricardo de Burgos",
                 "season": 16,
                 "group": null,
@@ -2764,19 +2764,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 3347.5,
-        "current_time_local": "2025-12-16 02:29:06",
+        "api_call_time_ms": 4035.48,
+        "current_time_local": "2025-12-16 02:30:15",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-15 20:59:06",
-    "generated_at": "2025-12-15 20:59:06 UTC",
+    "last_updated": "2025-12-15 21:00:15",
+    "generated_at": "2025-12-15 21:00:15 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 104222,
+        "file_size": 104221,
         "file_path": "matches.json"
     }
 }
