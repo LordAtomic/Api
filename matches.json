@@ -37,7 +37,7 @@
             "home": "Man United",
             "away": "Bournemouth",
             "homeScore": 1,
-            "awayScore": 0,
+            "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/66.png",
             "awayLogo": "https:\/\/crests.football-data.org\/bournemouth.png",
             "status": "IN_PLAY",
@@ -56,7 +56,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Manchester United FC (Home)",
-            "lastUpdated": "2025-12-15T20:18:52Z",
+            "lastUpdated": "2025-12-15T20:45:31Z",
             "referee": "Simon Hooper",
             "season": 16,
             "group": null,
@@ -1404,7 +1404,7 @@
                 "home": "Man United",
                 "away": "Bournemouth",
                 "homeScore": 1,
-                "awayScore": 0,
+                "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/66.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/bournemouth.png",
                 "status": "IN_PLAY",
@@ -1423,7 +1423,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Manchester United FC (Home)",
-                "lastUpdated": "2025-12-15T20:18:52Z",
+                "lastUpdated": "2025-12-15T20:45:31Z",
                 "referee": "Simon Hooper",
                 "season": 16,
                 "group": null,
@@ -2754,21 +2754,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 55,
-        "current_time_local": "2025-12-16 02:15:03"
+        "from_cache": false,
+        "api_call_time_ms": 4083.03,
+        "current_time_local": "2025-12-16 02:16:07",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-15 20:44:08",
-        "api_call_time": 4271.98
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-15 20:45:03",
-    "generated_at": "2025-12-15 20:45:03 UTC",
+    "last_updated": "2025-12-15 20:46:07",
+    "generated_at": "2025-12-15 20:46:07 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 104061,
+        "file_size": 104223,
         "file_path": "matches.json"
     }
 }
