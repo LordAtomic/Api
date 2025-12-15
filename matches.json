@@ -9,7 +9,7 @@
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/100.png",
             "awayLogo": "https:\/\/crests.football-data.org\/7397.png",
-            "status": "IN_PLAY",
+            "status": "PAUSED",
             "utcDate": "2025-12-15T19:45:00Z",
             "localDate": "2025-12-16 01:15:00",
             "localTime": "01:15",
@@ -25,7 +25,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "AS Roma (Home)",
-            "lastUpdated": "2025-12-15T19:50:05Z",
+            "lastUpdated": "2025-12-15T20:41:31Z",
             "referee": "Ermanno Feliciani",
             "season": 15,
             "group": null,
@@ -1376,7 +1376,7 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/100.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/7397.png",
-                "status": "IN_PLAY",
+                "status": "PAUSED",
                 "utcDate": "2025-12-15T19:45:00Z",
                 "localDate": "2025-12-16 01:15:00",
                 "localTime": "01:15",
@@ -1392,7 +1392,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "AS Roma (Home)",
-                "lastUpdated": "2025-12-15T19:50:05Z",
+                "lastUpdated": "2025-12-15T20:41:31Z",
                 "referee": "Ermanno Feliciani",
                 "season": 15,
                 "group": null,
@@ -2754,21 +2754,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 54,
-        "current_time_local": "2025-12-16 02:11:03"
+        "from_cache": false,
+        "api_call_time_ms": 4347.47,
+        "current_time_local": "2025-12-16 02:12:11",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-15 20:40:09",
-        "api_call_time": 5087.74
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-15 20:41:03",
-    "generated_at": "2025-12-15 20:41:03 UTC",
+    "last_updated": "2025-12-15 20:42:11",
+    "generated_at": "2025-12-15 20:42:11 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 104063,
+        "file_size": 104223,
         "file_path": "matches.json"
     }
 }
