@@ -2,6 +2,37 @@
     "success": true,
     "matches": [
         {
+            "id": 544364,
+            "home": "Levante",
+            "away": "Villarreal",
+            "homeScore": 0,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/88.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/94.png",
+            "status": "POSTPONED",
+            "utcDate": "2025-12-14T00:00:00Z",
+            "localDate": "2025-12-14 05:30:00",
+            "localTime": "05:30",
+            "matchday": 16,
+            "competition": "Primera Division",
+            "competitionCode": "PD",
+            "isLive": false,
+            "isFinished": false,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "upcoming",
+            "venue": "Levante UD (Home)",
+            "lastUpdated": "2025-12-14T16:30:04Z",
+            "referee": null,
+            "season": 16,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
+        },
+        {
             "id": 537942,
             "home": "Man United",
             "away": "Bournemouth",
@@ -30,7 +61,7 @@
             "season": 16,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": true
+            "isRecent": false
         },
         {
             "id": 544366,
@@ -58,37 +89,6 @@
             "venue": "Rayo Vallecano de Madrid (Home)",
             "lastUpdated": "2025-12-15T22:05:29Z",
             "referee": "Ricardo de Burgos",
-            "season": 16,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": true
-        },
-        {
-            "id": 544364,
-            "home": "Levante",
-            "away": "Villarreal",
-            "homeScore": 0,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/88.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/94.png",
-            "status": "POSTPONED",
-            "utcDate": "2025-12-14T00:00:00Z",
-            "localDate": "2025-12-14 05:30:00",
-            "localTime": "05:30",
-            "matchday": 16,
-            "competition": "Primera Division",
-            "competitionCode": "PD",
-            "isLive": false,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "upcoming",
-            "venue": "Levante UD (Home)",
-            "lastUpdated": "2025-12-14T16:30:04Z",
-            "referee": null,
             "season": 16,
             "group": null,
             "minutesUntilStart": null,
@@ -804,7 +804,7 @@
             "referee": null,
             "season": 14,
             "group": null,
-            "minutesUntilStart": 5371,
+            "minutesUntilStart": 5370,
             "isRecent": false
         },
         {
@@ -835,14 +835,14 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 5401,
+            "minutesUntilStart": 5400,
             "isRecent": false
         }
     ],
     "grouped_matches": {
         "live": [],
         "finished_today": {
-            "0": {
+            "1": {
                 "id": 537942,
                 "home": "Man United",
                 "away": "Bournemouth",
@@ -871,9 +871,9 @@
                 "season": 16,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
-            "1": {
+            "2": {
                 "id": 544366,
                 "home": "Rayo Vallecano",
                 "away": "Real Betis",
@@ -902,7 +902,7 @@
                 "season": 16,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
             "3": {
                 "id": 536957,
@@ -966,7 +966,7 @@
                 "referee": null,
                 "season": 14,
                 "group": null,
-                "minutesUntilStart": 5371,
+                "minutesUntilStart": 5370,
                 "isRecent": false
             },
             "26": {
@@ -997,12 +997,12 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 5401,
+                "minutesUntilStart": 5400,
                 "isRecent": false
             }
         },
-        "upcoming": {
-            "2": {
+        "upcoming": [
+            {
                 "id": 544364,
                 "home": "Levante",
                 "away": "Villarreal",
@@ -1033,7 +1033,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             }
-        },
+        ],
         "finished_yesterday": {
             "4": {
                 "id": 544361,
@@ -1701,29 +1701,21 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competitions_fetched": [
-            "PL",
-            "PD",
-            "BL1",
-            "SA",
-            "FL1"
-        ],
-        "competition_name": "All Major Leagues",
+        "competition_name": "Unknown Competition",
         "timezone": "Asia\/Kolkata",
-        "from_cache": false,
-        "api_call_time_ms": 3184.54,
-        "current_time_local": "2025-12-16 07:29:10",
-        "api_errors": []
+        "from_cache": true,
+        "cache_age_seconds": 55,
+        "current_time_local": "2025-12-16 07:30:05"
     },
     "cache_info": {
-        "cache_written": true,
-        "cache_file": "matches_cache.json"
+        "cached_at": "2025-12-16 01:59:10",
+        "api_call_time": 3198.24
     },
-    "last_updated": "2025-12-16 01:59:10",
-    "generated_at": "2025-12-16 01:59:10 UTC",
+    "last_updated": "2025-12-16 02:00:05",
+    "generated_at": "2025-12-16 02:00:05 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 64478,
+        "file_size": 64315,
         "file_path": "matches.json"
     }
 }
