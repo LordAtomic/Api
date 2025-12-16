@@ -804,7 +804,7 @@
             "referee": null,
             "season": 14,
             "group": null,
-            "minutesUntilStart": 4160,
+            "minutesUntilStart": 4159,
             "isRecent": false
         },
         {
@@ -835,7 +835,7 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 4190,
+            "minutesUntilStart": 4189,
             "isRecent": false
         }
     ],
@@ -872,7 +872,7 @@
                 "referee": null,
                 "season": 14,
                 "group": null,
-                "minutesUntilStart": 4160,
+                "minutesUntilStart": 4159,
                 "isRecent": false
             },
             "26": {
@@ -903,7 +903,7 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 4190,
+                "minutesUntilStart": 4189,
                 "isRecent": false
             }
         },
@@ -1700,21 +1700,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 57,
-        "current_time_local": "2025-12-17 03:40:04"
+        "from_cache": false,
+        "api_call_time_ms": 3195.87,
+        "current_time_local": "2025-12-17 03:41:06",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-16 22:09:07",
-        "api_call_time": 4679.45
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-16 22:10:04",
-    "generated_at": "2025-12-16 22:10:04 UTC",
+    "last_updated": "2025-12-16 22:11:06",
+    "generated_at": "2025-12-16 22:11:06 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 64253,
+        "file_size": 64415,
         "file_path": "matches.json"
     }
 }
