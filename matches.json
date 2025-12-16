@@ -804,7 +804,7 @@
             "referee": null,
             "season": 14,
             "group": null,
-            "minutesUntilStart": 4291,
+            "minutesUntilStart": 4290,
             "isRecent": false
         },
         {
@@ -828,14 +828,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "3 days",
+            "timeUntilStart": "2 days",
             "dayCategory": "tomorrow",
             "venue": "Valencia CF (Home)",
             "lastUpdated": "2025-12-14T01:32:01Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 4321,
+            "minutesUntilStart": 4320,
             "isRecent": false
         }
     ],
@@ -872,7 +872,7 @@
                 "referee": null,
                 "season": 14,
                 "group": null,
-                "minutesUntilStart": 4291,
+                "minutesUntilStart": 4290,
                 "isRecent": false
             },
             "26": {
@@ -896,14 +896,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "3 days",
+                "timeUntilStart": "2 days",
                 "dayCategory": "tomorrow",
                 "venue": "Valencia CF (Home)",
                 "lastUpdated": "2025-12-14T01:32:01Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 4321,
+                "minutesUntilStart": 4320,
                 "isRecent": false
             }
         },
@@ -1700,21 +1700,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 55,
-        "current_time_local": "2025-12-17 01:29:03"
+        "from_cache": false,
+        "api_call_time_ms": 5561.7,
+        "current_time_local": "2025-12-17 01:30:10",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-16 19:58:08",
-        "api_call_time": 4891.29
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-16 19:59:03",
-    "generated_at": "2025-12-16 19:59:03 UTC",
+    "last_updated": "2025-12-16 20:00:10",
+    "generated_at": "2025-12-16 20:00:10 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 64253,
+        "file_size": 64414,
         "file_path": "matches.json"
     }
 }
