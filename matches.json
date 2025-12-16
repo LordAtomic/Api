@@ -64,37 +64,6 @@
             "isRecent": true
         },
         {
-            "id": 536957,
-            "home": "Roma",
-            "away": "Como 1907",
-            "homeScore": 1,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/100.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/7397.png",
-            "status": "FINISHED",
-            "utcDate": "2025-12-15T19:45:00Z",
-            "localDate": "2025-12-16 01:15:00",
-            "localTime": "01:15",
-            "matchday": 15,
-            "competition": "Serie A",
-            "competitionCode": "SA",
-            "isLive": false,
-            "isFinished": true,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "finished_today",
-            "venue": "AS Roma (Home)",
-            "lastUpdated": "2025-12-15T21:48:48Z",
-            "referee": "Ermanno Feliciani",
-            "season": 15,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": true
-        },
-        {
             "id": 544364,
             "home": "Levante",
             "away": "Villarreal",
@@ -121,6 +90,37 @@
             "lastUpdated": "2025-12-14T16:30:04Z",
             "referee": null,
             "season": 16,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
+        },
+        {
+            "id": 536957,
+            "home": "Roma",
+            "away": "Como 1907",
+            "homeScore": 1,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/100.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/7397.png",
+            "status": "FINISHED",
+            "utcDate": "2025-12-15T19:45:00Z",
+            "localDate": "2025-12-16 01:15:00",
+            "localTime": "01:15",
+            "matchday": 15,
+            "competition": "Serie A",
+            "competitionCode": "SA",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_today",
+            "venue": "AS Roma (Home)",
+            "lastUpdated": "2025-12-15T21:48:48Z",
+            "referee": "Ermanno Feliciani",
+            "season": 15,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -804,7 +804,7 @@
             "referee": null,
             "season": 14,
             "group": null,
-            "minutesUntilStart": 5386,
+            "minutesUntilStart": 5385,
             "isRecent": false
         },
         {
@@ -835,14 +835,14 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 5416,
+            "minutesUntilStart": 5415,
             "isRecent": false
         }
     ],
     "grouped_matches": {
         "live": [],
-        "finished_today": [
-            {
+        "finished_today": {
+            "0": {
                 "id": 537942,
                 "home": "Man United",
                 "away": "Bournemouth",
@@ -873,7 +873,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            {
+            "1": {
                 "id": 544366,
                 "home": "Rayo Vallecano",
                 "away": "Real Betis",
@@ -904,7 +904,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            {
+            "3": {
                 "id": 536957,
                 "home": "Roma",
                 "away": "Como 1907",
@@ -933,9 +933,9 @@
                 "season": 15,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             }
-        ],
+        },
         "today": [],
         "tomorrow": {
             "25": {
@@ -966,7 +966,7 @@
                 "referee": null,
                 "season": 14,
                 "group": null,
-                "minutesUntilStart": 5386,
+                "minutesUntilStart": 5385,
                 "isRecent": false
             },
             "26": {
@@ -997,12 +997,12 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 5416,
+                "minutesUntilStart": 5415,
                 "isRecent": false
             }
         },
         "upcoming": {
-            "3": {
+            "2": {
                 "id": 544364,
                 "home": "Levante",
                 "away": "Villarreal",
@@ -1701,29 +1701,21 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competitions_fetched": [
-            "PL",
-            "PD",
-            "BL1",
-            "SA",
-            "FL1"
-        ],
-        "competition_name": "All Major Leagues",
+        "competition_name": "Unknown Competition",
         "timezone": "Asia\/Kolkata",
-        "from_cache": false,
-        "api_call_time_ms": 3383.33,
-        "current_time_local": "2025-12-16 07:14:06",
-        "api_errors": []
+        "from_cache": true,
+        "cache_age_seconds": 57,
+        "current_time_local": "2025-12-16 07:15:03"
     },
     "cache_info": {
-        "cache_written": true,
-        "cache_file": "matches_cache.json"
+        "cached_at": "2025-12-16 01:44:06",
+        "api_call_time": 3383.33
     },
-    "last_updated": "2025-12-16 01:44:06",
-    "generated_at": "2025-12-16 01:44:06 UTC",
+    "last_updated": "2025-12-16 01:45:03",
+    "generated_at": "2025-12-16 01:45:03 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 64461,
+        "file_size": 64316,
         "file_path": "matches.json"
     }
 }
