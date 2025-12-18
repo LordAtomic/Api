@@ -22,7 +22,7 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 23m",
+            "timeUntilStart": "21h 22m",
             "dayCategory": "tomorrow",
             "venue": "Borussia Dortmund (Home)",
             "lastUpdated": "2025-12-13T01:32:02Z",
@@ -53,7 +53,7 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 53m",
+            "timeUntilStart": "21h 52m",
             "dayCategory": "tomorrow",
             "venue": "Valencia CF (Home)",
             "lastUpdated": "2025-12-14T01:32:01Z",
@@ -772,7 +772,7 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 23m",
+                "timeUntilStart": "21h 22m",
                 "dayCategory": "tomorrow",
                 "venue": "Borussia Dortmund (Home)",
                 "lastUpdated": "2025-12-13T01:32:02Z",
@@ -803,7 +803,7 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 53m",
+                "timeUntilStart": "21h 52m",
                 "dayCategory": "tomorrow",
                 "venue": "Valencia CF (Home)",
                 "lastUpdated": "2025-12-14T01:32:01Z",
@@ -1511,31 +1511,21 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competitions_fetched": [
-            "PL",
-            "PD",
-            "BL1",
-            "SA",
-            "FL1"
-        ],
-        "competition_name": "All Major Leagues",
+        "competition_name": "Unknown Competition",
         "timezone": "Asia\/Kolkata",
-        "from_cache": false,
-        "api_call_time_ms": 35572.03,
-        "current_time_local": "2025-12-19 03:36:38",
-        "api_errors": [
-            "Failed to fetch data from PL"
-        ]
+        "from_cache": true,
+        "cache_age_seconds": 25,
+        "current_time_local": "2025-12-19 03:37:03"
     },
     "cache_info": {
-        "cache_written": true,
-        "cache_file": "matches_cache.json"
+        "cached_at": "2025-12-18 22:06:38",
+        "api_call_time": 35572.03
     },
-    "last_updated": "2025-12-18 22:06:38",
-    "generated_at": "2025-12-18 22:06:38 UTC",
+    "last_updated": "2025-12-18 22:07:03",
+    "generated_at": "2025-12-18 22:07:03 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 56618,
+        "file_size": 56404,
         "file_path": "matches.json"
     }
 }
