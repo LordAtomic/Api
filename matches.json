@@ -2193,29 +2193,21 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competitions_fetched": [
-            "PL",
-            "PD",
-            "BL1",
-            "SA",
-            "FL1"
-        ],
-        "competition_name": "All Major Leagues",
+        "competition_name": "Unknown Competition",
         "timezone": "Asia\/Kolkata",
-        "from_cache": false,
-        "api_call_time_ms": 3857.29,
-        "current_time_local": "2025-12-19 23:54:07",
-        "api_errors": []
+        "from_cache": true,
+        "cache_age_seconds": 8,
+        "current_time_local": "2025-12-19 23:54:15"
     },
     "cache_info": {
-        "cache_written": true,
-        "cache_file": "matches_cache.json"
+        "cached_at": "2025-12-19 18:24:07",
+        "api_call_time": 4337.99
     },
-    "last_updated": "2025-12-19 18:24:07",
-    "generated_at": "2025-12-19 18:24:07 UTC",
+    "last_updated": "2025-12-19 18:24:15",
+    "generated_at": "2025-12-19 18:24:15 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 82179,
+        "file_size": 82016,
         "file_path": "matches.json"
     }
 }
