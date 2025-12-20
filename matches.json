@@ -2,6 +2,37 @@
     "success": true,
     "matches": [
         {
+            "id": 536971,
+            "home": "Juventus",
+            "away": "Roma",
+            "homeScore": 0,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/109.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/100.png",
+            "status": "IN_PLAY",
+            "utcDate": "2025-12-20T19:45:00Z",
+            "localDate": "2025-12-21 01:15:00",
+            "localTime": "01:15",
+            "matchday": 16,
+            "competition": "Serie A",
+            "competitionCode": "SA",
+            "isLive": true,
+            "isFinished": false,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "live",
+            "venue": "Juventus FC (Home)",
+            "lastUpdated": "2025-12-20T19:50:28Z",
+            "referee": "Simone Sozza",
+            "season": 16,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
+        },
+        {
             "id": 537953,
             "home": "Tottenham",
             "away": "Liverpool",
@@ -560,37 +591,6 @@
             "isRecent": false
         },
         {
-            "id": 536971,
-            "home": "Juventus",
-            "away": "Roma",
-            "homeScore": 0,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/109.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/100.png",
-            "status": "TIMED",
-            "utcDate": "2025-12-20T19:45:00Z",
-            "localDate": "2025-12-21 01:15:00",
-            "localTime": "01:15",
-            "matchday": 16,
-            "competition": "Serie A",
-            "competitionCode": "SA",
-            "isLive": false,
-            "isFinished": false,
-            "isToday": true,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "today",
-            "venue": "Juventus FC (Home)",
-            "lastUpdated": "2025-12-15T01:32:01Z",
-            "referee": "Simone Sozza",
-            "season": 16,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 537948,
             "home": "Everton",
             "away": "Arsenal",
@@ -611,14 +611,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "8m",
+            "timeUntilStart": "7m",
             "dayCategory": "today",
             "venue": "Everton FC (Home)",
             "lastUpdated": "2025-12-15T01:32:01Z",
             "referee": "Sam Barrott",
             "season": 17,
             "group": null,
-            "minutesUntilStart": 9,
+            "minutesUntilStart": 8,
             "isRecent": false
         },
         {
@@ -642,14 +642,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "8m",
+            "timeUntilStart": "7m",
             "dayCategory": "today",
             "venue": "Leeds United FC (Home)",
             "lastUpdated": "2025-12-20T00:21:00Z",
             "referee": "Thomas Bramall",
             "season": 17,
             "group": null,
-            "minutesUntilStart": 9,
+            "minutesUntilStart": 8,
             "isRecent": false
         },
         {
@@ -673,14 +673,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "8m",
+            "timeUntilStart": "7m",
             "dayCategory": "today",
             "venue": "Real Madrid CF (Home)",
             "lastUpdated": "2025-12-20T00:21:00Z",
             "referee": "Alejandro Mu\u00f1iz Ruiz",
             "season": 17,
             "group": null,
-            "minutesUntilStart": 9,
+            "minutesUntilStart": 8,
             "isRecent": false
         },
         {
@@ -704,14 +704,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "15h 38m",
+            "timeUntilStart": "15h 37m",
             "dayCategory": "today",
             "venue": "Cagliari Calcio (Home)",
             "lastUpdated": "2025-12-15T01:32:01Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 939,
+            "minutesUntilStart": 938,
             "isRecent": false
         },
         {
@@ -735,14 +735,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "17h 8m",
+            "timeUntilStart": "17h 7m",
             "dayCategory": "today",
             "venue": "Girona FC (Home)",
             "lastUpdated": "2025-12-15T01:32:01Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1029,
+            "minutesUntilStart": 1028,
             "isRecent": false
         },
         {
@@ -766,14 +766,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "18h 8m",
+            "timeUntilStart": "18h 7m",
             "dayCategory": "today",
             "venue": "US Sassuolo Calcio (Home)",
             "lastUpdated": "2025-12-15T01:32:01Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1089,
+            "minutesUntilStart": 1088,
             "isRecent": false
         },
         {
@@ -797,14 +797,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "18h 38m",
+            "timeUntilStart": "18h 37m",
             "dayCategory": "today",
             "venue": "1. FSV Mainz 05 (Home)",
             "lastUpdated": "2025-12-15T01:32:01Z",
             "referee": null,
             "season": 15,
             "group": null,
-            "minutesUntilStart": 1119,
+            "minutesUntilStart": 1118,
             "isRecent": false
         },
         {
@@ -828,14 +828,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "19h 23m",
+            "timeUntilStart": "19h 22m",
             "dayCategory": "today",
             "venue": "Villarreal CF (Home)",
             "lastUpdated": "2025-12-15T01:32:01Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1164,
+            "minutesUntilStart": 1163,
             "isRecent": false
         },
         {
@@ -859,14 +859,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "20h 38m",
+            "timeUntilStart": "20h 37m",
             "dayCategory": "today",
             "venue": "Aston Villa FC (Home)",
             "lastUpdated": "2025-12-20T00:21:00Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1239,
+            "minutesUntilStart": 1238,
             "isRecent": false
         },
         {
@@ -890,14 +890,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "20h 38m",
+            "timeUntilStart": "20h 37m",
             "dayCategory": "today",
             "venue": "1. FC Heidenheim 1846 (Home)",
             "lastUpdated": "2025-12-15T01:32:01Z",
             "referee": null,
             "season": 15,
             "group": null,
-            "minutesUntilStart": 1239,
+            "minutesUntilStart": 1238,
             "isRecent": false
         },
         {
@@ -921,14 +921,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 8m",
+            "timeUntilStart": "21h 7m",
             "dayCategory": "today",
             "venue": "ACF Fiorentina (Home)",
             "lastUpdated": "2025-12-15T01:32:01Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1269,
+            "minutesUntilStart": 1268,
             "isRecent": false
         },
         {
@@ -952,14 +952,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 38m",
+            "timeUntilStart": "21h 37m",
             "dayCategory": "today",
             "venue": "Elche CF (Home)",
             "lastUpdated": "2025-12-15T01:32:02Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1299,
+            "minutesUntilStart": 1298,
             "isRecent": false
         },
         {
@@ -983,14 +983,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "23h 53m",
+            "timeUntilStart": "23h 52m",
             "dayCategory": "tomorrow",
             "venue": "Genoa CFC (Home)",
             "lastUpdated": "2025-12-15T01:32:02Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1434,
+            "minutesUntilStart": 1433,
             "isRecent": false
         },
         {
@@ -1021,7 +1021,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1449,
+            "minutesUntilStart": 1448,
             "isRecent": false
         },
         {
@@ -1052,7 +1052,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 2889,
+            "minutesUntilStart": 2888,
             "isRecent": false
         },
         {
@@ -1083,15 +1083,13 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 2889,
+            "minutesUntilStart": 2888,
             "isRecent": false
         }
     ],
     "grouped_matches": {
-        "live": [],
-        "finished_today": [],
-        "today": {
-            "18": {
+        "live": [
+            {
                 "id": 536971,
                 "home": "Juventus",
                 "away": "Roma",
@@ -1099,29 +1097,32 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/109.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/100.png",
-                "status": "TIMED",
+                "status": "IN_PLAY",
                 "utcDate": "2025-12-20T19:45:00Z",
                 "localDate": "2025-12-21 01:15:00",
                 "localTime": "01:15",
                 "matchday": 16,
                 "competition": "Serie A",
                 "competitionCode": "SA",
-                "isLive": false,
+                "isLive": true,
                 "isFinished": false,
-                "isToday": true,
+                "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "today",
+                "dayCategory": "live",
                 "venue": "Juventus FC (Home)",
-                "lastUpdated": "2025-12-15T01:32:01Z",
+                "lastUpdated": "2025-12-20T19:50:28Z",
                 "referee": "Simone Sozza",
                 "season": 16,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
-            },
+            }
+        ],
+        "finished_today": [],
+        "today": {
             "19": {
                 "id": 537948,
                 "home": "Everton",
@@ -1143,14 +1144,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "8m",
+                "timeUntilStart": "7m",
                 "dayCategory": "today",
                 "venue": "Everton FC (Home)",
                 "lastUpdated": "2025-12-15T01:32:01Z",
                 "referee": "Sam Barrott",
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 9,
+                "minutesUntilStart": 8,
                 "isRecent": false
             },
             "20": {
@@ -1174,14 +1175,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "8m",
+                "timeUntilStart": "7m",
                 "dayCategory": "today",
                 "venue": "Leeds United FC (Home)",
                 "lastUpdated": "2025-12-20T00:21:00Z",
                 "referee": "Thomas Bramall",
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 9,
+                "minutesUntilStart": 8,
                 "isRecent": false
             },
             "21": {
@@ -1205,14 +1206,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "8m",
+                "timeUntilStart": "7m",
                 "dayCategory": "today",
                 "venue": "Real Madrid CF (Home)",
                 "lastUpdated": "2025-12-20T00:21:00Z",
                 "referee": "Alejandro Mu\u00f1iz Ruiz",
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 9,
+                "minutesUntilStart": 8,
                 "isRecent": false
             },
             "22": {
@@ -1236,14 +1237,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "15h 38m",
+                "timeUntilStart": "15h 37m",
                 "dayCategory": "today",
                 "venue": "Cagliari Calcio (Home)",
                 "lastUpdated": "2025-12-15T01:32:01Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 939,
+                "minutesUntilStart": 938,
                 "isRecent": false
             },
             "23": {
@@ -1267,14 +1268,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "17h 8m",
+                "timeUntilStart": "17h 7m",
                 "dayCategory": "today",
                 "venue": "Girona FC (Home)",
                 "lastUpdated": "2025-12-15T01:32:01Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1029,
+                "minutesUntilStart": 1028,
                 "isRecent": false
             },
             "24": {
@@ -1298,14 +1299,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "18h 8m",
+                "timeUntilStart": "18h 7m",
                 "dayCategory": "today",
                 "venue": "US Sassuolo Calcio (Home)",
                 "lastUpdated": "2025-12-15T01:32:01Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1089,
+                "minutesUntilStart": 1088,
                 "isRecent": false
             },
             "25": {
@@ -1329,14 +1330,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "18h 38m",
+                "timeUntilStart": "18h 37m",
                 "dayCategory": "today",
                 "venue": "1. FSV Mainz 05 (Home)",
                 "lastUpdated": "2025-12-15T01:32:01Z",
                 "referee": null,
                 "season": 15,
                 "group": null,
-                "minutesUntilStart": 1119,
+                "minutesUntilStart": 1118,
                 "isRecent": false
             },
             "26": {
@@ -1360,14 +1361,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "19h 23m",
+                "timeUntilStart": "19h 22m",
                 "dayCategory": "today",
                 "venue": "Villarreal CF (Home)",
                 "lastUpdated": "2025-12-15T01:32:01Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1164,
+                "minutesUntilStart": 1163,
                 "isRecent": false
             },
             "27": {
@@ -1391,14 +1392,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "20h 38m",
+                "timeUntilStart": "20h 37m",
                 "dayCategory": "today",
                 "venue": "Aston Villa FC (Home)",
                 "lastUpdated": "2025-12-20T00:21:00Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1239,
+                "minutesUntilStart": 1238,
                 "isRecent": false
             },
             "28": {
@@ -1422,14 +1423,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "20h 38m",
+                "timeUntilStart": "20h 37m",
                 "dayCategory": "today",
                 "venue": "1. FC Heidenheim 1846 (Home)",
                 "lastUpdated": "2025-12-15T01:32:01Z",
                 "referee": null,
                 "season": 15,
                 "group": null,
-                "minutesUntilStart": 1239,
+                "minutesUntilStart": 1238,
                 "isRecent": false
             },
             "29": {
@@ -1453,14 +1454,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 8m",
+                "timeUntilStart": "21h 7m",
                 "dayCategory": "today",
                 "venue": "ACF Fiorentina (Home)",
                 "lastUpdated": "2025-12-15T01:32:01Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1269,
+                "minutesUntilStart": 1268,
                 "isRecent": false
             },
             "30": {
@@ -1484,14 +1485,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 38m",
+                "timeUntilStart": "21h 37m",
                 "dayCategory": "today",
                 "venue": "Elche CF (Home)",
                 "lastUpdated": "2025-12-15T01:32:02Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1299,
+                "minutesUntilStart": 1298,
                 "isRecent": false
             }
         },
@@ -1517,14 +1518,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "23h 53m",
+                "timeUntilStart": "23h 52m",
                 "dayCategory": "tomorrow",
                 "venue": "Genoa CFC (Home)",
                 "lastUpdated": "2025-12-15T01:32:02Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1434,
+                "minutesUntilStart": 1433,
                 "isRecent": false
             },
             "32": {
@@ -1555,7 +1556,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1449,
+                "minutesUntilStart": 1448,
                 "isRecent": false
             },
             "33": {
@@ -1586,7 +1587,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 2889,
+                "minutesUntilStart": 2888,
                 "isRecent": false
             },
             "34": {
@@ -1617,13 +1618,13 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 2889,
+                "minutesUntilStart": 2888,
                 "isRecent": false
             }
         },
         "upcoming": [],
-        "finished_yesterday": [
-            {
+        "finished_yesterday": {
+            "1": {
                 "id": 537953,
                 "home": "Tottenham",
                 "away": "Liverpool",
@@ -1654,7 +1655,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            {
+            "2": {
                 "id": 544376,
                 "home": "Osasuna",
                 "away": "Alav\u00e9s",
@@ -1685,7 +1686,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            {
+            "3": {
                 "id": 540534,
                 "home": "RB Leipzig",
                 "away": "Leverkusen",
@@ -1716,7 +1717,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            {
+            "4": {
                 "id": 536972,
                 "home": "Lazio",
                 "away": "Cremonese",
@@ -1747,7 +1748,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            {
+            "5": {
                 "id": 544374,
                 "home": "Levante",
                 "away": "Real Sociedad",
@@ -1778,7 +1779,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            {
+            "6": {
                 "id": 537945,
                 "home": "Bournemouth",
                 "away": "Burnley",
@@ -1809,7 +1810,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            {
+            "7": {
                 "id": 537947,
                 "home": "Brighton Hove",
                 "away": "Sunderland",
@@ -1840,7 +1841,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            {
+            "8": {
                 "id": 537951,
                 "home": "Man City",
                 "away": "West Ham",
@@ -1871,7 +1872,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            {
+            "9": {
                 "id": 537954,
                 "home": "Wolverhampton",
                 "away": "Brentford",
@@ -1902,7 +1903,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            {
+            "10": {
                 "id": 540535,
                 "home": "Stuttgart",
                 "away": "Hoffenheim",
@@ -1933,7 +1934,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            {
+            "11": {
                 "id": 540536,
                 "home": "Wolfsburg",
                 "away": "Freiburg",
@@ -1964,7 +1965,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            {
+            "12": {
                 "id": 540537,
                 "home": "Augsburg",
                 "away": "Bremen",
@@ -1995,7 +1996,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            {
+            "13": {
                 "id": 540539,
                 "home": "1. FC K\u00f6ln",
                 "away": "Union Berlin",
@@ -2026,7 +2027,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            {
+            "14": {
                 "id": 540540,
                 "home": "HSV",
                 "away": "Frankfurt",
@@ -2057,7 +2058,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            {
+            "15": {
                 "id": 544379,
                 "home": "Real Oviedo",
                 "away": "Celta",
@@ -2088,7 +2089,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            {
+            "16": {
                 "id": 537952,
                 "home": "Newcastle",
                 "away": "Chelsea",
@@ -2119,7 +2120,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            {
+            "17": {
                 "id": 544380,
                 "home": "Valencia",
                 "away": "Mallorca",
@@ -2150,7 +2151,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            {
+            "18": {
                 "id": 540532,
                 "home": "Dortmund",
                 "away": "M'gladbach",
@@ -2181,35 +2182,43 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             }
-        ],
+        },
         "finished_recent": [],
         "finished_older": []
     },
     "stats": {
         "total_matches": 35,
-        "live_matches": 0,
-        "today_matches": 13,
+        "live_matches": 1,
+        "today_matches": 12,
         "tomorrow_matches": 4,
         "finished_today": 0,
         "finished_recent": 0
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 56,
-        "current_time_local": "2025-12-21 01:21:03"
+        "from_cache": false,
+        "api_call_time_ms": 4766.08,
+        "current_time_local": "2025-12-21 01:22:07",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-20 19:50:07",
-        "api_call_time": 4197.64
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-20 19:51:03",
-    "generated_at": "2025-12-20 19:51:03 UTC",
+    "last_updated": "2025-12-20 19:52:07",
+    "generated_at": "2025-12-20 19:52:07 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 82825,
+        "file_size": 83090,
         "file_path": "matches.json"
     }
 }
