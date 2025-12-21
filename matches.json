@@ -119,7 +119,7 @@
             "dayCategory": "finished_yesterday",
             "venue": "1. FC Heidenheim 1846 (Home)",
             "lastUpdated": "2025-12-21T18:28:37Z",
-            "referee": "Florian Badst\u00fcbner",
+            "referee": null,
             "season": 15,
             "group": null,
             "minutesUntilStart": null,
@@ -181,7 +181,7 @@
             "dayCategory": "finished_yesterday",
             "venue": "1. FSV Mainz 05 (Home)",
             "lastUpdated": "2025-12-21T16:28:52Z",
-            "referee": "Matthias J\u00f6llenbeck",
+            "referee": null,
             "season": 15,
             "group": null,
             "minutesUntilStart": null,
@@ -1045,14 +1045,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "22h 13m",
+            "timeUntilStart": "22h 12m",
             "dayCategory": "tomorrow",
             "venue": "Fulham FC (Home)",
             "lastUpdated": "2025-12-21T01:32:00Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1334,
+            "minutesUntilStart": 1333,
             "isRecent": false
         },
         {
@@ -1076,14 +1076,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "22h 13m",
+            "timeUntilStart": "22h 12m",
             "dayCategory": "tomorrow",
             "venue": "Athletic Club (Home)",
             "lastUpdated": "2025-12-21T01:32:00Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1334,
+            "minutesUntilStart": 1333,
             "isRecent": false
         }
     ],
@@ -1176,14 +1176,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "22h 13m",
+                "timeUntilStart": "22h 12m",
                 "dayCategory": "tomorrow",
                 "venue": "Fulham FC (Home)",
                 "lastUpdated": "2025-12-21T01:32:00Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1334,
+                "minutesUntilStart": 1333,
                 "isRecent": false
             },
             "34": {
@@ -1207,14 +1207,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "22h 13m",
+                "timeUntilStart": "22h 12m",
                 "dayCategory": "tomorrow",
                 "venue": "Athletic Club (Home)",
                 "lastUpdated": "2025-12-21T01:32:00Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1334,
+                "minutesUntilStart": 1333,
                 "isRecent": false
             }
         },
@@ -1338,7 +1338,7 @@
                 "dayCategory": "finished_yesterday",
                 "venue": "1. FC Heidenheim 1846 (Home)",
                 "lastUpdated": "2025-12-21T18:28:37Z",
-                "referee": "Florian Badst\u00fcbner",
+                "referee": null,
                 "season": 15,
                 "group": null,
                 "minutesUntilStart": null,
@@ -1400,7 +1400,7 @@
                 "dayCategory": "finished_yesterday",
                 "venue": "1. FSV Mainz 05 (Home)",
                 "lastUpdated": "2025-12-21T16:28:52Z",
-                "referee": "Matthias J\u00f6llenbeck",
+                "referee": null,
                 "season": 15,
                 "group": null,
                 "minutesUntilStart": null,
@@ -2196,29 +2196,21 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competitions_fetched": [
-            "PL",
-            "PD",
-            "BL1",
-            "SA",
-            "FL1"
-        ],
-        "competition_name": "All Major Leagues",
+        "competition_name": "Unknown Competition",
         "timezone": "Asia\/Kolkata",
-        "from_cache": false,
-        "api_call_time_ms": 3372.81,
-        "current_time_local": "2025-12-22 03:16:08",
-        "api_errors": []
+        "from_cache": true,
+        "cache_age_seconds": 54,
+        "current_time_local": "2025-12-22 03:17:03"
     },
     "cache_info": {
-        "cache_written": true,
-        "cache_file": "matches_cache.json"
+        "cached_at": "2025-12-21 21:46:09",
+        "api_call_time": 4089.38
     },
-    "last_updated": "2025-12-21 21:46:08",
-    "generated_at": "2025-12-21 21:46:08 UTC",
+    "last_updated": "2025-12-21 21:47:03",
+    "generated_at": "2025-12-21 21:47:03 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 83298,
+        "file_size": 83066,
         "file_path": "matches.json"
     }
 }
