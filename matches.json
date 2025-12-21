@@ -88,7 +88,7 @@
             "dayCategory": "live",
             "venue": "ACF Fiorentina (Home)",
             "lastUpdated": "2025-12-21T17:58:02Z",
-            "referee": "Maurizio Mariani",
+            "referee": null,
             "season": 16,
             "group": null,
             "minutesUntilStart": null,
@@ -212,7 +212,7 @@
             "dayCategory": "finished_today",
             "venue": "US Sassuolo Calcio (Home)",
             "lastUpdated": "2025-12-21T16:02:32Z",
-            "referee": "Andrea Calzavara",
+            "referee": null,
             "season": 16,
             "group": null,
             "minutesUntilStart": null,
@@ -274,7 +274,7 @@
             "dayCategory": "finished_today",
             "venue": "Cagliari Calcio (Home)",
             "lastUpdated": "2025-12-21T13:30:43Z",
-            "referee": "Francesco Fourneau",
+            "referee": null,
             "season": 16,
             "group": null,
             "minutesUntilStart": null,
@@ -983,14 +983,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 34m",
+            "timeUntilStart": "1h 33m",
             "dayCategory": "tomorrow",
             "venue": "Genoa CFC (Home)",
             "lastUpdated": "2025-12-15T01:32:02Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 95,
+            "minutesUntilStart": 94,
             "isRecent": false
         },
         {
@@ -1014,14 +1014,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 49m",
+            "timeUntilStart": "1h 48m",
             "dayCategory": "tomorrow",
             "venue": "Real Betis Balompi\u00e9 (Home)",
             "lastUpdated": "2025-12-15T01:32:02Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 110,
+            "minutesUntilStart": 109,
             "isRecent": false
         },
         {
@@ -1052,7 +1052,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1550,
+            "minutesUntilStart": 1549,
             "isRecent": false
         },
         {
@@ -1083,7 +1083,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1550,
+            "minutesUntilStart": 1549,
             "isRecent": false
         }
     ],
@@ -1176,7 +1176,7 @@
                 "dayCategory": "live",
                 "venue": "ACF Fiorentina (Home)",
                 "lastUpdated": "2025-12-21T17:58:02Z",
-                "referee": "Maurizio Mariani",
+                "referee": null,
                 "season": 16,
                 "group": null,
                 "minutesUntilStart": null,
@@ -1302,7 +1302,7 @@
                 "dayCategory": "finished_today",
                 "venue": "US Sassuolo Calcio (Home)",
                 "lastUpdated": "2025-12-21T16:02:32Z",
-                "referee": "Andrea Calzavara",
+                "referee": null,
                 "season": 16,
                 "group": null,
                 "minutesUntilStart": null,
@@ -1364,7 +1364,7 @@
                 "dayCategory": "finished_today",
                 "venue": "Cagliari Calcio (Home)",
                 "lastUpdated": "2025-12-21T13:30:43Z",
-                "referee": "Francesco Fourneau",
+                "referee": null,
                 "season": 16,
                 "group": null,
                 "minutesUntilStart": null,
@@ -1518,14 +1518,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 34m",
+                "timeUntilStart": "1h 33m",
                 "dayCategory": "tomorrow",
                 "venue": "Genoa CFC (Home)",
                 "lastUpdated": "2025-12-15T01:32:02Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 95,
+                "minutesUntilStart": 94,
                 "isRecent": false
             },
             "32": {
@@ -1549,14 +1549,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 49m",
+                "timeUntilStart": "1h 48m",
                 "dayCategory": "tomorrow",
                 "venue": "Real Betis Balompi\u00e9 (Home)",
                 "lastUpdated": "2025-12-15T01:32:02Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 110,
+                "minutesUntilStart": 109,
                 "isRecent": false
             },
             "33": {
@@ -1587,7 +1587,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1550,
+                "minutesUntilStart": 1549,
                 "isRecent": false
             },
             "34": {
@@ -1618,7 +1618,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1550,
+                "minutesUntilStart": 1549,
                 "isRecent": false
             }
         },
@@ -2196,21 +2196,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 56,
-        "current_time_local": "2025-12-21 23:40:03"
+        "from_cache": false,
+        "api_call_time_ms": 3719.04,
+        "current_time_local": "2025-12-21 23:41:07",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-21 18:09:07",
-        "api_call_time": 3998.49
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-21 18:10:03",
-    "generated_at": "2025-12-21 18:10:03 UTC",
+    "last_updated": "2025-12-21 18:11:07",
+    "generated_at": "2025-12-21 18:11:07 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 83390,
+        "file_size": 83464,
         "file_path": "matches.json"
     }
 }
