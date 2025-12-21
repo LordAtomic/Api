@@ -983,14 +983,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 11m",
+            "timeUntilStart": "1h 10m",
             "dayCategory": "today",
             "venue": "Genoa CFC (Home)",
             "lastUpdated": "2025-12-15T01:32:02Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 72,
+            "minutesUntilStart": 71,
             "isRecent": false
         },
         {
@@ -1014,14 +1014,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 26m",
+            "timeUntilStart": "1h 25m",
             "dayCategory": "today",
             "venue": "Real Betis Balompi\u00e9 (Home)",
             "lastUpdated": "2025-12-15T01:32:02Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 87,
+            "minutesUntilStart": 86,
             "isRecent": false
         },
         {
@@ -1052,7 +1052,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1527,
+            "minutesUntilStart": 1526,
             "isRecent": false
         },
         {
@@ -1083,7 +1083,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1527,
+            "minutesUntilStart": 1526,
             "isRecent": false
         }
     ],
@@ -1206,14 +1206,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 11m",
+                "timeUntilStart": "1h 10m",
                 "dayCategory": "today",
                 "venue": "Genoa CFC (Home)",
                 "lastUpdated": "2025-12-15T01:32:02Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 72,
+                "minutesUntilStart": 71,
                 "isRecent": false
             },
             "32": {
@@ -1237,14 +1237,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 26m",
+                "timeUntilStart": "1h 25m",
                 "dayCategory": "today",
                 "venue": "Real Betis Balompi\u00e9 (Home)",
                 "lastUpdated": "2025-12-15T01:32:02Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 87,
+                "minutesUntilStart": 86,
                 "isRecent": false
             }
         },
@@ -1277,7 +1277,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1527,
+                "minutesUntilStart": 1526,
                 "isRecent": false
             },
             "34": {
@@ -1308,7 +1308,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1527,
+                "minutesUntilStart": 1526,
                 "isRecent": false
             }
         },
@@ -2197,29 +2197,21 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competitions_fetched": [
-            "PL",
-            "PD",
-            "BL1",
-            "SA",
-            "FL1"
-        ],
-        "competition_name": "All Major Leagues",
+        "competition_name": "Unknown Competition",
         "timezone": "Asia\/Kolkata",
-        "from_cache": false,
-        "api_call_time_ms": 3474.89,
-        "current_time_local": "2025-12-22 00:03:06",
-        "api_errors": []
+        "from_cache": true,
+        "cache_age_seconds": 58,
+        "current_time_local": "2025-12-22 00:04:04"
     },
     "cache_info": {
-        "cache_written": true,
-        "cache_file": "matches_cache.json"
+        "cached_at": "2025-12-21 18:33:06",
+        "api_call_time": 3595.36
     },
-    "last_updated": "2025-12-21 18:33:06",
-    "generated_at": "2025-12-21 18:33:06 UTC",
+    "last_updated": "2025-12-21 18:34:04",
+    "generated_at": "2025-12-21 18:34:04 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 83307,
+        "file_size": 83145,
         "file_path": "matches.json"
     }
 }
