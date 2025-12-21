@@ -57,8 +57,39 @@
             "dayCategory": "live",
             "venue": "US Sassuolo Calcio (Home)",
             "lastUpdated": "2025-12-21T14:05:05Z",
-            "referee": "Andrea Calzavara",
+            "referee": null,
             "season": 16,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
+        },
+        {
+            "id": 540533,
+            "home": "Mainz",
+            "away": "St. Pauli",
+            "homeScore": 0,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/15.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/20.png",
+            "status": "IN_PLAY",
+            "utcDate": "2025-12-21T14:30:00Z",
+            "localDate": "2025-12-21 20:00:00",
+            "localTime": "20:00",
+            "matchday": 15,
+            "competition": "Bundesliga",
+            "competitionCode": "BL1",
+            "isLive": true,
+            "isFinished": false,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "live",
+            "venue": "1. FSV Mainz 05 (Home)",
+            "lastUpdated": "2025-12-21T14:35:15Z",
+            "referee": null,
+            "season": 15,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -88,7 +119,7 @@
             "dayCategory": "finished_today",
             "venue": "Cagliari Calcio (Home)",
             "lastUpdated": "2025-12-21T13:30:43Z",
-            "referee": "Francesco Fourneau",
+            "referee": null,
             "season": 16,
             "group": null,
             "minutesUntilStart": null,
@@ -777,37 +808,6 @@
             "isRecent": false
         },
         {
-            "id": 540533,
-            "home": "Mainz",
-            "away": "St. Pauli",
-            "homeScore": 0,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/15.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/20.png",
-            "status": "TIMED",
-            "utcDate": "2025-12-21T14:30:00Z",
-            "localDate": "2025-12-21 20:00:00",
-            "localTime": "20:00",
-            "matchday": 15,
-            "competition": "Bundesliga",
-            "competitionCode": "BL1",
-            "isLive": false,
-            "isFinished": false,
-            "isToday": true,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "today",
-            "venue": "1. FSV Mainz 05 (Home)",
-            "lastUpdated": "2025-12-15T01:32:01Z",
-            "referee": "Matthias J\u00f6llenbeck",
-            "season": 15,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 544378,
             "home": "Villarreal",
             "away": "Bar\u00e7a",
@@ -828,14 +828,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "39m",
+            "timeUntilStart": "38m",
             "dayCategory": "today",
             "venue": "Villarreal CF (Home)",
             "lastUpdated": "2025-12-15T01:32:01Z",
             "referee": "Javier Alberola Rojas",
             "season": 17,
             "group": null,
-            "minutesUntilStart": 40,
+            "minutesUntilStart": 39,
             "isRecent": false
         },
         {
@@ -859,14 +859,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 54m",
+            "timeUntilStart": "1h 53m",
             "dayCategory": "today",
             "venue": "Aston Villa FC (Home)",
             "lastUpdated": "2025-12-21T01:32:00Z",
             "referee": "Michael Oliver",
             "season": 17,
             "group": null,
-            "minutesUntilStart": 115,
+            "minutesUntilStart": 114,
             "isRecent": false
         },
         {
@@ -890,14 +890,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 54m",
+            "timeUntilStart": "1h 53m",
             "dayCategory": "today",
             "venue": "1. FC Heidenheim 1846 (Home)",
             "lastUpdated": "2025-12-15T01:32:01Z",
-            "referee": "Florian Badst\u00fcbner",
+            "referee": null,
             "season": 15,
             "group": null,
-            "minutesUntilStart": 115,
+            "minutesUntilStart": 114,
             "isRecent": false
         },
         {
@@ -921,14 +921,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 24m",
+            "timeUntilStart": "2h 23m",
             "dayCategory": "today",
             "venue": "ACF Fiorentina (Home)",
             "lastUpdated": "2025-12-21T01:32:00Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 145,
+            "minutesUntilStart": 144,
             "isRecent": false
         },
         {
@@ -952,14 +952,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 54m",
+            "timeUntilStart": "2h 53m",
             "dayCategory": "today",
             "venue": "Elche CF (Home)",
             "lastUpdated": "2025-12-15T01:32:02Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 175,
+            "minutesUntilStart": 174,
             "isRecent": false
         },
         {
@@ -983,14 +983,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "5h 9m",
+            "timeUntilStart": "5h 8m",
             "dayCategory": "tomorrow",
             "venue": "Genoa CFC (Home)",
             "lastUpdated": "2025-12-15T01:32:02Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 310,
+            "minutesUntilStart": 309,
             "isRecent": false
         },
         {
@@ -1014,14 +1014,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "5h 24m",
+            "timeUntilStart": "5h 23m",
             "dayCategory": "tomorrow",
             "venue": "Real Betis Balompi\u00e9 (Home)",
             "lastUpdated": "2025-12-15T01:32:02Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 325,
+            "minutesUntilStart": 324,
             "isRecent": false
         },
         {
@@ -1052,7 +1052,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1765,
+            "minutesUntilStart": 1764,
             "isRecent": false
         },
         {
@@ -1083,7 +1083,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1765,
+            "minutesUntilStart": 1764,
             "isRecent": false
         }
     ],
@@ -1145,15 +1145,46 @@
                 "dayCategory": "live",
                 "venue": "US Sassuolo Calcio (Home)",
                 "lastUpdated": "2025-12-21T14:05:05Z",
-                "referee": "Andrea Calzavara",
+                "referee": null,
                 "season": 16,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": false
+            },
+            {
+                "id": 540533,
+                "home": "Mainz",
+                "away": "St. Pauli",
+                "homeScore": 0,
+                "awayScore": 0,
+                "homeLogo": "https:\/\/crests.football-data.org\/15.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/20.png",
+                "status": "IN_PLAY",
+                "utcDate": "2025-12-21T14:30:00Z",
+                "localDate": "2025-12-21 20:00:00",
+                "localTime": "20:00",
+                "matchday": 15,
+                "competition": "Bundesliga",
+                "competitionCode": "BL1",
+                "isLive": true,
+                "isFinished": false,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": false,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "live",
+                "venue": "1. FSV Mainz 05 (Home)",
+                "lastUpdated": "2025-12-21T14:35:15Z",
+                "referee": null,
+                "season": 15,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
             }
         ],
         "finished_today": {
-            "2": {
+            "3": {
                 "id": 536966,
                 "home": "Cagliari",
                 "away": "AC Pisa",
@@ -1178,13 +1209,13 @@
                 "dayCategory": "finished_today",
                 "venue": "Cagliari Calcio (Home)",
                 "lastUpdated": "2025-12-21T13:30:43Z",
-                "referee": "Francesco Fourneau",
+                "referee": null,
                 "season": 16,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "3": {
+            "4": {
                 "id": 537948,
                 "home": "Everton",
                 "away": "Arsenal",
@@ -1215,7 +1246,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "4": {
+            "5": {
                 "id": 537950,
                 "home": "Leeds United",
                 "away": "Crystal Palace",
@@ -1246,7 +1277,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "5": {
+            "6": {
                 "id": 544375,
                 "home": "Real Madrid",
                 "away": "Sevilla FC",
@@ -1277,7 +1308,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "6": {
+            "7": {
                 "id": 536971,
                 "home": "Juventus",
                 "away": "Roma",
@@ -1310,37 +1341,6 @@
             }
         },
         "today": {
-            "25": {
-                "id": 540533,
-                "home": "Mainz",
-                "away": "St. Pauli",
-                "homeScore": 0,
-                "awayScore": 0,
-                "homeLogo": "https:\/\/crests.football-data.org\/15.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/20.png",
-                "status": "TIMED",
-                "utcDate": "2025-12-21T14:30:00Z",
-                "localDate": "2025-12-21 20:00:00",
-                "localTime": "20:00",
-                "matchday": 15,
-                "competition": "Bundesliga",
-                "competitionCode": "BL1",
-                "isLive": false,
-                "isFinished": false,
-                "isToday": true,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "today",
-                "venue": "1. FSV Mainz 05 (Home)",
-                "lastUpdated": "2025-12-15T01:32:01Z",
-                "referee": "Matthias J\u00f6llenbeck",
-                "season": 15,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
             "26": {
                 "id": 544378,
                 "home": "Villarreal",
@@ -1362,14 +1362,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "39m",
+                "timeUntilStart": "38m",
                 "dayCategory": "today",
                 "venue": "Villarreal CF (Home)",
                 "lastUpdated": "2025-12-15T01:32:01Z",
                 "referee": "Javier Alberola Rojas",
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 40,
+                "minutesUntilStart": 39,
                 "isRecent": false
             },
             "27": {
@@ -1393,14 +1393,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 54m",
+                "timeUntilStart": "1h 53m",
                 "dayCategory": "today",
                 "venue": "Aston Villa FC (Home)",
                 "lastUpdated": "2025-12-21T01:32:00Z",
                 "referee": "Michael Oliver",
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 115,
+                "minutesUntilStart": 114,
                 "isRecent": false
             },
             "28": {
@@ -1424,14 +1424,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 54m",
+                "timeUntilStart": "1h 53m",
                 "dayCategory": "today",
                 "venue": "1. FC Heidenheim 1846 (Home)",
                 "lastUpdated": "2025-12-15T01:32:01Z",
-                "referee": "Florian Badst\u00fcbner",
+                "referee": null,
                 "season": 15,
                 "group": null,
-                "minutesUntilStart": 115,
+                "minutesUntilStart": 114,
                 "isRecent": false
             },
             "29": {
@@ -1455,14 +1455,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 24m",
+                "timeUntilStart": "2h 23m",
                 "dayCategory": "today",
                 "venue": "ACF Fiorentina (Home)",
                 "lastUpdated": "2025-12-21T01:32:00Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 145,
+                "minutesUntilStart": 144,
                 "isRecent": false
             },
             "30": {
@@ -1486,14 +1486,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 54m",
+                "timeUntilStart": "2h 53m",
                 "dayCategory": "today",
                 "venue": "Elche CF (Home)",
                 "lastUpdated": "2025-12-15T01:32:02Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 175,
+                "minutesUntilStart": 174,
                 "isRecent": false
             }
         },
@@ -1519,14 +1519,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "5h 9m",
+                "timeUntilStart": "5h 8m",
                 "dayCategory": "tomorrow",
                 "venue": "Genoa CFC (Home)",
                 "lastUpdated": "2025-12-15T01:32:02Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 310,
+                "minutesUntilStart": 309,
                 "isRecent": false
             },
             "32": {
@@ -1550,14 +1550,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "5h 24m",
+                "timeUntilStart": "5h 23m",
                 "dayCategory": "tomorrow",
                 "venue": "Real Betis Balompi\u00e9 (Home)",
                 "lastUpdated": "2025-12-15T01:32:02Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 325,
+                "minutesUntilStart": 324,
                 "isRecent": false
             },
             "33": {
@@ -1588,7 +1588,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1765,
+                "minutesUntilStart": 1764,
                 "isRecent": false
             },
             "34": {
@@ -1619,13 +1619,13 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1765,
+                "minutesUntilStart": 1764,
                 "isRecent": false
             }
         },
         "upcoming": [],
         "finished_yesterday": {
-            "7": {
+            "8": {
                 "id": 537953,
                 "home": "Tottenham",
                 "away": "Liverpool",
@@ -1656,7 +1656,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "8": {
+            "9": {
                 "id": 544376,
                 "home": "Osasuna",
                 "away": "Alav\u00e9s",
@@ -1687,7 +1687,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "9": {
+            "10": {
                 "id": 540534,
                 "home": "RB Leipzig",
                 "away": "Leverkusen",
@@ -1718,7 +1718,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "10": {
+            "11": {
                 "id": 536972,
                 "home": "Lazio",
                 "away": "Cremonese",
@@ -1749,7 +1749,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "11": {
+            "12": {
                 "id": 544374,
                 "home": "Levante",
                 "away": "Real Sociedad",
@@ -1780,7 +1780,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "12": {
+            "13": {
                 "id": 537945,
                 "home": "Bournemouth",
                 "away": "Burnley",
@@ -1811,7 +1811,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "13": {
+            "14": {
                 "id": 537947,
                 "home": "Brighton Hove",
                 "away": "Sunderland",
@@ -1842,7 +1842,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "14": {
+            "15": {
                 "id": 537951,
                 "home": "Man City",
                 "away": "West Ham",
@@ -1873,7 +1873,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "15": {
+            "16": {
                 "id": 537954,
                 "home": "Wolverhampton",
                 "away": "Brentford",
@@ -1904,7 +1904,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "16": {
+            "17": {
                 "id": 540535,
                 "home": "Stuttgart",
                 "away": "Hoffenheim",
@@ -1935,7 +1935,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "17": {
+            "18": {
                 "id": 540536,
                 "home": "Wolfsburg",
                 "away": "Freiburg",
@@ -1966,7 +1966,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "18": {
+            "19": {
                 "id": 540537,
                 "home": "Augsburg",
                 "away": "Bremen",
@@ -1997,7 +1997,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "19": {
+            "20": {
                 "id": 540539,
                 "home": "1. FC K\u00f6ln",
                 "away": "Union Berlin",
@@ -2028,7 +2028,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "20": {
+            "21": {
                 "id": 540540,
                 "home": "HSV",
                 "away": "Frankfurt",
@@ -2059,7 +2059,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "21": {
+            "22": {
                 "id": 544379,
                 "home": "Real Oviedo",
                 "away": "Celta",
@@ -2090,7 +2090,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "22": {
+            "23": {
                 "id": 537952,
                 "home": "Newcastle",
                 "away": "Chelsea",
@@ -2121,7 +2121,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "23": {
+            "24": {
                 "id": 544380,
                 "home": "Valencia",
                 "away": "Mallorca",
@@ -2152,7 +2152,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "24": {
+            "25": {
                 "id": 540532,
                 "home": "Dortmund",
                 "away": "M'gladbach",
@@ -2189,29 +2189,37 @@
     },
     "stats": {
         "total_matches": 35,
-        "live_matches": 2,
-        "today_matches": 6,
+        "live_matches": 3,
+        "today_matches": 5,
         "tomorrow_matches": 4,
         "finished_today": 5,
         "finished_recent": 0
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 57,
-        "current_time_local": "2025-12-21 20:05:03"
+        "from_cache": false,
+        "api_call_time_ms": 3611.25,
+        "current_time_local": "2025-12-21 20:06:07",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-21 14:34:06",
-        "api_call_time": 3684.31
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-21 14:35:03",
-    "generated_at": "2025-12-21 14:35:03 UTC",
+    "last_updated": "2025-12-21 14:36:07",
+    "generated_at": "2025-12-21 14:36:07 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 83274,
+        "file_size": 83303,
         "file_path": "matches.json"
     }
 }
