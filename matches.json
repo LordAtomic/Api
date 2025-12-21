@@ -1014,14 +1014,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "14m",
+            "timeUntilStart": "13m",
             "dayCategory": "today",
             "venue": "Real Betis Balompi\u00e9 (Home)",
             "lastUpdated": "2025-12-15T01:32:02Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 15,
+            "minutesUntilStart": 14,
             "isRecent": false
         },
         {
@@ -1052,7 +1052,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1455,
+            "minutesUntilStart": 1454,
             "isRecent": false
         },
         {
@@ -1083,7 +1083,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1455,
+            "minutesUntilStart": 1454,
             "isRecent": false
         }
     ],
@@ -1143,14 +1143,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "14m",
+                "timeUntilStart": "13m",
                 "dayCategory": "today",
                 "venue": "Real Betis Balompi\u00e9 (Home)",
                 "lastUpdated": "2025-12-15T01:32:02Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 15,
+                "minutesUntilStart": 14,
                 "isRecent": false
             }
         },
@@ -1183,7 +1183,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1455,
+                "minutesUntilStart": 1454,
                 "isRecent": false
             },
             "34": {
@@ -1214,7 +1214,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1455,
+                "minutesUntilStart": 1454,
                 "isRecent": false
             }
         },
@@ -2196,21 +2196,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 56,
-        "current_time_local": "2025-12-22 01:15:03"
+        "from_cache": false,
+        "api_call_time_ms": 4076.02,
+        "current_time_local": "2025-12-22 01:16:07",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-21 19:44:07",
-        "api_call_time": 4165.33
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-21 19:45:03",
-    "generated_at": "2025-12-21 19:45:03 UTC",
+    "last_updated": "2025-12-21 19:46:07",
+    "generated_at": "2025-12-21 19:46:07 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 83156,
+        "file_size": 83318,
         "file_path": "matches.json"
     }
 }
