@@ -26,7 +26,7 @@
             "dayCategory": "live",
             "venue": "Elche CF (Home)",
             "lastUpdated": "2025-12-21T19:06:38Z",
-            "referee": null,
+            "referee": "Adri\u00e1n Cordero Vega",
             "season": 17,
             "group": null,
             "minutesUntilStart": null,
@@ -150,7 +150,7 @@
             "dayCategory": "finished_yesterday",
             "venue": "Villarreal CF (Home)",
             "lastUpdated": "2025-12-21T17:16:02Z",
-            "referee": null,
+            "referee": "Javier Alberola Rojas",
             "season": 17,
             "group": null,
             "minutesUntilStart": null,
@@ -243,7 +243,7 @@
             "dayCategory": "finished_yesterday",
             "venue": "Girona FC (Home)",
             "lastUpdated": "2025-12-21T14:58:48Z",
-            "referee": null,
+            "referee": "Jos\u00e9 Luis Guzm\u00e1n Mansilla",
             "season": 17,
             "group": null,
             "minutesUntilStart": null,
@@ -983,14 +983,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "33m",
+            "timeUntilStart": "32m",
             "dayCategory": "today",
             "venue": "Genoa CFC (Home)",
             "lastUpdated": "2025-12-15T01:32:02Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 34,
+            "minutesUntilStart": 33,
             "isRecent": false
         },
         {
@@ -1014,14 +1014,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "48m",
+            "timeUntilStart": "47m",
             "dayCategory": "today",
             "venue": "Real Betis Balompi\u00e9 (Home)",
             "lastUpdated": "2025-12-15T01:32:02Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 49,
+            "minutesUntilStart": 48,
             "isRecent": false
         },
         {
@@ -1052,7 +1052,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1489,
+            "minutesUntilStart": 1488,
             "isRecent": false
         },
         {
@@ -1083,7 +1083,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1489,
+            "minutesUntilStart": 1488,
             "isRecent": false
         }
     ],
@@ -1114,7 +1114,7 @@
                 "dayCategory": "live",
                 "venue": "Elche CF (Home)",
                 "lastUpdated": "2025-12-21T19:06:38Z",
-                "referee": null,
+                "referee": "Adri\u00e1n Cordero Vega",
                 "season": 17,
                 "group": null,
                 "minutesUntilStart": null,
@@ -1144,14 +1144,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "33m",
+                "timeUntilStart": "32m",
                 "dayCategory": "today",
                 "venue": "Genoa CFC (Home)",
                 "lastUpdated": "2025-12-15T01:32:02Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 34,
+                "minutesUntilStart": 33,
                 "isRecent": false
             },
             "32": {
@@ -1175,14 +1175,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "48m",
+                "timeUntilStart": "47m",
                 "dayCategory": "today",
                 "venue": "Real Betis Balompi\u00e9 (Home)",
                 "lastUpdated": "2025-12-15T01:32:02Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 49,
+                "minutesUntilStart": 48,
                 "isRecent": false
             }
         },
@@ -1215,7 +1215,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1489,
+                "minutesUntilStart": 1488,
                 "isRecent": false
             },
             "34": {
@@ -1246,7 +1246,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1489,
+                "minutesUntilStart": 1488,
                 "isRecent": false
             }
         },
@@ -1370,7 +1370,7 @@
                 "dayCategory": "finished_yesterday",
                 "venue": "Villarreal CF (Home)",
                 "lastUpdated": "2025-12-21T17:16:02Z",
-                "referee": null,
+                "referee": "Javier Alberola Rojas",
                 "season": 17,
                 "group": null,
                 "minutesUntilStart": null,
@@ -1463,7 +1463,7 @@
                 "dayCategory": "finished_yesterday",
                 "venue": "Girona FC (Home)",
                 "lastUpdated": "2025-12-21T14:58:48Z",
-                "referee": null,
+                "referee": "Jos\u00e9 Luis Guzm\u00e1n Mansilla",
                 "season": 17,
                 "group": null,
                 "minutesUntilStart": null,
@@ -2197,29 +2197,21 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competitions_fetched": [
-            "PL",
-            "PD",
-            "BL1",
-            "SA",
-            "FL1"
-        ],
-        "competition_name": "All Major Leagues",
+        "competition_name": "Unknown Competition",
         "timezone": "Asia\/Kolkata",
-        "from_cache": false,
-        "api_call_time_ms": 2947.89,
-        "current_time_local": "2025-12-22 00:41:06",
-        "api_errors": []
+        "from_cache": true,
+        "cache_age_seconds": 57,
+        "current_time_local": "2025-12-22 00:42:03"
     },
     "cache_info": {
-        "cache_written": true,
-        "cache_file": "matches_cache.json"
+        "cached_at": "2025-12-21 19:11:06",
+        "api_call_time": 3130.14
     },
-    "last_updated": "2025-12-21 19:11:06",
-    "generated_at": "2025-12-21 19:11:06 UTC",
+    "last_updated": "2025-12-21 19:12:03",
+    "generated_at": "2025-12-21 19:12:03 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 83213,
+        "file_size": 83175,
         "file_path": "matches.json"
     }
 }
