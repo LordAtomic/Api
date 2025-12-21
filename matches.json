@@ -921,14 +921,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "0m",
+            "timeUntilStart": null,
             "dayCategory": "today",
             "venue": "ACF Fiorentina (Home)",
             "lastUpdated": "2025-12-21T01:32:00Z",
             "referee": "Maurizio Mariani",
             "season": 16,
             "group": null,
-            "minutesUntilStart": 1,
+            "minutesUntilStart": null,
             "isRecent": false
         },
         {
@@ -952,14 +952,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "30m",
+            "timeUntilStart": "29m",
             "dayCategory": "today",
             "venue": "Elche CF (Home)",
             "lastUpdated": "2025-12-15T01:32:02Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 31,
+            "minutesUntilStart": 30,
             "isRecent": false
         },
         {
@@ -983,14 +983,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 45m",
+            "timeUntilStart": "2h 44m",
             "dayCategory": "tomorrow",
             "venue": "Genoa CFC (Home)",
             "lastUpdated": "2025-12-15T01:32:02Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 166,
+            "minutesUntilStart": 165,
             "isRecent": false
         },
         {
@@ -1014,14 +1014,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "3h 0m",
+            "timeUntilStart": "2h 59m",
             "dayCategory": "tomorrow",
             "venue": "Real Betis Balompi\u00e9 (Home)",
             "lastUpdated": "2025-12-15T01:32:02Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 181,
+            "minutesUntilStart": 180,
             "isRecent": false
         },
         {
@@ -1052,7 +1052,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1621,
+            "minutesUntilStart": 1620,
             "isRecent": false
         },
         {
@@ -1083,7 +1083,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1621,
+            "minutesUntilStart": 1620,
             "isRecent": false
         }
     ],
@@ -1455,14 +1455,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "0m",
+                "timeUntilStart": null,
                 "dayCategory": "today",
                 "venue": "ACF Fiorentina (Home)",
                 "lastUpdated": "2025-12-21T01:32:00Z",
                 "referee": "Maurizio Mariani",
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 1,
+                "minutesUntilStart": null,
                 "isRecent": false
             },
             "30": {
@@ -1486,14 +1486,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "30m",
+                "timeUntilStart": "29m",
                 "dayCategory": "today",
                 "venue": "Elche CF (Home)",
                 "lastUpdated": "2025-12-15T01:32:02Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 31,
+                "minutesUntilStart": 30,
                 "isRecent": false
             }
         },
@@ -1519,14 +1519,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 45m",
+                "timeUntilStart": "2h 44m",
                 "dayCategory": "tomorrow",
                 "venue": "Genoa CFC (Home)",
                 "lastUpdated": "2025-12-15T01:32:02Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 166,
+                "minutesUntilStart": 165,
                 "isRecent": false
             },
             "32": {
@@ -1550,14 +1550,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "3h 0m",
+                "timeUntilStart": "2h 59m",
                 "dayCategory": "tomorrow",
                 "venue": "Real Betis Balompi\u00e9 (Home)",
                 "lastUpdated": "2025-12-15T01:32:02Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 181,
+                "minutesUntilStart": 180,
                 "isRecent": false
             },
             "33": {
@@ -1588,7 +1588,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1621,
+                "minutesUntilStart": 1620,
                 "isRecent": false
             },
             "34": {
@@ -1619,7 +1619,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1621,
+                "minutesUntilStart": 1620,
                 "isRecent": false
             }
         },
@@ -2197,29 +2197,21 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competitions_fetched": [
-            "PL",
-            "PD",
-            "BL1",
-            "SA",
-            "FL1"
-        ],
-        "competition_name": "All Major Leagues",
+        "competition_name": "Unknown Competition",
         "timezone": "Asia\/Kolkata",
-        "from_cache": false,
-        "api_call_time_ms": 3139.63,
-        "current_time_local": "2025-12-21 22:29:06",
-        "api_errors": []
+        "from_cache": true,
+        "cache_age_seconds": 58,
+        "current_time_local": "2025-12-21 22:30:04"
     },
     "cache_info": {
-        "cache_written": true,
-        "cache_file": "matches_cache.json"
+        "cached_at": "2025-12-21 16:59:06",
+        "api_call_time": 3139.63
     },
-    "last_updated": "2025-12-21 16:59:06",
-    "generated_at": "2025-12-21 16:59:06 UTC",
+    "last_updated": "2025-12-21 17:00:04",
+    "generated_at": "2025-12-21 17:00:04 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 83313,
+        "file_size": 83159,
         "file_path": "matches.json"
     }
 }
