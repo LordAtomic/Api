@@ -708,7 +708,7 @@
             "dayCategory": "today",
             "venue": "Cagliari Calcio (Home)",
             "lastUpdated": "2025-12-15T01:32:01Z",
-            "referee": "Francesco Fourneau",
+            "referee": null,
             "season": 16,
             "group": null,
             "minutesUntilStart": 101,
@@ -1241,7 +1241,7 @@
                 "dayCategory": "today",
                 "venue": "Cagliari Calcio (Home)",
                 "lastUpdated": "2025-12-15T01:32:01Z",
-                "referee": "Francesco Fourneau",
+                "referee": null,
                 "season": 16,
                 "group": null,
                 "minutesUntilStart": 101,
@@ -2199,18 +2199,18 @@
         "competition_name": "Unknown Competition",
         "timezone": "Asia\/Kolkata",
         "from_cache": true,
-        "cache_age_seconds": 57,
-        "current_time_local": "2025-12-21 15:19:03"
+        "cache_age_seconds": 59,
+        "current_time_local": "2025-12-21 15:19:05"
     },
     "cache_info": {
         "cached_at": "2025-12-21 09:48:06",
-        "api_call_time": 3252.29
+        "api_call_time": 3199.97
     },
-    "last_updated": "2025-12-21 09:49:03",
-    "generated_at": "2025-12-21 09:49:03 UTC",
+    "last_updated": "2025-12-21 09:49:05",
+    "generated_at": "2025-12-21 09:49:05 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 83056,
+        "file_size": 83024,
         "file_path": "matches.json"
     }
 }
