@@ -9,28 +9,28 @@
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/285.png",
             "awayLogo": "https:\/\/crests.football-data.org\/87.png",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "utcDate": "2025-12-21T17:30:00Z",
             "localDate": "2025-12-21 23:00:00",
             "localTime": "23:00",
             "matchday": 17,
             "competition": "Primera Division",
             "competitionCode": "PD",
-            "isLive": true,
-            "isFinished": false,
+            "isLive": false,
+            "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
-            "isYesterday": false,
+            "isYesterday": true,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "live",
+            "dayCategory": "finished_yesterday",
             "venue": "Elche CF (Home)",
-            "lastUpdated": "2025-12-21T19:27:17Z",
+            "lastUpdated": "2025-12-21T19:30:37Z",
             "referee": null,
             "season": 17,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
+            "isRecent": true
         },
         {
             "id": 536965,
@@ -57,7 +57,7 @@
             "dayCategory": "finished_yesterday",
             "venue": "ACF Fiorentina (Home)",
             "lastUpdated": "2025-12-21T19:07:57Z",
-            "referee": "Maurizio Mariani",
+            "referee": null,
             "season": 16,
             "group": null,
             "minutesUntilStart": null,
@@ -88,7 +88,7 @@
             "dayCategory": "finished_yesterday",
             "venue": "Aston Villa FC (Home)",
             "lastUpdated": "2025-12-21T18:35:57Z",
-            "referee": "Michael Oliver",
+            "referee": null,
             "season": 17,
             "group": null,
             "minutesUntilStart": null,
@@ -119,7 +119,7 @@
             "dayCategory": "finished_yesterday",
             "venue": "1. FC Heidenheim 1846 (Home)",
             "lastUpdated": "2025-12-21T18:28:37Z",
-            "referee": null,
+            "referee": "Florian Badst\u00fcbner",
             "season": 15,
             "group": null,
             "minutesUntilStart": null,
@@ -181,7 +181,7 @@
             "dayCategory": "finished_yesterday",
             "venue": "1. FSV Mainz 05 (Home)",
             "lastUpdated": "2025-12-21T16:28:52Z",
-            "referee": null,
+            "referee": "Matthias J\u00f6llenbeck",
             "season": 15,
             "group": null,
             "minutesUntilStart": null,
@@ -212,7 +212,7 @@
             "dayCategory": "finished_yesterday",
             "venue": "US Sassuolo Calcio (Home)",
             "lastUpdated": "2025-12-21T16:02:32Z",
-            "referee": "Andrea Calzavara",
+            "referee": null,
             "season": 16,
             "group": null,
             "minutesUntilStart": null,
@@ -274,7 +274,7 @@
             "dayCategory": "finished_yesterday",
             "venue": "Cagliari Calcio (Home)",
             "lastUpdated": "2025-12-21T13:30:43Z",
-            "referee": "Francesco Fourneau",
+            "referee": null,
             "season": 16,
             "group": null,
             "minutesUntilStart": null,
@@ -983,14 +983,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "13m",
+            "timeUntilStart": "12m",
             "dayCategory": "today",
             "venue": "Genoa CFC (Home)",
             "lastUpdated": "2025-12-15T01:32:02Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 14,
+            "minutesUntilStart": 13,
             "isRecent": false
         },
         {
@@ -1014,14 +1014,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "28m",
+            "timeUntilStart": "27m",
             "dayCategory": "today",
             "venue": "Real Betis Balompi\u00e9 (Home)",
             "lastUpdated": "2025-12-15T01:32:02Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 29,
+            "minutesUntilStart": 28,
             "isRecent": false
         },
         {
@@ -1052,7 +1052,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1469,
+            "minutesUntilStart": 1468,
             "isRecent": false
         },
         {
@@ -1083,44 +1083,12 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1469,
+            "minutesUntilStart": 1468,
             "isRecent": false
         }
     ],
     "grouped_matches": {
-        "live": [
-            {
-                "id": 544373,
-                "home": "Elche",
-                "away": "Rayo Vallecano",
-                "homeScore": 4,
-                "awayScore": 0,
-                "homeLogo": "https:\/\/crests.football-data.org\/285.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/87.png",
-                "status": "IN_PLAY",
-                "utcDate": "2025-12-21T17:30:00Z",
-                "localDate": "2025-12-21 23:00:00",
-                "localTime": "23:00",
-                "matchday": 17,
-                "competition": "Primera Division",
-                "competitionCode": "PD",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "Elche CF (Home)",
-                "lastUpdated": "2025-12-21T19:27:17Z",
-                "referee": null,
-                "season": 17,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
+        "live": [],
         "finished_today": [],
         "today": {
             "31": {
@@ -1144,14 +1112,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "13m",
+                "timeUntilStart": "12m",
                 "dayCategory": "today",
                 "venue": "Genoa CFC (Home)",
                 "lastUpdated": "2025-12-15T01:32:02Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 14,
+                "minutesUntilStart": 13,
                 "isRecent": false
             },
             "32": {
@@ -1175,14 +1143,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "28m",
+                "timeUntilStart": "27m",
                 "dayCategory": "today",
                 "venue": "Real Betis Balompi\u00e9 (Home)",
                 "lastUpdated": "2025-12-15T01:32:02Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 29,
+                "minutesUntilStart": 28,
                 "isRecent": false
             }
         },
@@ -1215,7 +1183,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1469,
+                "minutesUntilStart": 1468,
                 "isRecent": false
             },
             "34": {
@@ -1246,13 +1214,44 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1469,
+                "minutesUntilStart": 1468,
                 "isRecent": false
             }
         },
         "upcoming": [],
-        "finished_yesterday": {
-            "1": {
+        "finished_yesterday": [
+            {
+                "id": 544373,
+                "home": "Elche",
+                "away": "Rayo Vallecano",
+                "homeScore": 4,
+                "awayScore": 0,
+                "homeLogo": "https:\/\/crests.football-data.org\/285.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/87.png",
+                "status": "FINISHED",
+                "utcDate": "2025-12-21T17:30:00Z",
+                "localDate": "2025-12-21 23:00:00",
+                "localTime": "23:00",
+                "matchday": 17,
+                "competition": "Primera Division",
+                "competitionCode": "PD",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": true,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_yesterday",
+                "venue": "Elche CF (Home)",
+                "lastUpdated": "2025-12-21T19:30:37Z",
+                "referee": null,
+                "season": 17,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": true
+            },
+            {
                 "id": 536965,
                 "home": "Fiorentina",
                 "away": "Udinese",
@@ -1277,13 +1276,13 @@
                 "dayCategory": "finished_yesterday",
                 "venue": "ACF Fiorentina (Home)",
                 "lastUpdated": "2025-12-21T19:07:57Z",
-                "referee": "Maurizio Mariani",
+                "referee": null,
                 "season": 16,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "2": {
+            {
                 "id": 537946,
                 "home": "Aston Villa",
                 "away": "Man United",
@@ -1308,13 +1307,13 @@
                 "dayCategory": "finished_yesterday",
                 "venue": "Aston Villa FC (Home)",
                 "lastUpdated": "2025-12-21T18:35:57Z",
-                "referee": "Michael Oliver",
+                "referee": null,
                 "season": 17,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "3": {
+            {
                 "id": 540538,
                 "home": "Heidenheim",
                 "away": "Bayern",
@@ -1339,13 +1338,13 @@
                 "dayCategory": "finished_yesterday",
                 "venue": "1. FC Heidenheim 1846 (Home)",
                 "lastUpdated": "2025-12-21T18:28:37Z",
-                "referee": null,
+                "referee": "Florian Badst\u00fcbner",
                 "season": 15,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "4": {
+            {
                 "id": 544378,
                 "home": "Villarreal",
                 "away": "Bar\u00e7a",
@@ -1376,7 +1375,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "5": {
+            {
                 "id": 540533,
                 "home": "Mainz",
                 "away": "St. Pauli",
@@ -1401,13 +1400,13 @@
                 "dayCategory": "finished_yesterday",
                 "venue": "1. FSV Mainz 05 (Home)",
                 "lastUpdated": "2025-12-21T16:28:52Z",
-                "referee": null,
+                "referee": "Matthias J\u00f6llenbeck",
                 "season": 15,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "6": {
+            {
                 "id": 536973,
                 "home": "Sassuolo",
                 "away": "Torino",
@@ -1432,13 +1431,13 @@
                 "dayCategory": "finished_yesterday",
                 "venue": "US Sassuolo Calcio (Home)",
                 "lastUpdated": "2025-12-21T16:02:32Z",
-                "referee": "Andrea Calzavara",
+                "referee": null,
                 "season": 16,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "7": {
+            {
                 "id": 544377,
                 "home": "Girona",
                 "away": "Atleti",
@@ -1469,7 +1468,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "8": {
+            {
                 "id": 536966,
                 "home": "Cagliari",
                 "away": "AC Pisa",
@@ -1494,13 +1493,13 @@
                 "dayCategory": "finished_yesterday",
                 "venue": "Cagliari Calcio (Home)",
                 "lastUpdated": "2025-12-21T13:30:43Z",
-                "referee": "Francesco Fourneau",
+                "referee": null,
                 "season": 16,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "9": {
+            {
                 "id": 537948,
                 "home": "Everton",
                 "away": "Arsenal",
@@ -1531,7 +1530,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "10": {
+            {
                 "id": 537950,
                 "home": "Leeds United",
                 "away": "Crystal Palace",
@@ -1562,7 +1561,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "11": {
+            {
                 "id": 544375,
                 "home": "Real Madrid",
                 "away": "Sevilla FC",
@@ -1593,7 +1592,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "12": {
+            {
                 "id": 536971,
                 "home": "Juventus",
                 "away": "Roma",
@@ -1624,7 +1623,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             }
-        },
+        ],
         "finished_recent": [],
         "finished_older": {
             "13": {
@@ -2189,7 +2188,7 @@
     },
     "stats": {
         "total_matches": 35,
-        "live_matches": 1,
+        "live_matches": 0,
         "today_matches": 2,
         "tomorrow_matches": 2,
         "finished_today": 0,
@@ -2197,21 +2196,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 53,
-        "current_time_local": "2025-12-22 01:01:03"
+        "from_cache": false,
+        "api_call_time_ms": 4536.93,
+        "current_time_local": "2025-12-22 01:02:08",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-21 19:30:10",
-        "api_call_time": 6579.03
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-21 19:31:03",
-    "generated_at": "2025-12-21 19:31:03 UTC",
+    "last_updated": "2025-12-21 19:32:08",
+    "generated_at": "2025-12-21 19:32:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 83005,
+        "file_size": 83080,
         "file_path": "matches.json"
     }
 }
