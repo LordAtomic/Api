@@ -952,14 +952,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "28m",
+            "timeUntilStart": "27m",
             "dayCategory": "today",
             "venue": "Elche CF (Home)",
             "lastUpdated": "2025-12-15T01:32:02Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 29,
+            "minutesUntilStart": 28,
             "isRecent": false
         },
         {
@@ -983,14 +983,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 43m",
+            "timeUntilStart": "2h 42m",
             "dayCategory": "tomorrow",
             "venue": "Genoa CFC (Home)",
             "lastUpdated": "2025-12-15T01:32:02Z",
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 164,
+            "minutesUntilStart": 163,
             "isRecent": false
         },
         {
@@ -1014,14 +1014,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 58m",
+            "timeUntilStart": "2h 57m",
             "dayCategory": "tomorrow",
             "venue": "Real Betis Balompi\u00e9 (Home)",
             "lastUpdated": "2025-12-15T01:32:02Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 179,
+            "minutesUntilStart": 178,
             "isRecent": false
         },
         {
@@ -1052,7 +1052,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1619,
+            "minutesUntilStart": 1618,
             "isRecent": false
         },
         {
@@ -1083,7 +1083,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1619,
+            "minutesUntilStart": 1618,
             "isRecent": false
         }
     ],
@@ -1486,14 +1486,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "28m",
+                "timeUntilStart": "27m",
                 "dayCategory": "today",
                 "venue": "Elche CF (Home)",
                 "lastUpdated": "2025-12-15T01:32:02Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 29,
+                "minutesUntilStart": 28,
                 "isRecent": false
             }
         },
@@ -1519,14 +1519,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 43m",
+                "timeUntilStart": "2h 42m",
                 "dayCategory": "tomorrow",
                 "venue": "Genoa CFC (Home)",
                 "lastUpdated": "2025-12-15T01:32:02Z",
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 164,
+                "minutesUntilStart": 163,
                 "isRecent": false
             },
             "32": {
@@ -1550,14 +1550,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 58m",
+                "timeUntilStart": "2h 57m",
                 "dayCategory": "tomorrow",
                 "venue": "Real Betis Balompi\u00e9 (Home)",
                 "lastUpdated": "2025-12-15T01:32:02Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 179,
+                "minutesUntilStart": 178,
                 "isRecent": false
             },
             "33": {
@@ -1588,7 +1588,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1619,
+                "minutesUntilStart": 1618,
                 "isRecent": false
             },
             "34": {
@@ -1619,7 +1619,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1619,
+                "minutesUntilStart": 1618,
                 "isRecent": false
             }
         },
@@ -2197,29 +2197,21 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competitions_fetched": [
-            "PL",
-            "PD",
-            "BL1",
-            "SA",
-            "FL1"
-        ],
-        "competition_name": "All Major Leagues",
+        "competition_name": "Unknown Competition",
         "timezone": "Asia\/Kolkata",
-        "from_cache": false,
-        "api_call_time_ms": 3554.37,
-        "current_time_local": "2025-12-21 22:31:08",
-        "api_errors": []
+        "from_cache": true,
+        "cache_age_seconds": 55,
+        "current_time_local": "2025-12-21 22:32:03"
     },
     "cache_info": {
-        "cache_written": true,
-        "cache_file": "matches_cache.json"
+        "cached_at": "2025-12-21 17:01:08",
+        "api_call_time": 3554.37
     },
-    "last_updated": "2025-12-21 17:01:08",
-    "generated_at": "2025-12-21 17:01:08 UTC",
+    "last_updated": "2025-12-21 17:02:03",
+    "generated_at": "2025-12-21 17:02:03 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 83415,
+        "file_size": 83253,
         "file_path": "matches.json"
     }
 }
