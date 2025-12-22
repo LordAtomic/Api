@@ -983,14 +983,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "8h 40m",
+            "timeUntilStart": "8h 39m",
             "dayCategory": "tomorrow",
             "venue": "Fulham FC (Home)",
             "lastUpdated": "2025-12-21T01:32:00Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 521,
+            "minutesUntilStart": 520,
             "isRecent": false
         },
         {
@@ -1014,14 +1014,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "8h 40m",
+            "timeUntilStart": "8h 39m",
             "dayCategory": "tomorrow",
             "venue": "Athletic Club (Home)",
             "lastUpdated": "2025-12-21T01:32:00Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 521,
+            "minutesUntilStart": 520,
             "isRecent": false
         }
     ],
@@ -1114,14 +1114,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "8h 40m",
+                "timeUntilStart": "8h 39m",
                 "dayCategory": "tomorrow",
                 "venue": "Fulham FC (Home)",
                 "lastUpdated": "2025-12-21T01:32:00Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 521,
+                "minutesUntilStart": 520,
                 "isRecent": false
             },
             "32": {
@@ -1145,14 +1145,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "8h 40m",
+                "timeUntilStart": "8h 39m",
                 "dayCategory": "tomorrow",
                 "venue": "Athletic Club (Home)",
                 "lastUpdated": "2025-12-21T01:32:00Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 521,
+                "minutesUntilStart": 520,
                 "isRecent": false
             }
         },
@@ -2072,29 +2072,21 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competitions_fetched": [
-            "PL",
-            "PD",
-            "BL1",
-            "SA",
-            "FL1"
-        ],
-        "competition_name": "All Major Leagues",
+        "competition_name": "Unknown Competition",
         "timezone": "Asia\/Kolkata",
-        "from_cache": false,
-        "api_call_time_ms": 3429.91,
-        "current_time_local": "2025-12-22 16:49:07",
-        "api_errors": []
+        "from_cache": true,
+        "cache_age_seconds": 57,
+        "current_time_local": "2025-12-22 16:50:04"
     },
     "cache_info": {
-        "cache_written": true,
-        "cache_file": "matches_cache.json"
+        "cached_at": "2025-12-22 11:19:07",
+        "api_call_time": 3568.46
     },
-    "last_updated": "2025-12-22 11:19:07",
-    "generated_at": "2025-12-22 11:19:07 UTC",
+    "last_updated": "2025-12-22 11:20:04",
+    "generated_at": "2025-12-22 11:20:04 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 78778,
+        "file_size": 78616,
         "file_path": "matches.json"
     }
 }
