@@ -37,7 +37,7 @@
             "home": "Athletic",
             "away": "Espanyol",
             "homeScore": 1,
-            "awayScore": 0,
+            "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/77.png",
             "awayLogo": "https:\/\/crests.football-data.org\/80.png",
             "status": "IN_PLAY",
@@ -56,7 +56,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Athletic Club (Home)",
-            "lastUpdated": "2025-12-22T20:46:12Z",
+            "lastUpdated": "2025-12-22T20:52:22Z",
             "referee": "Mateo Busquets Ferrer",
             "season": 17,
             "group": null,
@@ -1063,7 +1063,7 @@
                 "home": "Athletic",
                 "away": "Espanyol",
                 "homeScore": 1,
-                "awayScore": 0,
+                "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/77.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/80.png",
                 "status": "IN_PLAY",
@@ -1082,7 +1082,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Athletic Club (Home)",
-                "lastUpdated": "2025-12-22T20:46:12Z",
+                "lastUpdated": "2025-12-22T20:52:22Z",
                 "referee": "Mateo Busquets Ferrer",
                 "season": 17,
                 "group": null,
@@ -2071,21 +2071,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 56,
-        "current_time_local": "2025-12-23 02:23:03"
+        "from_cache": false,
+        "api_call_time_ms": 3290.42,
+        "current_time_local": "2025-12-23 02:24:07",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-22 20:52:07",
-        "api_call_time": 3573.58
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-22 20:53:03",
-    "generated_at": "2025-12-22 20:53:03 UTC",
+    "last_updated": "2025-12-22 20:54:07",
+    "generated_at": "2025-12-22 20:54:07 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 78428,
+        "file_size": 78590,
         "file_path": "matches.json"
     }
 }
