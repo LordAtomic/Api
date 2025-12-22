@@ -150,7 +150,7 @@
             "dayCategory": "finished_yesterday",
             "venue": "Aston Villa FC (Home)",
             "lastUpdated": "2025-12-22T00:20:51Z",
-            "referee": null,
+            "referee": "Michael Oliver",
             "season": 17,
             "group": null,
             "minutesUntilStart": null,
@@ -1245,7 +1245,7 @@
                 "dayCategory": "finished_yesterday",
                 "venue": "Aston Villa FC (Home)",
                 "lastUpdated": "2025-12-22T00:20:51Z",
-                "referee": null,
+                "referee": "Michael Oliver",
                 "season": 17,
                 "group": null,
                 "minutesUntilStart": null,
@@ -2072,21 +2072,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 55,
-        "current_time_local": "2025-12-22 12:45:03"
+        "from_cache": false,
+        "api_call_time_ms": 3384.33,
+        "current_time_local": "2025-12-22 12:45:06",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-22 07:14:08",
-        "api_call_time": 3598.28
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-22 07:15:03",
-    "generated_at": "2025-12-22 07:15:03 UTC",
+    "last_updated": "2025-12-22 07:15:06",
+    "generated_at": "2025-12-22 07:15:06 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 78596,
+        "file_size": 78782,
         "file_path": "matches.json"
     }
 }
