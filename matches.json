@@ -9,28 +9,28 @@
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/63.png",
             "awayLogo": "https:\/\/crests.football-data.org\/351.png",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "utcDate": "2025-12-22T20:00:00Z",
             "localDate": "2025-12-23 01:30:00",
             "localTime": "01:30",
             "matchday": 17,
             "competition": "Premier League",
             "competitionCode": "PL",
-            "isLive": true,
-            "isFinished": false,
+            "isLive": false,
+            "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "live",
+            "dayCategory": "finished_today",
             "venue": "Fulham FC (Home)",
-            "lastUpdated": "2025-12-22T21:13:57Z",
+            "lastUpdated": "2025-12-22T22:05:56Z",
             "referee": "Anthony Taylor",
             "season": 17,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
+            "isRecent": true
         },
         {
             "id": 544371,
@@ -1026,7 +1026,8 @@
         }
     ],
     "grouped_matches": {
-        "live": [
+        "live": [],
+        "finished_today": [
             {
                 "id": 537949,
                 "home": "Fulham",
@@ -1035,32 +1036,30 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/63.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/351.png",
-                "status": "IN_PLAY",
+                "status": "FINISHED",
                 "utcDate": "2025-12-22T20:00:00Z",
                 "localDate": "2025-12-23 01:30:00",
                 "localTime": "01:30",
                 "matchday": 17,
                 "competition": "Premier League",
                 "competitionCode": "PL",
-                "isLive": true,
-                "isFinished": false,
+                "isLive": false,
+                "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "live",
+                "dayCategory": "finished_today",
                 "venue": "Fulham FC (Home)",
-                "lastUpdated": "2025-12-22T21:13:57Z",
+                "lastUpdated": "2025-12-22T22:05:56Z",
                 "referee": "Anthony Taylor",
                 "season": 17,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
-        "finished_today": {
-            "1": {
+                "isRecent": true
+            },
+            {
                 "id": 544371,
                 "home": "Athletic",
                 "away": "Espanyol",
@@ -1091,7 +1090,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             }
-        },
+        ],
         "today": [],
         "tomorrow": [],
         "upcoming": [],
@@ -2064,29 +2063,37 @@
     },
     "stats": {
         "total_matches": 33,
-        "live_matches": 1,
+        "live_matches": 0,
         "today_matches": 0,
         "tomorrow_matches": 0,
-        "finished_today": 1,
+        "finished_today": 2,
         "finished_recent": 0
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 54,
-        "current_time_local": "2025-12-23 03:35:04"
+        "from_cache": false,
+        "api_call_time_ms": 4044.42,
+        "current_time_local": "2025-12-23 03:36:10",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-22 22:04:10",
-        "api_call_time": 3572.51
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-22 22:05:04",
-    "generated_at": "2025-12-22 22:05:04 UTC",
+    "last_updated": "2025-12-22 22:06:10",
+    "generated_at": "2025-12-22 22:06:10 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 78461,
+        "file_size": 78630,
         "file_path": "matches.json"
     }
 }
