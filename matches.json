@@ -2,6 +2,68 @@
     "success": true,
     "matches": [
         {
+            "id": 537949,
+            "home": "Fulham",
+            "away": "Nottingham",
+            "homeScore": 0,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/63.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/351.png",
+            "status": "IN_PLAY",
+            "utcDate": "2025-12-22T20:00:00Z",
+            "localDate": "2025-12-23 01:30:00",
+            "localTime": "01:30",
+            "matchday": 17,
+            "competition": "Premier League",
+            "competitionCode": "PL",
+            "isLive": true,
+            "isFinished": false,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "live",
+            "venue": "Fulham FC (Home)",
+            "lastUpdated": "2025-12-22T20:09:17Z",
+            "referee": "Anthony Taylor",
+            "season": 17,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
+        },
+        {
+            "id": 544371,
+            "home": "Athletic",
+            "away": "Espanyol",
+            "homeScore": 0,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/77.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/80.png",
+            "status": "IN_PLAY",
+            "utcDate": "2025-12-22T20:00:00Z",
+            "localDate": "2025-12-23 01:30:00",
+            "localTime": "01:30",
+            "matchday": 17,
+            "competition": "Primera Division",
+            "competitionCode": "PD",
+            "isLive": true,
+            "isFinished": false,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "live",
+            "venue": "Athletic Club (Home)",
+            "lastUpdated": "2025-12-22T20:09:18Z",
+            "referee": "Mateo Busquets Ferrer",
+            "season": 17,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
+        },
+        {
             "id": 544372,
             "home": "Real Betis",
             "away": "Getafe",
@@ -961,75 +1023,11 @@
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
-        },
-        {
-            "id": 537949,
-            "home": "Fulham",
-            "away": "Nottingham",
-            "homeScore": 0,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/63.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/351.png",
-            "status": "TIMED",
-            "utcDate": "2025-12-22T20:00:00Z",
-            "localDate": "2025-12-23 01:30:00",
-            "localTime": "01:30",
-            "matchday": 17,
-            "competition": "Premier League",
-            "competitionCode": "PL",
-            "isLive": false,
-            "isFinished": false,
-            "isToday": true,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "today",
-            "venue": "Fulham FC (Home)",
-            "lastUpdated": "2025-12-21T01:32:00Z",
-            "referee": "Anthony Taylor",
-            "season": 17,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
-            "id": 544371,
-            "home": "Athletic",
-            "away": "Espanyol",
-            "homeScore": 0,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/77.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/80.png",
-            "status": "TIMED",
-            "utcDate": "2025-12-22T20:00:00Z",
-            "localDate": "2025-12-23 01:30:00",
-            "localTime": "01:30",
-            "matchday": 17,
-            "competition": "Primera Division",
-            "competitionCode": "PD",
-            "isLive": false,
-            "isFinished": false,
-            "isToday": true,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "today",
-            "venue": "Athletic Club (Home)",
-            "lastUpdated": "2025-12-21T01:32:00Z",
-            "referee": "Mateo Busquets Ferrer",
-            "season": 17,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
         }
     ],
     "grouped_matches": {
-        "live": [],
-        "finished_today": [],
-        "today": {
-            "31": {
+        "live": [
+            {
                 "id": 537949,
                 "home": "Fulham",
                 "away": "Nottingham",
@@ -1037,30 +1035,30 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/63.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/351.png",
-                "status": "TIMED",
+                "status": "IN_PLAY",
                 "utcDate": "2025-12-22T20:00:00Z",
                 "localDate": "2025-12-23 01:30:00",
                 "localTime": "01:30",
                 "matchday": 17,
                 "competition": "Premier League",
                 "competitionCode": "PL",
-                "isLive": false,
+                "isLive": true,
                 "isFinished": false,
-                "isToday": true,
+                "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "today",
+                "dayCategory": "live",
                 "venue": "Fulham FC (Home)",
-                "lastUpdated": "2025-12-21T01:32:00Z",
+                "lastUpdated": "2025-12-22T20:09:17Z",
                 "referee": "Anthony Taylor",
                 "season": 17,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "32": {
+            {
                 "id": 544371,
                 "home": "Athletic",
                 "away": "Espanyol",
@@ -1068,34 +1066,36 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/77.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/80.png",
-                "status": "TIMED",
+                "status": "IN_PLAY",
                 "utcDate": "2025-12-22T20:00:00Z",
                 "localDate": "2025-12-23 01:30:00",
                 "localTime": "01:30",
                 "matchday": 17,
                 "competition": "Primera Division",
                 "competitionCode": "PD",
-                "isLive": false,
+                "isLive": true,
                 "isFinished": false,
-                "isToday": true,
+                "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "today",
+                "dayCategory": "live",
                 "venue": "Athletic Club (Home)",
-                "lastUpdated": "2025-12-21T01:32:00Z",
+                "lastUpdated": "2025-12-22T20:09:18Z",
                 "referee": "Mateo Busquets Ferrer",
                 "season": 17,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
             }
-        },
+        ],
+        "finished_today": [],
+        "today": [],
         "tomorrow": [],
         "upcoming": [],
-        "finished_yesterday": [
-            {
+        "finished_yesterday": {
+            "2": {
                 "id": 544372,
                 "home": "Real Betis",
                 "away": "Getafe",
@@ -1126,7 +1126,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            {
+            "3": {
                 "id": 536967,
                 "home": "Genoa",
                 "away": "Atalanta",
@@ -1157,10 +1157,10 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             }
-        ],
+        },
         "finished_recent": [],
         "finished_older": {
-            "2": {
+            "4": {
                 "id": 544373,
                 "home": "Elche",
                 "away": "Rayo Vallecano",
@@ -1191,7 +1191,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "3": {
+            "5": {
                 "id": 536965,
                 "home": "Fiorentina",
                 "away": "Udinese",
@@ -1222,7 +1222,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "4": {
+            "6": {
                 "id": 537946,
                 "home": "Aston Villa",
                 "away": "Man United",
@@ -1253,7 +1253,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "5": {
+            "7": {
                 "id": 540538,
                 "home": "Heidenheim",
                 "away": "Bayern",
@@ -1284,7 +1284,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "6": {
+            "8": {
                 "id": 544378,
                 "home": "Villarreal",
                 "away": "Bar\u00e7a",
@@ -1315,7 +1315,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "7": {
+            "9": {
                 "id": 540533,
                 "home": "Mainz",
                 "away": "St. Pauli",
@@ -1346,7 +1346,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "8": {
+            "10": {
                 "id": 536973,
                 "home": "Sassuolo",
                 "away": "Torino",
@@ -1377,7 +1377,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "9": {
+            "11": {
                 "id": 544377,
                 "home": "Girona",
                 "away": "Atleti",
@@ -1408,7 +1408,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "10": {
+            "12": {
                 "id": 536966,
                 "home": "Cagliari",
                 "away": "AC Pisa",
@@ -1439,7 +1439,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "11": {
+            "13": {
                 "id": 537948,
                 "home": "Everton",
                 "away": "Arsenal",
@@ -1470,7 +1470,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "12": {
+            "14": {
                 "id": 537950,
                 "home": "Leeds United",
                 "away": "Crystal Palace",
@@ -1501,7 +1501,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "13": {
+            "15": {
                 "id": 544375,
                 "home": "Real Madrid",
                 "away": "Sevilla FC",
@@ -1532,7 +1532,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "14": {
+            "16": {
                 "id": 536971,
                 "home": "Juventus",
                 "away": "Roma",
@@ -1563,7 +1563,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "15": {
+            "17": {
                 "id": 537953,
                 "home": "Tottenham",
                 "away": "Liverpool",
@@ -1594,7 +1594,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "16": {
+            "18": {
                 "id": 544376,
                 "home": "Osasuna",
                 "away": "Alav\u00e9s",
@@ -1625,7 +1625,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "17": {
+            "19": {
                 "id": 540534,
                 "home": "RB Leipzig",
                 "away": "Leverkusen",
@@ -1656,7 +1656,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "18": {
+            "20": {
                 "id": 536972,
                 "home": "Lazio",
                 "away": "Cremonese",
@@ -1687,7 +1687,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "19": {
+            "21": {
                 "id": 544374,
                 "home": "Levante",
                 "away": "Real Sociedad",
@@ -1718,7 +1718,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "20": {
+            "22": {
                 "id": 537945,
                 "home": "Bournemouth",
                 "away": "Burnley",
@@ -1749,7 +1749,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "21": {
+            "23": {
                 "id": 537947,
                 "home": "Brighton Hove",
                 "away": "Sunderland",
@@ -1780,7 +1780,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "22": {
+            "24": {
                 "id": 537951,
                 "home": "Man City",
                 "away": "West Ham",
@@ -1811,7 +1811,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "23": {
+            "25": {
                 "id": 537954,
                 "home": "Wolverhampton",
                 "away": "Brentford",
@@ -1842,7 +1842,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "24": {
+            "26": {
                 "id": 540535,
                 "home": "Stuttgart",
                 "away": "Hoffenheim",
@@ -1873,7 +1873,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "25": {
+            "27": {
                 "id": 540536,
                 "home": "Wolfsburg",
                 "away": "Freiburg",
@@ -1904,7 +1904,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "26": {
+            "28": {
                 "id": 540537,
                 "home": "Augsburg",
                 "away": "Bremen",
@@ -1935,7 +1935,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "27": {
+            "29": {
                 "id": 540539,
                 "home": "1. FC K\u00f6ln",
                 "away": "Union Berlin",
@@ -1966,7 +1966,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "28": {
+            "30": {
                 "id": 540540,
                 "home": "HSV",
                 "away": "Frankfurt",
@@ -1997,7 +1997,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "29": {
+            "31": {
                 "id": 544379,
                 "home": "Real Oviedo",
                 "away": "Celta",
@@ -2028,7 +2028,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "30": {
+            "32": {
                 "id": 537952,
                 "home": "Newcastle",
                 "away": "Chelsea",
@@ -2063,29 +2063,37 @@
     },
     "stats": {
         "total_matches": 33,
-        "live_matches": 0,
-        "today_matches": 2,
+        "live_matches": 2,
+        "today_matches": 0,
         "tomorrow_matches": 0,
         "finished_today": 0,
         "finished_recent": 0
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 56,
-        "current_time_local": "2025-12-23 01:39:03"
+        "from_cache": false,
+        "api_call_time_ms": 3392.73,
+        "current_time_local": "2025-12-23 01:40:09",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-22 20:08:07",
-        "api_call_time": 3838.66
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-22 20:09:03",
-    "generated_at": "2025-12-22 20:09:03 UTC",
+    "last_updated": "2025-12-22 20:10:09",
+    "generated_at": "2025-12-22 20:10:09 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 78424,
+        "file_size": 78590,
         "file_path": "matches.json"
     }
 }
