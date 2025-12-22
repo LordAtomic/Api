@@ -40,28 +40,28 @@
             "awayScore": 2,
             "homeLogo": "https:\/\/crests.football-data.org\/77.png",
             "awayLogo": "https:\/\/crests.football-data.org\/80.png",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "utcDate": "2025-12-22T20:00:00Z",
             "localDate": "2025-12-23 01:30:00",
             "localTime": "01:30",
             "matchday": 17,
             "competition": "Primera Division",
             "competitionCode": "PD",
-            "isLive": true,
-            "isFinished": false,
+            "isLive": false,
+            "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "live",
+            "dayCategory": "finished_today",
             "venue": "Athletic Club (Home)",
-            "lastUpdated": "2025-12-22T21:19:57Z",
+            "lastUpdated": "2025-12-22T22:00:02Z",
             "referee": "Mateo Busquets Ferrer",
             "season": 17,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
+            "isRecent": true
         },
         {
             "id": 544372,
@@ -1057,8 +1057,10 @@
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
-            },
-            {
+            }
+        ],
+        "finished_today": {
+            "1": {
                 "id": 544371,
                 "home": "Athletic",
                 "away": "Espanyol",
@@ -1066,31 +1068,30 @@
                 "awayScore": 2,
                 "homeLogo": "https:\/\/crests.football-data.org\/77.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/80.png",
-                "status": "IN_PLAY",
+                "status": "FINISHED",
                 "utcDate": "2025-12-22T20:00:00Z",
                 "localDate": "2025-12-23 01:30:00",
                 "localTime": "01:30",
                 "matchday": 17,
                 "competition": "Primera Division",
                 "competitionCode": "PD",
-                "isLive": true,
-                "isFinished": false,
+                "isLive": false,
+                "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "live",
+                "dayCategory": "finished_today",
                 "venue": "Athletic Club (Home)",
-                "lastUpdated": "2025-12-22T21:19:57Z",
+                "lastUpdated": "2025-12-22T22:00:02Z",
                 "referee": "Mateo Busquets Ferrer",
                 "season": 17,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": false
+                "isRecent": true
             }
-        ],
-        "finished_today": [],
+        },
         "today": [],
         "tomorrow": [],
         "upcoming": [],
@@ -2063,29 +2064,37 @@
     },
     "stats": {
         "total_matches": 33,
-        "live_matches": 2,
+        "live_matches": 1,
         "today_matches": 0,
         "tomorrow_matches": 0,
-        "finished_today": 0,
+        "finished_today": 1,
         "finished_recent": 0
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 54,
-        "current_time_local": "2025-12-23 03:29:03"
+        "from_cache": false,
+        "api_call_time_ms": 4362.14,
+        "current_time_local": "2025-12-23 03:30:11",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-22 21:58:09",
-        "api_call_time": 4977.09
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-22 21:59:03",
-    "generated_at": "2025-12-22 21:59:03 UTC",
+    "last_updated": "2025-12-22 22:00:11",
+    "generated_at": "2025-12-22 22:00:11 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 78428,
+        "file_size": 78623,
         "file_path": "matches.json"
     }
 }
