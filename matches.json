@@ -983,14 +983,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "50m",
+            "timeUntilStart": "49m",
             "dayCategory": "today",
             "venue": "Fulham FC (Home)",
             "lastUpdated": "2025-12-21T01:32:00Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 51,
+            "minutesUntilStart": 50,
             "isRecent": false
         },
         {
@@ -1014,14 +1014,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "50m",
+            "timeUntilStart": "49m",
             "dayCategory": "today",
             "venue": "Athletic Club (Home)",
             "lastUpdated": "2025-12-21T01:32:00Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 51,
+            "minutesUntilStart": 50,
             "isRecent": false
         }
     ],
@@ -1050,14 +1050,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "50m",
+                "timeUntilStart": "49m",
                 "dayCategory": "today",
                 "venue": "Fulham FC (Home)",
                 "lastUpdated": "2025-12-21T01:32:00Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 51,
+                "minutesUntilStart": 50,
                 "isRecent": false
             },
             "32": {
@@ -1081,14 +1081,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "50m",
+                "timeUntilStart": "49m",
                 "dayCategory": "today",
                 "venue": "Athletic Club (Home)",
                 "lastUpdated": "2025-12-21T01:32:00Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 51,
+                "minutesUntilStart": 50,
                 "isRecent": false
             }
         },
@@ -2071,21 +2071,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 56,
-        "current_time_local": "2025-12-23 00:39:04"
+        "from_cache": false,
+        "api_call_time_ms": 5548.38,
+        "current_time_local": "2025-12-23 00:40:10",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-22 19:08:08",
-        "api_call_time": 3299.28
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-22 19:09:04",
-    "generated_at": "2025-12-22 19:09:04 UTC",
+    "last_updated": "2025-12-22 19:10:10",
+    "generated_at": "2025-12-22 19:10:10 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 78358,
+        "file_size": 78520,
         "file_path": "matches.json"
     }
 }
