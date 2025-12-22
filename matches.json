@@ -181,7 +181,7 @@
             "dayCategory": "finished_yesterday",
             "venue": "1. FC Heidenheim 1846 (Home)",
             "lastUpdated": "2025-12-22T00:20:50Z",
-            "referee": null,
+            "referee": "Florian Badst\u00fcbner",
             "season": 15,
             "group": null,
             "minutesUntilStart": null,
@@ -243,7 +243,7 @@
             "dayCategory": "finished_yesterday",
             "venue": "1. FSV Mainz 05 (Home)",
             "lastUpdated": "2025-12-22T00:20:50Z",
-            "referee": null,
+            "referee": "Matthias J\u00f6llenbeck",
             "season": 15,
             "group": null,
             "minutesUntilStart": null,
@@ -1276,7 +1276,7 @@
                 "dayCategory": "finished_yesterday",
                 "venue": "1. FC Heidenheim 1846 (Home)",
                 "lastUpdated": "2025-12-22T00:20:50Z",
-                "referee": null,
+                "referee": "Florian Badst\u00fcbner",
                 "season": 15,
                 "group": null,
                 "minutesUntilStart": null,
@@ -1338,7 +1338,7 @@
                 "dayCategory": "finished_yesterday",
                 "venue": "1. FSV Mainz 05 (Home)",
                 "lastUpdated": "2025-12-22T00:20:50Z",
-                "referee": null,
+                "referee": "Matthias J\u00f6llenbeck",
                 "season": 15,
                 "group": null,
                 "minutesUntilStart": null,
@@ -2072,21 +2072,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 57,
-        "current_time_local": "2025-12-22 13:00:03"
+        "from_cache": false,
+        "api_call_time_ms": 5628.47,
+        "current_time_local": "2025-12-22 13:00:09",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-22 07:29:06",
-        "api_call_time": 3694.05
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-22 07:30:03",
-    "generated_at": "2025-12-22 07:30:03 UTC",
+    "last_updated": "2025-12-22 07:30:09",
+    "generated_at": "2025-12-22 07:30:09 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 78388,
+        "file_size": 78620,
         "file_path": "matches.json"
     }
 }
