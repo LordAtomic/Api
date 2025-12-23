@@ -432,7 +432,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 5515,
+            "minutesUntilStart": 5514,
             "isRecent": false
         }
     ],
@@ -532,7 +532,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 5515,
+                "minutesUntilStart": 5514,
                 "isRecent": false
             }
         },
@@ -894,21 +894,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 56,
-        "current_time_local": "2025-12-23 05:35:04"
+        "from_cache": false,
+        "api_call_time_ms": 3978.43,
+        "current_time_local": "2025-12-23 05:36:07",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-23 00:04:08",
-        "api_call_time": 3822.06
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-23 00:05:04",
-    "generated_at": "2025-12-23 00:05:04 UTC",
+    "last_updated": "2025-12-23 00:06:07",
+    "generated_at": "2025-12-23 00:06:07 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 33864,
+        "file_size": 34026,
         "file_path": "matches.json"
     }
 }
