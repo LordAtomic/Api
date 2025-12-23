@@ -425,14 +425,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "3 days",
+            "timeUntilStart": "2 days",
             "dayCategory": "tomorrow",
             "venue": "Manchester United FC (Home)",
             "lastUpdated": "2025-12-23T00:20:50Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 4321,
+            "minutesUntilStart": 4320,
             "isRecent": false
         }
     ],
@@ -462,14 +462,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "3 days",
+                "timeUntilStart": "2 days",
                 "dayCategory": "tomorrow",
                 "venue": "Manchester United FC (Home)",
                 "lastUpdated": "2025-12-23T00:20:50Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 4321,
+                "minutesUntilStart": 4320,
                 "isRecent": false
             }
         },
@@ -893,21 +893,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 58,
-        "current_time_local": "2025-12-24 01:29:06"
+        "from_cache": false,
+        "api_call_time_ms": 6435.93,
+        "current_time_local": "2025-12-24 01:30:11",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-23 19:58:08",
-        "api_call_time": 3535.58
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-23 19:59:06",
-    "generated_at": "2025-12-23 19:59:06 UTC",
+    "last_updated": "2025-12-23 20:00:11",
+    "generated_at": "2025-12-23 20:00:11 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 33836,
+        "file_size": 33998,
         "file_path": "matches.json"
     }
 }
