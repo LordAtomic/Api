@@ -25,7 +25,7 @@
             "timeUntilStart": null,
             "dayCategory": "finished_today",
             "venue": "Fulham FC (Home)",
-            "lastUpdated": "2025-12-22T22:05:56Z",
+            "lastUpdated": "2025-12-23T00:20:50Z",
             "referee": "Anthony Taylor",
             "season": 17,
             "group": null,
@@ -211,7 +211,7 @@
             "timeUntilStart": null,
             "dayCategory": "finished",
             "venue": "Aston Villa FC (Home)",
-            "lastUpdated": "2025-12-22T00:20:51Z",
+            "lastUpdated": "2025-12-23T00:20:50Z",
             "referee": "Michael Oliver",
             "season": 17,
             "group": null,
@@ -428,11 +428,11 @@
             "timeUntilStart": "3 days",
             "dayCategory": "tomorrow",
             "venue": "Manchester United FC (Home)",
-            "lastUpdated": "2025-12-22T00:20:51Z",
+            "lastUpdated": "2025-12-23T00:20:50Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 5390,
+            "minutesUntilStart": 5389,
             "isRecent": false
         }
     ],
@@ -463,7 +463,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished_today",
                 "venue": "Fulham FC (Home)",
-                "lastUpdated": "2025-12-22T22:05:56Z",
+                "lastUpdated": "2025-12-23T00:20:50Z",
                 "referee": "Anthony Taylor",
                 "season": 17,
                 "group": null,
@@ -528,11 +528,11 @@
                 "timeUntilStart": "3 days",
                 "dayCategory": "tomorrow",
                 "venue": "Manchester United FC (Home)",
-                "lastUpdated": "2025-12-22T00:20:51Z",
+                "lastUpdated": "2025-12-23T00:20:50Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 5390,
+                "minutesUntilStart": 5389,
                 "isRecent": false
             }
         },
@@ -689,7 +689,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished",
                 "venue": "Aston Villa FC (Home)",
-                "lastUpdated": "2025-12-22T00:20:51Z",
+                "lastUpdated": "2025-12-23T00:20:50Z",
                 "referee": "Michael Oliver",
                 "season": 17,
                 "group": null,
@@ -894,29 +894,21 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competitions_fetched": [
-            "PL",
-            "PD",
-            "BL1",
-            "SA",
-            "FL1"
-        ],
-        "competition_name": "All Major Leagues",
+        "competition_name": "Unknown Competition",
         "timezone": "Asia\/Kolkata",
-        "from_cache": false,
-        "api_call_time_ms": 3306.5,
-        "current_time_local": "2025-12-23 07:40:10",
-        "api_errors": []
+        "from_cache": true,
+        "cache_age_seconds": 55,
+        "current_time_local": "2025-12-23 07:41:05"
     },
     "cache_info": {
-        "cache_written": true,
-        "cache_file": "matches_cache.json"
+        "cached_at": "2025-12-23 02:10:10",
+        "api_call_time": 3993.51
     },
-    "last_updated": "2025-12-23 02:10:10",
-    "generated_at": "2025-12-23 02:10:10 UTC",
+    "last_updated": "2025-12-23 02:11:05",
+    "generated_at": "2025-12-23 02:11:05 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 34029,
+        "file_size": 33868,
         "file_path": "matches.json"
     }
 }
