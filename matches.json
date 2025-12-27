@@ -9,7 +9,7 @@
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/586.png",
             "awayLogo": "https:\/\/crests.football-data.org\/104.png",
-            "status": "PAUSED",
+            "status": "IN_PLAY",
             "utcDate": "2025-12-27T14:00:00Z",
             "localDate": "2025-12-27 19:30:00",
             "localTime": "19:30",
@@ -25,7 +25,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Torino FC (Home)",
-            "lastUpdated": "2025-12-27T14:53:28Z",
+            "lastUpdated": "2025-12-27T15:12:08Z",
             "referee": "Daniele Doveri",
             "season": 17,
             "group": null,
@@ -818,7 +818,7 @@
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/586.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/104.png",
-                "status": "PAUSED",
+                "status": "IN_PLAY",
                 "utcDate": "2025-12-27T14:00:00Z",
                 "localDate": "2025-12-27 19:30:00",
                 "localTime": "19:30",
@@ -834,7 +834,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Torino FC (Home)",
-                "lastUpdated": "2025-12-27T14:53:28Z",
+                "lastUpdated": "2025-12-27T15:12:08Z",
                 "referee": "Daniele Doveri",
                 "season": 17,
                 "group": null,
@@ -1648,19 +1648,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 4606.76,
-        "current_time_local": "2025-12-27 20:42:09",
+        "api_call_time_ms": 6202.41,
+        "current_time_local": "2025-12-27 20:42:10",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-27 15:12:09",
-    "generated_at": "2025-12-27 15:12:09 UTC",
+    "last_updated": "2025-12-27 15:12:10",
+    "generated_at": "2025-12-27 15:12:10 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 61520,
+        "file_size": 61522,
         "file_path": "matches.json"
     }
 }
