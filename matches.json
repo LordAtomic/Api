@@ -133,28 +133,28 @@
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/563.png",
             "awayLogo": "https:\/\/crests.football-data.org\/63.png",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "utcDate": "2025-12-27T15:00:00Z",
             "localDate": "2025-12-27 20:30:00",
             "localTime": "20:30",
             "matchday": 18,
             "competition": "Premier League",
             "competitionCode": "PL",
-            "isLive": true,
-            "isFinished": false,
+            "isLive": false,
+            "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "live",
+            "dayCategory": "finished_today",
             "venue": "West Ham United FC (Home)",
-            "lastUpdated": "2025-12-27T16:47:58Z",
+            "lastUpdated": "2025-12-27T16:57:58Z",
             "referee": "Chris Kavanagh",
             "season": 18,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
+            "isRecent": true
         },
         {
             "id": 536979,
@@ -933,8 +933,10 @@
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
-            },
-            {
+            }
+        ],
+        "finished_today": {
+            "4": {
                 "id": 537964,
                 "home": "West Ham",
                 "away": "Fulham",
@@ -942,31 +944,29 @@
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/563.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/63.png",
-                "status": "IN_PLAY",
+                "status": "FINISHED",
                 "utcDate": "2025-12-27T15:00:00Z",
                 "localDate": "2025-12-27 20:30:00",
                 "localTime": "20:30",
                 "matchday": 18,
                 "competition": "Premier League",
                 "competitionCode": "PL",
-                "isLive": true,
-                "isFinished": false,
+                "isLive": false,
+                "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "live",
+                "dayCategory": "finished_today",
                 "venue": "West Ham United FC (Home)",
-                "lastUpdated": "2025-12-27T16:47:58Z",
+                "lastUpdated": "2025-12-27T16:57:58Z",
                 "referee": "Chris Kavanagh",
                 "season": 18,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
-        "finished_today": {
+                "isRecent": true
+            },
             "5": {
                 "id": 536979,
                 "home": "Torino",
@@ -1630,29 +1630,37 @@
     },
     "stats": {
         "total_matches": 26,
-        "live_matches": 5,
+        "live_matches": 4,
         "today_matches": 2,
         "tomorrow_matches": 14,
-        "finished_today": 5,
+        "finished_today": 6,
         "finished_recent": 0
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 59,
-        "current_time_local": "2025-12-27 22:28:06"
+        "from_cache": false,
+        "api_call_time_ms": 3659.44,
+        "current_time_local": "2025-12-27 22:28:09",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-27 16:57:07",
-        "api_call_time": 3624.91
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-27 16:58:06",
-    "generated_at": "2025-12-27 16:58:06 UTC",
+    "last_updated": "2025-12-27 16:58:09",
+    "generated_at": "2025-12-27 16:58:09 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 61434,
+        "file_size": 61621,
         "file_path": "matches.json"
     }
 }
