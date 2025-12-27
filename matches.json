@@ -2,37 +2,6 @@
     "success": true,
     "matches": [
         {
-            "id": 537963,
-            "home": "Nottingham",
-            "away": "Man City",
-            "homeScore": 1,
-            "awayScore": 2,
-            "homeLogo": "https:\/\/crests.football-data.org\/351.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/65.png",
-            "status": "IN_PLAY",
-            "utcDate": "2025-12-27T12:30:00Z",
-            "localDate": "2025-12-27 18:00:00",
-            "localTime": "18:00",
-            "matchday": 18,
-            "competition": "Premier League",
-            "competitionCode": "PL",
-            "isLive": true,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "live",
-            "venue": "Nottingham Forest FC (Home)",
-            "lastUpdated": "2025-12-27T14:16:07Z",
-            "referee": "Robert Jones",
-            "season": 18,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 536979,
             "home": "Torino",
             "away": "Cagliari",
@@ -93,6 +62,37 @@
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
+        },
+        {
+            "id": 537963,
+            "home": "Nottingham",
+            "away": "Man City",
+            "homeScore": 1,
+            "awayScore": 2,
+            "homeLogo": "https:\/\/crests.football-data.org\/351.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/65.png",
+            "status": "FINISHED",
+            "utcDate": "2025-12-27T12:30:00Z",
+            "localDate": "2025-12-27 18:00:00",
+            "localTime": "18:00",
+            "matchday": 18,
+            "competition": "Premier League",
+            "competitionCode": "PL",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_today",
+            "venue": "Nottingham Forest FC (Home)",
+            "lastUpdated": "2025-12-27T14:28:47Z",
+            "referee": "Robert Jones",
+            "season": 18,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": true
         },
         {
             "id": 536980,
@@ -177,14 +177,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "30m",
+            "timeUntilStart": "29m",
             "dayCategory": "today",
             "venue": "Arsenal FC (Home)",
             "lastUpdated": "2025-12-21T01:32:01Z",
             "referee": "John Brooks",
             "season": 18,
             "group": null,
-            "minutesUntilStart": 31,
+            "minutesUntilStart": 30,
             "isRecent": false
         },
         {
@@ -208,14 +208,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "30m",
+            "timeUntilStart": "29m",
             "dayCategory": "today",
             "venue": "Brentford FC (Home)",
             "lastUpdated": "2025-12-23T01:32:00Z",
             "referee": "Peter Bankes",
             "season": 18,
             "group": null,
-            "minutesUntilStart": 31,
+            "minutesUntilStart": 30,
             "isRecent": false
         },
         {
@@ -239,14 +239,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "30m",
+            "timeUntilStart": "29m",
             "dayCategory": "today",
             "venue": "Burnley FC (Home)",
             "lastUpdated": "2025-12-21T01:32:01Z",
             "referee": "Craig Pawson",
             "season": 18,
             "group": null,
-            "minutesUntilStart": 31,
+            "minutesUntilStart": 30,
             "isRecent": false
         },
         {
@@ -270,14 +270,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "30m",
+            "timeUntilStart": "29m",
             "dayCategory": "today",
             "venue": "Liverpool FC (Home)",
             "lastUpdated": "2025-12-27T01:32:00Z",
             "referee": "Simon Hooper",
             "season": 18,
             "group": null,
-            "minutesUntilStart": 31,
+            "minutesUntilStart": 30,
             "isRecent": false
         },
         {
@@ -301,14 +301,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "30m",
+            "timeUntilStart": "29m",
             "dayCategory": "today",
             "venue": "West Ham United FC (Home)",
             "lastUpdated": "2025-12-23T01:32:00Z",
             "referee": "Chris Kavanagh",
             "season": 18,
             "group": null,
-            "minutesUntilStart": 31,
+            "minutesUntilStart": 30,
             "isRecent": false
         },
         {
@@ -332,14 +332,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 30m",
+            "timeUntilStart": "2h 29m",
             "dayCategory": "today",
             "venue": "Udinese Calcio (Home)",
             "lastUpdated": "2025-12-22T01:32:00Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 151,
+            "minutesUntilStart": 150,
             "isRecent": false
         },
         {
@@ -363,14 +363,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "3h 0m",
+            "timeUntilStart": "2h 59m",
             "dayCategory": "today",
             "venue": "Chelsea FC (Home)",
             "lastUpdated": "2025-12-21T01:32:01Z",
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 181,
+            "minutesUntilStart": 180,
             "isRecent": false
         },
         {
@@ -394,14 +394,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "5h 15m",
+            "timeUntilStart": "5h 14m",
             "dayCategory": "tomorrow",
             "venue": "AC Pisa 1909 (Home)",
             "lastUpdated": "2025-12-21T01:32:01Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 316,
+            "minutesUntilStart": 315,
             "isRecent": false
         },
         {
@@ -425,14 +425,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 0m",
+            "timeUntilStart": "20h 59m",
             "dayCategory": "tomorrow",
             "venue": "AC Milan (Home)",
             "lastUpdated": "2025-12-22T01:32:00Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1261,
+            "minutesUntilStart": 1260,
             "isRecent": false
         },
         {
@@ -456,14 +456,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "23h 30m",
+            "timeUntilStart": "23h 29m",
             "dayCategory": "tomorrow",
             "venue": "Sunderland AFC (Home)",
             "lastUpdated": "2025-12-27T01:32:00Z",
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 1411,
+            "minutesUntilStart": 1410,
             "isRecent": false
         },
         {
@@ -487,14 +487,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "23h 30m",
+            "timeUntilStart": "23h 29m",
             "dayCategory": "tomorrow",
             "venue": "US Cremonese (Home)",
             "lastUpdated": "2025-12-22T01:32:01Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1411,
+            "minutesUntilStart": 1410,
             "isRecent": false
         },
         {
@@ -525,7 +525,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 1561,
+            "minutesUntilStart": 1560,
             "isRecent": false
         },
         {
@@ -556,7 +556,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1591,
+            "minutesUntilStart": 1590,
             "isRecent": false
         },
         {
@@ -587,7 +587,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1756,
+            "minutesUntilStart": 1755,
             "isRecent": false
         },
         {
@@ -618,7 +618,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 3196,
+            "minutesUntilStart": 3195,
             "isRecent": false
         },
         {
@@ -649,7 +649,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 4621,
+            "minutesUntilStart": 4620,
             "isRecent": false
         },
         {
@@ -680,7 +680,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 4621,
+            "minutesUntilStart": 4620,
             "isRecent": false
         },
         {
@@ -711,7 +711,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 4621,
+            "minutesUntilStart": 4620,
             "isRecent": false
         },
         {
@@ -742,7 +742,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 4621,
+            "minutesUntilStart": 4620,
             "isRecent": false
         },
         {
@@ -773,7 +773,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 4666,
+            "minutesUntilStart": 4665,
             "isRecent": false
         },
         {
@@ -804,43 +804,12 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 4666,
+            "minutesUntilStart": 4665,
             "isRecent": false
         }
     ],
     "grouped_matches": {
         "live": [
-            {
-                "id": 537963,
-                "home": "Nottingham",
-                "away": "Man City",
-                "homeScore": 1,
-                "awayScore": 2,
-                "homeLogo": "https:\/\/crests.football-data.org\/351.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/65.png",
-                "status": "IN_PLAY",
-                "utcDate": "2025-12-27T12:30:00Z",
-                "localDate": "2025-12-27 18:00:00",
-                "localTime": "18:00",
-                "matchday": 18,
-                "competition": "Premier League",
-                "competitionCode": "PL",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "Nottingham Forest FC (Home)",
-                "lastUpdated": "2025-12-27T14:16:07Z",
-                "referee": "Robert Jones",
-                "season": 18,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
             {
                 "id": 536979,
                 "home": "Torino",
@@ -905,6 +874,37 @@
             }
         ],
         "finished_today": {
+            "2": {
+                "id": 537963,
+                "home": "Nottingham",
+                "away": "Man City",
+                "homeScore": 1,
+                "awayScore": 2,
+                "homeLogo": "https:\/\/crests.football-data.org\/351.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/65.png",
+                "status": "FINISHED",
+                "utcDate": "2025-12-27T12:30:00Z",
+                "localDate": "2025-12-27 18:00:00",
+                "localTime": "18:00",
+                "matchday": 18,
+                "competition": "Premier League",
+                "competitionCode": "PL",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": false,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_today",
+                "venue": "Nottingham Forest FC (Home)",
+                "lastUpdated": "2025-12-27T14:28:47Z",
+                "referee": "Robert Jones",
+                "season": 18,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": true
+            },
             "3": {
                 "id": 536980,
                 "home": "Parma",
@@ -990,14 +990,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "30m",
+                "timeUntilStart": "29m",
                 "dayCategory": "today",
                 "venue": "Arsenal FC (Home)",
                 "lastUpdated": "2025-12-21T01:32:01Z",
                 "referee": "John Brooks",
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 31,
+                "minutesUntilStart": 30,
                 "isRecent": false
             },
             "6": {
@@ -1021,14 +1021,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "30m",
+                "timeUntilStart": "29m",
                 "dayCategory": "today",
                 "venue": "Brentford FC (Home)",
                 "lastUpdated": "2025-12-23T01:32:00Z",
                 "referee": "Peter Bankes",
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 31,
+                "minutesUntilStart": 30,
                 "isRecent": false
             },
             "7": {
@@ -1052,14 +1052,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "30m",
+                "timeUntilStart": "29m",
                 "dayCategory": "today",
                 "venue": "Burnley FC (Home)",
                 "lastUpdated": "2025-12-21T01:32:01Z",
                 "referee": "Craig Pawson",
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 31,
+                "minutesUntilStart": 30,
                 "isRecent": false
             },
             "8": {
@@ -1083,14 +1083,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "30m",
+                "timeUntilStart": "29m",
                 "dayCategory": "today",
                 "venue": "Liverpool FC (Home)",
                 "lastUpdated": "2025-12-27T01:32:00Z",
                 "referee": "Simon Hooper",
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 31,
+                "minutesUntilStart": 30,
                 "isRecent": false
             },
             "9": {
@@ -1114,14 +1114,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "30m",
+                "timeUntilStart": "29m",
                 "dayCategory": "today",
                 "venue": "West Ham United FC (Home)",
                 "lastUpdated": "2025-12-23T01:32:00Z",
                 "referee": "Chris Kavanagh",
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 31,
+                "minutesUntilStart": 30,
                 "isRecent": false
             },
             "10": {
@@ -1145,14 +1145,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 30m",
+                "timeUntilStart": "2h 29m",
                 "dayCategory": "today",
                 "venue": "Udinese Calcio (Home)",
                 "lastUpdated": "2025-12-22T01:32:00Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 151,
+                "minutesUntilStart": 150,
                 "isRecent": false
             },
             "11": {
@@ -1176,14 +1176,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "3h 0m",
+                "timeUntilStart": "2h 59m",
                 "dayCategory": "today",
                 "venue": "Chelsea FC (Home)",
                 "lastUpdated": "2025-12-21T01:32:01Z",
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 181,
+                "minutesUntilStart": 180,
                 "isRecent": false
             }
         },
@@ -1209,14 +1209,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "5h 15m",
+                "timeUntilStart": "5h 14m",
                 "dayCategory": "tomorrow",
                 "venue": "AC Pisa 1909 (Home)",
                 "lastUpdated": "2025-12-21T01:32:01Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 316,
+                "minutesUntilStart": 315,
                 "isRecent": false
             },
             "13": {
@@ -1240,14 +1240,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 0m",
+                "timeUntilStart": "20h 59m",
                 "dayCategory": "tomorrow",
                 "venue": "AC Milan (Home)",
                 "lastUpdated": "2025-12-22T01:32:00Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1261,
+                "minutesUntilStart": 1260,
                 "isRecent": false
             },
             "14": {
@@ -1271,14 +1271,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "23h 30m",
+                "timeUntilStart": "23h 29m",
                 "dayCategory": "tomorrow",
                 "venue": "Sunderland AFC (Home)",
                 "lastUpdated": "2025-12-27T01:32:00Z",
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 1411,
+                "minutesUntilStart": 1410,
                 "isRecent": false
             },
             "15": {
@@ -1302,14 +1302,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "23h 30m",
+                "timeUntilStart": "23h 29m",
                 "dayCategory": "tomorrow",
                 "venue": "US Cremonese (Home)",
                 "lastUpdated": "2025-12-22T01:32:01Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1411,
+                "minutesUntilStart": 1410,
                 "isRecent": false
             },
             "16": {
@@ -1340,7 +1340,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 1561,
+                "minutesUntilStart": 1560,
                 "isRecent": false
             },
             "17": {
@@ -1371,7 +1371,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1591,
+                "minutesUntilStart": 1590,
                 "isRecent": false
             },
             "18": {
@@ -1402,7 +1402,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1756,
+                "minutesUntilStart": 1755,
                 "isRecent": false
             },
             "19": {
@@ -1433,7 +1433,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 3196,
+                "minutesUntilStart": 3195,
                 "isRecent": false
             },
             "20": {
@@ -1464,7 +1464,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 4621,
+                "minutesUntilStart": 4620,
                 "isRecent": false
             },
             "21": {
@@ -1495,7 +1495,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 4621,
+                "minutesUntilStart": 4620,
                 "isRecent": false
             },
             "22": {
@@ -1526,7 +1526,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 4621,
+                "minutesUntilStart": 4620,
                 "isRecent": false
             },
             "23": {
@@ -1557,7 +1557,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 4621,
+                "minutesUntilStart": 4620,
                 "isRecent": false
             },
             "24": {
@@ -1588,7 +1588,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 4666,
+                "minutesUntilStart": 4665,
                 "isRecent": false
             },
             "25": {
@@ -1619,7 +1619,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 4666,
+                "minutesUntilStart": 4665,
                 "isRecent": false
             }
         },
@@ -1630,29 +1630,37 @@
     },
     "stats": {
         "total_matches": 26,
-        "live_matches": 3,
+        "live_matches": 2,
         "today_matches": 7,
         "tomorrow_matches": 14,
-        "finished_today": 2,
+        "finished_today": 3,
         "finished_recent": 0
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 54,
-        "current_time_local": "2025-12-27 19:59:03"
+        "from_cache": false,
+        "api_call_time_ms": 6055.18,
+        "current_time_local": "2025-12-27 20:00:12",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-27 14:28:09",
-        "api_call_time": 4922.74
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-27 14:29:03",
-    "generated_at": "2025-12-27 14:29:03 UTC",
+    "last_updated": "2025-12-27 14:30:12",
+    "generated_at": "2025-12-27 14:30:12 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 61338,
+        "file_size": 61529,
         "file_path": "matches.json"
     }
 }
