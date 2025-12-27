@@ -37,7 +37,7 @@
             "home": "Brentford",
             "away": "Bournemouth",
             "homeScore": 3,
-            "awayScore": 0,
+            "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/402.png",
             "awayLogo": "https:\/\/crests.football-data.org\/bournemouth.png",
             "status": "IN_PLAY",
@@ -56,7 +56,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Brentford FC (Home)",
-            "lastUpdated": "2025-12-27T16:16:02Z",
+            "lastUpdated": "2025-12-27T16:39:57Z",
             "referee": "Peter Bankes",
             "season": 18,
             "group": null,
@@ -846,7 +846,7 @@
                 "home": "Brentford",
                 "away": "Bournemouth",
                 "homeScore": 3,
-                "awayScore": 0,
+                "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/402.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/bournemouth.png",
                 "status": "IN_PLAY",
@@ -865,7 +865,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Brentford FC (Home)",
-                "lastUpdated": "2025-12-27T16:16:02Z",
+                "lastUpdated": "2025-12-27T16:39:57Z",
                 "referee": "Peter Bankes",
                 "season": 18,
                 "group": null,
@@ -1638,21 +1638,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 55,
-        "current_time_local": "2025-12-27 22:10:03"
+        "from_cache": false,
+        "api_call_time_ms": 3921.96,
+        "current_time_local": "2025-12-27 22:10:07",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-27 16:39:08",
-        "api_call_time": 3906.51
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-27 16:40:03",
-    "generated_at": "2025-12-27 16:40:03 UTC",
+    "last_updated": "2025-12-27 16:40:07",
+    "generated_at": "2025-12-27 16:40:07 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 61440,
+        "file_size": 61602,
         "file_path": "matches.json"
     }
 }
