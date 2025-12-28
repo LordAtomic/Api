@@ -549,14 +549,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "20m",
+            "timeUntilStart": "19m",
             "dayCategory": "today",
             "venue": "Bologna FC 1909 (Home)",
             "lastUpdated": "2025-12-28T01:32:00Z",
             "referee": "Juan Luca Sacchi",
             "season": 17,
             "group": null,
-            "minutesUntilStart": 21,
+            "minutesUntilStart": 20,
             "isRecent": false
         },
         {
@@ -580,14 +580,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "3h 5m",
+            "timeUntilStart": "3h 4m",
             "dayCategory": "tomorrow",
             "venue": "Atalanta BC (Home)",
             "lastUpdated": "2025-12-22T01:32:01Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 186,
+            "minutesUntilStart": 185,
             "isRecent": false
         },
         {
@@ -618,7 +618,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1626,
+            "minutesUntilStart": 1625,
             "isRecent": false
         },
         {
@@ -649,7 +649,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 3051,
+            "minutesUntilStart": 3050,
             "isRecent": false
         },
         {
@@ -680,7 +680,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 3051,
+            "minutesUntilStart": 3050,
             "isRecent": false
         },
         {
@@ -711,7 +711,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 3051,
+            "minutesUntilStart": 3050,
             "isRecent": false
         },
         {
@@ -742,7 +742,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 3051,
+            "minutesUntilStart": 3050,
             "isRecent": false
         },
         {
@@ -773,7 +773,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 3096,
+            "minutesUntilStart": 3095,
             "isRecent": false
         },
         {
@@ -804,7 +804,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 3096,
+            "minutesUntilStart": 3095,
             "isRecent": false
         }
     ],
@@ -990,14 +990,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "20m",
+                "timeUntilStart": "19m",
                 "dayCategory": "today",
                 "venue": "Bologna FC 1909 (Home)",
                 "lastUpdated": "2025-12-28T01:32:00Z",
                 "referee": "Juan Luca Sacchi",
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 21,
+                "minutesUntilStart": 20,
                 "isRecent": false
             }
         },
@@ -1023,14 +1023,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "3h 5m",
+                "timeUntilStart": "3h 4m",
                 "dayCategory": "tomorrow",
                 "venue": "Atalanta BC (Home)",
                 "lastUpdated": "2025-12-22T01:32:01Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 186,
+                "minutesUntilStart": 185,
                 "isRecent": false
             },
             "19": {
@@ -1061,7 +1061,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1626,
+                "minutesUntilStart": 1625,
                 "isRecent": false
             },
             "20": {
@@ -1092,7 +1092,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 3051,
+                "minutesUntilStart": 3050,
                 "isRecent": false
             },
             "21": {
@@ -1123,7 +1123,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 3051,
+                "minutesUntilStart": 3050,
                 "isRecent": false
             },
             "22": {
@@ -1154,7 +1154,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 3051,
+                "minutesUntilStart": 3050,
                 "isRecent": false
             },
             "23": {
@@ -1185,7 +1185,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 3051,
+                "minutesUntilStart": 3050,
                 "isRecent": false
             },
             "24": {
@@ -1216,7 +1216,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 3096,
+                "minutesUntilStart": 3095,
                 "isRecent": false
             },
             "25": {
@@ -1247,7 +1247,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 3096,
+                "minutesUntilStart": 3095,
                 "isRecent": false
             }
         },
@@ -1639,21 +1639,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 54,
-        "current_time_local": "2025-12-28 22:09:04"
+        "from_cache": false,
+        "api_call_time_ms": 4844.29,
+        "current_time_local": "2025-12-28 22:10:08",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-28 16:38:10",
-        "api_call_time": 6804.37
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-28 16:39:04",
-    "generated_at": "2025-12-28 16:39:04 UTC",
+    "last_updated": "2025-12-28 16:40:08",
+    "generated_at": "2025-12-28 16:40:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 61855,
+        "file_size": 62017,
         "file_path": "matches.json"
     }
 }
