@@ -580,14 +580,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "51m",
+            "timeUntilStart": "50m",
             "dayCategory": "today",
             "venue": "Atalanta BC (Home)",
             "lastUpdated": "2025-12-22T01:32:01Z",
             "referee": "Federico La Penna",
             "season": 17,
             "group": null,
-            "minutesUntilStart": 52,
+            "minutesUntilStart": 51,
             "isRecent": false
         },
         {
@@ -618,7 +618,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1492,
+            "minutesUntilStart": 1491,
             "isRecent": false
         },
         {
@@ -649,7 +649,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 2917,
+            "minutesUntilStart": 2916,
             "isRecent": false
         },
         {
@@ -680,7 +680,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 2917,
+            "minutesUntilStart": 2916,
             "isRecent": false
         },
         {
@@ -711,7 +711,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 2917,
+            "minutesUntilStart": 2916,
             "isRecent": false
         },
         {
@@ -742,7 +742,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 2917,
+            "minutesUntilStart": 2916,
             "isRecent": false
         },
         {
@@ -773,7 +773,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 2962,
+            "minutesUntilStart": 2961,
             "isRecent": false
         },
         {
@@ -804,7 +804,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 2962,
+            "minutesUntilStart": 2961,
             "isRecent": false
         }
     ],
@@ -865,14 +865,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "51m",
+                "timeUntilStart": "50m",
                 "dayCategory": "today",
                 "venue": "Atalanta BC (Home)",
                 "lastUpdated": "2025-12-22T01:32:01Z",
                 "referee": "Federico La Penna",
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 52,
+                "minutesUntilStart": 51,
                 "isRecent": false
             }
         },
@@ -905,7 +905,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1492,
+                "minutesUntilStart": 1491,
                 "isRecent": false
             },
             "20": {
@@ -936,7 +936,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 2917,
+                "minutesUntilStart": 2916,
                 "isRecent": false
             },
             "21": {
@@ -967,7 +967,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 2917,
+                "minutesUntilStart": 2916,
                 "isRecent": false
             },
             "22": {
@@ -998,7 +998,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 2917,
+                "minutesUntilStart": 2916,
                 "isRecent": false
             },
             "23": {
@@ -1029,7 +1029,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 2917,
+                "minutesUntilStart": 2916,
                 "isRecent": false
             },
             "24": {
@@ -1060,7 +1060,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 2962,
+                "minutesUntilStart": 2961,
                 "isRecent": false
             },
             "25": {
@@ -1091,7 +1091,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 2962,
+                "minutesUntilStart": 2961,
                 "isRecent": false
             }
         },
@@ -1639,21 +1639,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 56,
-        "current_time_local": "2025-12-29 00:23:03"
+        "from_cache": false,
+        "api_call_time_ms": 3310.29,
+        "current_time_local": "2025-12-29 00:24:07",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-28 18:52:07",
-        "api_call_time": 3452.85
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-28 18:53:03",
-    "generated_at": "2025-12-28 18:53:03 UTC",
+    "last_updated": "2025-12-28 18:54:07",
+    "generated_at": "2025-12-28 18:54:07 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 61713,
+        "file_size": 61875,
         "file_path": "matches.json"
     }
 }
