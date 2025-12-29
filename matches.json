@@ -20,10 +20,10 @@
             "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
-            "isYesterday": false,
+            "isYesterday": true,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "finished_today",
+            "dayCategory": "finished_yesterday",
             "venue": "Atalanta BC (Home)",
             "lastUpdated": "2025-12-29T00:20:55Z",
             "referee": "Federico La Penna",
@@ -51,10 +51,10 @@
             "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
-            "isYesterday": true,
+            "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
+            "dayCategory": "finished",
             "venue": "Bologna FC 1909 (Home)",
             "lastUpdated": "2025-12-29T00:20:55Z",
             "referee": "Juan Luca Sacchi",
@@ -82,10 +82,10 @@
             "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
-            "isYesterday": true,
+            "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
+            "dayCategory": "finished",
             "venue": "Crystal Palace FC (Home)",
             "lastUpdated": "2025-12-29T00:20:55Z",
             "referee": "Jarred Gillett",
@@ -113,10 +113,10 @@
             "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
-            "isYesterday": true,
+            "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
+            "dayCategory": "finished",
             "venue": "Sunderland AFC (Home)",
             "lastUpdated": "2025-12-29T00:20:55Z",
             "referee": "Tony Harrington",
@@ -144,10 +144,10 @@
             "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
-            "isYesterday": true,
+            "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
+            "dayCategory": "finished",
             "venue": "US Cremonese (Home)",
             "lastUpdated": "2025-12-29T00:20:55Z",
             "referee": "Maurizio Mariani",
@@ -175,10 +175,10 @@
             "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
-            "isYesterday": true,
+            "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
+            "dayCategory": "finished",
             "venue": "AC Milan (Home)",
             "lastUpdated": "2025-12-29T00:20:55Z",
             "referee": "Michael Fabbri",
@@ -206,10 +206,10 @@
             "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
-            "isYesterday": true,
+            "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
+            "dayCategory": "finished",
             "venue": "AC Pisa 1909 (Home)",
             "lastUpdated": "2025-12-29T00:20:55Z",
             "referee": "Fabio Maresca",
@@ -576,18 +576,18 @@
             "competitionCode": "SA",
             "isLive": false,
             "isFinished": false,
-            "isToday": false,
-            "isTomorrow": true,
+            "isToday": true,
+            "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 15m",
-            "dayCategory": "tomorrow",
+            "timeUntilStart": "1h 14m",
+            "dayCategory": "today",
             "venue": "AS Roma (Home)",
             "lastUpdated": "2025-12-28T01:32:00Z",
             "referee": "Marco Di Bello",
             "season": 17,
             "group": null,
-            "minutesUntilStart": 76,
+            "minutesUntilStart": 75,
             "isRecent": false
         },
         {
@@ -618,7 +618,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 1501,
+            "minutesUntilStart": 1500,
             "isRecent": false
         },
         {
@@ -649,7 +649,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 1501,
+            "minutesUntilStart": 1500,
             "isRecent": false
         },
         {
@@ -680,7 +680,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 1501,
+            "minutesUntilStart": 1500,
             "isRecent": false
         },
         {
@@ -711,7 +711,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 1501,
+            "minutesUntilStart": 1500,
             "isRecent": false
         },
         {
@@ -742,7 +742,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 1546,
+            "minutesUntilStart": 1545,
             "isRecent": false
         },
         {
@@ -773,7 +773,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 1546,
+            "minutesUntilStart": 1545,
             "isRecent": false
         },
         {
@@ -804,7 +804,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 4261,
+            "minutesUntilStart": 4260,
             "isRecent": false
         },
         {
@@ -835,7 +835,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 4261,
+            "minutesUntilStart": 4260,
             "isRecent": false
         },
         {
@@ -866,7 +866,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 4411,
+            "minutesUntilStart": 4410,
             "isRecent": false
         },
         {
@@ -897,47 +897,14 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 4411,
+            "minutesUntilStart": 4410,
             "isRecent": false
         }
     ],
     "grouped_matches": {
         "live": [],
-        "finished_today": [
-            {
-                "id": 536977,
-                "home": "Atalanta",
-                "away": "Inter",
-                "homeScore": 0,
-                "awayScore": 1,
-                "homeLogo": "https:\/\/crests.football-data.org\/102.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/108.png",
-                "status": "FINISHED",
-                "utcDate": "2025-12-28T19:45:00Z",
-                "localDate": "2025-12-29 01:15:00",
-                "localTime": "01:15",
-                "matchday": 17,
-                "competition": "Serie A",
-                "competitionCode": "SA",
-                "isLive": false,
-                "isFinished": true,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "finished_today",
-                "venue": "Atalanta BC (Home)",
-                "lastUpdated": "2025-12-29T00:20:55Z",
-                "referee": "Federico La Penna",
-                "season": 17,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
-        "today": [],
-        "tomorrow": {
+        "finished_today": [],
+        "today": {
             "18": {
                 "id": 536976,
                 "home": "Roma",
@@ -955,20 +922,22 @@
                 "competitionCode": "SA",
                 "isLive": false,
                 "isFinished": false,
-                "isToday": false,
-                "isTomorrow": true,
+                "isToday": true,
+                "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 15m",
-                "dayCategory": "tomorrow",
+                "timeUntilStart": "1h 14m",
+                "dayCategory": "today",
                 "venue": "AS Roma (Home)",
                 "lastUpdated": "2025-12-28T01:32:00Z",
                 "referee": "Marco Di Bello",
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 76,
+                "minutesUntilStart": 75,
                 "isRecent": false
-            },
+            }
+        },
+        "tomorrow": {
             "19": {
                 "id": 537969,
                 "home": "Burnley",
@@ -997,7 +966,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 1501,
+                "minutesUntilStart": 1500,
                 "isRecent": false
             },
             "20": {
@@ -1028,7 +997,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 1501,
+                "minutesUntilStart": 1500,
                 "isRecent": false
             },
             "21": {
@@ -1059,7 +1028,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 1501,
+                "minutesUntilStart": 1500,
                 "isRecent": false
             },
             "22": {
@@ -1090,7 +1059,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 1501,
+                "minutesUntilStart": 1500,
                 "isRecent": false
             },
             "23": {
@@ -1121,7 +1090,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 1546,
+                "minutesUntilStart": 1545,
                 "isRecent": false
             },
             "24": {
@@ -1152,7 +1121,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 1546,
+                "minutesUntilStart": 1545,
                 "isRecent": false
             },
             "25": {
@@ -1183,7 +1152,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 4261,
+                "minutesUntilStart": 4260,
                 "isRecent": false
             },
             "26": {
@@ -1214,7 +1183,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 4261,
+                "minutesUntilStart": 4260,
                 "isRecent": false
             },
             "27": {
@@ -1245,7 +1214,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 4411,
+                "minutesUntilStart": 4410,
                 "isRecent": false
             },
             "28": {
@@ -1276,12 +1245,46 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 4411,
+                "minutesUntilStart": 4410,
                 "isRecent": false
             }
         },
         "upcoming": [],
-        "finished_yesterday": {
+        "finished_yesterday": [
+            {
+                "id": 536977,
+                "home": "Atalanta",
+                "away": "Inter",
+                "homeScore": 0,
+                "awayScore": 1,
+                "homeLogo": "https:\/\/crests.football-data.org\/102.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/108.png",
+                "status": "FINISHED",
+                "utcDate": "2025-12-28T19:45:00Z",
+                "localDate": "2025-12-29 01:15:00",
+                "localTime": "01:15",
+                "matchday": 17,
+                "competition": "Serie A",
+                "competitionCode": "SA",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": true,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_yesterday",
+                "venue": "Atalanta BC (Home)",
+                "lastUpdated": "2025-12-29T00:20:55Z",
+                "referee": "Federico La Penna",
+                "season": 17,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": false
+            }
+        ],
+        "finished_recent": [],
+        "finished_older": {
             "1": {
                 "id": 536978,
                 "home": "Bologna",
@@ -1301,10 +1304,10 @@
                 "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
-                "isYesterday": true,
+                "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "finished_yesterday",
+                "dayCategory": "finished",
                 "venue": "Bologna FC 1909 (Home)",
                 "lastUpdated": "2025-12-29T00:20:55Z",
                 "referee": "Juan Luca Sacchi",
@@ -1332,10 +1335,10 @@
                 "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
-                "isYesterday": true,
+                "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "finished_yesterday",
+                "dayCategory": "finished",
                 "venue": "Crystal Palace FC (Home)",
                 "lastUpdated": "2025-12-29T00:20:55Z",
                 "referee": "Jarred Gillett",
@@ -1363,10 +1366,10 @@
                 "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
-                "isYesterday": true,
+                "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "finished_yesterday",
+                "dayCategory": "finished",
                 "venue": "Sunderland AFC (Home)",
                 "lastUpdated": "2025-12-29T00:20:55Z",
                 "referee": "Tony Harrington",
@@ -1394,10 +1397,10 @@
                 "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
-                "isYesterday": true,
+                "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "finished_yesterday",
+                "dayCategory": "finished",
                 "venue": "US Cremonese (Home)",
                 "lastUpdated": "2025-12-29T00:20:55Z",
                 "referee": "Maurizio Mariani",
@@ -1425,10 +1428,10 @@
                 "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
-                "isYesterday": true,
+                "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "finished_yesterday",
+                "dayCategory": "finished",
                 "venue": "AC Milan (Home)",
                 "lastUpdated": "2025-12-29T00:20:55Z",
                 "referee": "Michael Fabbri",
@@ -1456,10 +1459,10 @@
                 "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
-                "isYesterday": true,
+                "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "finished_yesterday",
+                "dayCategory": "finished",
                 "venue": "AC Pisa 1909 (Home)",
                 "lastUpdated": "2025-12-29T00:20:55Z",
                 "referee": "Fabio Maresca",
@@ -1467,10 +1470,7 @@
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
-            }
-        },
-        "finished_recent": [],
-        "finished_older": {
+            },
             "7": {
                 "id": 537960,
                 "home": "Chelsea",
@@ -1817,28 +1817,36 @@
     "stats": {
         "total_matches": 29,
         "live_matches": 0,
-        "today_matches": 0,
-        "tomorrow_matches": 11,
-        "finished_today": 1,
+        "today_matches": 1,
+        "tomorrow_matches": 10,
+        "finished_today": 0,
         "finished_recent": 0
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 55,
-        "current_time_local": "2025-12-29 23:59:03"
+        "from_cache": false,
+        "api_call_time_ms": 5667.47,
+        "current_time_local": "2025-12-30 00:00:09",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-29 18:28:08",
-        "api_call_time": 3685.56
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-29 18:29:03",
-    "generated_at": "2025-12-29 18:29:03 UTC",
+    "last_updated": "2025-12-29 18:30:09",
+    "generated_at": "2025-12-29 18:30:09 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 68756,
+        "file_size": 68810,
         "file_path": "matches.json"
     }
 }
