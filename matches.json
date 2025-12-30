@@ -432,7 +432,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2542,
+            "minutesUntilStart": 2541,
             "isRecent": false
         },
         {
@@ -463,7 +463,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2542,
+            "minutesUntilStart": 2541,
             "isRecent": false
         },
         {
@@ -494,7 +494,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2692,
+            "minutesUntilStart": 2691,
             "isRecent": false
         },
         {
@@ -525,7 +525,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2692,
+            "minutesUntilStart": 2691,
             "isRecent": false
         },
         {
@@ -556,7 +556,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 4117,
+            "minutesUntilStart": 4116,
             "isRecent": false
         },
         {
@@ -587,7 +587,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 4117,
+            "minutesUntilStart": 4116,
             "isRecent": false
         },
         {
@@ -618,7 +618,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 4132,
+            "minutesUntilStart": 4131,
             "isRecent": false
         }
     ],
@@ -842,7 +842,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2542,
+                "minutesUntilStart": 2541,
                 "isRecent": false
             },
             "14": {
@@ -873,7 +873,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2542,
+                "minutesUntilStart": 2541,
                 "isRecent": false
             },
             "15": {
@@ -904,7 +904,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2692,
+                "minutesUntilStart": 2691,
                 "isRecent": false
             },
             "16": {
@@ -935,7 +935,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2692,
+                "minutesUntilStart": 2691,
                 "isRecent": false
             },
             "17": {
@@ -966,7 +966,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 4117,
+                "minutesUntilStart": 4116,
                 "isRecent": false
             },
             "18": {
@@ -997,7 +997,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 4117,
+                "minutesUntilStart": 4116,
                 "isRecent": false
             },
             "19": {
@@ -1028,7 +1028,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 4132,
+                "minutesUntilStart": 4131,
                 "isRecent": false
             }
         },
@@ -1266,29 +1266,21 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competitions_fetched": [
-            "PL",
-            "PD",
-            "BL1",
-            "SA",
-            "FL1"
-        ],
-        "competition_name": "All Major Leagues",
+        "competition_name": "Unknown Competition",
         "timezone": "Asia\/Kolkata",
-        "from_cache": false,
-        "api_call_time_ms": 5060.79,
-        "current_time_local": "2025-12-31 04:38:08",
-        "api_errors": []
+        "from_cache": true,
+        "cache_age_seconds": 54,
+        "current_time_local": "2025-12-31 04:39:02"
     },
     "cache_info": {
-        "cache_written": true,
-        "cache_file": "matches_cache.json"
+        "cached_at": "2025-12-30 23:08:08",
+        "api_call_time": 4922.57
     },
-    "last_updated": "2025-12-30 23:08:08",
-    "generated_at": "2025-12-30 23:08:08 UTC",
+    "last_updated": "2025-12-30 23:09:02",
+    "generated_at": "2025-12-30 23:09:02 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 47898,
+        "file_size": 47736,
         "file_path": "matches.json"
     }
 }
