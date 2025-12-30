@@ -118,7 +118,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "West Ham United FC (Home)",
-            "lastUpdated": "2025-12-30T20:44:12Z",
+            "lastUpdated": "2025-12-30T20:44:13Z",
             "referee": "Michael Salisbury",
             "season": 19,
             "group": null,
@@ -160,7 +160,7 @@
             "id": 537972,
             "home": "Man United",
             "away": "Wolverhampton",
-            "homeScore": 0,
+            "homeScore": 1,
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/66.png",
             "awayLogo": "https:\/\/crests.football-data.org\/76.png",
@@ -180,7 +180,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Manchester United FC (Home)",
-            "lastUpdated": "2025-12-30T20:20:38Z",
+            "lastUpdated": "2025-12-30T20:47:54Z",
             "referee": "Thomas Bramall",
             "season": 19,
             "group": null,
@@ -432,7 +432,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2683,
+            "minutesUntilStart": 2682,
             "isRecent": false
         },
         {
@@ -463,7 +463,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2683,
+            "minutesUntilStart": 2682,
             "isRecent": false
         },
         {
@@ -494,7 +494,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2833,
+            "minutesUntilStart": 2832,
             "isRecent": false
         },
         {
@@ -525,7 +525,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2833,
+            "minutesUntilStart": 2832,
             "isRecent": false
         },
         {
@@ -556,7 +556,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 4258,
+            "minutesUntilStart": 4257,
             "isRecent": false
         },
         {
@@ -587,7 +587,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 4258,
+            "minutesUntilStart": 4257,
             "isRecent": false
         },
         {
@@ -618,7 +618,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 4273,
+            "minutesUntilStart": 4272,
             "isRecent": false
         }
     ],
@@ -741,7 +741,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "West Ham United FC (Home)",
-                "lastUpdated": "2025-12-30T20:44:12Z",
+                "lastUpdated": "2025-12-30T20:44:13Z",
                 "referee": "Michael Salisbury",
                 "season": 19,
                 "group": null,
@@ -783,7 +783,7 @@
                 "id": 537972,
                 "home": "Man United",
                 "away": "Wolverhampton",
-                "homeScore": 0,
+                "homeScore": 1,
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/66.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/76.png",
@@ -803,7 +803,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Manchester United FC (Home)",
-                "lastUpdated": "2025-12-30T20:20:38Z",
+                "lastUpdated": "2025-12-30T20:47:54Z",
                 "referee": "Thomas Bramall",
                 "season": 19,
                 "group": null,
@@ -842,7 +842,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2683,
+                "minutesUntilStart": 2682,
                 "isRecent": false
             },
             "14": {
@@ -873,7 +873,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2683,
+                "minutesUntilStart": 2682,
                 "isRecent": false
             },
             "15": {
@@ -904,7 +904,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2833,
+                "minutesUntilStart": 2832,
                 "isRecent": false
             },
             "16": {
@@ -935,7 +935,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2833,
+                "minutesUntilStart": 2832,
                 "isRecent": false
             },
             "17": {
@@ -966,7 +966,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 4258,
+                "minutesUntilStart": 4257,
                 "isRecent": false
             },
             "18": {
@@ -997,7 +997,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 4258,
+                "minutesUntilStart": 4257,
                 "isRecent": false
             },
             "19": {
@@ -1028,7 +1028,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 4273,
+                "minutesUntilStart": 4272,
                 "isRecent": false
             }
         },
@@ -1266,21 +1266,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 55,
-        "current_time_local": "2025-12-31 02:17:04"
+        "from_cache": false,
+        "api_call_time_ms": 3254.31,
+        "current_time_local": "2025-12-31 02:18:08",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-30 20:46:09",
-        "api_call_time": 5894.32
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-30 20:47:04",
-    "generated_at": "2025-12-30 20:47:04 UTC",
+    "last_updated": "2025-12-30 20:48:08",
+    "generated_at": "2025-12-30 20:48:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 47616,
+        "file_size": 47778,
         "file_path": "matches.json"
     }
 }
