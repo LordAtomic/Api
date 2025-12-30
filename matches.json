@@ -64,37 +64,6 @@
             "isRecent": false
         },
         {
-            "id": 537973,
-            "home": "Nottingham",
-            "away": "Everton",
-            "homeScore": 0,
-            "awayScore": 2,
-            "homeLogo": "https:\/\/crests.football-data.org\/351.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/62.png",
-            "status": "IN_PLAY",
-            "utcDate": "2025-12-30T19:30:00Z",
-            "localDate": "2025-12-31 01:00:00",
-            "localTime": "01:00",
-            "matchday": 19,
-            "competition": "Premier League",
-            "competitionCode": "PL",
-            "isLive": true,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "live",
-            "venue": "Nottingham Forest FC (Home)",
-            "lastUpdated": "2025-12-30T21:11:32Z",
-            "referee": "Michael Oliver",
-            "season": 19,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 537974,
             "home": "West Ham",
             "away": "Brighton Hove",
@@ -186,6 +155,37 @@
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
+        },
+        {
+            "id": 537973,
+            "home": "Nottingham",
+            "away": "Everton",
+            "homeScore": 0,
+            "awayScore": 2,
+            "homeLogo": "https:\/\/crests.football-data.org\/351.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/62.png",
+            "status": "FINISHED",
+            "utcDate": "2025-12-30T19:30:00Z",
+            "localDate": "2025-12-31 01:00:00",
+            "localTime": "01:00",
+            "matchday": 19,
+            "competition": "Premier League",
+            "competitionCode": "PL",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_today",
+            "venue": "Nottingham Forest FC (Home)",
+            "lastUpdated": "2025-12-30T21:28:12Z",
+            "referee": "Michael Oliver",
+            "season": 19,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": true
         },
         {
             "id": 536976,
@@ -432,7 +432,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2641,
+            "minutesUntilStart": 2640,
             "isRecent": false
         },
         {
@@ -463,7 +463,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2641,
+            "minutesUntilStart": 2640,
             "isRecent": false
         },
         {
@@ -494,7 +494,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2791,
+            "minutesUntilStart": 2790,
             "isRecent": false
         },
         {
@@ -525,7 +525,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2791,
+            "minutesUntilStart": 2790,
             "isRecent": false
         },
         {
@@ -556,7 +556,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 4216,
+            "minutesUntilStart": 4215,
             "isRecent": false
         },
         {
@@ -587,7 +587,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 4216,
+            "minutesUntilStart": 4215,
             "isRecent": false
         },
         {
@@ -618,7 +618,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 4231,
+            "minutesUntilStart": 4230,
             "isRecent": false
         }
     ],
@@ -681,37 +681,6 @@
                 "venue": "Chelsea FC (Home)",
                 "lastUpdated": "2025-12-30T20:45:32Z",
                 "referee": "Sam Barrott",
-                "season": 19,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
-            {
-                "id": 537973,
-                "home": "Nottingham",
-                "away": "Everton",
-                "homeScore": 0,
-                "awayScore": 2,
-                "homeLogo": "https:\/\/crests.football-data.org\/351.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/62.png",
-                "status": "IN_PLAY",
-                "utcDate": "2025-12-30T19:30:00Z",
-                "localDate": "2025-12-31 01:00:00",
-                "localTime": "01:00",
-                "matchday": 19,
-                "competition": "Premier League",
-                "competitionCode": "PL",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "Nottingham Forest FC (Home)",
-                "lastUpdated": "2025-12-30T21:11:32Z",
-                "referee": "Michael Oliver",
                 "season": 19,
                 "group": null,
                 "minutesUntilStart": null,
@@ -811,7 +780,39 @@
                 "isRecent": false
             }
         ],
-        "finished_today": [],
+        "finished_today": {
+            "5": {
+                "id": 537973,
+                "home": "Nottingham",
+                "away": "Everton",
+                "homeScore": 0,
+                "awayScore": 2,
+                "homeLogo": "https:\/\/crests.football-data.org\/351.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/62.png",
+                "status": "FINISHED",
+                "utcDate": "2025-12-30T19:30:00Z",
+                "localDate": "2025-12-31 01:00:00",
+                "localTime": "01:00",
+                "matchday": 19,
+                "competition": "Premier League",
+                "competitionCode": "PL",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": false,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_today",
+                "venue": "Nottingham Forest FC (Home)",
+                "lastUpdated": "2025-12-30T21:28:12Z",
+                "referee": "Michael Oliver",
+                "season": 19,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": true
+            }
+        },
         "today": [],
         "tomorrow": {
             "13": {
@@ -842,7 +843,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2641,
+                "minutesUntilStart": 2640,
                 "isRecent": false
             },
             "14": {
@@ -873,7 +874,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2641,
+                "minutesUntilStart": 2640,
                 "isRecent": false
             },
             "15": {
@@ -904,7 +905,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2791,
+                "minutesUntilStart": 2790,
                 "isRecent": false
             },
             "16": {
@@ -935,7 +936,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2791,
+                "minutesUntilStart": 2790,
                 "isRecent": false
             },
             "17": {
@@ -966,7 +967,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 4216,
+                "minutesUntilStart": 4215,
                 "isRecent": false
             },
             "18": {
@@ -997,7 +998,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 4216,
+                "minutesUntilStart": 4215,
                 "isRecent": false
             },
             "19": {
@@ -1028,7 +1029,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 4231,
+                "minutesUntilStart": 4230,
                 "isRecent": false
             }
         },
@@ -1258,29 +1259,37 @@
     },
     "stats": {
         "total_matches": 20,
-        "live_matches": 6,
+        "live_matches": 5,
         "today_matches": 0,
         "tomorrow_matches": 7,
-        "finished_today": 0,
+        "finished_today": 1,
         "finished_recent": 0
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 56,
-        "current_time_local": "2025-12-31 02:59:03"
+        "from_cache": false,
+        "api_call_time_ms": 3807.02,
+        "current_time_local": "2025-12-31 03:00:07",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-30 21:28:07",
-        "api_call_time": 4292.1
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-30 21:29:03",
-    "generated_at": "2025-12-30 21:29:03 UTC",
+    "last_updated": "2025-12-30 21:30:07",
+    "generated_at": "2025-12-30 21:30:07 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 47615,
+        "file_size": 47811,
         "file_path": "matches.json"
     }
 }
