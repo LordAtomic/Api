@@ -68,7 +68,7 @@
             "home": "Nottingham",
             "away": "Everton",
             "homeScore": 0,
-            "awayScore": 1,
+            "awayScore": 2,
             "homeLogo": "https:\/\/crests.football-data.org\/351.png",
             "awayLogo": "https:\/\/crests.football-data.org\/62.png",
             "status": "IN_PLAY",
@@ -87,7 +87,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Nottingham Forest FC (Home)",
-            "lastUpdated": "2025-12-30T20:37:32Z",
+            "lastUpdated": "2025-12-30T21:11:32Z",
             "referee": "Michael Oliver",
             "season": 19,
             "group": null,
@@ -432,7 +432,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2659,
+            "minutesUntilStart": 2658,
             "isRecent": false
         },
         {
@@ -463,7 +463,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2659,
+            "minutesUntilStart": 2658,
             "isRecent": false
         },
         {
@@ -494,7 +494,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2809,
+            "minutesUntilStart": 2808,
             "isRecent": false
         },
         {
@@ -525,7 +525,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2809,
+            "minutesUntilStart": 2808,
             "isRecent": false
         },
         {
@@ -556,7 +556,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 4234,
+            "minutesUntilStart": 4233,
             "isRecent": false
         },
         {
@@ -587,7 +587,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 4234,
+            "minutesUntilStart": 4233,
             "isRecent": false
         },
         {
@@ -618,7 +618,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 4249,
+            "minutesUntilStart": 4248,
             "isRecent": false
         }
     ],
@@ -691,7 +691,7 @@
                 "home": "Nottingham",
                 "away": "Everton",
                 "homeScore": 0,
-                "awayScore": 1,
+                "awayScore": 2,
                 "homeLogo": "https:\/\/crests.football-data.org\/351.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/62.png",
                 "status": "IN_PLAY",
@@ -710,7 +710,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Nottingham Forest FC (Home)",
-                "lastUpdated": "2025-12-30T20:37:32Z",
+                "lastUpdated": "2025-12-30T21:11:32Z",
                 "referee": "Michael Oliver",
                 "season": 19,
                 "group": null,
@@ -842,7 +842,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2659,
+                "minutesUntilStart": 2658,
                 "isRecent": false
             },
             "14": {
@@ -873,7 +873,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2659,
+                "minutesUntilStart": 2658,
                 "isRecent": false
             },
             "15": {
@@ -904,7 +904,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2809,
+                "minutesUntilStart": 2808,
                 "isRecent": false
             },
             "16": {
@@ -935,7 +935,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2809,
+                "minutesUntilStart": 2808,
                 "isRecent": false
             },
             "17": {
@@ -966,7 +966,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 4234,
+                "minutesUntilStart": 4233,
                 "isRecent": false
             },
             "18": {
@@ -997,7 +997,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 4234,
+                "minutesUntilStart": 4233,
                 "isRecent": false
             },
             "19": {
@@ -1028,7 +1028,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 4249,
+                "minutesUntilStart": 4248,
                 "isRecent": false
             }
         },
@@ -1266,21 +1266,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 54,
-        "current_time_local": "2025-12-31 02:41:02"
+        "from_cache": false,
+        "api_call_time_ms": 4522.24,
+        "current_time_local": "2025-12-31 02:42:07",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-30 21:10:08",
-        "api_call_time": 4886.95
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-30 21:11:02",
-    "generated_at": "2025-12-30 21:11:02 UTC",
+    "last_updated": "2025-12-30 21:12:07",
+    "generated_at": "2025-12-30 21:12:07 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 47612,
+        "file_size": 47774,
         "file_path": "matches.json"
     }
 }
