@@ -133,7 +133,7 @@
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/57.png",
             "awayLogo": "https:\/\/crests.football-data.org\/58.png",
-            "status": "PAUSED",
+            "status": "IN_PLAY",
             "utcDate": "2025-12-30T20:15:00Z",
             "localDate": "2025-12-31 01:45:00",
             "localTime": "01:45",
@@ -149,7 +149,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Arsenal FC (Home)",
-            "lastUpdated": "2025-12-30T21:09:13Z",
+            "lastUpdated": "2025-12-30T21:24:59Z",
             "referee": "Darren England",
             "season": 19,
             "group": null,
@@ -432,7 +432,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2645,
+            "minutesUntilStart": 2644,
             "isRecent": false
         },
         {
@@ -463,7 +463,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2645,
+            "minutesUntilStart": 2644,
             "isRecent": false
         },
         {
@@ -494,7 +494,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2795,
+            "minutesUntilStart": 2794,
             "isRecent": false
         },
         {
@@ -525,7 +525,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2795,
+            "minutesUntilStart": 2794,
             "isRecent": false
         },
         {
@@ -556,7 +556,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 4220,
+            "minutesUntilStart": 4219,
             "isRecent": false
         },
         {
@@ -587,7 +587,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 4220,
+            "minutesUntilStart": 4219,
             "isRecent": false
         },
         {
@@ -618,7 +618,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 4235,
+            "minutesUntilStart": 4234,
             "isRecent": false
         }
     ],
@@ -756,7 +756,7 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/57.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/58.png",
-                "status": "PAUSED",
+                "status": "IN_PLAY",
                 "utcDate": "2025-12-30T20:15:00Z",
                 "localDate": "2025-12-31 01:45:00",
                 "localTime": "01:45",
@@ -772,7 +772,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Arsenal FC (Home)",
-                "lastUpdated": "2025-12-30T21:09:13Z",
+                "lastUpdated": "2025-12-30T21:24:59Z",
                 "referee": "Darren England",
                 "season": 19,
                 "group": null,
@@ -842,7 +842,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2645,
+                "minutesUntilStart": 2644,
                 "isRecent": false
             },
             "14": {
@@ -873,7 +873,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2645,
+                "minutesUntilStart": 2644,
                 "isRecent": false
             },
             "15": {
@@ -904,7 +904,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2795,
+                "minutesUntilStart": 2794,
                 "isRecent": false
             },
             "16": {
@@ -935,7 +935,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2795,
+                "minutesUntilStart": 2794,
                 "isRecent": false
             },
             "17": {
@@ -966,7 +966,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 4220,
+                "minutesUntilStart": 4219,
                 "isRecent": false
             },
             "18": {
@@ -997,7 +997,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 4220,
+                "minutesUntilStart": 4219,
                 "isRecent": false
             },
             "19": {
@@ -1028,7 +1028,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 4235,
+                "minutesUntilStart": 4234,
                 "isRecent": false
             }
         },
@@ -1266,21 +1266,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 55,
-        "current_time_local": "2025-12-31 02:55:03"
+        "from_cache": false,
+        "api_call_time_ms": 4537.93,
+        "current_time_local": "2025-12-31 02:56:07",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2025-12-30 21:24:08",
-        "api_call_time": 5306.18
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2025-12-30 21:25:03",
-    "generated_at": "2025-12-30 21:25:03 UTC",
+    "last_updated": "2025-12-30 21:26:07",
+    "generated_at": "2025-12-30 21:26:07 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 47614,
+        "file_size": 47778,
         "file_path": "matches.json"
     }
 }
