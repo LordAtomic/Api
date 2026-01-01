@@ -40,28 +40,28 @@
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/402.png",
             "awayLogo": "https:\/\/crests.football-data.org\/73.png",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "utcDate": "2026-01-01T20:00:00Z",
             "localDate": "2026-01-02 01:30:00",
             "localTime": "01:30",
             "matchday": 19,
             "competition": "Premier League",
             "competitionCode": "PL",
-            "isLive": true,
-            "isFinished": false,
+            "isLive": false,
+            "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "live",
+            "dayCategory": "finished_today",
             "venue": "Brentford FC (Home)",
-            "lastUpdated": "2026-01-01T21:07:47Z",
+            "lastUpdated": "2026-01-01T21:57:47Z",
             "referee": "Andy Madley",
             "season": 19,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
+            "isRecent": true
         },
         {
             "id": 537966,
@@ -332,14 +332,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 47m",
+            "timeUntilStart": "21h 46m",
             "dayCategory": "tomorrow",
             "venue": "Cagliari Calcio (Home)",
             "lastUpdated": "2025-12-28T01:32:00Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1308,
+            "minutesUntilStart": 1307,
             "isRecent": false
         },
         {
@@ -363,14 +363,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 47m",
+            "timeUntilStart": "21h 46m",
             "dayCategory": "tomorrow",
             "venue": "Toulouse FC (Home)",
             "lastUpdated": "2025-12-27T01:32:01Z",
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 1308,
+            "minutesUntilStart": 1307,
             "isRecent": false
         },
         {
@@ -394,14 +394,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "22h 2m",
+            "timeUntilStart": "22h 1m",
             "dayCategory": "tomorrow",
             "venue": "Rayo Vallecano de Madrid (Home)",
             "lastUpdated": "2025-12-27T01:32:01Z",
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 1323,
+            "minutesUntilStart": 1322,
             "isRecent": false
         },
         {
@@ -432,7 +432,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 2253,
+            "minutesUntilStart": 2252,
             "isRecent": false
         },
         {
@@ -463,7 +463,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2313,
+            "minutesUntilStart": 2312,
             "isRecent": false
         },
         {
@@ -494,7 +494,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 2343,
+            "minutesUntilStart": 2342,
             "isRecent": false
         },
         {
@@ -525,7 +525,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 2403,
+            "minutesUntilStart": 2402,
             "isRecent": false
         },
         {
@@ -556,7 +556,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 2403,
+            "minutesUntilStart": 2402,
             "isRecent": false
         },
         {
@@ -587,7 +587,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2463,
+            "minutesUntilStart": 2462,
             "isRecent": false
         },
         {
@@ -618,7 +618,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2463,
+            "minutesUntilStart": 2462,
             "isRecent": false
         },
         {
@@ -649,7 +649,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 2478,
+            "minutesUntilStart": 2477,
             "isRecent": false
         },
         {
@@ -680,7 +680,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 2523,
+            "minutesUntilStart": 2522,
             "isRecent": false
         },
         {
@@ -711,7 +711,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 2583,
+            "minutesUntilStart": 2582,
             "isRecent": false
         },
         {
@@ -742,7 +742,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2613,
+            "minutesUntilStart": 2612,
             "isRecent": false
         },
         {
@@ -773,7 +773,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 2613,
+            "minutesUntilStart": 2612,
             "isRecent": false
         },
         {
@@ -804,7 +804,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 2643,
+            "minutesUntilStart": 2642,
             "isRecent": false
         },
         {
@@ -835,7 +835,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 2748,
+            "minutesUntilStart": 2747,
             "isRecent": false
         },
         {
@@ -866,7 +866,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 2763,
+            "minutesUntilStart": 2762,
             "isRecent": false
         },
         {
@@ -897,7 +897,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 2768,
+            "minutesUntilStart": 2767,
             "isRecent": false
         },
         {
@@ -928,7 +928,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 3693,
+            "minutesUntilStart": 3692,
             "isRecent": false
         },
         {
@@ -959,7 +959,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 3753,
+            "minutesUntilStart": 3752,
             "isRecent": false
         },
         {
@@ -990,7 +990,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 3783,
+            "minutesUntilStart": 3782,
             "isRecent": false
         },
         {
@@ -1021,7 +1021,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 3843,
+            "minutesUntilStart": 3842,
             "isRecent": false
         },
         {
@@ -1052,7 +1052,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 3843,
+            "minutesUntilStart": 3842,
             "isRecent": false
         },
         {
@@ -1083,7 +1083,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 3903,
+            "minutesUntilStart": 3902,
             "isRecent": false
         },
         {
@@ -1114,7 +1114,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 3903,
+            "minutesUntilStart": 3902,
             "isRecent": false
         },
         {
@@ -1145,7 +1145,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 3903,
+            "minutesUntilStart": 3902,
             "isRecent": false
         },
         {
@@ -1176,7 +1176,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 3903,
+            "minutesUntilStart": 3902,
             "isRecent": false
         },
         {
@@ -1207,7 +1207,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 3918,
+            "minutesUntilStart": 3917,
             "isRecent": false
         },
         {
@@ -1238,7 +1238,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 3978,
+            "minutesUntilStart": 3977,
             "isRecent": false
         },
         {
@@ -1269,7 +1269,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 3978,
+            "minutesUntilStart": 3977,
             "isRecent": false
         },
         {
@@ -1300,7 +1300,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 3978,
+            "minutesUntilStart": 3977,
             "isRecent": false
         },
         {
@@ -1331,7 +1331,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 4023,
+            "minutesUntilStart": 4022,
             "isRecent": false
         },
         {
@@ -1362,7 +1362,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 4053,
+            "minutesUntilStart": 4052,
             "isRecent": false
         },
         {
@@ -1393,7 +1393,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 4053,
+            "minutesUntilStart": 4052,
             "isRecent": false
         },
         {
@@ -1424,7 +1424,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 4053,
+            "minutesUntilStart": 4052,
             "isRecent": false
         },
         {
@@ -1455,7 +1455,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 4188,
+            "minutesUntilStart": 4187,
             "isRecent": false
         },
         {
@@ -1486,7 +1486,7 @@
             "referee": null,
             "season": 17,
             "group": null,
-            "minutesUntilStart": 4188,
+            "minutesUntilStart": 4187,
             "isRecent": false
         },
         {
@@ -1517,7 +1517,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 4203,
+            "minutesUntilStart": 4202,
             "isRecent": false
         }
     ],
@@ -1553,8 +1553,10 @@
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
-            },
-            {
+            }
+        ],
+        "finished_today": {
+            "1": {
                 "id": 537968,
                 "home": "Brentford",
                 "away": "Tottenham",
@@ -1562,31 +1564,30 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/402.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/73.png",
-                "status": "IN_PLAY",
+                "status": "FINISHED",
                 "utcDate": "2026-01-01T20:00:00Z",
                 "localDate": "2026-01-02 01:30:00",
                 "localTime": "01:30",
                 "matchday": 19,
                 "competition": "Premier League",
                 "competitionCode": "PL",
-                "isLive": true,
-                "isFinished": false,
+                "isLive": false,
+                "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "live",
+                "dayCategory": "finished_today",
                 "venue": "Brentford FC (Home)",
-                "lastUpdated": "2026-01-01T21:07:47Z",
+                "lastUpdated": "2026-01-01T21:57:47Z",
                 "referee": "Andy Madley",
                 "season": 19,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": false
+                "isRecent": true
             }
-        ],
-        "finished_today": [],
+        },
         "today": [],
         "tomorrow": {
             "10": {
@@ -1610,14 +1611,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 47m",
+                "timeUntilStart": "21h 46m",
                 "dayCategory": "tomorrow",
                 "venue": "Cagliari Calcio (Home)",
                 "lastUpdated": "2025-12-28T01:32:00Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1308,
+                "minutesUntilStart": 1307,
                 "isRecent": false
             },
             "11": {
@@ -1641,14 +1642,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 47m",
+                "timeUntilStart": "21h 46m",
                 "dayCategory": "tomorrow",
                 "venue": "Toulouse FC (Home)",
                 "lastUpdated": "2025-12-27T01:32:01Z",
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 1308,
+                "minutesUntilStart": 1307,
                 "isRecent": false
             },
             "12": {
@@ -1672,14 +1673,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "22h 2m",
+                "timeUntilStart": "22h 1m",
                 "dayCategory": "tomorrow",
                 "venue": "Rayo Vallecano de Madrid (Home)",
                 "lastUpdated": "2025-12-27T01:32:01Z",
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 1323,
+                "minutesUntilStart": 1322,
                 "isRecent": false
             },
             "13": {
@@ -1710,7 +1711,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 2253,
+                "minutesUntilStart": 2252,
                 "isRecent": false
             },
             "14": {
@@ -1741,7 +1742,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2313,
+                "minutesUntilStart": 2312,
                 "isRecent": false
             },
             "15": {
@@ -1772,7 +1773,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 2343,
+                "minutesUntilStart": 2342,
                 "isRecent": false
             },
             "16": {
@@ -1803,7 +1804,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 2403,
+                "minutesUntilStart": 2402,
                 "isRecent": false
             },
             "17": {
@@ -1834,7 +1835,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 2403,
+                "minutesUntilStart": 2402,
                 "isRecent": false
             },
             "18": {
@@ -1865,7 +1866,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2463,
+                "minutesUntilStart": 2462,
                 "isRecent": false
             },
             "19": {
@@ -1896,7 +1897,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2463,
+                "minutesUntilStart": 2462,
                 "isRecent": false
             },
             "20": {
@@ -1927,7 +1928,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 2478,
+                "minutesUntilStart": 2477,
                 "isRecent": false
             },
             "21": {
@@ -1958,7 +1959,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 2523,
+                "minutesUntilStart": 2522,
                 "isRecent": false
             },
             "22": {
@@ -1989,7 +1990,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 2583,
+                "minutesUntilStart": 2582,
                 "isRecent": false
             },
             "23": {
@@ -2020,7 +2021,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2613,
+                "minutesUntilStart": 2612,
                 "isRecent": false
             },
             "24": {
@@ -2051,7 +2052,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 2613,
+                "minutesUntilStart": 2612,
                 "isRecent": false
             },
             "25": {
@@ -2082,7 +2083,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 2643,
+                "minutesUntilStart": 2642,
                 "isRecent": false
             },
             "26": {
@@ -2113,7 +2114,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 2748,
+                "minutesUntilStart": 2747,
                 "isRecent": false
             },
             "27": {
@@ -2144,7 +2145,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 2763,
+                "minutesUntilStart": 2762,
                 "isRecent": false
             },
             "28": {
@@ -2175,7 +2176,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 2768,
+                "minutesUntilStart": 2767,
                 "isRecent": false
             },
             "29": {
@@ -2206,7 +2207,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 3693,
+                "minutesUntilStart": 3692,
                 "isRecent": false
             },
             "30": {
@@ -2237,7 +2238,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 3753,
+                "minutesUntilStart": 3752,
                 "isRecent": false
             },
             "31": {
@@ -2268,7 +2269,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 3783,
+                "minutesUntilStart": 3782,
                 "isRecent": false
             },
             "32": {
@@ -2299,7 +2300,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 3843,
+                "minutesUntilStart": 3842,
                 "isRecent": false
             },
             "33": {
@@ -2330,7 +2331,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 3843,
+                "minutesUntilStart": 3842,
                 "isRecent": false
             },
             "34": {
@@ -2361,7 +2362,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 3903,
+                "minutesUntilStart": 3902,
                 "isRecent": false
             },
             "35": {
@@ -2392,7 +2393,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 3903,
+                "minutesUntilStart": 3902,
                 "isRecent": false
             },
             "36": {
@@ -2423,7 +2424,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 3903,
+                "minutesUntilStart": 3902,
                 "isRecent": false
             },
             "37": {
@@ -2454,7 +2455,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 3903,
+                "minutesUntilStart": 3902,
                 "isRecent": false
             },
             "38": {
@@ -2485,7 +2486,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 3918,
+                "minutesUntilStart": 3917,
                 "isRecent": false
             },
             "39": {
@@ -2516,7 +2517,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 3978,
+                "minutesUntilStart": 3977,
                 "isRecent": false
             },
             "40": {
@@ -2547,7 +2548,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 3978,
+                "minutesUntilStart": 3977,
                 "isRecent": false
             },
             "41": {
@@ -2578,7 +2579,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 3978,
+                "minutesUntilStart": 3977,
                 "isRecent": false
             },
             "42": {
@@ -2609,7 +2610,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 4023,
+                "minutesUntilStart": 4022,
                 "isRecent": false
             },
             "43": {
@@ -2640,7 +2641,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 4053,
+                "minutesUntilStart": 4052,
                 "isRecent": false
             },
             "44": {
@@ -2671,7 +2672,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 4053,
+                "minutesUntilStart": 4052,
                 "isRecent": false
             },
             "45": {
@@ -2702,7 +2703,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 4053,
+                "minutesUntilStart": 4052,
                 "isRecent": false
             },
             "46": {
@@ -2733,7 +2734,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 4188,
+                "minutesUntilStart": 4187,
                 "isRecent": false
             },
             "47": {
@@ -2764,7 +2765,7 @@
                 "referee": null,
                 "season": 17,
                 "group": null,
-                "minutesUntilStart": 4188,
+                "minutesUntilStart": 4187,
                 "isRecent": false
             },
             "48": {
@@ -2795,7 +2796,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 4203,
+                "minutesUntilStart": 4202,
                 "isRecent": false
             }
         },
@@ -3056,29 +3057,37 @@
     },
     "stats": {
         "total_matches": 49,
-        "live_matches": 2,
+        "live_matches": 1,
         "today_matches": 0,
         "tomorrow_matches": 39,
-        "finished_today": 0,
+        "finished_today": 1,
         "finished_recent": 0
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 55,
-        "current_time_local": "2026-01-02 03:27:03"
+        "from_cache": false,
+        "api_call_time_ms": 4155.86,
+        "current_time_local": "2026-01-02 03:28:07",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2026-01-01 21:56:08",
-        "api_call_time": 5362.9
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-01 21:57:03",
-    "generated_at": "2026-01-01 21:57:03 UTC",
+    "last_updated": "2026-01-01 21:58:07",
+    "generated_at": "2026-01-01 21:58:07 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 115024,
+        "file_size": 115220,
         "file_path": "matches.json"
     }
 }
