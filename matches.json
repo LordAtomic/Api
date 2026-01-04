@@ -1049,7 +1049,7 @@
             "dayCategory": "today",
             "venue": "Manchester City FC (Home)",
             "lastUpdated": "2026-01-04T01:32:00Z",
-            "referee": null,
+            "referee": "Michael Oliver",
             "season": 20,
             "group": null,
             "minutesUntilStart": 120,
@@ -1080,7 +1080,7 @@
             "dayCategory": "today",
             "venue": "Deportivo Alav\u00e9s (Home)",
             "lastUpdated": "2026-01-03T01:32:00Z",
-            "referee": null,
+            "referee": "Jes\u00fas Gil Manzano",
             "season": 18,
             "group": null,
             "minutesUntilStart": 120,
@@ -1111,7 +1111,7 @@
             "dayCategory": "today",
             "venue": "RCD Mallorca (Home)",
             "lastUpdated": "2026-01-03T01:32:00Z",
-            "referee": null,
+            "referee": "Javier Alberola Rojas",
             "season": 18,
             "group": null,
             "minutesUntilStart": 120,
@@ -2296,7 +2296,7 @@
                 "dayCategory": "today",
                 "venue": "Manchester City FC (Home)",
                 "lastUpdated": "2026-01-04T01:32:00Z",
-                "referee": null,
+                "referee": "Michael Oliver",
                 "season": 20,
                 "group": null,
                 "minutesUntilStart": 120,
@@ -2327,7 +2327,7 @@
                 "dayCategory": "today",
                 "venue": "Deportivo Alav\u00e9s (Home)",
                 "lastUpdated": "2026-01-03T01:32:00Z",
-                "referee": null,
+                "referee": "Jes\u00fas Gil Manzano",
                 "season": 18,
                 "group": null,
                 "minutesUntilStart": 120,
@@ -2358,7 +2358,7 @@
                 "dayCategory": "today",
                 "venue": "RCD Mallorca (Home)",
                 "lastUpdated": "2026-01-03T01:32:00Z",
-                "referee": null,
+                "referee": "Javier Alberola Rojas",
                 "season": 18,
                 "group": null,
                 "minutesUntilStart": 120,
@@ -3499,21 +3499,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 54,
-        "current_time_local": "2026-01-04 21:00:04"
+        "from_cache": false,
+        "api_call_time_ms": 6065.03,
+        "current_time_local": "2026-01-04 21:00:11",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2026-01-04 15:29:10",
-        "api_call_time": 5709.33
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-04 15:30:04",
-    "generated_at": "2026-01-04 15:30:04 UTC",
+    "last_updated": "2026-01-04 15:30:11",
+    "generated_at": "2026-01-04 15:30:11 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 131814,
+        "file_size": 132070,
         "file_path": "matches.json"
     }
 }
