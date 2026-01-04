@@ -33,6 +33,37 @@
             "isRecent": false
         },
         {
+            "id": 537980,
+            "home": "Leeds United",
+            "away": "Man United",
+            "homeScore": 0,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/341.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/66.png",
+            "status": "IN_PLAY",
+            "utcDate": "2026-01-04T12:30:00Z",
+            "localDate": "2026-01-04 18:00:00",
+            "localTime": "18:00",
+            "matchday": 20,
+            "competition": "Premier League",
+            "competitionCode": "PL",
+            "isLive": true,
+            "isFinished": false,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "live",
+            "venue": "Leeds United FC (Home)",
+            "lastUpdated": "2026-01-04T12:35:07Z",
+            "referee": "Jarred Gillett",
+            "season": 20,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
+        },
+        {
             "id": 542556,
             "home": "Lille",
             "away": "Stade Rennais",
@@ -617,37 +648,6 @@
             "lastUpdated": "2026-01-04T00:20:54Z",
             "referee": "Mathieu Vernice",
             "season": 17,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
-            "id": 537980,
-            "home": "Leeds United",
-            "away": "Man United",
-            "homeScore": 0,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/341.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/66.png",
-            "status": "TIMED",
-            "utcDate": "2026-01-04T12:30:00Z",
-            "localDate": "2026-01-04 18:00:00",
-            "localTime": "18:00",
-            "matchday": 20,
-            "competition": "Premier League",
-            "competitionCode": "PL",
-            "isLive": false,
-            "isFinished": false,
-            "isToday": true,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "today",
-            "venue": "Leeds United FC (Home)",
-            "lastUpdated": "2026-01-04T00:20:54Z",
-            "referee": "Jarred Gillett",
-            "season": 20,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -1770,10 +1770,41 @@
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
+            },
+            {
+                "id": 537980,
+                "home": "Leeds United",
+                "away": "Man United",
+                "homeScore": 0,
+                "awayScore": 0,
+                "homeLogo": "https:\/\/crests.football-data.org\/341.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/66.png",
+                "status": "IN_PLAY",
+                "utcDate": "2026-01-04T12:30:00Z",
+                "localDate": "2026-01-04 18:00:00",
+                "localTime": "18:00",
+                "matchday": 20,
+                "competition": "Premier League",
+                "competitionCode": "PL",
+                "isLive": true,
+                "isFinished": false,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": false,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "live",
+                "venue": "Leeds United FC (Home)",
+                "lastUpdated": "2026-01-04T12:35:07Z",
+                "referee": "Jarred Gillett",
+                "season": 20,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": false
             }
         ],
         "finished_today": {
-            "1": {
+            "2": {
                 "id": 542556,
                 "home": "Lille",
                 "away": "Stade Rennais",
@@ -1804,7 +1835,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "2": {
+            "3": {
                 "id": 544386,
                 "home": "Espanyol",
                 "away": "Bar\u00e7a",
@@ -1835,7 +1866,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "3": {
+            "4": {
                 "id": 536986,
                 "home": "Atalanta",
                 "away": "Roma",
@@ -1868,37 +1899,6 @@
             }
         },
         "today": {
-            "20": {
-                "id": 537980,
-                "home": "Leeds United",
-                "away": "Man United",
-                "homeScore": 0,
-                "awayScore": 0,
-                "homeLogo": "https:\/\/crests.football-data.org\/341.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/66.png",
-                "status": "TIMED",
-                "utcDate": "2026-01-04T12:30:00Z",
-                "localDate": "2026-01-04 18:00:00",
-                "localTime": "18:00",
-                "matchday": 20,
-                "competition": "Premier League",
-                "competitionCode": "PL",
-                "isLive": false,
-                "isFinished": false,
-                "isToday": true,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "today",
-                "venue": "Leeds United FC (Home)",
-                "lastUpdated": "2026-01-04T00:20:54Z",
-                "referee": "Jarred Gillett",
-                "season": 20,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
             "21": {
                 "id": 544390,
                 "home": "Sevilla FC",
@@ -2989,7 +2989,7 @@
         },
         "upcoming": [],
         "finished_yesterday": {
-            "4": {
+            "5": {
                 "id": 542554,
                 "home": "Nice",
                 "away": "Strasbourg",
@@ -3020,7 +3020,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "5": {
+            "6": {
                 "id": 537975,
                 "home": "Bournemouth",
                 "away": "Arsenal",
@@ -3051,7 +3051,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "6": {
+            "7": {
                 "id": 544383,
                 "home": "Elche",
                 "away": "Villarreal",
@@ -3082,7 +3082,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "7": {
+            "8": {
                 "id": 536992,
                 "home": "Juventus",
                 "away": "Lecce",
@@ -3113,7 +3113,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "8": {
+            "9": {
                 "id": 542551,
                 "home": "Monaco",
                 "away": "Olympique Lyon",
@@ -3144,7 +3144,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "9": {
+            "10": {
                 "id": 544384,
                 "home": "Osasuna",
                 "away": "Athletic",
@@ -3175,7 +3175,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "10": {
+            "11": {
                 "id": 537977,
                 "home": "Brighton Hove",
                 "away": "Burnley",
@@ -3206,7 +3206,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "11": {
+            "12": {
                 "id": 537984,
                 "home": "Wolverhampton",
                 "away": "West Ham",
@@ -3237,7 +3237,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "12": {
+            "13": {
                 "id": 536988,
                 "home": "Genoa",
                 "away": "AC Pisa",
@@ -3268,7 +3268,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "13": {
+            "14": {
                 "id": 536994,
                 "home": "Sassuolo",
                 "away": "Parma",
@@ -3299,7 +3299,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "14": {
+            "15": {
                 "id": 544382,
                 "home": "Celta",
                 "away": "Valencia",
@@ -3330,7 +3330,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "15": {
+            "16": {
                 "id": 537976,
                 "home": "Aston Villa",
                 "away": "Nottingham",
@@ -3361,7 +3361,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "16": {
+            "17": {
                 "id": 536989,
                 "home": "Como 1907",
                 "away": "Udinese",
@@ -3392,7 +3392,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "17": {
+            "18": {
                 "id": 544388,
                 "home": "Rayo Vallecano",
                 "away": "Getafe",
@@ -3423,7 +3423,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "18": {
+            "19": {
                 "id": 536987,
                 "home": "Cagliari",
                 "away": "Milan",
@@ -3454,7 +3454,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "19": {
+            "20": {
                 "id": 542553,
                 "home": "Toulouse",
                 "away": "RC Lens",
@@ -3491,29 +3491,37 @@
     },
     "stats": {
         "total_matches": 56,
-        "live_matches": 1,
-        "today_matches": 16,
+        "live_matches": 2,
+        "today_matches": 15,
         "tomorrow_matches": 20,
         "finished_today": 3,
         "finished_recent": 0
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 54,
-        "current_time_local": "2026-01-04 18:06:03"
+        "from_cache": false,
+        "api_call_time_ms": 4336.46,
+        "current_time_local": "2026-01-04 18:06:07",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2026-01-04 12:35:09",
-        "api_call_time": 5668.18
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-04 12:36:03",
-    "generated_at": "2026-01-04 12:36:03 UTC",
+    "last_updated": "2026-01-04 12:36:07",
+    "generated_at": "2026-01-04 12:36:07 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 131605,
+        "file_size": 131764,
         "file_path": "matches.json"
     }
 }
