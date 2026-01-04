@@ -6,7 +6,7 @@
             "home": "Lazio",
             "away": "Napoli",
             "homeScore": 0,
-            "awayScore": 1,
+            "awayScore": 2,
             "homeLogo": "https:\/\/crests.football-data.org\/110.png",
             "awayLogo": "https:\/\/crests.football-data.org\/113.png",
             "status": "IN_PLAY",
@@ -25,7 +25,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "SS Lazio (Home)",
-            "lastUpdated": "2026-01-04T11:49:46Z",
+            "lastUpdated": "2026-01-04T12:08:26Z",
             "referee": "Davide Massa",
             "season": 18,
             "group": null,
@@ -1745,7 +1745,7 @@
                 "home": "Lazio",
                 "away": "Napoli",
                 "homeScore": 0,
-                "awayScore": 1,
+                "awayScore": 2,
                 "homeLogo": "https:\/\/crests.football-data.org\/110.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/113.png",
                 "status": "IN_PLAY",
@@ -1764,7 +1764,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "SS Lazio (Home)",
-                "lastUpdated": "2026-01-04T11:49:46Z",
+                "lastUpdated": "2026-01-04T12:08:26Z",
                 "referee": "Davide Massa",
                 "season": 18,
                 "group": null,
@@ -3499,21 +3499,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 54,
-        "current_time_local": "2026-01-04 17:39:03"
+        "from_cache": false,
+        "api_call_time_ms": 5099.1,
+        "current_time_local": "2026-01-04 17:39:08",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2026-01-04 12:08:09",
-        "api_call_time": 4849.43
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-04 12:09:03",
-    "generated_at": "2026-01-04 12:09:03 UTC",
+    "last_updated": "2026-01-04 12:09:08",
+    "generated_at": "2026-01-04 12:09:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 131605,
+        "file_size": 131766,
         "file_path": "matches.json"
     }
 }
