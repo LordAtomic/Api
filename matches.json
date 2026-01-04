@@ -925,7 +925,7 @@
             "dayCategory": "today",
             "venue": "Le Havre AC (Home)",
             "lastUpdated": "2025-12-29T01:32:01Z",
-            "referee": null,
+            "referee": "Hakim Ben El Hadj Salem",
             "season": 17,
             "group": null,
             "minutesUntilStart": 120,
@@ -956,7 +956,7 @@
             "dayCategory": "today",
             "venue": "FC Lorient (Home)",
             "lastUpdated": "2025-12-29T01:32:02Z",
-            "referee": null,
+            "referee": "Guillaume Paradis",
             "season": 17,
             "group": null,
             "minutesUntilStart": 120,
@@ -987,7 +987,7 @@
             "dayCategory": "today",
             "venue": "Stade Brestois 29 (Home)",
             "lastUpdated": "2025-12-29T01:32:02Z",
-            "referee": null,
+            "referee": "Jeremy Stinat",
             "season": 17,
             "group": null,
             "minutesUntilStart": 120,
@@ -2172,7 +2172,7 @@
                 "dayCategory": "today",
                 "venue": "Le Havre AC (Home)",
                 "lastUpdated": "2025-12-29T01:32:01Z",
-                "referee": null,
+                "referee": "Hakim Ben El Hadj Salem",
                 "season": 17,
                 "group": null,
                 "minutesUntilStart": 120,
@@ -2203,7 +2203,7 @@
                 "dayCategory": "today",
                 "venue": "FC Lorient (Home)",
                 "lastUpdated": "2025-12-29T01:32:02Z",
-                "referee": null,
+                "referee": "Guillaume Paradis",
                 "season": 17,
                 "group": null,
                 "minutesUntilStart": 120,
@@ -2234,7 +2234,7 @@
                 "dayCategory": "today",
                 "venue": "Stade Brestois 29 (Home)",
                 "lastUpdated": "2025-12-29T01:32:02Z",
-                "referee": null,
+                "referee": "Jeremy Stinat",
                 "season": 17,
                 "group": null,
                 "minutesUntilStart": 120,
@@ -3499,21 +3499,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 56,
-        "current_time_local": "2026-01-04 19:45:04"
+        "from_cache": false,
+        "api_call_time_ms": 4614.07,
+        "current_time_local": "2026-01-04 19:45:08",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2026-01-04 14:14:08",
-        "api_call_time": 5016.99
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-04 14:15:04",
-    "generated_at": "2026-01-04 14:15:04 UTC",
+    "last_updated": "2026-01-04 14:15:08",
+    "generated_at": "2026-01-04 14:15:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 131710,
+        "file_size": 131966,
         "file_path": "matches.json"
     }
 }
