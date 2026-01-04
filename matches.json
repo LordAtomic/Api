@@ -894,7 +894,7 @@
             "dayCategory": "today",
             "venue": "Real Madrid CF (Home)",
             "lastUpdated": "2026-01-04T00:20:54Z",
-            "referee": null,
+            "referee": "Alejandro Hern\u00e1ndez Hern\u00e1ndez",
             "season": 18,
             "group": null,
             "minutesUntilStart": 120,
@@ -2141,7 +2141,7 @@
                 "dayCategory": "today",
                 "venue": "Real Madrid CF (Home)",
                 "lastUpdated": "2026-01-04T00:20:54Z",
-                "referee": null,
+                "referee": "Alejandro Hern\u00e1ndez Hern\u00e1ndez",
                 "season": 18,
                 "group": null,
                 "minutesUntilStart": 120,
@@ -3499,21 +3499,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 58,
-        "current_time_local": "2026-01-04 18:45:05"
+        "from_cache": false,
+        "api_call_time_ms": 3940.41,
+        "current_time_local": "2026-01-04 18:45:08",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2026-01-04 13:14:07",
-        "api_call_time": 4145.34
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-04 13:15:05",
-    "generated_at": "2026-01-04 13:15:05 UTC",
+    "last_updated": "2026-01-04 13:15:08",
+    "generated_at": "2026-01-04 13:15:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 131684,
+        "file_size": 131904,
         "file_path": "matches.json"
     }
 }
