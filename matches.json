@@ -2,37 +2,6 @@
     "success": true,
     "matches": [
         {
-            "id": 537001,
-            "home": "Sassuolo",
-            "away": "Juventus",
-            "homeScore": 0,
-            "awayScore": 3,
-            "homeLogo": "https:\/\/crests.football-data.org\/471.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/109.png",
-            "status": "IN_PLAY",
-            "utcDate": "2026-01-06T19:45:00Z",
-            "localDate": "2026-01-07 01:15:00",
-            "localTime": "01:15",
-            "matchday": 19,
-            "competition": "Serie A",
-            "competitionCode": "SA",
-            "isLive": true,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "live",
-            "venue": "US Sassuolo Calcio (Home)",
-            "lastUpdated": "2026-01-06T21:14:21Z",
-            "referee": "Luca Zufferli",
-            "season": 19,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 537994,
             "home": "West Ham",
             "away": "Nottingham",
@@ -62,6 +31,37 @@
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
+        },
+        {
+            "id": 537001,
+            "home": "Sassuolo",
+            "away": "Juventus",
+            "homeScore": 0,
+            "awayScore": 3,
+            "homeLogo": "https:\/\/crests.football-data.org\/471.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/109.png",
+            "status": "FINISHED",
+            "utcDate": "2026-01-06T19:45:00Z",
+            "localDate": "2026-01-07 01:15:00",
+            "localTime": "01:15",
+            "matchday": 19,
+            "competition": "Serie A",
+            "competitionCode": "SA",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_today",
+            "venue": "US Sassuolo Calcio (Home)",
+            "lastUpdated": "2026-01-06T21:44:21Z",
+            "referee": "Luca Zufferli",
+            "season": 19,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": true
         },
         {
             "id": 537004,
@@ -1307,37 +1307,6 @@
     "grouped_matches": {
         "live": [
             {
-                "id": 537001,
-                "home": "Sassuolo",
-                "away": "Juventus",
-                "homeScore": 0,
-                "awayScore": 3,
-                "homeLogo": "https:\/\/crests.football-data.org\/471.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/109.png",
-                "status": "IN_PLAY",
-                "utcDate": "2026-01-06T19:45:00Z",
-                "localDate": "2026-01-07 01:15:00",
-                "localTime": "01:15",
-                "matchday": 19,
-                "competition": "Serie A",
-                "competitionCode": "SA",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "US Sassuolo Calcio (Home)",
-                "lastUpdated": "2026-01-06T21:14:21Z",
-                "referee": "Luca Zufferli",
-                "season": 19,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
-            {
                 "id": 537994,
                 "home": "West Ham",
                 "away": "Nottingham",
@@ -1369,7 +1338,39 @@
                 "isRecent": false
             }
         ],
-        "finished_today": [],
+        "finished_today": {
+            "1": {
+                "id": 537001,
+                "home": "Sassuolo",
+                "away": "Juventus",
+                "homeScore": 0,
+                "awayScore": 3,
+                "homeLogo": "https:\/\/crests.football-data.org\/471.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/109.png",
+                "status": "FINISHED",
+                "utcDate": "2026-01-06T19:45:00Z",
+                "localDate": "2026-01-07 01:15:00",
+                "localTime": "01:15",
+                "matchday": 19,
+                "competition": "Serie A",
+                "competitionCode": "SA",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": false,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_today",
+                "venue": "US Sassuolo Calcio (Home)",
+                "lastUpdated": "2026-01-06T21:44:21Z",
+                "referee": "Luca Zufferli",
+                "season": 19,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": true
+            }
+        },
         "today": {
             "24": {
                 "id": 536996,
@@ -2623,29 +2624,37 @@
     },
     "stats": {
         "total_matches": 42,
-        "live_matches": 2,
+        "live_matches": 1,
         "today_matches": 2,
         "tomorrow_matches": 16,
-        "finished_today": 0,
+        "finished_today": 1,
         "finished_recent": 0
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 57,
-        "current_time_local": "2026-01-07 03:15:05"
+        "from_cache": false,
+        "api_call_time_ms": 3661.76,
+        "current_time_local": "2026-01-07 03:15:08",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2026-01-06 21:44:08",
-        "api_call_time": 4756.98
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-06 21:45:05",
-    "generated_at": "2026-01-06 21:45:05 UTC",
+    "last_updated": "2026-01-06 21:45:08",
+    "generated_at": "2026-01-06 21:45:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 98991,
+        "file_size": 99186,
         "file_path": "matches.json"
     }
 }
