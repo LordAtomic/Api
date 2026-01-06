@@ -36,7 +36,7 @@
             "id": 537994,
             "home": "West Ham",
             "away": "Nottingham",
-            "homeScore": 1,
+            "homeScore": 2,
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/563.png",
             "awayLogo": "https:\/\/crests.football-data.org\/351.png",
@@ -56,7 +56,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "West Ham United FC (Home)",
-            "lastUpdated": "2026-01-06T21:09:16Z",
+            "lastUpdated": "2026-01-06T21:15:16Z",
             "referee": "Tony Harrington",
             "season": 21,
             "group": null,
@@ -1341,7 +1341,7 @@
                 "id": 537994,
                 "home": "West Ham",
                 "away": "Nottingham",
-                "homeScore": 1,
+                "homeScore": 2,
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/563.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/351.png",
@@ -1361,7 +1361,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "West Ham United FC (Home)",
-                "lastUpdated": "2026-01-06T21:09:16Z",
+                "lastUpdated": "2026-01-06T21:15:16Z",
                 "referee": "Tony Harrington",
                 "season": 21,
                 "group": null,
@@ -2631,21 +2631,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 56,
-        "current_time_local": "2026-01-07 02:46:03"
+        "from_cache": false,
+        "api_call_time_ms": 5055.95,
+        "current_time_local": "2026-01-07 02:46:08",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2026-01-06 21:15:07",
-        "api_call_time": 3266.04
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-06 21:16:03",
-    "generated_at": "2026-01-06 21:16:03 UTC",
+    "last_updated": "2026-01-06 21:16:08",
+    "generated_at": "2026-01-06 21:16:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 98991,
+        "file_size": 99153,
         "file_path": "matches.json"
     }
 }
