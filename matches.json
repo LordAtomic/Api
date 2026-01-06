@@ -40,7 +40,7 @@
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/563.png",
             "awayLogo": "https:\/\/crests.football-data.org\/351.png",
-            "status": "IN_PLAY",
+            "status": "PAUSED",
             "utcDate": "2026-01-06T20:00:00Z",
             "localDate": "2026-01-07 01:30:00",
             "localTime": "01:30",
@@ -56,7 +56,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "West Ham United FC (Home)",
-            "lastUpdated": "2026-01-06T20:20:36Z",
+            "lastUpdated": "2026-01-06T20:53:16Z",
             "referee": "Tony Harrington",
             "season": 21,
             "group": null,
@@ -1345,7 +1345,7 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/563.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/351.png",
-                "status": "IN_PLAY",
+                "status": "PAUSED",
                 "utcDate": "2026-01-06T20:00:00Z",
                 "localDate": "2026-01-07 01:30:00",
                 "localTime": "01:30",
@@ -1361,7 +1361,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "West Ham United FC (Home)",
-                "lastUpdated": "2026-01-06T20:20:36Z",
+                "lastUpdated": "2026-01-06T20:53:16Z",
                 "referee": "Tony Harrington",
                 "season": 21,
                 "group": null,
@@ -2631,21 +2631,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 58,
-        "current_time_local": "2026-01-07 02:24:04"
+        "from_cache": false,
+        "api_call_time_ms": 4168.28,
+        "current_time_local": "2026-01-07 02:24:08",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2026-01-06 20:53:06",
-        "api_call_time": 3651.65
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-06 20:54:04",
-    "generated_at": "2026-01-06 20:54:04 UTC",
+    "last_updated": "2026-01-06 20:54:08",
+    "generated_at": "2026-01-06 20:54:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 98989,
+        "file_size": 99149,
         "file_path": "matches.json"
     }
 }
