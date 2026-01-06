@@ -9,28 +9,28 @@
             "awayScore": 2,
             "homeLogo": "https:\/\/crests.football-data.org\/563.png",
             "awayLogo": "https:\/\/crests.football-data.org\/351.png",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "utcDate": "2026-01-06T20:00:00Z",
             "localDate": "2026-01-07 01:30:00",
             "localTime": "01:30",
             "matchday": 21,
             "competition": "Premier League",
             "competitionCode": "PL",
-            "isLive": true,
-            "isFinished": false,
+            "isLive": false,
+            "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "live",
+            "dayCategory": "finished_today",
             "venue": "West Ham United FC (Home)",
-            "lastUpdated": "2026-01-06T21:52:36Z",
+            "lastUpdated": "2026-01-06T22:02:36Z",
             "referee": "Tony Harrington",
             "season": 21,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
+            "isRecent": true
         },
         {
             "id": 537001,
@@ -1305,7 +1305,8 @@
         }
     ],
     "grouped_matches": {
-        "live": [
+        "live": [],
+        "finished_today": [
             {
                 "id": 537994,
                 "home": "West Ham",
@@ -1314,32 +1315,30 @@
                 "awayScore": 2,
                 "homeLogo": "https:\/\/crests.football-data.org\/563.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/351.png",
-                "status": "IN_PLAY",
+                "status": "FINISHED",
                 "utcDate": "2026-01-06T20:00:00Z",
                 "localDate": "2026-01-07 01:30:00",
                 "localTime": "01:30",
                 "matchday": 21,
                 "competition": "Premier League",
                 "competitionCode": "PL",
-                "isLive": true,
-                "isFinished": false,
+                "isLive": false,
+                "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "live",
+                "dayCategory": "finished_today",
                 "venue": "West Ham United FC (Home)",
-                "lastUpdated": "2026-01-06T21:52:36Z",
+                "lastUpdated": "2026-01-06T22:02:36Z",
                 "referee": "Tony Harrington",
                 "season": 21,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
-        "finished_today": {
-            "1": {
+                "isRecent": true
+            },
+            {
                 "id": 537001,
                 "home": "Sassuolo",
                 "away": "Juventus",
@@ -1370,7 +1369,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             }
-        },
+        ],
         "today": {
             "24": {
                 "id": 536996,
@@ -2624,29 +2623,37 @@
     },
     "stats": {
         "total_matches": 42,
-        "live_matches": 1,
+        "live_matches": 0,
         "today_matches": 2,
         "tomorrow_matches": 16,
-        "finished_today": 1,
+        "finished_today": 2,
         "finished_recent": 0
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 55,
-        "current_time_local": "2026-01-07 03:33:03"
+        "from_cache": false,
+        "api_call_time_ms": 3503.57,
+        "current_time_local": "2026-01-07 03:33:06",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2026-01-06 22:02:08",
-        "api_call_time": 3957.15
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-06 22:03:03",
-    "generated_at": "2026-01-06 22:03:03 UTC",
+    "last_updated": "2026-01-06 22:03:06",
+    "generated_at": "2026-01-06 22:03:06 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 99024,
+        "file_size": 99193,
         "file_path": "matches.json"
     }
 }
