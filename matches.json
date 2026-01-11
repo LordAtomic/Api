@@ -9,7 +9,7 @@
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/87.png",
             "awayLogo": "https:\/\/crests.football-data.org\/89.png",
-            "status": "PAUSED",
+            "status": "IN_PLAY",
             "utcDate": "2026-01-11T13:00:00Z",
             "localDate": "2026-01-11 18:30:00",
             "localTime": "18:30",
@@ -25,7 +25,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Rayo Vallecano de Madrid (Home)",
-            "lastUpdated": "2026-01-11T14:01:26Z",
+            "lastUpdated": "2026-01-11T14:18:08Z",
             "referee": "Juan Mart\u00ednez Munuera",
             "season": 19,
             "group": null,
@@ -1159,7 +1159,7 @@
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/87.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/89.png",
-                "status": "PAUSED",
+                "status": "IN_PLAY",
                 "utcDate": "2026-01-11T13:00:00Z",
                 "localDate": "2026-01-11 18:30:00",
                 "localTime": "18:30",
@@ -1175,7 +1175,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Rayo Vallecano de Madrid (Home)",
-                "lastUpdated": "2026-01-11T14:01:26Z",
+                "lastUpdated": "2026-01-11T14:18:08Z",
                 "referee": "Juan Mart\u00ednez Munuera",
                 "season": 19,
                 "group": null,
@@ -2332,19 +2332,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 5519.26,
-        "current_time_local": "2026-01-11 19:48:09",
+        "api_call_time_ms": 9291.15,
+        "current_time_local": "2026-01-11 19:48:14",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-11 14:18:09",
-    "generated_at": "2026-01-11 14:18:09 UTC",
+    "last_updated": "2026-01-11 14:18:14",
+    "generated_at": "2026-01-11 14:18:14 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 87511,
+        "file_size": 87513,
         "file_path": "matches.json"
     }
 }
