@@ -64,37 +64,6 @@
             "isRecent": true
         },
         {
-            "id": 540541,
-            "home": "Bayern",
-            "away": "Wolfsburg",
-            "homeScore": 8,
-            "awayScore": 1,
-            "homeLogo": "https:\/\/crests.football-data.org\/5.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/11.png",
-            "status": "FINISHED",
-            "utcDate": "2026-01-11T16:30:00Z",
-            "localDate": "2026-01-11 22:00:00",
-            "localTime": "22:00",
-            "matchday": 16,
-            "competition": "Bundesliga",
-            "competitionCode": "BL1",
-            "isLive": false,
-            "isFinished": true,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": true,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
-            "venue": "FC Bayern M\u00fcnchen (Home)",
-            "lastUpdated": "2026-01-11T18:31:05Z",
-            "referee": "Tobias Reichel",
-            "season": 16,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": true
-        },
-        {
             "id": 540545,
             "home": "Bremen",
             "away": "Hoffenheim",
@@ -151,6 +120,37 @@
             "venue": "FC St. Pauli 1910 (Home)",
             "lastUpdated": "2026-01-09T23:00:07Z",
             "referee": null,
+            "season": 16,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
+        },
+        {
+            "id": 540541,
+            "home": "Bayern",
+            "away": "Wolfsburg",
+            "homeScore": 8,
+            "awayScore": 1,
+            "homeLogo": "https:\/\/crests.football-data.org\/5.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/11.png",
+            "status": "FINISHED",
+            "utcDate": "2026-01-11T16:30:00Z",
+            "localDate": "2026-01-11 22:00:00",
+            "localTime": "22:00",
+            "matchday": 16,
+            "competition": "Bundesliga",
+            "competitionCode": "BL1",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": true,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_yesterday",
+            "venue": "FC Bayern M\u00fcnchen (Home)",
+            "lastUpdated": "2026-01-11T18:31:05Z",
+            "referee": "Tobias Reichel",
             "season": 16,
             "group": null,
             "minutesUntilStart": null,
@@ -766,14 +766,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "19h 0m",
+            "timeUntilStart": "18h 59m",
             "dayCategory": "today",
             "venue": "Genoa CFC (Home)",
             "lastUpdated": "2026-01-06T01:32:01Z",
             "referee": null,
             "season": 20,
             "group": null,
-            "minutesUntilStart": 1141,
+            "minutesUntilStart": 1140,
             "isRecent": false
         },
         {
@@ -797,14 +797,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 15m",
+            "timeUntilStart": "21h 14m",
             "dayCategory": "tomorrow",
             "venue": "Juventus FC (Home)",
             "lastUpdated": "2026-01-11T01:32:00Z",
             "referee": null,
             "season": 20,
             "group": null,
-            "minutesUntilStart": 1276,
+            "minutesUntilStart": 1275,
             "isRecent": false
         },
         {
@@ -828,14 +828,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 30m",
+            "timeUntilStart": "21h 29m",
             "dayCategory": "tomorrow",
             "venue": "Sevilla FC (Home)",
             "lastUpdated": "2026-01-11T01:32:00Z",
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 1291,
+            "minutesUntilStart": 1290,
             "isRecent": false
         },
         {
@@ -866,7 +866,7 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 2581,
+            "minutesUntilStart": 2580,
             "isRecent": false
         },
         {
@@ -897,7 +897,7 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 2701,
+            "minutesUntilStart": 2700,
             "isRecent": false
         },
         {
@@ -928,7 +928,7 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 2701,
+            "minutesUntilStart": 2700,
             "isRecent": false
         },
         {
@@ -959,7 +959,7 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 2701,
+            "minutesUntilStart": 2700,
             "isRecent": false
         },
         {
@@ -990,7 +990,7 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 4021,
+            "minutesUntilStart": 4020,
             "isRecent": false
         },
         {
@@ -1021,7 +1021,7 @@
             "referee": null,
             "season": 20,
             "group": null,
-            "minutesUntilStart": 4021,
+            "minutesUntilStart": 4020,
             "isRecent": false
         },
         {
@@ -1052,7 +1052,7 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 4141,
+            "minutesUntilStart": 4140,
             "isRecent": false
         },
         {
@@ -1083,7 +1083,7 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 4141,
+            "minutesUntilStart": 4140,
             "isRecent": false
         },
         {
@@ -1114,7 +1114,7 @@
             "referee": null,
             "season": 16,
             "group": null,
-            "minutesUntilStart": 4141,
+            "minutesUntilStart": 4140,
             "isRecent": false
         },
         {
@@ -1145,7 +1145,7 @@
             "referee": null,
             "season": 20,
             "group": null,
-            "minutesUntilStart": 4156,
+            "minutesUntilStart": 4155,
             "isRecent": false
         }
     ],
@@ -1206,14 +1206,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "19h 0m",
+                "timeUntilStart": "18h 59m",
                 "dayCategory": "today",
                 "venue": "Genoa CFC (Home)",
                 "lastUpdated": "2026-01-06T01:32:01Z",
                 "referee": null,
                 "season": 20,
                 "group": null,
-                "minutesUntilStart": 1141,
+                "minutesUntilStart": 1140,
                 "isRecent": false
             }
         },
@@ -1239,14 +1239,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 15m",
+                "timeUntilStart": "21h 14m",
                 "dayCategory": "tomorrow",
                 "venue": "Juventus FC (Home)",
                 "lastUpdated": "2026-01-11T01:32:00Z",
                 "referee": null,
                 "season": 20,
                 "group": null,
-                "minutesUntilStart": 1276,
+                "minutesUntilStart": 1275,
                 "isRecent": false
             },
             "26": {
@@ -1270,14 +1270,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 30m",
+                "timeUntilStart": "21h 29m",
                 "dayCategory": "tomorrow",
                 "venue": "Sevilla FC (Home)",
                 "lastUpdated": "2026-01-11T01:32:00Z",
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 1291,
+                "minutesUntilStart": 1290,
                 "isRecent": false
             },
             "27": {
@@ -1308,7 +1308,7 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 2581,
+                "minutesUntilStart": 2580,
                 "isRecent": false
             },
             "28": {
@@ -1339,7 +1339,7 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 2701,
+                "minutesUntilStart": 2700,
                 "isRecent": false
             },
             "29": {
@@ -1370,7 +1370,7 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 2701,
+                "minutesUntilStart": 2700,
                 "isRecent": false
             },
             "30": {
@@ -1401,7 +1401,7 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 2701,
+                "minutesUntilStart": 2700,
                 "isRecent": false
             },
             "31": {
@@ -1432,7 +1432,7 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 4021,
+                "minutesUntilStart": 4020,
                 "isRecent": false
             },
             "32": {
@@ -1463,7 +1463,7 @@
                 "referee": null,
                 "season": 20,
                 "group": null,
-                "minutesUntilStart": 4021,
+                "minutesUntilStart": 4020,
                 "isRecent": false
             },
             "33": {
@@ -1494,7 +1494,7 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 4141,
+                "minutesUntilStart": 4140,
                 "isRecent": false
             },
             "34": {
@@ -1525,7 +1525,7 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 4141,
+                "minutesUntilStart": 4140,
                 "isRecent": false
             },
             "35": {
@@ -1556,7 +1556,7 @@
                 "referee": null,
                 "season": 16,
                 "group": null,
-                "minutesUntilStart": 4141,
+                "minutesUntilStart": 4140,
                 "isRecent": false
             },
             "36": {
@@ -1587,12 +1587,12 @@
                 "referee": null,
                 "season": 20,
                 "group": null,
-                "minutesUntilStart": 4156,
+                "minutesUntilStart": 4155,
                 "isRecent": false
             }
         },
         "upcoming": {
-            "3": {
+            "2": {
                 "id": 540545,
                 "home": "Bremen",
                 "away": "Hoffenheim",
@@ -1623,7 +1623,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "4": {
+            "3": {
                 "id": 540548,
                 "home": "St. Pauli",
                 "away": "RB Leipzig",
@@ -1687,7 +1687,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "2": {
+            "4": {
                 "id": 540541,
                 "home": "Bayern",
                 "away": "Wolfsburg",
@@ -1716,7 +1716,7 @@
                 "season": 16,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
             "5": {
                 "id": 544399,
@@ -2322,21 +2322,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 54,
-        "current_time_local": "2026-01-12 03:59:03"
+        "from_cache": false,
+        "api_call_time_ms": 5804.89,
+        "current_time_local": "2026-01-12 04:00:09",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2026-01-11 22:28:09",
-        "api_call_time": 4477.63
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-11 22:29:03",
-    "generated_at": "2026-01-11 22:29:03 UTC",
+    "last_updated": "2026-01-11 22:30:09",
+    "generated_at": "2026-01-11 22:30:09 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 87402,
+        "file_size": 87568,
         "file_path": "matches.json"
     }
 }
