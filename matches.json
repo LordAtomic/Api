@@ -5,7 +5,7 @@
             "id": 537008,
             "home": "Genoa",
             "away": "Cagliari",
-            "homeScore": 0,
+            "homeScore": 1,
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/107.png",
             "awayLogo": "https:\/\/crests.football-data.org\/104.png",
@@ -25,7 +25,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Genoa CFC (Home)",
-            "lastUpdated": "2026-01-12T17:35:05Z",
+            "lastUpdated": "2026-01-12T17:45:45Z",
             "referee": "Federico La Penna",
             "season": 20,
             "group": null,
@@ -1186,7 +1186,7 @@
                 "id": 537008,
                 "home": "Genoa",
                 "away": "Cagliari",
-                "homeScore": 0,
+                "homeScore": 1,
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/107.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/104.png",
@@ -1206,7 +1206,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Genoa CFC (Home)",
-                "lastUpdated": "2026-01-12T17:35:05Z",
+                "lastUpdated": "2026-01-12T17:45:45Z",
                 "referee": "Federico La Penna",
                 "season": 20,
                 "group": null,
@@ -2384,21 +2384,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 57,
-        "current_time_local": "2026-01-12 23:16:05"
+        "from_cache": false,
+        "api_call_time_ms": 4814.53,
+        "current_time_local": "2026-01-12 23:16:08",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2026-01-12 17:45:08",
-        "api_call_time": 3369.82
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-12 17:46:05",
-    "generated_at": "2026-01-12 17:46:05 UTC",
+    "last_updated": "2026-01-12 17:46:08",
+    "generated_at": "2026-01-12 17:46:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 89666,
+        "file_size": 89828,
         "file_path": "matches.json"
     }
 }
