@@ -9,7 +9,7 @@
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/107.png",
             "awayLogo": "https:\/\/crests.football-data.org\/104.png",
-            "status": "PAUSED",
+            "status": "IN_PLAY",
             "utcDate": "2026-01-12T17:30:00Z",
             "localDate": "2026-01-12 23:00:00",
             "localTime": "23:00",
@@ -25,7 +25,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Genoa CFC (Home)",
-            "lastUpdated": "2026-01-12T18:24:25Z",
+            "lastUpdated": "2026-01-12T18:41:05Z",
             "referee": "Federico La Penna",
             "season": 20,
             "group": null,
@@ -1190,7 +1190,7 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/107.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/104.png",
-                "status": "PAUSED",
+                "status": "IN_PLAY",
                 "utcDate": "2026-01-12T17:30:00Z",
                 "localDate": "2026-01-12 23:00:00",
                 "localTime": "23:00",
@@ -1206,7 +1206,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Genoa CFC (Home)",
-                "lastUpdated": "2026-01-12T18:24:25Z",
+                "lastUpdated": "2026-01-12T18:41:05Z",
                 "referee": "Federico La Penna",
                 "season": 20,
                 "group": null,
@@ -2384,21 +2384,29 @@
     },
     "query_info": {
         "competition": "ALL",
-        "competition_name": "Unknown Competition",
+        "competitions_fetched": [
+            "PL",
+            "PD",
+            "BL1",
+            "SA",
+            "FL1"
+        ],
+        "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
-        "from_cache": true,
-        "cache_age_seconds": 53,
-        "current_time_local": "2026-01-13 00:11:03"
+        "from_cache": false,
+        "api_call_time_ms": 3763.03,
+        "current_time_local": "2026-01-13 00:11:07",
+        "api_errors": []
     },
     "cache_info": {
-        "cached_at": "2026-01-12 18:40:10",
-        "api_call_time": 5088.63
+        "cache_written": true,
+        "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-12 18:41:03",
-    "generated_at": "2026-01-12 18:41:03 UTC",
+    "last_updated": "2026-01-12 18:41:07",
+    "generated_at": "2026-01-12 18:41:07 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 89528,
+        "file_size": 89692,
         "file_path": "matches.json"
     }
 }
