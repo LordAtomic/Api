@@ -2,37 +2,6 @@
     "success": true,
     "matches": [
         {
-            "id": 544407,
-            "home": "Atleti",
-            "away": "Alav\u00e9s",
-            "homeScore": 1,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/78.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/263.png",
-            "status": "IN_PLAY",
-            "utcDate": "2026-01-18T15:15:00Z",
-            "localDate": "2026-01-18 20:45:00",
-            "localTime": "20:45",
-            "matchday": 20,
-            "competition": "Primera Division",
-            "competitionCode": "PD",
-            "isLive": true,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "live",
-            "venue": "Club Atl\u00e9tico de Madrid (Home)",
-            "lastUpdated": "2026-01-18T16:29:32Z",
-            "referee": "Guillermo Cuadra Fern\u00e1ndez",
-            "season": 20,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 542560,
             "home": "Nantes",
             "away": "Paris FC",
@@ -186,6 +155,37 @@
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
+        },
+        {
+            "id": 544407,
+            "home": "Atleti",
+            "away": "Alav\u00e9s",
+            "homeScore": 1,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/78.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/263.png",
+            "status": "FINISHED",
+            "utcDate": "2026-01-18T15:15:00Z",
+            "localDate": "2026-01-18 20:45:00",
+            "localTime": "20:45",
+            "matchday": 20,
+            "competition": "Primera Division",
+            "competitionCode": "PD",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_today",
+            "venue": "Club Atl\u00e9tico de Madrid (Home)",
+            "lastUpdated": "2026-01-18T17:17:54Z",
+            "referee": "Guillermo Cuadra Fern\u00e1ndez",
+            "season": 20,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": true
         },
         {
             "id": 540565,
@@ -1262,14 +1262,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "14m",
+            "timeUntilStart": "9m",
             "dayCategory": "today",
             "venue": "RC Celta de Vigo (Home)",
             "lastUpdated": "2026-01-18T01:32:00Z",
             "referee": "Mateo Busquets Ferrer",
             "season": 20,
             "group": null,
-            "minutesUntilStart": 15,
+            "minutesUntilStart": 10,
             "isRecent": false
         },
         {
@@ -1293,14 +1293,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 29m",
+            "timeUntilStart": "2h 24m",
             "dayCategory": "tomorrow",
             "venue": "AC Milan (Home)",
             "lastUpdated": "2026-01-13T01:32:02Z",
             "referee": null,
             "season": 21,
             "group": null,
-            "minutesUntilStart": 150,
+            "minutesUntilStart": 145,
             "isRecent": false
         },
         {
@@ -1324,14 +1324,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 29m",
+            "timeUntilStart": "2h 24m",
             "dayCategory": "tomorrow",
             "venue": "Olympique Lyonnais (Home)",
             "lastUpdated": "2026-01-18T01:32:00Z",
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 150,
+            "minutesUntilStart": 145,
             "isRecent": false
         },
         {
@@ -1355,14 +1355,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 44m",
+            "timeUntilStart": "2h 39m",
             "dayCategory": "tomorrow",
             "venue": "Real Sociedad de F\u00fatbol (Home)",
             "lastUpdated": "2026-01-18T01:32:00Z",
             "referee": null,
             "season": 20,
             "group": null,
-            "minutesUntilStart": 165,
+            "minutesUntilStart": 160,
             "isRecent": false
         },
         {
@@ -1393,7 +1393,7 @@
             "referee": null,
             "season": 21,
             "group": null,
-            "minutesUntilStart": 1455,
+            "minutesUntilStart": 1450,
             "isRecent": false
         },
         {
@@ -1424,7 +1424,7 @@
             "referee": null,
             "season": 21,
             "group": null,
-            "minutesUntilStart": 1590,
+            "minutesUntilStart": 1585,
             "isRecent": false
         },
         {
@@ -1455,7 +1455,7 @@
             "referee": null,
             "season": 22,
             "group": null,
-            "minutesUntilStart": 1605,
+            "minutesUntilStart": 1600,
             "isRecent": false
         },
         {
@@ -1486,43 +1486,12 @@
             "referee": null,
             "season": 20,
             "group": null,
-            "minutesUntilStart": 1605,
+            "minutesUntilStart": 1600,
             "isRecent": false
         }
     ],
     "grouped_matches": {
         "live": [
-            {
-                "id": 544407,
-                "home": "Atleti",
-                "away": "Alav\u00e9s",
-                "homeScore": 1,
-                "awayScore": 0,
-                "homeLogo": "https:\/\/crests.football-data.org\/78.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/263.png",
-                "status": "IN_PLAY",
-                "utcDate": "2026-01-18T15:15:00Z",
-                "localDate": "2026-01-18 20:45:00",
-                "localTime": "20:45",
-                "matchday": 20,
-                "competition": "Primera Division",
-                "competitionCode": "PD",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "Club Atl\u00e9tico de Madrid (Home)",
-                "lastUpdated": "2026-01-18T16:29:32Z",
-                "referee": "Guillermo Cuadra Fern\u00e1ndez",
-                "season": 20,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
             {
                 "id": 542560,
                 "home": "Nantes",
@@ -1680,6 +1649,37 @@
             }
         ],
         "finished_today": {
+            "5": {
+                "id": 544407,
+                "home": "Atleti",
+                "away": "Alav\u00e9s",
+                "homeScore": 1,
+                "awayScore": 0,
+                "homeLogo": "https:\/\/crests.football-data.org\/78.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/263.png",
+                "status": "FINISHED",
+                "utcDate": "2026-01-18T15:15:00Z",
+                "localDate": "2026-01-18 20:45:00",
+                "localTime": "20:45",
+                "matchday": 20,
+                "competition": "Primera Division",
+                "competitionCode": "PD",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": false,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_today",
+                "venue": "Club Atl\u00e9tico de Madrid (Home)",
+                "lastUpdated": "2026-01-18T17:17:54Z",
+                "referee": "Guillermo Cuadra Fern\u00e1ndez",
+                "season": 20,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": true
+            },
             "6": {
                 "id": 540565,
                 "home": "Stuttgart",
@@ -1982,14 +1982,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "14m",
+                "timeUntilStart": "9m",
                 "dayCategory": "today",
                 "venue": "RC Celta de Vigo (Home)",
                 "lastUpdated": "2026-01-18T01:32:00Z",
                 "referee": "Mateo Busquets Ferrer",
                 "season": 20,
                 "group": null,
-                "minutesUntilStart": 15,
+                "minutesUntilStart": 10,
                 "isRecent": false
             }
         },
@@ -2015,14 +2015,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 29m",
+                "timeUntilStart": "2h 24m",
                 "dayCategory": "tomorrow",
                 "venue": "AC Milan (Home)",
                 "lastUpdated": "2026-01-13T01:32:02Z",
                 "referee": null,
                 "season": 21,
                 "group": null,
-                "minutesUntilStart": 150,
+                "minutesUntilStart": 145,
                 "isRecent": false
             },
             "42": {
@@ -2046,14 +2046,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 29m",
+                "timeUntilStart": "2h 24m",
                 "dayCategory": "tomorrow",
                 "venue": "Olympique Lyonnais (Home)",
                 "lastUpdated": "2026-01-18T01:32:00Z",
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 150,
+                "minutesUntilStart": 145,
                 "isRecent": false
             },
             "43": {
@@ -2077,14 +2077,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 44m",
+                "timeUntilStart": "2h 39m",
                 "dayCategory": "tomorrow",
                 "venue": "Real Sociedad de F\u00fatbol (Home)",
                 "lastUpdated": "2026-01-18T01:32:00Z",
                 "referee": null,
                 "season": 20,
                 "group": null,
-                "minutesUntilStart": 165,
+                "minutesUntilStart": 160,
                 "isRecent": false
             },
             "44": {
@@ -2115,7 +2115,7 @@
                 "referee": null,
                 "season": 21,
                 "group": null,
-                "minutesUntilStart": 1455,
+                "minutesUntilStart": 1450,
                 "isRecent": false
             },
             "45": {
@@ -2146,7 +2146,7 @@
                 "referee": null,
                 "season": 21,
                 "group": null,
-                "minutesUntilStart": 1590,
+                "minutesUntilStart": 1585,
                 "isRecent": false
             },
             "46": {
@@ -2177,7 +2177,7 @@
                 "referee": null,
                 "season": 22,
                 "group": null,
-                "minutesUntilStart": 1605,
+                "minutesUntilStart": 1600,
                 "isRecent": false
             },
             "47": {
@@ -2208,7 +2208,7 @@
                 "referee": null,
                 "season": 20,
                 "group": null,
-                "minutesUntilStart": 1605,
+                "minutesUntilStart": 1600,
                 "isRecent": false
             }
         },
@@ -2996,10 +2996,10 @@
     },
     "stats": {
         "total_matches": 48,
-        "live_matches": 6,
+        "live_matches": 5,
         "today_matches": 1,
         "tomorrow_matches": 7,
-        "finished_today": 9,
+        "finished_today": 10,
         "finished_recent": 0
     },
     "query_info": {
@@ -3014,19 +3014,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 4963.2,
-        "current_time_local": "2026-01-18 22:45:09",
+        "api_call_time_ms": 4289.75,
+        "current_time_local": "2026-01-18 22:50:13",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-18 17:15:09",
-    "generated_at": "2026-01-18 17:15:09 UTC",
+    "last_updated": "2026-01-18 17:20:13",
+    "generated_at": "2026-01-18 17:20:13 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113953,
+        "file_size": 113978,
         "file_path": "matches.json"
     }
 }
