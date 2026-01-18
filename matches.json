@@ -133,7 +133,7 @@
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/586.png",
             "awayLogo": "https:\/\/crests.football-data.org\/100.png",
-            "status": "IN_PLAY",
+            "status": "PAUSED",
             "utcDate": "2026-01-18T17:00:00Z",
             "localDate": "2026-01-18 22:30:00",
             "localTime": "22:30",
@@ -149,7 +149,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Torino FC (Home)",
-            "lastUpdated": "2026-01-18T17:36:31Z",
+            "lastUpdated": "2026-01-18T17:58:31Z",
             "referee": "Daniele Chiffi",
             "season": 21,
             "group": null,
@@ -1293,14 +1293,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 49m",
+            "timeUntilStart": "1h 44m",
             "dayCategory": "tomorrow",
             "venue": "AC Milan (Home)",
             "lastUpdated": "2026-01-13T01:32:02Z",
             "referee": "Luca Zufferli",
             "season": 21,
             "group": null,
-            "minutesUntilStart": 110,
+            "minutesUntilStart": 105,
             "isRecent": false
         },
         {
@@ -1324,14 +1324,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 49m",
+            "timeUntilStart": "1h 44m",
             "dayCategory": "tomorrow",
             "venue": "Olympique Lyonnais (Home)",
             "lastUpdated": "2026-01-18T01:32:00Z",
             "referee": "Romain Lissorgue",
             "season": 18,
             "group": null,
-            "minutesUntilStart": 110,
+            "minutesUntilStart": 105,
             "isRecent": false
         },
         {
@@ -1355,14 +1355,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 4m",
+            "timeUntilStart": "1h 59m",
             "dayCategory": "tomorrow",
             "venue": "Real Sociedad de F\u00fatbol (Home)",
             "lastUpdated": "2026-01-18T01:32:00Z",
-            "referee": null,
+            "referee": "Jes\u00fas Gil Manzano",
             "season": 20,
             "group": null,
-            "minutesUntilStart": 125,
+            "minutesUntilStart": 120,
             "isRecent": false
         },
         {
@@ -1386,14 +1386,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "23h 34m",
+            "timeUntilStart": "23h 29m",
             "dayCategory": "tomorrow",
             "venue": "US Cremonese (Home)",
             "lastUpdated": "2026-01-18T01:32:00Z",
             "referee": null,
             "season": 21,
             "group": null,
-            "minutesUntilStart": 1415,
+            "minutesUntilStart": 1410,
             "isRecent": false
         },
         {
@@ -1424,7 +1424,7 @@
             "referee": null,
             "season": 21,
             "group": null,
-            "minutesUntilStart": 1550,
+            "minutesUntilStart": 1545,
             "isRecent": false
         },
         {
@@ -1455,7 +1455,7 @@
             "referee": null,
             "season": 22,
             "group": null,
-            "minutesUntilStart": 1565,
+            "minutesUntilStart": 1560,
             "isRecent": false
         },
         {
@@ -1486,7 +1486,7 @@
             "referee": null,
             "season": 20,
             "group": null,
-            "minutesUntilStart": 1565,
+            "minutesUntilStart": 1560,
             "isRecent": false
         }
     ],
@@ -1624,7 +1624,7 @@
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/586.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/100.png",
-                "status": "IN_PLAY",
+                "status": "PAUSED",
                 "utcDate": "2026-01-18T17:00:00Z",
                 "localDate": "2026-01-18 22:30:00",
                 "localTime": "22:30",
@@ -1640,7 +1640,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Torino FC (Home)",
-                "lastUpdated": "2026-01-18T17:36:31Z",
+                "lastUpdated": "2026-01-18T17:58:31Z",
                 "referee": "Daniele Chiffi",
                 "season": 21,
                 "group": null,
@@ -2014,14 +2014,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 49m",
+                "timeUntilStart": "1h 44m",
                 "dayCategory": "tomorrow",
                 "venue": "AC Milan (Home)",
                 "lastUpdated": "2026-01-13T01:32:02Z",
                 "referee": "Luca Zufferli",
                 "season": 21,
                 "group": null,
-                "minutesUntilStart": 110,
+                "minutesUntilStart": 105,
                 "isRecent": false
             },
             "42": {
@@ -2045,14 +2045,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 49m",
+                "timeUntilStart": "1h 44m",
                 "dayCategory": "tomorrow",
                 "venue": "Olympique Lyonnais (Home)",
                 "lastUpdated": "2026-01-18T01:32:00Z",
                 "referee": "Romain Lissorgue",
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 110,
+                "minutesUntilStart": 105,
                 "isRecent": false
             },
             "43": {
@@ -2076,14 +2076,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 4m",
+                "timeUntilStart": "1h 59m",
                 "dayCategory": "tomorrow",
                 "venue": "Real Sociedad de F\u00fatbol (Home)",
                 "lastUpdated": "2026-01-18T01:32:00Z",
-                "referee": null,
+                "referee": "Jes\u00fas Gil Manzano",
                 "season": 20,
                 "group": null,
-                "minutesUntilStart": 125,
+                "minutesUntilStart": 120,
                 "isRecent": false
             },
             "44": {
@@ -2107,14 +2107,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "23h 34m",
+                "timeUntilStart": "23h 29m",
                 "dayCategory": "tomorrow",
                 "venue": "US Cremonese (Home)",
                 "lastUpdated": "2026-01-18T01:32:00Z",
                 "referee": null,
                 "season": 21,
                 "group": null,
-                "minutesUntilStart": 1415,
+                "minutesUntilStart": 1410,
                 "isRecent": false
             },
             "45": {
@@ -2145,7 +2145,7 @@
                 "referee": null,
                 "season": 21,
                 "group": null,
-                "minutesUntilStart": 1550,
+                "minutesUntilStart": 1545,
                 "isRecent": false
             },
             "46": {
@@ -2176,7 +2176,7 @@
                 "referee": null,
                 "season": 22,
                 "group": null,
-                "minutesUntilStart": 1565,
+                "minutesUntilStart": 1560,
                 "isRecent": false
             },
             "47": {
@@ -2207,7 +2207,7 @@
                 "referee": null,
                 "season": 20,
                 "group": null,
-                "minutesUntilStart": 1565,
+                "minutesUntilStart": 1560,
                 "isRecent": false
             }
         },
@@ -3013,19 +3013,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 3446.98,
-        "current_time_local": "2026-01-18 23:25:09",
+        "api_call_time_ms": 6806.75,
+        "current_time_local": "2026-01-18 23:30:12",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-18 17:55:09",
-    "generated_at": "2026-01-18 17:55:09 UTC",
+    "last_updated": "2026-01-18 18:00:12",
+    "generated_at": "2026-01-18 18:00:12 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 114023,
+        "file_size": 114055,
         "file_path": "matches.json"
     }
 }
