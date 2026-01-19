@@ -1293,14 +1293,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4m",
+            "timeUntilStart": null,
             "dayCategory": "today",
             "venue": "Brighton & Hove Albion FC (Home)",
             "lastUpdated": "2026-01-19T01:32:00Z",
             "referee": "Paul Tierney",
             "season": 22,
             "group": null,
-            "minutesUntilStart": 5,
+            "minutesUntilStart": null,
             "isRecent": false
         },
         {
@@ -1324,14 +1324,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4m",
+            "timeUntilStart": null,
             "dayCategory": "today",
             "venue": "Elche CF (Home)",
             "lastUpdated": "2026-01-19T01:32:00Z",
             "referee": "Ricardo de Burgos",
             "season": 20,
             "group": null,
-            "minutesUntilStart": 5,
+            "minutesUntilStart": null,
             "isRecent": false
         }
     ],
@@ -1392,14 +1392,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4m",
+                "timeUntilStart": null,
                 "dayCategory": "today",
                 "venue": "Brighton & Hove Albion FC (Home)",
                 "lastUpdated": "2026-01-19T01:32:00Z",
                 "referee": "Paul Tierney",
                 "season": 22,
                 "group": null,
-                "minutesUntilStart": 5,
+                "minutesUntilStart": null,
                 "isRecent": false
             },
             "42": {
@@ -1423,14 +1423,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4m",
+                "timeUntilStart": null,
                 "dayCategory": "today",
                 "venue": "Elche CF (Home)",
                 "lastUpdated": "2026-01-19T01:32:00Z",
                 "referee": "Ricardo de Burgos",
                 "season": 20,
                 "group": null,
-                "minutesUntilStart": 5,
+                "minutesUntilStart": null,
                 "isRecent": false
             }
         },
@@ -2702,19 +2702,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 4357.2,
-        "current_time_local": "2026-01-20 01:25:07",
+        "api_call_time_ms": 8051.59,
+        "current_time_local": "2026-01-20 01:30:12",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-19 19:55:07",
-    "generated_at": "2026-01-19 19:55:07 UTC",
+    "last_updated": "2026-01-19 20:00:12",
+    "generated_at": "2026-01-19 20:00:12 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 101978,
+        "file_size": 101991,
         "file_path": "matches.json"
     }
 }
