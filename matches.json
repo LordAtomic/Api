@@ -40,28 +40,28 @@
             "awayScore": 2,
             "homeLogo": "https:\/\/crests.football-data.org\/285.png",
             "awayLogo": "https:\/\/crests.football-data.org\/559.png",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "utcDate": "2026-01-19T20:00:00Z",
             "localDate": "2026-01-20 01:30:00",
             "localTime": "01:30",
             "matchday": 20,
             "competition": "Primera Division",
             "competitionCode": "PD",
-            "isLive": true,
-            "isFinished": false,
+            "isLive": false,
+            "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "live",
+            "dayCategory": "finished_today",
             "venue": "Elche CF (Home)",
-            "lastUpdated": "2026-01-19T21:58:03Z",
+            "lastUpdated": "2026-01-19T22:02:43Z",
             "referee": "Ricardo de Burgos",
             "season": 20,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
+            "isRecent": true
         },
         {
             "id": 537019,
@@ -1367,8 +1367,10 @@
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
-            },
-            {
+            }
+        ],
+        "finished_today": {
+            "1": {
                 "id": 544403,
                 "home": "Elche",
                 "away": "Sevilla FC",
@@ -1376,31 +1378,29 @@
                 "awayScore": 2,
                 "homeLogo": "https:\/\/crests.football-data.org\/285.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/559.png",
-                "status": "IN_PLAY",
+                "status": "FINISHED",
                 "utcDate": "2026-01-19T20:00:00Z",
                 "localDate": "2026-01-20 01:30:00",
                 "localTime": "01:30",
                 "matchday": 20,
                 "competition": "Primera Division",
                 "competitionCode": "PD",
-                "isLive": true,
-                "isFinished": false,
+                "isLive": false,
+                "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "live",
+                "dayCategory": "finished_today",
                 "venue": "Elche CF (Home)",
-                "lastUpdated": "2026-01-19T21:58:03Z",
+                "lastUpdated": "2026-01-19T22:02:43Z",
                 "referee": "Ricardo de Burgos",
                 "season": 20,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
-        "finished_today": {
+                "isRecent": true
+            },
             "2": {
                 "id": 537019,
                 "home": "Lazio",
@@ -2684,10 +2684,10 @@
     },
     "stats": {
         "total_matches": 43,
-        "live_matches": 2,
+        "live_matches": 1,
         "today_matches": 0,
         "tomorrow_matches": 0,
-        "finished_today": 1,
+        "finished_today": 2,
         "finished_recent": 0
     },
     "query_info": {
@@ -2702,19 +2702,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 11103.95,
-        "current_time_local": "2026-01-20 03:30:16",
+        "api_call_time_ms": 3994.07,
+        "current_time_local": "2026-01-20 03:35:07",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-19 22:00:16",
-    "generated_at": "2026-01-19 22:00:16 UTC",
+    "last_updated": "2026-01-19 22:05:07",
+    "generated_at": "2026-01-19 22:05:07 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 102011,
+        "file_size": 102035,
         "file_path": "matches.json"
     }
 }
