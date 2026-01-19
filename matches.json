@@ -9,28 +9,28 @@
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/397.png",
             "awayLogo": "https:\/\/crests.football-data.org\/bournemouth.png",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "utcDate": "2026-01-19T20:00:00Z",
             "localDate": "2026-01-20 01:30:00",
             "localTime": "01:30",
             "matchday": 22,
             "competition": "Premier League",
             "competitionCode": "PL",
-            "isLive": true,
-            "isFinished": false,
+            "isLive": false,
+            "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "live",
+            "dayCategory": "finished_today",
             "venue": "Brighton & Hove Albion FC (Home)",
-            "lastUpdated": "2026-01-19T21:57:53Z",
+            "lastUpdated": "2026-01-19T22:08:33Z",
             "referee": "Paul Tierney",
             "season": 22,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
+            "isRecent": true
         },
         {
             "id": 544403,
@@ -1336,7 +1336,8 @@
         }
     ],
     "grouped_matches": {
-        "live": [
+        "live": [],
+        "finished_today": [
             {
                 "id": 537997,
                 "home": "Brighton Hove",
@@ -1345,32 +1346,30 @@
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/397.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/bournemouth.png",
-                "status": "IN_PLAY",
+                "status": "FINISHED",
                 "utcDate": "2026-01-19T20:00:00Z",
                 "localDate": "2026-01-20 01:30:00",
                 "localTime": "01:30",
                 "matchday": 22,
                 "competition": "Premier League",
                 "competitionCode": "PL",
-                "isLive": true,
-                "isFinished": false,
+                "isLive": false,
+                "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "live",
+                "dayCategory": "finished_today",
                 "venue": "Brighton & Hove Albion FC (Home)",
-                "lastUpdated": "2026-01-19T21:57:53Z",
+                "lastUpdated": "2026-01-19T22:08:33Z",
                 "referee": "Paul Tierney",
                 "season": 22,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
-        "finished_today": {
-            "1": {
+                "isRecent": true
+            },
+            {
                 "id": 544403,
                 "home": "Elche",
                 "away": "Sevilla FC",
@@ -1401,7 +1400,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "2": {
+            {
                 "id": 537019,
                 "home": "Lazio",
                 "away": "Como 1907",
@@ -1432,7 +1431,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             }
-        },
+        ],
         "today": [],
         "tomorrow": [],
         "upcoming": [],
@@ -2684,10 +2683,10 @@
     },
     "stats": {
         "total_matches": 43,
-        "live_matches": 1,
+        "live_matches": 0,
         "today_matches": 0,
         "tomorrow_matches": 0,
-        "finished_today": 2,
+        "finished_today": 3,
         "finished_recent": 0
     },
     "query_info": {
@@ -2702,19 +2701,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 3994.07,
-        "current_time_local": "2026-01-20 03:35:07",
+        "api_call_time_ms": 5207.7,
+        "current_time_local": "2026-01-20 03:40:08",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-19 22:05:07",
-    "generated_at": "2026-01-19 22:05:07 UTC",
+    "last_updated": "2026-01-19 22:10:08",
+    "generated_at": "2026-01-19 22:10:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 102035,
+        "file_size": 102036,
         "file_path": "matches.json"
     }
 }
