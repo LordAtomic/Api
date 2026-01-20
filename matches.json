@@ -92,7 +92,7 @@
             "season": 21,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": true
+            "isRecent": false
         },
         {
             "id": 537024,
@@ -649,7 +649,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 5360,
+            "minutesUntilStart": 5355,
             "isRecent": false
         },
         {
@@ -680,7 +680,7 @@
             "referee": null,
             "season": 18,
             "group": null,
-            "minutesUntilStart": 5390,
+            "minutesUntilStart": 5385,
             "isRecent": false
         },
         {
@@ -711,7 +711,7 @@
             "referee": null,
             "season": 21,
             "group": null,
-            "minutesUntilStart": 5405,
+            "minutesUntilStart": 5400,
             "isRecent": false
         },
         {
@@ -742,7 +742,7 @@
             "referee": null,
             "season": 20,
             "group": null,
-            "minutesUntilStart": 5420,
+            "minutesUntilStart": 5415,
             "isRecent": false
         }
     ],
@@ -840,7 +840,7 @@
                 "season": 21,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             }
         ],
         "today": [],
@@ -873,7 +873,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 5360,
+                "minutesUntilStart": 5355,
                 "isRecent": false
             },
             "21": {
@@ -904,7 +904,7 @@
                 "referee": null,
                 "season": 18,
                 "group": null,
-                "minutesUntilStart": 5390,
+                "minutesUntilStart": 5385,
                 "isRecent": false
             },
             "22": {
@@ -935,7 +935,7 @@
                 "referee": null,
                 "season": 21,
                 "group": null,
-                "minutesUntilStart": 5405,
+                "minutesUntilStart": 5400,
                 "isRecent": false
             },
             "23": {
@@ -966,7 +966,7 @@
                 "referee": null,
                 "season": 20,
                 "group": null,
-                "minutesUntilStart": 5420,
+                "minutesUntilStart": 5415,
                 "isRecent": false
             }
         },
@@ -1524,19 +1524,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 4636.63,
-        "current_time_local": "2026-01-20 07:10:08",
+        "api_call_time_ms": 4220.63,
+        "current_time_local": "2026-01-20 07:15:09",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-20 01:40:08",
-    "generated_at": "2026-01-20 01:40:08 UTC",
+    "last_updated": "2026-01-20 01:45:09",
+    "generated_at": "2026-01-20 01:45:09 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 57371,
+        "file_size": 57373,
         "file_path": "matches.json"
     }
 }
