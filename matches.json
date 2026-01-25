@@ -33,37 +33,6 @@
             "isRecent": false
         },
         {
-            "id": 542574,
-            "home": "Lille",
-            "away": "Strasbourg",
-            "homeScore": 0,
-            "awayScore": 4,
-            "homeLogo": "https:\/\/crests.football-data.org\/521.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/576.png",
-            "status": "IN_PLAY",
-            "utcDate": "2026-01-25T19:45:00Z",
-            "localDate": "2026-01-26 01:15:00",
-            "localTime": "01:15",
-            "matchday": 19,
-            "competition": "Ligue 1",
-            "competitionCode": "FL1",
-            "isLive": true,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "live",
-            "venue": "Lille OSC (Home)",
-            "lastUpdated": "2026-01-25T21:20:48Z",
-            "referee": "Willy Delajod",
-            "season": 19,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 544411,
             "home": "Alav\u00e9s",
             "away": "Real Betis",
@@ -93,6 +62,37 @@
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
+        },
+        {
+            "id": 542574,
+            "home": "Lille",
+            "away": "Strasbourg",
+            "homeScore": 1,
+            "awayScore": 4,
+            "homeLogo": "https:\/\/crests.football-data.org\/521.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/576.png",
+            "status": "FINISHED",
+            "utcDate": "2026-01-25T19:45:00Z",
+            "localDate": "2026-01-26 01:15:00",
+            "localTime": "01:15",
+            "matchday": 19,
+            "competition": "Ligue 1",
+            "competitionCode": "FL1",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_today",
+            "venue": "Lille OSC (Home)",
+            "lastUpdated": "2026-01-25T21:44:48Z",
+            "referee": "Willy Delajod",
+            "season": 19,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": true
         },
         {
             "id": 544415,
@@ -1417,14 +1417,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "22h 4m",
+            "timeUntilStart": "21h 59m",
             "dayCategory": "tomorrow",
             "venue": "Hellas Verona FC (Home)",
             "lastUpdated": "2026-01-24T01:32:01Z",
             "referee": null,
             "season": 22,
             "group": null,
-            "minutesUntilStart": 1325,
+            "minutesUntilStart": 1320,
             "isRecent": false
         },
         {
@@ -1448,14 +1448,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "22h 19m",
+            "timeUntilStart": "22h 14m",
             "dayCategory": "tomorrow",
             "venue": "Everton FC (Home)",
             "lastUpdated": "2026-01-25T01:32:00Z",
             "referee": null,
             "season": 23,
             "group": null,
-            "minutesUntilStart": 1340,
+            "minutesUntilStart": 1335,
             "isRecent": false
         },
         {
@@ -1479,14 +1479,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "22h 19m",
+            "timeUntilStart": "22h 14m",
             "dayCategory": "tomorrow",
             "venue": "Girona FC (Home)",
             "lastUpdated": "2026-01-25T01:32:00Z",
             "referee": null,
             "season": 21,
             "group": null,
-            "minutesUntilStart": 1340,
+            "minutesUntilStart": 1335,
             "isRecent": false
         },
         {
@@ -1517,7 +1517,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2750,
+            "minutesUntilStart": 2745,
             "isRecent": false
         },
         {
@@ -1548,7 +1548,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2750,
+            "minutesUntilStart": 2745,
             "isRecent": false
         }
     ],
@@ -1586,37 +1586,6 @@
                 "isRecent": false
             },
             {
-                "id": 542574,
-                "home": "Lille",
-                "away": "Strasbourg",
-                "homeScore": 0,
-                "awayScore": 4,
-                "homeLogo": "https:\/\/crests.football-data.org\/521.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/576.png",
-                "status": "IN_PLAY",
-                "utcDate": "2026-01-25T19:45:00Z",
-                "localDate": "2026-01-26 01:15:00",
-                "localTime": "01:15",
-                "matchday": 19,
-                "competition": "Ligue 1",
-                "competitionCode": "FL1",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "Lille OSC (Home)",
-                "lastUpdated": "2026-01-25T21:20:48Z",
-                "referee": "Willy Delajod",
-                "season": 19,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
-            {
                 "id": 544411,
                 "home": "Alav\u00e9s",
                 "away": "Real Betis",
@@ -1648,7 +1617,39 @@
                 "isRecent": false
             }
         ],
-        "finished_today": [],
+        "finished_today": {
+            "2": {
+                "id": 542574,
+                "home": "Lille",
+                "away": "Strasbourg",
+                "homeScore": 1,
+                "awayScore": 4,
+                "homeLogo": "https:\/\/crests.football-data.org\/521.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/576.png",
+                "status": "FINISHED",
+                "utcDate": "2026-01-25T19:45:00Z",
+                "localDate": "2026-01-26 01:15:00",
+                "localTime": "01:15",
+                "matchday": 19,
+                "competition": "Ligue 1",
+                "competitionCode": "FL1",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": false,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_today",
+                "venue": "Lille OSC (Home)",
+                "lastUpdated": "2026-01-25T21:44:48Z",
+                "referee": "Willy Delajod",
+                "season": 19,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": true
+            }
+        },
         "today": [],
         "tomorrow": {
             "45": {
@@ -1672,14 +1673,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "22h 4m",
+                "timeUntilStart": "21h 59m",
                 "dayCategory": "tomorrow",
                 "venue": "Hellas Verona FC (Home)",
                 "lastUpdated": "2026-01-24T01:32:01Z",
                 "referee": null,
                 "season": 22,
                 "group": null,
-                "minutesUntilStart": 1325,
+                "minutesUntilStart": 1320,
                 "isRecent": false
             },
             "46": {
@@ -1703,14 +1704,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "22h 19m",
+                "timeUntilStart": "22h 14m",
                 "dayCategory": "tomorrow",
                 "venue": "Everton FC (Home)",
                 "lastUpdated": "2026-01-25T01:32:00Z",
                 "referee": null,
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 1340,
+                "minutesUntilStart": 1335,
                 "isRecent": false
             },
             "47": {
@@ -1734,14 +1735,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "22h 19m",
+                "timeUntilStart": "22h 14m",
                 "dayCategory": "tomorrow",
                 "venue": "Girona FC (Home)",
                 "lastUpdated": "2026-01-25T01:32:00Z",
                 "referee": null,
                 "season": 21,
                 "group": null,
-                "minutesUntilStart": 1340,
+                "minutesUntilStart": 1335,
                 "isRecent": false
             },
             "48": {
@@ -1772,7 +1773,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2750,
+                "minutesUntilStart": 2745,
                 "isRecent": false
             },
             "49": {
@@ -1803,7 +1804,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2750,
+                "minutesUntilStart": 2745,
                 "isRecent": false
             }
         },
@@ -3118,10 +3119,10 @@
     },
     "stats": {
         "total_matches": 50,
-        "live_matches": 3,
+        "live_matches": 2,
         "today_matches": 0,
         "tomorrow_matches": 5,
-        "finished_today": 0,
+        "finished_today": 1,
         "finished_recent": 0
     },
     "query_info": {
@@ -3136,19 +3137,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 5669.75,
-        "current_time_local": "2026-01-26 03:10:09",
+        "api_call_time_ms": 4133.55,
+        "current_time_local": "2026-01-26 03:15:08",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-25 21:40:09",
-    "generated_at": "2026-01-25 21:40:09 UTC",
+    "last_updated": "2026-01-25 21:45:08",
+    "generated_at": "2026-01-25 21:45:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 118527,
+        "file_size": 118562,
         "file_path": "matches.json"
     }
 }
