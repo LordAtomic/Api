@@ -6,31 +6,31 @@
             "home": "Alav\u00e9s",
             "away": "Real Betis",
             "homeScore": 2,
-            "awayScore": 0,
+            "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/263.png",
             "awayLogo": "https:\/\/crests.football-data.org\/90.png",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "utcDate": "2026-01-25T20:00:00Z",
             "localDate": "2026-01-26 01:30:00",
             "localTime": "01:30",
             "matchday": 21,
             "competition": "Primera Division",
             "competitionCode": "PD",
-            "isLive": true,
-            "isFinished": false,
+            "isLive": false,
+            "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "live",
+            "dayCategory": "finished_today",
             "venue": "Deportivo Alav\u00e9s (Home)",
-            "lastUpdated": "2026-01-25T21:12:18Z",
+            "lastUpdated": "2026-01-25T22:02:58Z",
             "referee": "Miguel Ortiz Arias",
             "season": 21,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
+            "isRecent": true
         },
         {
             "id": 537026,
@@ -1417,14 +1417,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 44m",
+            "timeUntilStart": "21h 39m",
             "dayCategory": "tomorrow",
             "venue": "Hellas Verona FC (Home)",
             "lastUpdated": "2026-01-24T01:32:01Z",
             "referee": null,
             "season": 22,
             "group": null,
-            "minutesUntilStart": 1305,
+            "minutesUntilStart": 1300,
             "isRecent": false
         },
         {
@@ -1448,14 +1448,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 59m",
+            "timeUntilStart": "21h 54m",
             "dayCategory": "tomorrow",
             "venue": "Everton FC (Home)",
             "lastUpdated": "2026-01-25T01:32:00Z",
             "referee": null,
             "season": 23,
             "group": null,
-            "minutesUntilStart": 1320,
+            "minutesUntilStart": 1315,
             "isRecent": false
         },
         {
@@ -1479,14 +1479,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 59m",
+            "timeUntilStart": "21h 54m",
             "dayCategory": "tomorrow",
             "venue": "Girona FC (Home)",
             "lastUpdated": "2026-01-25T01:32:00Z",
             "referee": null,
             "season": 21,
             "group": null,
-            "minutesUntilStart": 1320,
+            "minutesUntilStart": 1315,
             "isRecent": false
         },
         {
@@ -1517,7 +1517,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2730,
+            "minutesUntilStart": 2725,
             "isRecent": false
         },
         {
@@ -1548,46 +1548,45 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 2730,
+            "minutesUntilStart": 2725,
             "isRecent": false
         }
     ],
     "grouped_matches": {
-        "live": [
+        "live": [],
+        "finished_today": [
             {
                 "id": 544411,
                 "home": "Alav\u00e9s",
                 "away": "Real Betis",
                 "homeScore": 2,
-                "awayScore": 0,
+                "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/263.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/90.png",
-                "status": "IN_PLAY",
+                "status": "FINISHED",
                 "utcDate": "2026-01-25T20:00:00Z",
                 "localDate": "2026-01-26 01:30:00",
                 "localTime": "01:30",
                 "matchday": 21,
                 "competition": "Primera Division",
                 "competitionCode": "PD",
-                "isLive": true,
-                "isFinished": false,
+                "isLive": false,
+                "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "live",
+                "dayCategory": "finished_today",
                 "venue": "Deportivo Alav\u00e9s (Home)",
-                "lastUpdated": "2026-01-25T21:12:18Z",
+                "lastUpdated": "2026-01-25T22:02:58Z",
                 "referee": "Miguel Ortiz Arias",
                 "season": 21,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
-        "finished_today": {
-            "1": {
+                "isRecent": true
+            },
+            {
                 "id": 537026,
                 "home": "Roma",
                 "away": "Milan",
@@ -1618,7 +1617,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "2": {
+            {
                 "id": 542574,
                 "home": "Lille",
                 "away": "Strasbourg",
@@ -1649,7 +1648,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             }
-        },
+        ],
         "today": [],
         "tomorrow": {
             "45": {
@@ -1673,14 +1672,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 44m",
+                "timeUntilStart": "21h 39m",
                 "dayCategory": "tomorrow",
                 "venue": "Hellas Verona FC (Home)",
                 "lastUpdated": "2026-01-24T01:32:01Z",
                 "referee": null,
                 "season": 22,
                 "group": null,
-                "minutesUntilStart": 1305,
+                "minutesUntilStart": 1300,
                 "isRecent": false
             },
             "46": {
@@ -1704,14 +1703,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 59m",
+                "timeUntilStart": "21h 54m",
                 "dayCategory": "tomorrow",
                 "venue": "Everton FC (Home)",
                 "lastUpdated": "2026-01-25T01:32:00Z",
                 "referee": null,
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 1320,
+                "minutesUntilStart": 1315,
                 "isRecent": false
             },
             "47": {
@@ -1735,14 +1734,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 59m",
+                "timeUntilStart": "21h 54m",
                 "dayCategory": "tomorrow",
                 "venue": "Girona FC (Home)",
                 "lastUpdated": "2026-01-25T01:32:00Z",
                 "referee": null,
                 "season": 21,
                 "group": null,
-                "minutesUntilStart": 1320,
+                "minutesUntilStart": 1315,
                 "isRecent": false
             },
             "48": {
@@ -1773,7 +1772,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2730,
+                "minutesUntilStart": 2725,
                 "isRecent": false
             },
             "49": {
@@ -1804,7 +1803,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 2730,
+                "minutesUntilStart": 2725,
                 "isRecent": false
             }
         },
@@ -3119,10 +3118,10 @@
     },
     "stats": {
         "total_matches": 50,
-        "live_matches": 1,
+        "live_matches": 0,
         "today_matches": 0,
         "tomorrow_matches": 5,
-        "finished_today": 2,
+        "finished_today": 3,
         "finished_recent": 0
     },
     "query_info": {
@@ -3137,19 +3136,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 11846.22,
-        "current_time_local": "2026-01-26 03:30:15",
+        "api_call_time_ms": 3794.37,
+        "current_time_local": "2026-01-26 03:35:07",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-25 22:00:15",
-    "generated_at": "2026-01-25 22:00:15 UTC",
+    "last_updated": "2026-01-25 22:05:07",
+    "generated_at": "2026-01-25 22:05:07 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 118588,
+        "file_size": 118589,
         "file_path": "matches.json"
     }
 }
