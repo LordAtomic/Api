@@ -40,7 +40,7 @@
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/1045.png",
             "awayLogo": "https:\/\/crests.football-data.org\/532.png",
-            "status": "PAUSED",
+            "status": "IN_PLAY",
             "utcDate": "2026-01-25T16:15:00Z",
             "localDate": "2026-01-25 21:45:00",
             "localTime": "21:45",
@@ -56,7 +56,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Paris FC (Home)",
-            "lastUpdated": "2026-01-25T17:06:53Z",
+            "lastUpdated": "2026-01-25T17:24:47Z",
             "referee": "Thomas L\u00e9onard",
             "season": 19,
             "group": null,
@@ -102,7 +102,7 @@
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/57.png",
             "awayLogo": "https:\/\/crests.football-data.org\/66.png",
-            "status": "IN_PLAY",
+            "status": "PAUSED",
             "utcDate": "2026-01-25T16:30:00Z",
             "localDate": "2026-01-25 22:00:00",
             "localTime": "22:00",
@@ -118,7 +118,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Arsenal FC (Home)",
-            "lastUpdated": "2026-01-25T17:12:11Z",
+            "lastUpdated": "2026-01-25T17:22:49Z",
             "referee": "Craig Pawson",
             "season": 23,
             "group": null,
@@ -133,7 +133,7 @@
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/17.png",
             "awayLogo": "https:\/\/crests.football-data.org\/1.png",
-            "status": "IN_PLAY",
+            "status": "PAUSED",
             "utcDate": "2026-01-25T16:30:00Z",
             "localDate": "2026-01-25 22:00:00",
             "localTime": "22:00",
@@ -149,7 +149,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "SC Freiburg (Home)",
-            "lastUpdated": "2026-01-25T17:19:30Z",
+            "lastUpdated": "2026-01-25T17:22:49Z",
             "referee": "Bastian Dankert",
             "season": 19,
             "group": null,
@@ -1293,14 +1293,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "9m",
+            "timeUntilStart": "4m",
             "dayCategory": "today",
             "venue": "Real Sociedad de F\u00fatbol (Home)",
             "lastUpdated": "2026-01-25T01:32:00Z",
             "referee": "Javier Alberola Rojas",
             "season": 21,
             "group": null,
-            "minutesUntilStart": 10,
+            "minutesUntilStart": 5,
             "isRecent": false
         },
         {
@@ -1324,14 +1324,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 24m",
+            "timeUntilStart": "2h 19m",
             "dayCategory": "tomorrow",
             "venue": "AS Roma (Home)",
             "lastUpdated": "2026-01-19T01:32:02Z",
             "referee": null,
             "season": 22,
             "group": null,
-            "minutesUntilStart": 145,
+            "minutesUntilStart": 140,
             "isRecent": false
         },
         {
@@ -1355,14 +1355,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 24m",
+            "timeUntilStart": "2h 19m",
             "dayCategory": "tomorrow",
             "venue": "Lille OSC (Home)",
             "lastUpdated": "2026-01-19T01:32:02Z",
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 145,
+            "minutesUntilStart": 140,
             "isRecent": false
         },
         {
@@ -1386,14 +1386,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 39m",
+            "timeUntilStart": "2h 34m",
             "dayCategory": "tomorrow",
             "venue": "Deportivo Alav\u00e9s (Home)",
             "lastUpdated": "2026-01-19T01:32:02Z",
             "referee": null,
             "season": 21,
             "group": null,
-            "minutesUntilStart": 160,
+            "minutesUntilStart": 155,
             "isRecent": false
         },
         {
@@ -1424,7 +1424,7 @@
             "referee": null,
             "season": 22,
             "group": null,
-            "minutesUntilStart": 1585,
+            "minutesUntilStart": 1580,
             "isRecent": false
         },
         {
@@ -1455,7 +1455,7 @@
             "referee": null,
             "season": 23,
             "group": null,
-            "minutesUntilStart": 1600,
+            "minutesUntilStart": 1595,
             "isRecent": false
         },
         {
@@ -1486,7 +1486,7 @@
             "referee": null,
             "season": 21,
             "group": null,
-            "minutesUntilStart": 1600,
+            "minutesUntilStart": 1595,
             "isRecent": false
         },
         {
@@ -1517,7 +1517,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 3010,
+            "minutesUntilStart": 3005,
             "isRecent": false
         },
         {
@@ -1548,7 +1548,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 3010,
+            "minutesUntilStart": 3005,
             "isRecent": false
         }
     ],
@@ -1593,7 +1593,7 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/1045.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/532.png",
-                "status": "PAUSED",
+                "status": "IN_PLAY",
                 "utcDate": "2026-01-25T16:15:00Z",
                 "localDate": "2026-01-25 21:45:00",
                 "localTime": "21:45",
@@ -1609,7 +1609,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Paris FC (Home)",
-                "lastUpdated": "2026-01-25T17:06:53Z",
+                "lastUpdated": "2026-01-25T17:24:47Z",
                 "referee": "Thomas L\u00e9onard",
                 "season": 19,
                 "group": null,
@@ -1655,7 +1655,7 @@
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/57.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/66.png",
-                "status": "IN_PLAY",
+                "status": "PAUSED",
                 "utcDate": "2026-01-25T16:30:00Z",
                 "localDate": "2026-01-25 22:00:00",
                 "localTime": "22:00",
@@ -1671,7 +1671,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Arsenal FC (Home)",
-                "lastUpdated": "2026-01-25T17:12:11Z",
+                "lastUpdated": "2026-01-25T17:22:49Z",
                 "referee": "Craig Pawson",
                 "season": 23,
                 "group": null,
@@ -1686,7 +1686,7 @@
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/17.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/1.png",
-                "status": "IN_PLAY",
+                "status": "PAUSED",
                 "utcDate": "2026-01-25T16:30:00Z",
                 "localDate": "2026-01-25 22:00:00",
                 "localTime": "22:00",
@@ -1702,7 +1702,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "SC Freiburg (Home)",
-                "lastUpdated": "2026-01-25T17:19:30Z",
+                "lastUpdated": "2026-01-25T17:22:49Z",
                 "referee": "Bastian Dankert",
                 "season": 19,
                 "group": null,
@@ -2168,14 +2168,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "9m",
+                "timeUntilStart": "4m",
                 "dayCategory": "today",
                 "venue": "Real Sociedad de F\u00fatbol (Home)",
                 "lastUpdated": "2026-01-25T01:32:00Z",
                 "referee": "Javier Alberola Rojas",
                 "season": 21,
                 "group": null,
-                "minutesUntilStart": 10,
+                "minutesUntilStart": 5,
                 "isRecent": false
             }
         },
@@ -2201,14 +2201,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 24m",
+                "timeUntilStart": "2h 19m",
                 "dayCategory": "tomorrow",
                 "venue": "AS Roma (Home)",
                 "lastUpdated": "2026-01-19T01:32:02Z",
                 "referee": null,
                 "season": 22,
                 "group": null,
-                "minutesUntilStart": 145,
+                "minutesUntilStart": 140,
                 "isRecent": false
             },
             "43": {
@@ -2232,14 +2232,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 24m",
+                "timeUntilStart": "2h 19m",
                 "dayCategory": "tomorrow",
                 "venue": "Lille OSC (Home)",
                 "lastUpdated": "2026-01-19T01:32:02Z",
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 145,
+                "minutesUntilStart": 140,
                 "isRecent": false
             },
             "44": {
@@ -2263,14 +2263,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 39m",
+                "timeUntilStart": "2h 34m",
                 "dayCategory": "tomorrow",
                 "venue": "Deportivo Alav\u00e9s (Home)",
                 "lastUpdated": "2026-01-19T01:32:02Z",
                 "referee": null,
                 "season": 21,
                 "group": null,
-                "minutesUntilStart": 160,
+                "minutesUntilStart": 155,
                 "isRecent": false
             },
             "45": {
@@ -2301,7 +2301,7 @@
                 "referee": null,
                 "season": 22,
                 "group": null,
-                "minutesUntilStart": 1585,
+                "minutesUntilStart": 1580,
                 "isRecent": false
             },
             "46": {
@@ -2332,7 +2332,7 @@
                 "referee": null,
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 1600,
+                "minutesUntilStart": 1595,
                 "isRecent": false
             },
             "47": {
@@ -2363,7 +2363,7 @@
                 "referee": null,
                 "season": 21,
                 "group": null,
-                "minutesUntilStart": 1600,
+                "minutesUntilStart": 1595,
                 "isRecent": false
             },
             "48": {
@@ -2394,7 +2394,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 3010,
+                "minutesUntilStart": 3005,
                 "isRecent": false
             },
             "49": {
@@ -2425,7 +2425,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 3010,
+                "minutesUntilStart": 3005,
                 "isRecent": false
             }
         },
@@ -3137,19 +3137,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 5435.74,
-        "current_time_local": "2026-01-25 22:50:11",
+        "api_call_time_ms": 5013.69,
+        "current_time_local": "2026-01-25 22:55:09",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-25 17:20:11",
-    "generated_at": "2026-01-25 17:20:11 UTC",
+    "last_updated": "2026-01-25 17:25:09",
+    "generated_at": "2026-01-25 17:25:09 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 118577,
+        "file_size": 118573,
         "file_path": "matches.json"
     }
 }
