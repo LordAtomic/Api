@@ -1324,14 +1324,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4m",
+            "timeUntilStart": null,
             "dayCategory": "today",
             "venue": "Everton FC (Home)",
             "lastUpdated": "2026-01-26T00:20:57Z",
             "referee": "Simon Hooper",
             "season": 23,
             "group": null,
-            "minutesUntilStart": 5,
+            "minutesUntilStart": null,
             "isRecent": false
         },
         {
@@ -1355,14 +1355,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4m",
+            "timeUntilStart": null,
             "dayCategory": "today",
             "venue": "Girona FC (Home)",
             "lastUpdated": "2026-01-26T01:32:00Z",
             "referee": "Alejandro Quintero Gonz\u00e1lez",
             "season": 21,
             "group": null,
-            "minutesUntilStart": 5,
+            "minutesUntilStart": null,
             "isRecent": false
         },
         {
@@ -1386,14 +1386,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "23h 34m",
+            "timeUntilStart": "23h 29m",
             "dayCategory": "tomorrow",
             "venue": "SV Werder Bremen (Home)",
             "lastUpdated": "2026-01-26T00:20:56Z",
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 1415,
+            "minutesUntilStart": 1410,
             "isRecent": false
         },
         {
@@ -1417,14 +1417,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "23h 34m",
+            "timeUntilStart": "23h 29m",
             "dayCategory": "tomorrow",
             "venue": "FC St. Pauli 1910 (Home)",
             "lastUpdated": "2026-01-26T01:32:00Z",
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 1415,
+            "minutesUntilStart": 1410,
             "isRecent": false
         }
     ],
@@ -1485,14 +1485,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4m",
+                "timeUntilStart": null,
                 "dayCategory": "today",
                 "venue": "Everton FC (Home)",
                 "lastUpdated": "2026-01-26T00:20:57Z",
                 "referee": "Simon Hooper",
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 5,
+                "minutesUntilStart": null,
                 "isRecent": false
             },
             "43": {
@@ -1516,14 +1516,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4m",
+                "timeUntilStart": null,
                 "dayCategory": "today",
                 "venue": "Girona FC (Home)",
                 "lastUpdated": "2026-01-26T01:32:00Z",
                 "referee": "Alejandro Quintero Gonz\u00e1lez",
                 "season": 21,
                 "group": null,
-                "minutesUntilStart": 5,
+                "minutesUntilStart": null,
                 "isRecent": false
             }
         },
@@ -1549,14 +1549,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "23h 34m",
+                "timeUntilStart": "23h 29m",
                 "dayCategory": "tomorrow",
                 "venue": "SV Werder Bremen (Home)",
                 "lastUpdated": "2026-01-26T00:20:56Z",
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 1415,
+                "minutesUntilStart": 1410,
                 "isRecent": false
             },
             "45": {
@@ -1580,14 +1580,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "23h 34m",
+                "timeUntilStart": "23h 29m",
                 "dayCategory": "tomorrow",
                 "venue": "FC St. Pauli 1910 (Home)",
                 "lastUpdated": "2026-01-26T01:32:00Z",
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 1415,
+                "minutesUntilStart": 1410,
                 "isRecent": false
             }
         },
@@ -2889,19 +2889,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 3989.35,
-        "current_time_local": "2026-01-27 01:25:08",
+        "api_call_time_ms": 8569.8,
+        "current_time_local": "2026-01-27 01:30:12",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-26 19:55:08",
-    "generated_at": "2026-01-26 19:55:08 UTC",
+    "last_updated": "2026-01-26 20:00:12",
+    "generated_at": "2026-01-26 20:00:12 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 108995,
+        "file_size": 109006,
         "file_path": "matches.json"
     }
 }
