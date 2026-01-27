@@ -2,6 +2,68 @@
     "success": true,
     "matches": [
         {
+            "id": 540545,
+            "home": "Bremen",
+            "away": "Hoffenheim",
+            "homeScore": 0,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/12.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/2.png",
+            "status": "IN_PLAY",
+            "utcDate": "2026-01-27T19:30:00Z",
+            "localDate": "2026-01-28 01:00:00",
+            "localTime": "01:00",
+            "matchday": 16,
+            "competition": "Bundesliga",
+            "competitionCode": "BL1",
+            "isLive": true,
+            "isFinished": false,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "live",
+            "venue": "SV Werder Bremen (Home)",
+            "lastUpdated": "2026-01-27T19:35:34Z",
+            "referee": "Frank Willenborg",
+            "season": 19,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
+        },
+        {
+            "id": 540548,
+            "home": "St. Pauli",
+            "away": "RB Leipzig",
+            "homeScore": 0,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/20.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/721.png",
+            "status": "IN_PLAY",
+            "utcDate": "2026-01-27T19:30:00Z",
+            "localDate": "2026-01-28 01:00:00",
+            "localTime": "01:00",
+            "matchday": 16,
+            "competition": "Bundesliga",
+            "competitionCode": "BL1",
+            "isLive": true,
+            "isFinished": false,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "live",
+            "venue": "FC St. Pauli 1910 (Home)",
+            "lastUpdated": "2026-01-27T19:35:34Z",
+            "referee": "Florian Exner",
+            "season": 19,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
+        },
+        {
             "id": 538010,
             "home": "Everton",
             "away": "Leeds United",
@@ -715,68 +777,6 @@
             "isRecent": false
         },
         {
-            "id": 540545,
-            "home": "Bremen",
-            "away": "Hoffenheim",
-            "homeScore": 0,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/12.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/2.png",
-            "status": "TIMED",
-            "utcDate": "2026-01-27T19:30:00Z",
-            "localDate": "2026-01-28 01:00:00",
-            "localTime": "01:00",
-            "matchday": 16,
-            "competition": "Bundesliga",
-            "competitionCode": "BL1",
-            "isLive": false,
-            "isFinished": false,
-            "isToday": true,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "today",
-            "venue": "SV Werder Bremen (Home)",
-            "lastUpdated": "2026-01-27T00:20:58Z",
-            "referee": "Frank Willenborg",
-            "season": 19,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
-            "id": 540548,
-            "home": "St. Pauli",
-            "away": "RB Leipzig",
-            "homeScore": 0,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/20.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/721.png",
-            "status": "TIMED",
-            "utcDate": "2026-01-27T19:30:00Z",
-            "localDate": "2026-01-28 01:00:00",
-            "localTime": "01:00",
-            "matchday": 16,
-            "competition": "Bundesliga",
-            "competitionCode": "BL1",
-            "isLive": false,
-            "isFinished": false,
-            "isToday": true,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "today",
-            "venue": "FC St. Pauli 1910 (Home)",
-            "lastUpdated": "2026-01-26T01:32:00Z",
-            "referee": "Florian Exner",
-            "season": 19,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 540582,
             "home": "1. FC K\u00f6ln",
             "away": "Wolfsburg",
@@ -804,7 +804,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 4315,
+            "minutesUntilStart": 4310,
             "isRecent": false
         },
         {
@@ -835,7 +835,7 @@
             "referee": null,
             "season": 22,
             "group": null,
-            "minutesUntilStart": 4330,
+            "minutesUntilStart": 4325,
             "isRecent": false
         },
         {
@@ -866,7 +866,7 @@
             "referee": null,
             "season": 19,
             "group": null,
-            "minutesUntilStart": 4330,
+            "minutesUntilStart": 4325,
             "isRecent": false
         },
         {
@@ -897,15 +897,13 @@
             "referee": null,
             "season": 21,
             "group": null,
-            "minutesUntilStart": 4345,
+            "minutesUntilStart": 4340,
             "isRecent": false
         }
     ],
     "grouped_matches": {
-        "live": [],
-        "finished_today": [],
-        "today": {
-            "23": {
+        "live": [
+            {
                 "id": 540545,
                 "home": "Bremen",
                 "away": "Hoffenheim",
@@ -913,30 +911,30 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/12.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/2.png",
-                "status": "TIMED",
+                "status": "IN_PLAY",
                 "utcDate": "2026-01-27T19:30:00Z",
                 "localDate": "2026-01-28 01:00:00",
                 "localTime": "01:00",
                 "matchday": 16,
                 "competition": "Bundesliga",
                 "competitionCode": "BL1",
-                "isLive": false,
+                "isLive": true,
                 "isFinished": false,
-                "isToday": true,
+                "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "today",
+                "dayCategory": "live",
                 "venue": "SV Werder Bremen (Home)",
-                "lastUpdated": "2026-01-27T00:20:58Z",
+                "lastUpdated": "2026-01-27T19:35:34Z",
                 "referee": "Frank Willenborg",
                 "season": 19,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "24": {
+            {
                 "id": 540548,
                 "home": "St. Pauli",
                 "away": "RB Leipzig",
@@ -944,30 +942,32 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/20.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/721.png",
-                "status": "TIMED",
+                "status": "IN_PLAY",
                 "utcDate": "2026-01-27T19:30:00Z",
                 "localDate": "2026-01-28 01:00:00",
                 "localTime": "01:00",
                 "matchday": 16,
                 "competition": "Bundesliga",
                 "competitionCode": "BL1",
-                "isLive": false,
+                "isLive": true,
                 "isFinished": false,
-                "isToday": true,
+                "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "today",
+                "dayCategory": "live",
                 "venue": "FC St. Pauli 1910 (Home)",
-                "lastUpdated": "2026-01-26T01:32:00Z",
+                "lastUpdated": "2026-01-27T19:35:34Z",
                 "referee": "Florian Exner",
                 "season": 19,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
             }
-        },
+        ],
+        "finished_today": [],
+        "today": [],
         "tomorrow": {
             "25": {
                 "id": 540582,
@@ -997,7 +997,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 4315,
+                "minutesUntilStart": 4310,
                 "isRecent": false
             },
             "26": {
@@ -1028,7 +1028,7 @@
                 "referee": null,
                 "season": 22,
                 "group": null,
-                "minutesUntilStart": 4330,
+                "minutesUntilStart": 4325,
                 "isRecent": false
             },
             "27": {
@@ -1059,7 +1059,7 @@
                 "referee": null,
                 "season": 19,
                 "group": null,
-                "minutesUntilStart": 4330,
+                "minutesUntilStart": 4325,
                 "isRecent": false
             },
             "28": {
@@ -1090,13 +1090,13 @@
                 "referee": null,
                 "season": 21,
                 "group": null,
-                "minutesUntilStart": 4345,
+                "minutesUntilStart": 4340,
                 "isRecent": false
             }
         },
         "upcoming": [],
-        "finished_yesterday": [
-            {
+        "finished_yesterday": {
+            "2": {
                 "id": 538010,
                 "home": "Everton",
                 "away": "Leeds United",
@@ -1127,7 +1127,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            {
+            "3": {
                 "id": 544418,
                 "home": "Girona",
                 "away": "Getafe",
@@ -1158,7 +1158,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            {
+            "4": {
                 "id": 537030,
                 "home": "Verona",
                 "away": "Udinese",
@@ -1189,10 +1189,10 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             }
-        ],
+        },
         "finished_recent": [],
         "finished_older": {
-            "3": {
+            "5": {
                 "id": 544411,
                 "home": "Alav\u00e9s",
                 "away": "Real Betis",
@@ -1223,7 +1223,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "4": {
+            "6": {
                 "id": 537026,
                 "home": "Roma",
                 "away": "Milan",
@@ -1254,7 +1254,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "5": {
+            "7": {
                 "id": 542574,
                 "home": "Lille",
                 "away": "Strasbourg",
@@ -1285,7 +1285,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "6": {
+            "8": {
                 "id": 544415,
                 "home": "Real Sociedad",
                 "away": "Celta",
@@ -1316,7 +1316,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "7": {
+            "9": {
                 "id": 537032,
                 "home": "Juventus",
                 "away": "Napoli",
@@ -1347,7 +1347,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "8": {
+            "10": {
                 "id": 538007,
                 "home": "Arsenal",
                 "away": "Man United",
@@ -1378,7 +1378,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "9": {
+            "11": {
                 "id": 540575,
                 "home": "Freiburg",
                 "away": "1. FC K\u00f6ln",
@@ -1409,7 +1409,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "10": {
+            "12": {
                 "id": 542570,
                 "home": "FC Metz",
                 "away": "Olympique Lyon",
@@ -1440,7 +1440,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "11": {
+            "13": {
                 "id": 542572,
                 "home": "Paris FC",
                 "away": "Angers SCO",
@@ -1471,7 +1471,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "12": {
+            "14": {
                 "id": 542575,
                 "home": "Brest",
                 "away": "Toulouse",
@@ -1502,7 +1502,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "13": {
+            "15": {
                 "id": 544413,
                 "home": "Bar\u00e7a",
                 "away": "Real Oviedo",
@@ -1533,7 +1533,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "14": {
+            "16": {
                 "id": 540571,
                 "home": "M'gladbach",
                 "away": "Stuttgart",
@@ -1564,7 +1564,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "15": {
+            "17": {
                 "id": 538006,
                 "home": "Crystal Palace",
                 "away": "Chelsea",
@@ -1595,7 +1595,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "16": {
+            "18": {
                 "id": 538008,
                 "home": "Brentford",
                 "away": "Nottingham",
@@ -1626,7 +1626,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "17": {
+            "19": {
                 "id": 538013,
                 "home": "Newcastle",
                 "away": "Aston Villa",
@@ -1657,7 +1657,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "18": {
+            "20": {
                 "id": 537027,
                 "home": "Atalanta",
                 "away": "Parma",
@@ -1688,7 +1688,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "19": {
+            "21": {
                 "id": 537028,
                 "home": "Genoa",
                 "away": "Bologna",
@@ -1719,7 +1719,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "20": {
+            "22": {
                 "id": 542571,
                 "home": "Nantes",
                 "away": "Nice",
@@ -1750,7 +1750,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "21": {
+            "23": {
                 "id": 544412,
                 "home": "Atleti",
                 "away": "Mallorca",
@@ -1781,7 +1781,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "22": {
+            "24": {
                 "id": 537033,
                 "home": "Sassuolo",
                 "away": "Cremonese",
@@ -1816,8 +1816,8 @@
     },
     "stats": {
         "total_matches": 29,
-        "live_matches": 0,
-        "today_matches": 2,
+        "live_matches": 2,
+        "today_matches": 0,
         "tomorrow_matches": 4,
         "finished_today": 0,
         "finished_recent": 0
@@ -1834,19 +1834,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 3512.09,
-        "current_time_local": "2026-01-28 01:05:07",
+        "api_call_time_ms": 4483.89,
+        "current_time_local": "2026-01-28 01:10:09",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-01-27 19:35:07",
-    "generated_at": "2026-01-27 19:35:07 UTC",
+    "last_updated": "2026-01-27 19:40:09",
+    "generated_at": "2026-01-27 19:40:09 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 68977,
+        "file_size": 68986,
         "file_path": "matches.json"
     }
 }
