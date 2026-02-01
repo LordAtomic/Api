@@ -2,37 +2,6 @@
     "success": true,
     "matches": [
         {
-            "id": 542580,
-            "home": "Toulouse",
-            "away": "Auxerre",
-            "homeScore": 0,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/511.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/519.png",
-            "status": "IN_PLAY",
-            "utcDate": "2026-02-01T16:15:00Z",
-            "localDate": "2026-02-01 21:45:00",
-            "localTime": "21:45",
-            "matchday": 20,
-            "competition": "Ligue 1",
-            "competitionCode": "FL1",
-            "isLive": true,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "live",
-            "venue": "Toulouse FC (Home)",
-            "lastUpdated": "2026-02-01T17:22:17Z",
-            "referee": "Romain Lissorgue",
-            "season": 20,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 542581,
             "home": "Nice",
             "away": "Brest",
@@ -217,6 +186,37 @@
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
+        },
+        {
+            "id": 542580,
+            "home": "Toulouse",
+            "away": "Auxerre",
+            "homeScore": 0,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/511.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/519.png",
+            "status": "FINISHED",
+            "utcDate": "2026-02-01T16:15:00Z",
+            "localDate": "2026-02-01 21:45:00",
+            "localTime": "21:45",
+            "matchday": 20,
+            "competition": "Ligue 1",
+            "competitionCode": "FL1",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_today",
+            "venue": "Toulouse FC (Home)",
+            "lastUpdated": "2026-02-01T18:13:28Z",
+            "referee": "Romain Lissorgue",
+            "season": 20,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": true
         },
         {
             "id": 544422,
@@ -1293,14 +1293,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 34m",
+            "timeUntilStart": "1h 29m",
             "dayCategory": "tomorrow",
             "venue": "Parma Calcio 1913 (Home)",
             "lastUpdated": "2026-01-26T01:32:03Z",
             "referee": "Francesco Fourneau",
             "season": 23,
             "group": null,
-            "minutesUntilStart": 95,
+            "minutesUntilStart": 90,
             "isRecent": false
         },
         {
@@ -1324,14 +1324,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 34m",
+            "timeUntilStart": "1h 29m",
             "dayCategory": "tomorrow",
             "venue": "RC Strasbourg Alsace (Home)",
             "lastUpdated": "2026-01-31T01:32:01Z",
             "referee": "Eric Wattellier",
             "season": 20,
             "group": null,
-            "minutesUntilStart": 95,
+            "minutesUntilStart": 90,
             "isRecent": false
         },
         {
@@ -1355,14 +1355,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 49m",
+            "timeUntilStart": "1h 44m",
             "dayCategory": "tomorrow",
             "venue": "Athletic Club (Home)",
             "lastUpdated": "2026-01-31T01:32:01Z",
             "referee": "Guillermo Cuadra Fern\u00e1ndez",
             "season": 22,
             "group": null,
-            "minutesUntilStart": 110,
+            "minutesUntilStart": 105,
             "isRecent": false
         },
         {
@@ -1393,7 +1393,7 @@
             "referee": null,
             "season": 23,
             "group": null,
-            "minutesUntilStart": 1535,
+            "minutesUntilStart": 1530,
             "isRecent": false
         },
         {
@@ -1424,7 +1424,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 1550,
+            "minutesUntilStart": 1545,
             "isRecent": false
         },
         {
@@ -1455,7 +1455,7 @@
             "referee": null,
             "season": 22,
             "group": null,
-            "minutesUntilStart": 1550,
+            "minutesUntilStart": 1545,
             "isRecent": false
         },
         {
@@ -1486,43 +1486,12 @@
             "referee": null,
             "season": 23,
             "group": null,
-            "minutesUntilStart": 2975,
+            "minutesUntilStart": 2970,
             "isRecent": false
         }
     ],
     "grouped_matches": {
         "live": [
-            {
-                "id": 542580,
-                "home": "Toulouse",
-                "away": "Auxerre",
-                "homeScore": 0,
-                "awayScore": 0,
-                "homeLogo": "https:\/\/crests.football-data.org\/511.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/519.png",
-                "status": "IN_PLAY",
-                "utcDate": "2026-02-01T16:15:00Z",
-                "localDate": "2026-02-01 21:45:00",
-                "localTime": "21:45",
-                "matchday": 20,
-                "competition": "Ligue 1",
-                "competitionCode": "FL1",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "Toulouse FC (Home)",
-                "lastUpdated": "2026-02-01T17:22:17Z",
-                "referee": "Romain Lissorgue",
-                "season": 20,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
             {
                 "id": 542581,
                 "home": "Nice",
@@ -1711,6 +1680,37 @@
             }
         ],
         "finished_today": {
+            "6": {
+                "id": 542580,
+                "home": "Toulouse",
+                "away": "Auxerre",
+                "homeScore": 0,
+                "awayScore": 0,
+                "homeLogo": "https:\/\/crests.football-data.org\/511.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/519.png",
+                "status": "FINISHED",
+                "utcDate": "2026-02-01T16:15:00Z",
+                "localDate": "2026-02-01 21:45:00",
+                "localTime": "21:45",
+                "matchday": 20,
+                "competition": "Ligue 1",
+                "competitionCode": "FL1",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": false,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_today",
+                "venue": "Toulouse FC (Home)",
+                "lastUpdated": "2026-02-01T18:13:28Z",
+                "referee": "Romain Lissorgue",
+                "season": 20,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": true
+            },
             "7": {
                 "id": 544422,
                 "home": "Real Betis",
@@ -2138,14 +2138,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 34m",
+                "timeUntilStart": "1h 29m",
                 "dayCategory": "tomorrow",
                 "venue": "Parma Calcio 1913 (Home)",
                 "lastUpdated": "2026-01-26T01:32:03Z",
                 "referee": "Francesco Fourneau",
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 95,
+                "minutesUntilStart": 90,
                 "isRecent": false
             },
             "42": {
@@ -2169,14 +2169,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 34m",
+                "timeUntilStart": "1h 29m",
                 "dayCategory": "tomorrow",
                 "venue": "RC Strasbourg Alsace (Home)",
                 "lastUpdated": "2026-01-31T01:32:01Z",
                 "referee": "Eric Wattellier",
                 "season": 20,
                 "group": null,
-                "minutesUntilStart": 95,
+                "minutesUntilStart": 90,
                 "isRecent": false
             },
             "43": {
@@ -2200,14 +2200,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 49m",
+                "timeUntilStart": "1h 44m",
                 "dayCategory": "tomorrow",
                 "venue": "Athletic Club (Home)",
                 "lastUpdated": "2026-01-31T01:32:01Z",
                 "referee": "Guillermo Cuadra Fern\u00e1ndez",
                 "season": 22,
                 "group": null,
-                "minutesUntilStart": 110,
+                "minutesUntilStart": 105,
                 "isRecent": false
             },
             "44": {
@@ -2238,7 +2238,7 @@
                 "referee": null,
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 1535,
+                "minutesUntilStart": 1530,
                 "isRecent": false
             },
             "45": {
@@ -2269,7 +2269,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 1550,
+                "minutesUntilStart": 1545,
                 "isRecent": false
             },
             "46": {
@@ -2300,7 +2300,7 @@
                 "referee": null,
                 "season": 22,
                 "group": null,
-                "minutesUntilStart": 1550,
+                "minutesUntilStart": 1545,
                 "isRecent": false
             },
             "47": {
@@ -2331,7 +2331,7 @@
                 "referee": null,
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 2975,
+                "minutesUntilStart": 2970,
                 "isRecent": false
             }
         },
@@ -2994,10 +2994,10 @@
     },
     "stats": {
         "total_matches": 48,
-        "live_matches": 7,
+        "live_matches": 6,
         "today_matches": 0,
         "tomorrow_matches": 7,
-        "finished_today": 13,
+        "finished_today": 14,
         "finished_recent": 0
     },
     "query_info": {
@@ -3012,19 +3012,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 4983.14,
-        "current_time_local": "2026-02-01 23:40:19",
+        "api_call_time_ms": 5798.04,
+        "current_time_local": "2026-02-01 23:45:11",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-01 18:10:19",
-    "generated_at": "2026-02-01 18:10:19 UTC",
+    "last_updated": "2026-02-01 18:15:11",
+    "generated_at": "2026-02-01 18:15:11 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113922,
+        "file_size": 113947,
         "file_path": "matches.json"
     }
 }
