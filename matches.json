@@ -464,7 +464,7 @@
             "season": 22,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": true
+            "isRecent": false
         },
         {
             "id": 537038,
@@ -1293,14 +1293,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "49m",
+            "timeUntilStart": "44m",
             "dayCategory": "today",
             "venue": "Parma Calcio 1913 (Home)",
             "lastUpdated": "2026-01-26T01:32:03Z",
             "referee": "Francesco Fourneau",
             "season": 23,
             "group": null,
-            "minutesUntilStart": 50,
+            "minutesUntilStart": 45,
             "isRecent": false
         },
         {
@@ -1324,14 +1324,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "49m",
+            "timeUntilStart": "44m",
             "dayCategory": "today",
             "venue": "RC Strasbourg Alsace (Home)",
             "lastUpdated": "2026-01-31T01:32:01Z",
             "referee": "Eric Wattellier",
             "season": 20,
             "group": null,
-            "minutesUntilStart": 50,
+            "minutesUntilStart": 45,
             "isRecent": false
         },
         {
@@ -1355,14 +1355,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 4m",
+            "timeUntilStart": "59m",
             "dayCategory": "today",
             "venue": "Athletic Club (Home)",
             "lastUpdated": "2026-01-31T01:32:01Z",
             "referee": "Guillermo Cuadra Fern\u00e1ndez",
             "season": 22,
             "group": null,
-            "minutesUntilStart": 65,
+            "minutesUntilStart": 60,
             "isRecent": false
         },
         {
@@ -1393,7 +1393,7 @@
             "referee": null,
             "season": 23,
             "group": null,
-            "minutesUntilStart": 1490,
+            "minutesUntilStart": 1485,
             "isRecent": false
         },
         {
@@ -1424,7 +1424,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 1505,
+            "minutesUntilStart": 1500,
             "isRecent": false
         },
         {
@@ -1455,7 +1455,7 @@
             "referee": null,
             "season": 22,
             "group": null,
-            "minutesUntilStart": 1505,
+            "minutesUntilStart": 1500,
             "isRecent": false
         },
         {
@@ -1486,7 +1486,7 @@
             "referee": null,
             "season": 23,
             "group": null,
-            "minutesUntilStart": 2930,
+            "minutesUntilStart": 2925,
             "isRecent": false
         }
     ],
@@ -1578,14 +1578,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "49m",
+                "timeUntilStart": "44m",
                 "dayCategory": "today",
                 "venue": "Parma Calcio 1913 (Home)",
                 "lastUpdated": "2026-01-26T01:32:03Z",
                 "referee": "Francesco Fourneau",
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 50,
+                "minutesUntilStart": 45,
                 "isRecent": false
             },
             "42": {
@@ -1609,14 +1609,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "49m",
+                "timeUntilStart": "44m",
                 "dayCategory": "today",
                 "venue": "RC Strasbourg Alsace (Home)",
                 "lastUpdated": "2026-01-31T01:32:01Z",
                 "referee": "Eric Wattellier",
                 "season": 20,
                 "group": null,
-                "minutesUntilStart": 50,
+                "minutesUntilStart": 45,
                 "isRecent": false
             },
             "43": {
@@ -1640,14 +1640,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 4m",
+                "timeUntilStart": "59m",
                 "dayCategory": "today",
                 "venue": "Athletic Club (Home)",
                 "lastUpdated": "2026-01-31T01:32:01Z",
                 "referee": "Guillermo Cuadra Fern\u00e1ndez",
                 "season": 22,
                 "group": null,
-                "minutesUntilStart": 65,
+                "minutesUntilStart": 60,
                 "isRecent": false
             }
         },
@@ -1680,7 +1680,7 @@
                 "referee": null,
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 1490,
+                "minutesUntilStart": 1485,
                 "isRecent": false
             },
             "45": {
@@ -1711,7 +1711,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 1505,
+                "minutesUntilStart": 1500,
                 "isRecent": false
             },
             "46": {
@@ -1742,7 +1742,7 @@
                 "referee": null,
                 "season": 22,
                 "group": null,
-                "minutesUntilStart": 1505,
+                "minutesUntilStart": 1500,
                 "isRecent": false
             },
             "47": {
@@ -1773,7 +1773,7 @@
                 "referee": null,
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 2930,
+                "minutesUntilStart": 2925,
                 "isRecent": false
             }
         },
@@ -2180,7 +2180,7 @@
                 "season": 22,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
             "15": {
                 "id": 537038,
@@ -3013,19 +3013,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 5117.65,
-        "current_time_local": "2026-02-02 00:25:13",
+        "api_call_time_ms": 7999.98,
+        "current_time_local": "2026-02-02 00:30:21",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-01 18:55:13",
-    "generated_at": "2026-02-01 18:55:13 UTC",
+    "last_updated": "2026-02-01 19:00:21",
+    "generated_at": "2026-02-01 19:00:21 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113750,
+        "file_size": 113748,
         "file_path": "matches.json"
     }
 }
