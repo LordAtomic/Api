@@ -2,37 +2,6 @@
     "success": true,
     "matches": [
         {
-            "id": 537044,
-            "home": "Cremonese",
-            "away": "Inter",
-            "homeScore": 0,
-            "awayScore": 2,
-            "homeLogo": "https:\/\/crests.football-data.org\/457.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/108.png",
-            "status": "IN_PLAY",
-            "utcDate": "2026-02-01T17:00:00Z",
-            "localDate": "2026-02-01 22:30:00",
-            "localTime": "22:30",
-            "matchday": 23,
-            "competition": "Serie A",
-            "competitionCode": "SA",
-            "isLive": true,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "live",
-            "venue": "US Cremonese (Home)",
-            "lastUpdated": "2026-02-01T18:09:42Z",
-            "referee": "Davide Massa",
-            "season": 23,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 544428,
             "home": "Getafe",
             "away": "Celta",
@@ -62,6 +31,37 @@
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
+        },
+        {
+            "id": 537044,
+            "home": "Cremonese",
+            "away": "Inter",
+            "homeScore": 0,
+            "awayScore": 2,
+            "homeLogo": "https:\/\/crests.football-data.org\/457.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/108.png",
+            "status": "FINISHED",
+            "utcDate": "2026-02-01T17:00:00Z",
+            "localDate": "2026-02-01 22:30:00",
+            "localTime": "22:30",
+            "matchday": 23,
+            "competition": "Serie A",
+            "competitionCode": "SA",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": true,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_yesterday",
+            "venue": "US Cremonese (Home)",
+            "lastUpdated": "2026-02-01T19:01:53Z",
+            "referee": "Davide Massa",
+            "season": 23,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": true
         },
         {
             "id": 538023,
@@ -1293,14 +1293,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "44m",
+            "timeUntilStart": "39m",
             "dayCategory": "today",
             "venue": "Parma Calcio 1913 (Home)",
             "lastUpdated": "2026-01-26T01:32:03Z",
             "referee": "Francesco Fourneau",
             "season": 23,
             "group": null,
-            "minutesUntilStart": 45,
+            "minutesUntilStart": 40,
             "isRecent": false
         },
         {
@@ -1324,14 +1324,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "44m",
+            "timeUntilStart": "39m",
             "dayCategory": "today",
             "venue": "RC Strasbourg Alsace (Home)",
             "lastUpdated": "2026-01-31T01:32:01Z",
             "referee": "Eric Wattellier",
             "season": 20,
             "group": null,
-            "minutesUntilStart": 45,
+            "minutesUntilStart": 40,
             "isRecent": false
         },
         {
@@ -1355,14 +1355,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "59m",
+            "timeUntilStart": "54m",
             "dayCategory": "today",
             "venue": "Athletic Club (Home)",
             "lastUpdated": "2026-01-31T01:32:01Z",
             "referee": "Guillermo Cuadra Fern\u00e1ndez",
             "season": 22,
             "group": null,
-            "minutesUntilStart": 60,
+            "minutesUntilStart": 55,
             "isRecent": false
         },
         {
@@ -1393,7 +1393,7 @@
             "referee": null,
             "season": 23,
             "group": null,
-            "minutesUntilStart": 1485,
+            "minutesUntilStart": 1480,
             "isRecent": false
         },
         {
@@ -1424,7 +1424,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 1500,
+            "minutesUntilStart": 1495,
             "isRecent": false
         },
         {
@@ -1455,7 +1455,7 @@
             "referee": null,
             "season": 22,
             "group": null,
-            "minutesUntilStart": 1500,
+            "minutesUntilStart": 1495,
             "isRecent": false
         },
         {
@@ -1486,43 +1486,12 @@
             "referee": null,
             "season": 23,
             "group": null,
-            "minutesUntilStart": 2925,
+            "minutesUntilStart": 2920,
             "isRecent": false
         }
     ],
     "grouped_matches": {
         "live": [
-            {
-                "id": 537044,
-                "home": "Cremonese",
-                "away": "Inter",
-                "homeScore": 0,
-                "awayScore": 2,
-                "homeLogo": "https:\/\/crests.football-data.org\/457.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/108.png",
-                "status": "IN_PLAY",
-                "utcDate": "2026-02-01T17:00:00Z",
-                "localDate": "2026-02-01 22:30:00",
-                "localTime": "22:30",
-                "matchday": 23,
-                "competition": "Serie A",
-                "competitionCode": "SA",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "US Cremonese (Home)",
-                "lastUpdated": "2026-02-01T18:09:42Z",
-                "referee": "Davide Massa",
-                "season": 23,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
             {
                 "id": 544428,
                 "home": "Getafe",
@@ -1578,14 +1547,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "44m",
+                "timeUntilStart": "39m",
                 "dayCategory": "today",
                 "venue": "Parma Calcio 1913 (Home)",
                 "lastUpdated": "2026-01-26T01:32:03Z",
                 "referee": "Francesco Fourneau",
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 45,
+                "minutesUntilStart": 40,
                 "isRecent": false
             },
             "42": {
@@ -1609,14 +1578,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "44m",
+                "timeUntilStart": "39m",
                 "dayCategory": "today",
                 "venue": "RC Strasbourg Alsace (Home)",
                 "lastUpdated": "2026-01-31T01:32:01Z",
                 "referee": "Eric Wattellier",
                 "season": 20,
                 "group": null,
-                "minutesUntilStart": 45,
+                "minutesUntilStart": 40,
                 "isRecent": false
             },
             "43": {
@@ -1640,14 +1609,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "59m",
+                "timeUntilStart": "54m",
                 "dayCategory": "today",
                 "venue": "Athletic Club (Home)",
                 "lastUpdated": "2026-01-31T01:32:01Z",
                 "referee": "Guillermo Cuadra Fern\u00e1ndez",
                 "season": 22,
                 "group": null,
-                "minutesUntilStart": 60,
+                "minutesUntilStart": 55,
                 "isRecent": false
             }
         },
@@ -1680,7 +1649,7 @@
                 "referee": null,
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 1485,
+                "minutesUntilStart": 1480,
                 "isRecent": false
             },
             "45": {
@@ -1711,7 +1680,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 1500,
+                "minutesUntilStart": 1495,
                 "isRecent": false
             },
             "46": {
@@ -1742,7 +1711,7 @@
                 "referee": null,
                 "season": 22,
                 "group": null,
-                "minutesUntilStart": 1500,
+                "minutesUntilStart": 1495,
                 "isRecent": false
             },
             "47": {
@@ -1773,12 +1742,43 @@
                 "referee": null,
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 2925,
+                "minutesUntilStart": 2920,
                 "isRecent": false
             }
         },
         "upcoming": [],
         "finished_yesterday": {
+            "1": {
+                "id": 537044,
+                "home": "Cremonese",
+                "away": "Inter",
+                "homeScore": 0,
+                "awayScore": 2,
+                "homeLogo": "https:\/\/crests.football-data.org\/457.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/108.png",
+                "status": "FINISHED",
+                "utcDate": "2026-02-01T17:00:00Z",
+                "localDate": "2026-02-01 22:30:00",
+                "localTime": "22:30",
+                "matchday": 23,
+                "competition": "Serie A",
+                "competitionCode": "SA",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": true,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_yesterday",
+                "venue": "US Cremonese (Home)",
+                "lastUpdated": "2026-02-01T19:01:53Z",
+                "referee": "Davide Massa",
+                "season": 23,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": true
+            },
             "2": {
                 "id": 538023,
                 "home": "Tottenham",
@@ -2995,7 +2995,7 @@
     },
     "stats": {
         "total_matches": 48,
-        "live_matches": 2,
+        "live_matches": 1,
         "today_matches": 3,
         "tomorrow_matches": 4,
         "finished_today": 0,
@@ -3013,19 +3013,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 7999.98,
-        "current_time_local": "2026-02-02 00:30:21",
+        "api_call_time_ms": 5679.73,
+        "current_time_local": "2026-02-02 00:35:12",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-01 19:00:21",
-    "generated_at": "2026-02-01 19:00:21 UTC",
+    "last_updated": "2026-02-01 19:05:12",
+    "generated_at": "2026-02-01 19:05:12 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113748,
+        "file_size": 113779,
         "file_path": "matches.json"
     }
 }
