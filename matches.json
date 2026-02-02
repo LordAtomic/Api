@@ -1293,14 +1293,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4m",
+            "timeUntilStart": null,
             "dayCategory": "today",
             "venue": "Sunderland AFC (Home)",
             "lastUpdated": "2026-01-27T01:32:03Z",
             "referee": "Paul Tierney",
             "season": 24,
             "group": null,
-            "minutesUntilStart": 5,
+            "minutesUntilStart": null,
             "isRecent": false
         },
         {
@@ -1324,14 +1324,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4m",
+            "timeUntilStart": null,
             "dayCategory": "today",
             "venue": "RCD Mallorca (Home)",
             "lastUpdated": "2026-02-02T01:32:00Z",
             "referee": "C\u00e9sar Soto Grado",
             "season": 22,
             "group": null,
-            "minutesUntilStart": 5,
+            "minutesUntilStart": null,
             "isRecent": false
         },
         {
@@ -1355,14 +1355,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "23h 49m",
+            "timeUntilStart": "23h 44m",
             "dayCategory": "tomorrow",
             "venue": "Bologna FC 1909 (Home)",
             "lastUpdated": "2026-01-31T01:32:02Z",
             "referee": null,
             "season": 23,
             "group": null,
-            "minutesUntilStart": 1430,
+            "minutesUntilStart": 1425,
             "isRecent": false
         }
     ],
@@ -1423,14 +1423,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4m",
+                "timeUntilStart": null,
                 "dayCategory": "today",
                 "venue": "Sunderland AFC (Home)",
                 "lastUpdated": "2026-01-27T01:32:03Z",
                 "referee": "Paul Tierney",
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 5,
+                "minutesUntilStart": null,
                 "isRecent": false
             },
             "42": {
@@ -1454,14 +1454,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4m",
+                "timeUntilStart": null,
                 "dayCategory": "today",
                 "venue": "RCD Mallorca (Home)",
                 "lastUpdated": "2026-02-02T01:32:00Z",
                 "referee": "C\u00e9sar Soto Grado",
                 "season": 22,
                 "group": null,
-                "minutesUntilStart": 5,
+                "minutesUntilStart": null,
                 "isRecent": false
             }
         },
@@ -1487,14 +1487,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "23h 49m",
+                "timeUntilStart": "23h 44m",
                 "dayCategory": "tomorrow",
                 "venue": "Bologna FC 1909 (Home)",
                 "lastUpdated": "2026-01-31T01:32:02Z",
                 "referee": null,
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 1430,
+                "minutesUntilStart": 1425,
                 "isRecent": false
             }
         },
@@ -2765,19 +2765,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 5220.82,
-        "current_time_local": "2026-02-03 01:25:11",
+        "api_call_time_ms": 9424.09,
+        "current_time_local": "2026-02-03 01:30:14",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-02 19:55:11",
-    "generated_at": "2026-02-02 19:55:11 UTC",
+    "last_updated": "2026-02-02 20:00:14",
+    "generated_at": "2026-02-02 20:00:14 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 104219,
+        "file_size": 104231,
         "file_path": "matches.json"
     }
 }
