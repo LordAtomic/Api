@@ -704,14 +704,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4m",
+            "timeUntilStart": null,
             "dayCategory": "today",
             "venue": "Bologna FC 1909 (Home)",
             "lastUpdated": "2026-02-03T01:32:00Z",
             "referee": "Gianluca Manganiello",
             "season": 23,
             "group": null,
-            "minutesUntilStart": 5,
+            "minutesUntilStart": null,
             "isRecent": false
         },
         {
@@ -742,7 +742,7 @@
             "referee": null,
             "season": 20,
             "group": null,
-            "minutesUntilStart": 4310,
+            "minutesUntilStart": 4305,
             "isRecent": false
         },
         {
@@ -766,14 +766,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "3 days",
+            "timeUntilStart": "2 days",
             "dayCategory": "tomorrow",
             "venue": "Hellas Verona FC (Home)",
             "lastUpdated": "2026-02-01T01:32:01Z",
             "referee": null,
             "season": 23,
             "group": null,
-            "minutesUntilStart": 4325,
+            "minutesUntilStart": 4320,
             "isRecent": false
         },
         {
@@ -797,14 +797,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "3 days",
+            "timeUntilStart": "2 days",
             "dayCategory": "tomorrow",
             "venue": "FC Metz (Home)",
             "lastUpdated": "2026-01-31T01:32:02Z",
             "referee": null,
             "season": 20,
             "group": null,
-            "minutesUntilStart": 4325,
+            "minutesUntilStart": 4320,
             "isRecent": false
         },
         {
@@ -835,7 +835,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 4340,
+            "minutesUntilStart": 4335,
             "isRecent": false
         },
         {
@@ -866,7 +866,7 @@
             "referee": null,
             "season": 22,
             "group": null,
-            "minutesUntilStart": 4340,
+            "minutesUntilStart": 4335,
             "isRecent": false
         }
     ],
@@ -895,14 +895,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4m",
+                "timeUntilStart": null,
                 "dayCategory": "today",
                 "venue": "Bologna FC 1909 (Home)",
                 "lastUpdated": "2026-02-03T01:32:00Z",
                 "referee": "Gianluca Manganiello",
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 5,
+                "minutesUntilStart": null,
                 "isRecent": false
             }
         },
@@ -935,7 +935,7 @@
                 "referee": null,
                 "season": 20,
                 "group": null,
-                "minutesUntilStart": 4310,
+                "minutesUntilStart": 4305,
                 "isRecent": false
             },
             "24": {
@@ -959,14 +959,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "3 days",
+                "timeUntilStart": "2 days",
                 "dayCategory": "tomorrow",
                 "venue": "Hellas Verona FC (Home)",
                 "lastUpdated": "2026-02-01T01:32:01Z",
                 "referee": null,
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 4325,
+                "minutesUntilStart": 4320,
                 "isRecent": false
             },
             "25": {
@@ -990,14 +990,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "3 days",
+                "timeUntilStart": "2 days",
                 "dayCategory": "tomorrow",
                 "venue": "FC Metz (Home)",
                 "lastUpdated": "2026-01-31T01:32:02Z",
                 "referee": null,
                 "season": 20,
                 "group": null,
-                "minutesUntilStart": 4325,
+                "minutesUntilStart": 4320,
                 "isRecent": false
             },
             "26": {
@@ -1028,7 +1028,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 4340,
+                "minutesUntilStart": 4335,
                 "isRecent": false
             },
             "27": {
@@ -1059,7 +1059,7 @@
                 "referee": null,
                 "season": 22,
                 "group": null,
-                "minutesUntilStart": 4340,
+                "minutesUntilStart": 4335,
                 "isRecent": false
             }
         },
@@ -1772,19 +1772,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 7745.24,
-        "current_time_local": "2026-02-04 01:10:11",
+        "api_call_time_ms": 6077.52,
+        "current_time_local": "2026-02-04 01:15:10",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-03 19:40:11",
-    "generated_at": "2026-02-03 19:40:11 UTC",
+    "last_updated": "2026-02-03 19:45:10",
+    "generated_at": "2026-02-03 19:45:10 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 66673,
+        "file_size": 66679,
         "file_path": "matches.json"
     }
 }
