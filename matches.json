@@ -9,7 +9,7 @@
             "awayScore": 2,
             "homeLogo": "https:\/\/crests.football-data.org\/103.png",
             "awayLogo": "https:\/\/crests.football-data.org\/98.png",
-            "status": "IN_PLAY",
+            "status": "PAUSED",
             "utcDate": "2026-02-03T19:45:00Z",
             "localDate": "2026-02-04 01:15:00",
             "localTime": "01:15",
@@ -25,7 +25,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Bologna FC 1909 (Home)",
-            "lastUpdated": "2026-02-03T20:30:25Z",
+            "lastUpdated": "2026-02-03T20:40:09Z",
             "referee": "Gianluca Manganiello",
             "season": 23,
             "group": null,
@@ -880,7 +880,7 @@
                 "awayScore": 2,
                 "homeLogo": "https:\/\/crests.football-data.org\/103.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/98.png",
-                "status": "IN_PLAY",
+                "status": "PAUSED",
                 "utcDate": "2026-02-03T19:45:00Z",
                 "localDate": "2026-02-04 01:15:00",
                 "localTime": "01:15",
@@ -896,7 +896,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Bologna FC 1909 (Home)",
-                "lastUpdated": "2026-02-03T20:30:25Z",
+                "lastUpdated": "2026-02-03T20:40:09Z",
                 "referee": "Gianluca Manganiello",
                 "season": 23,
                 "group": null,
@@ -1772,19 +1772,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 6313.77,
-        "current_time_local": "2026-02-04 02:10:10",
+        "api_call_time_ms": 7918,
+        "current_time_local": "2026-02-04 02:10:12",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-03 20:40:10",
-    "generated_at": "2026-02-03 20:40:10 UTC",
+    "last_updated": "2026-02-03 20:40:12",
+    "generated_at": "2026-02-03 20:40:12 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 66691,
+        "file_size": 66686,
         "file_path": "matches.json"
     }
 }
