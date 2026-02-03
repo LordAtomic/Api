@@ -30,7 +30,7 @@
             "season": 24,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": true
+            "isRecent": false
         },
         {
             "id": 544423,
@@ -61,7 +61,7 @@
             "season": 22,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": true
+            "isRecent": false
         },
         {
             "id": 537043,
@@ -704,14 +704,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "17h 49m",
+            "timeUntilStart": "17h 44m",
             "dayCategory": "tomorrow",
             "venue": "Bologna FC 1909 (Home)",
             "lastUpdated": "2026-01-31T01:32:02Z",
             "referee": null,
             "season": 23,
             "group": null,
-            "minutesUntilStart": 1070,
+            "minutesUntilStart": 1065,
             "isRecent": false
         },
         {
@@ -742,7 +742,7 @@
             "referee": null,
             "season": 20,
             "group": null,
-            "minutesUntilStart": 5375,
+            "minutesUntilStart": 5370,
             "isRecent": false
         },
         {
@@ -773,7 +773,7 @@
             "referee": null,
             "season": 23,
             "group": null,
-            "minutesUntilStart": 5390,
+            "minutesUntilStart": 5385,
             "isRecent": false
         },
         {
@@ -804,7 +804,7 @@
             "referee": null,
             "season": 20,
             "group": null,
-            "minutesUntilStart": 5390,
+            "minutesUntilStart": 5385,
             "isRecent": false
         },
         {
@@ -835,7 +835,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 5405,
+            "minutesUntilStart": 5400,
             "isRecent": false
         },
         {
@@ -866,7 +866,7 @@
             "referee": null,
             "season": 22,
             "group": null,
-            "minutesUntilStart": 5405,
+            "minutesUntilStart": 5400,
             "isRecent": false
         }
     ],
@@ -902,7 +902,7 @@
                 "season": 24,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
             {
                 "id": 544423,
@@ -933,7 +933,7 @@
                 "season": 22,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
             {
                 "id": 537043,
@@ -990,14 +990,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "17h 49m",
+                "timeUntilStart": "17h 44m",
                 "dayCategory": "tomorrow",
                 "venue": "Bologna FC 1909 (Home)",
                 "lastUpdated": "2026-01-31T01:32:02Z",
                 "referee": null,
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 1070,
+                "minutesUntilStart": 1065,
                 "isRecent": false
             },
             "23": {
@@ -1028,7 +1028,7 @@
                 "referee": null,
                 "season": 20,
                 "group": null,
-                "minutesUntilStart": 5375,
+                "minutesUntilStart": 5370,
                 "isRecent": false
             },
             "24": {
@@ -1059,7 +1059,7 @@
                 "referee": null,
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 5390,
+                "minutesUntilStart": 5385,
                 "isRecent": false
             },
             "25": {
@@ -1090,7 +1090,7 @@
                 "referee": null,
                 "season": 20,
                 "group": null,
-                "minutesUntilStart": 5390,
+                "minutesUntilStart": 5385,
                 "isRecent": false
             },
             "26": {
@@ -1121,7 +1121,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 5405,
+                "minutesUntilStart": 5400,
                 "isRecent": false
             },
             "27": {
@@ -1152,7 +1152,7 @@
                 "referee": null,
                 "season": 22,
                 "group": null,
-                "minutesUntilStart": 5405,
+                "minutesUntilStart": 5400,
                 "isRecent": false
             }
         },
@@ -1772,19 +1772,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 5362.93,
-        "current_time_local": "2026-02-03 07:25:12",
+        "api_call_time_ms": 7220.85,
+        "current_time_local": "2026-02-03 07:30:13",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-03 01:55:12",
-    "generated_at": "2026-02-03 01:55:12 UTC",
+    "last_updated": "2026-02-03 02:00:13",
+    "generated_at": "2026-02-03 02:00:13 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 66691,
+        "file_size": 66695,
         "file_path": "matches.json"
     }
 }
