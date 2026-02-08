@@ -2,37 +2,6 @@
     "success": true,
     "matches": [
         {
-            "id": 537052,
-            "home": "Juventus",
-            "away": "Lazio",
-            "homeScore": 1,
-            "awayScore": 2,
-            "homeLogo": "https:\/\/crests.football-data.org\/109.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/110.png",
-            "status": "IN_PLAY",
-            "utcDate": "2026-02-08T19:45:00Z",
-            "localDate": "2026-02-09 01:15:00",
-            "localTime": "01:15",
-            "matchday": 24,
-            "competition": "Serie A",
-            "competitionCode": "SA",
-            "isLive": true,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "live",
-            "venue": "Juventus FC (Home)",
-            "lastUpdated": "2026-02-08T21:10:50Z",
-            "referee": "Marco Guida",
-            "season": 24,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 544439,
             "home": "Valencia",
             "away": "Real Madrid",
@@ -62,6 +31,37 @@
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
+        },
+        {
+            "id": 537052,
+            "home": "Juventus",
+            "away": "Lazio",
+            "homeScore": 2,
+            "awayScore": 2,
+            "homeLogo": "https:\/\/crests.football-data.org\/109.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/110.png",
+            "status": "FINISHED",
+            "utcDate": "2026-02-08T19:45:00Z",
+            "localDate": "2026-02-09 01:15:00",
+            "localTime": "01:15",
+            "matchday": 24,
+            "competition": "Serie A",
+            "competitionCode": "SA",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_today",
+            "venue": "Juventus FC (Home)",
+            "lastUpdated": "2026-02-08T21:50:09Z",
+            "referee": "Marco Guida",
+            "season": 24,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": true
         },
         {
             "id": 542591,
@@ -1386,14 +1386,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "19h 44m",
+            "timeUntilStart": "19h 39m",
             "dayCategory": "today",
             "venue": "Atalanta BC (Home)",
             "lastUpdated": "2026-02-03T01:32:03Z",
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 1185,
+            "minutesUntilStart": 1180,
             "isRecent": false
         },
         {
@@ -1417,14 +1417,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 59m",
+            "timeUntilStart": "21h 54m",
             "dayCategory": "tomorrow",
             "venue": "AS Roma (Home)",
             "lastUpdated": "2026-02-03T01:32:03Z",
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 1320,
+            "minutesUntilStart": 1315,
             "isRecent": false
         },
         {
@@ -1448,14 +1448,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "22h 14m",
+            "timeUntilStart": "22h 9m",
             "dayCategory": "tomorrow",
             "venue": "Villarreal CF (Home)",
             "lastUpdated": "2026-02-03T01:32:03Z",
             "referee": null,
             "season": 23,
             "group": null,
-            "minutesUntilStart": 1335,
+            "minutesUntilStart": 1330,
             "isRecent": false
         },
         {
@@ -1486,7 +1486,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 2745,
+            "minutesUntilStart": 2740,
             "isRecent": false
         },
         {
@@ -1517,7 +1517,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 2745,
+            "minutesUntilStart": 2740,
             "isRecent": false
         },
         {
@@ -1548,7 +1548,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 2745,
+            "minutesUntilStart": 2740,
             "isRecent": false
         },
         {
@@ -1579,7 +1579,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 2790,
+            "minutesUntilStart": 2785,
             "isRecent": false
         },
         {
@@ -1610,7 +1610,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 4185,
+            "minutesUntilStart": 4180,
             "isRecent": false
         },
         {
@@ -1641,7 +1641,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 4185,
+            "minutesUntilStart": 4180,
             "isRecent": false
         },
         {
@@ -1672,7 +1672,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 4185,
+            "minutesUntilStart": 4180,
             "isRecent": false
         },
         {
@@ -1703,7 +1703,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 4185,
+            "minutesUntilStart": 4180,
             "isRecent": false
         },
         {
@@ -1734,43 +1734,12 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 4230,
+            "minutesUntilStart": 4225,
             "isRecent": false
         }
     ],
     "grouped_matches": {
         "live": [
-            {
-                "id": 537052,
-                "home": "Juventus",
-                "away": "Lazio",
-                "homeScore": 1,
-                "awayScore": 2,
-                "homeLogo": "https:\/\/crests.football-data.org\/109.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/110.png",
-                "status": "IN_PLAY",
-                "utcDate": "2026-02-08T19:45:00Z",
-                "localDate": "2026-02-09 01:15:00",
-                "localTime": "01:15",
-                "matchday": 24,
-                "competition": "Serie A",
-                "competitionCode": "SA",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "Juventus FC (Home)",
-                "lastUpdated": "2026-02-08T21:10:50Z",
-                "referee": "Marco Guida",
-                "season": 24,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
             {
                 "id": 544439,
                 "home": "Valencia",
@@ -1804,6 +1773,37 @@
             }
         ],
         "finished_today": {
+            "1": {
+                "id": 537052,
+                "home": "Juventus",
+                "away": "Lazio",
+                "homeScore": 2,
+                "awayScore": 2,
+                "homeLogo": "https:\/\/crests.football-data.org\/109.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/110.png",
+                "status": "FINISHED",
+                "utcDate": "2026-02-08T19:45:00Z",
+                "localDate": "2026-02-09 01:15:00",
+                "localTime": "01:15",
+                "matchday": 24,
+                "competition": "Serie A",
+                "competitionCode": "SA",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": false,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_today",
+                "venue": "Juventus FC (Home)",
+                "lastUpdated": "2026-02-08T21:50:09Z",
+                "referee": "Marco Guida",
+                "season": 24,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": true
+            },
             "2": {
                 "id": 542591,
                 "home": "PSG",
@@ -1858,14 +1858,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "19h 44m",
+                "timeUntilStart": "19h 39m",
                 "dayCategory": "today",
                 "venue": "Atalanta BC (Home)",
                 "lastUpdated": "2026-02-03T01:32:03Z",
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 1185,
+                "minutesUntilStart": 1180,
                 "isRecent": false
             }
         },
@@ -1891,14 +1891,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 59m",
+                "timeUntilStart": "21h 54m",
                 "dayCategory": "tomorrow",
                 "venue": "AS Roma (Home)",
                 "lastUpdated": "2026-02-03T01:32:03Z",
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 1320,
+                "minutesUntilStart": 1315,
                 "isRecent": false
             },
             "46": {
@@ -1922,14 +1922,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "22h 14m",
+                "timeUntilStart": "22h 9m",
                 "dayCategory": "tomorrow",
                 "venue": "Villarreal CF (Home)",
                 "lastUpdated": "2026-02-03T01:32:03Z",
                 "referee": null,
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 1335,
+                "minutesUntilStart": 1330,
                 "isRecent": false
             },
             "47": {
@@ -1960,7 +1960,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 2745,
+                "minutesUntilStart": 2740,
                 "isRecent": false
             },
             "48": {
@@ -1991,7 +1991,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 2745,
+                "minutesUntilStart": 2740,
                 "isRecent": false
             },
             "49": {
@@ -2022,7 +2022,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 2745,
+                "minutesUntilStart": 2740,
                 "isRecent": false
             },
             "50": {
@@ -2053,7 +2053,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 2790,
+                "minutesUntilStart": 2785,
                 "isRecent": false
             },
             "51": {
@@ -2084,7 +2084,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 4185,
+                "minutesUntilStart": 4180,
                 "isRecent": false
             },
             "52": {
@@ -2115,7 +2115,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 4185,
+                "minutesUntilStart": 4180,
                 "isRecent": false
             },
             "53": {
@@ -2146,7 +2146,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 4185,
+                "minutesUntilStart": 4180,
                 "isRecent": false
             },
             "54": {
@@ -2177,7 +2177,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 4185,
+                "minutesUntilStart": 4180,
                 "isRecent": false
             },
             "55": {
@@ -2208,7 +2208,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 4230,
+                "minutesUntilStart": 4225,
                 "isRecent": false
             }
         },
@@ -3493,10 +3493,10 @@
     },
     "stats": {
         "total_matches": 56,
-        "live_matches": 2,
+        "live_matches": 1,
         "today_matches": 1,
         "tomorrow_matches": 11,
-        "finished_today": 1,
+        "finished_today": 2,
         "finished_recent": 0
     },
     "query_info": {
@@ -3511,19 +3511,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 6222.95,
-        "current_time_local": "2026-02-09 03:15:17",
+        "api_call_time_ms": 5641.37,
+        "current_time_local": "2026-02-09 03:20:14",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-08 21:45:17",
-    "generated_at": "2026-02-08 21:45:17 UTC",
+    "last_updated": "2026-02-08 21:50:14",
+    "generated_at": "2026-02-08 21:50:14 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 132603,
+        "file_size": 132626,
         "file_path": "matches.json"
     }
 }
