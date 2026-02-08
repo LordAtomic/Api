@@ -2,37 +2,6 @@
     "success": true,
     "matches": [
         {
-            "id": 538030,
-            "home": "Liverpool",
-            "away": "Man City",
-            "homeScore": 1,
-            "awayScore": 3,
-            "homeLogo": "https:\/\/crests.football-data.org\/64.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/65.png",
-            "status": "IN_PLAY",
-            "utcDate": "2026-02-08T16:30:00Z",
-            "localDate": "2026-02-08 22:00:00",
-            "localTime": "22:00",
-            "matchday": 25,
-            "competition": "Premier League",
-            "competitionCode": "PL",
-            "isLive": true,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "live",
-            "venue": "Liverpool FC (Home)",
-            "lastUpdated": "2026-02-08T18:36:09Z",
-            "referee": "Craig Pawson",
-            "season": 25,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 537053,
             "home": "Sassuolo",
             "away": "Inter",
@@ -71,7 +40,7 @@
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/78.png",
             "awayLogo": "https:\/\/crests.football-data.org\/90.png",
-            "status": "PAUSED",
+            "status": "IN_PLAY",
             "utcDate": "2026-02-08T17:30:00Z",
             "localDate": "2026-02-08 23:00:00",
             "localTime": "23:00",
@@ -87,12 +56,43 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Club Atl\u00e9tico de Madrid (Home)",
-            "lastUpdated": "2026-02-08T18:24:06Z",
+            "lastUpdated": "2026-02-08T18:41:44Z",
             "referee": "Mateo Busquets Ferrer",
             "season": 23,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
+        },
+        {
+            "id": 538030,
+            "home": "Liverpool",
+            "away": "Man City",
+            "homeScore": 1,
+            "awayScore": 3,
+            "homeLogo": "https:\/\/crests.football-data.org\/64.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/65.png",
+            "status": "FINISHED",
+            "utcDate": "2026-02-08T16:30:00Z",
+            "localDate": "2026-02-08 22:00:00",
+            "localTime": "22:00",
+            "matchday": 25,
+            "competition": "Premier League",
+            "competitionCode": "PL",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": true,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_yesterday",
+            "venue": "Liverpool FC (Home)",
+            "lastUpdated": "2026-02-08T18:40:43Z",
+            "referee": "Craig Pawson",
+            "season": 25,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": true
         },
         {
             "id": 540593,
@@ -1293,14 +1293,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 4m",
+            "timeUntilStart": "59m",
             "dayCategory": "today",
             "venue": "Juventus FC (Home)",
             "lastUpdated": "2026-02-02T01:32:03Z",
             "referee": "Marco Guida",
             "season": 24,
             "group": null,
-            "minutesUntilStart": 65,
+            "minutesUntilStart": 60,
             "isRecent": false
         },
         {
@@ -1324,14 +1324,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 4m",
+            "timeUntilStart": "59m",
             "dayCategory": "today",
             "venue": "Paris Saint-Germain FC (Home)",
             "lastUpdated": "2026-02-08T01:32:00Z",
             "referee": "Willy Delajod",
             "season": 21,
             "group": null,
-            "minutesUntilStart": 65,
+            "minutesUntilStart": 60,
             "isRecent": false
         },
         {
@@ -1355,14 +1355,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 19m",
+            "timeUntilStart": "1h 14m",
             "dayCategory": "today",
             "venue": "Valencia CF (Home)",
             "lastUpdated": "2026-02-08T00:20:52Z",
             "referee": "Javier Alberola Rojas",
             "season": 23,
             "group": null,
-            "minutesUntilStart": 80,
+            "minutesUntilStart": 75,
             "isRecent": false
         },
         {
@@ -1386,14 +1386,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "22h 49m",
+            "timeUntilStart": "22h 44m",
             "dayCategory": "today",
             "venue": "Atalanta BC (Home)",
             "lastUpdated": "2026-02-03T01:32:03Z",
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 1370,
+            "minutesUntilStart": 1365,
             "isRecent": false
         },
         {
@@ -1424,7 +1424,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 1505,
+            "minutesUntilStart": 1500,
             "isRecent": false
         },
         {
@@ -1455,7 +1455,7 @@
             "referee": null,
             "season": 23,
             "group": null,
-            "minutesUntilStart": 1520,
+            "minutesUntilStart": 1515,
             "isRecent": false
         },
         {
@@ -1486,7 +1486,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 2930,
+            "minutesUntilStart": 2925,
             "isRecent": false
         },
         {
@@ -1517,7 +1517,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 2930,
+            "minutesUntilStart": 2925,
             "isRecent": false
         },
         {
@@ -1548,7 +1548,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 2930,
+            "minutesUntilStart": 2925,
             "isRecent": false
         },
         {
@@ -1579,7 +1579,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 2975,
+            "minutesUntilStart": 2970,
             "isRecent": false
         },
         {
@@ -1610,7 +1610,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 4370,
+            "minutesUntilStart": 4365,
             "isRecent": false
         },
         {
@@ -1641,7 +1641,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 4370,
+            "minutesUntilStart": 4365,
             "isRecent": false
         },
         {
@@ -1672,7 +1672,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 4370,
+            "minutesUntilStart": 4365,
             "isRecent": false
         },
         {
@@ -1703,7 +1703,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 4370,
+            "minutesUntilStart": 4365,
             "isRecent": false
         },
         {
@@ -1734,43 +1734,12 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 4415,
+            "minutesUntilStart": 4410,
             "isRecent": false
         }
     ],
     "grouped_matches": {
         "live": [
-            {
-                "id": 538030,
-                "home": "Liverpool",
-                "away": "Man City",
-                "homeScore": 1,
-                "awayScore": 3,
-                "homeLogo": "https:\/\/crests.football-data.org\/64.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/65.png",
-                "status": "IN_PLAY",
-                "utcDate": "2026-02-08T16:30:00Z",
-                "localDate": "2026-02-08 22:00:00",
-                "localTime": "22:00",
-                "matchday": 25,
-                "competition": "Premier League",
-                "competitionCode": "PL",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "Liverpool FC (Home)",
-                "lastUpdated": "2026-02-08T18:36:09Z",
-                "referee": "Craig Pawson",
-                "season": 25,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
             {
                 "id": 537053,
                 "home": "Sassuolo",
@@ -1810,7 +1779,7 @@
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/78.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/90.png",
-                "status": "PAUSED",
+                "status": "IN_PLAY",
                 "utcDate": "2026-02-08T17:30:00Z",
                 "localDate": "2026-02-08 23:00:00",
                 "localTime": "23:00",
@@ -1826,7 +1795,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Club Atl\u00e9tico de Madrid (Home)",
-                "lastUpdated": "2026-02-08T18:24:06Z",
+                "lastUpdated": "2026-02-08T18:41:44Z",
                 "referee": "Mateo Busquets Ferrer",
                 "season": 23,
                 "group": null,
@@ -1857,14 +1826,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 4m",
+                "timeUntilStart": "59m",
                 "dayCategory": "today",
                 "venue": "Juventus FC (Home)",
                 "lastUpdated": "2026-02-02T01:32:03Z",
                 "referee": "Marco Guida",
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 65,
+                "minutesUntilStart": 60,
                 "isRecent": false
             },
             "42": {
@@ -1888,14 +1857,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 4m",
+                "timeUntilStart": "59m",
                 "dayCategory": "today",
                 "venue": "Paris Saint-Germain FC (Home)",
                 "lastUpdated": "2026-02-08T01:32:00Z",
                 "referee": "Willy Delajod",
                 "season": 21,
                 "group": null,
-                "minutesUntilStart": 65,
+                "minutesUntilStart": 60,
                 "isRecent": false
             },
             "43": {
@@ -1919,14 +1888,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 19m",
+                "timeUntilStart": "1h 14m",
                 "dayCategory": "today",
                 "venue": "Valencia CF (Home)",
                 "lastUpdated": "2026-02-08T00:20:52Z",
                 "referee": "Javier Alberola Rojas",
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 80,
+                "minutesUntilStart": 75,
                 "isRecent": false
             },
             "44": {
@@ -1950,14 +1919,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "22h 49m",
+                "timeUntilStart": "22h 44m",
                 "dayCategory": "today",
                 "venue": "Atalanta BC (Home)",
                 "lastUpdated": "2026-02-03T01:32:03Z",
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 1370,
+                "minutesUntilStart": 1365,
                 "isRecent": false
             }
         },
@@ -1990,7 +1959,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 1505,
+                "minutesUntilStart": 1500,
                 "isRecent": false
             },
             "46": {
@@ -2021,7 +1990,7 @@
                 "referee": null,
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 1520,
+                "minutesUntilStart": 1515,
                 "isRecent": false
             },
             "47": {
@@ -2052,7 +2021,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 2930,
+                "minutesUntilStart": 2925,
                 "isRecent": false
             },
             "48": {
@@ -2083,7 +2052,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 2930,
+                "minutesUntilStart": 2925,
                 "isRecent": false
             },
             "49": {
@@ -2114,7 +2083,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 2930,
+                "minutesUntilStart": 2925,
                 "isRecent": false
             },
             "50": {
@@ -2145,7 +2114,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 2975,
+                "minutesUntilStart": 2970,
                 "isRecent": false
             },
             "51": {
@@ -2176,7 +2145,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 4370,
+                "minutesUntilStart": 4365,
                 "isRecent": false
             },
             "52": {
@@ -2207,7 +2176,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 4370,
+                "minutesUntilStart": 4365,
                 "isRecent": false
             },
             "53": {
@@ -2238,7 +2207,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 4370,
+                "minutesUntilStart": 4365,
                 "isRecent": false
             },
             "54": {
@@ -2269,7 +2238,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 4370,
+                "minutesUntilStart": 4365,
                 "isRecent": false
             },
             "55": {
@@ -2300,7 +2269,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 4415,
+                "minutesUntilStart": 4410,
                 "isRecent": false
             }
         },
@@ -2338,6 +2307,37 @@
             }
         },
         "finished_yesterday": {
+            "2": {
+                "id": 538030,
+                "home": "Liverpool",
+                "away": "Man City",
+                "homeScore": 1,
+                "awayScore": 3,
+                "homeLogo": "https:\/\/crests.football-data.org\/64.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/65.png",
+                "status": "FINISHED",
+                "utcDate": "2026-02-08T16:30:00Z",
+                "localDate": "2026-02-08 22:00:00",
+                "localTime": "22:00",
+                "matchday": 25,
+                "competition": "Premier League",
+                "competitionCode": "PL",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": true,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_yesterday",
+                "venue": "Liverpool FC (Home)",
+                "lastUpdated": "2026-02-08T18:40:43Z",
+                "referee": "Craig Pawson",
+                "season": 25,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": true
+            },
             "3": {
                 "id": 540593,
                 "home": "Bayern",
@@ -3492,7 +3492,7 @@
     },
     "stats": {
         "total_matches": 56,
-        "live_matches": 3,
+        "live_matches": 2,
         "today_matches": 4,
         "tomorrow_matches": 11,
         "finished_today": 0,
@@ -3510,19 +3510,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 6594,
-        "current_time_local": "2026-02-09 00:10:17",
+        "api_call_time_ms": 6374.53,
+        "current_time_local": "2026-02-09 00:15:12",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-08 18:40:17",
-    "generated_at": "2026-02-08 18:40:17 UTC",
+    "last_updated": "2026-02-08 18:45:12",
+    "generated_at": "2026-02-08 18:45:12 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 132463,
+        "file_size": 132491,
         "file_path": "matches.json"
     }
 }
