@@ -2,37 +2,6 @@
     "success": true,
     "matches": [
         {
-            "id": 537047,
-            "home": "Roma",
-            "away": "Cagliari",
-            "homeScore": 2,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/100.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/104.png",
-            "status": "IN_PLAY",
-            "utcDate": "2026-02-09T19:45:00Z",
-            "localDate": "2026-02-10 01:15:00",
-            "localTime": "01:15",
-            "matchday": 24,
-            "competition": "Serie A",
-            "competitionCode": "SA",
-            "isLive": true,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "live",
-            "venue": "AS Roma (Home)",
-            "lastUpdated": "2026-02-09T21:15:29Z",
-            "referee": "Matteo Marcenaro",
-            "season": 24,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 544437,
             "home": "Villarreal",
             "away": "Espanyol",
@@ -62,6 +31,37 @@
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
+        },
+        {
+            "id": 537047,
+            "home": "Roma",
+            "away": "Cagliari",
+            "homeScore": 2,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/100.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/104.png",
+            "status": "FINISHED",
+            "utcDate": "2026-02-09T19:45:00Z",
+            "localDate": "2026-02-10 01:15:00",
+            "localTime": "01:15",
+            "matchday": 24,
+            "competition": "Serie A",
+            "competitionCode": "SA",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_today",
+            "venue": "AS Roma (Home)",
+            "lastUpdated": "2026-02-09T21:44:09Z",
+            "referee": "Matteo Marcenaro",
+            "season": 24,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": true
         },
         {
             "id": 537048,
@@ -1324,14 +1324,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 49m",
+            "timeUntilStart": "21h 44m",
             "dayCategory": "tomorrow",
             "venue": "Chelsea FC (Home)",
             "lastUpdated": "2026-02-09T00:20:55Z",
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 1310,
+            "minutesUntilStart": 1305,
             "isRecent": false
         },
         {
@@ -1355,14 +1355,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 49m",
+            "timeUntilStart": "21h 44m",
             "dayCategory": "tomorrow",
             "venue": "Everton FC (Home)",
             "lastUpdated": "2026-02-08T01:32:01Z",
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 1310,
+            "minutesUntilStart": 1305,
             "isRecent": false
         },
         {
@@ -1386,14 +1386,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 49m",
+            "timeUntilStart": "21h 44m",
             "dayCategory": "tomorrow",
             "venue": "Tottenham Hotspur FC (Home)",
             "lastUpdated": "2026-02-09T01:32:00Z",
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 1310,
+            "minutesUntilStart": 1305,
             "isRecent": false
         },
         {
@@ -1417,14 +1417,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "22h 34m",
+            "timeUntilStart": "22h 29m",
             "dayCategory": "tomorrow",
             "venue": "West Ham United FC (Home)",
             "lastUpdated": "2026-02-09T00:20:55Z",
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 1355,
+            "minutesUntilStart": 1350,
             "isRecent": false
         },
         {
@@ -1455,7 +1455,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 2750,
+            "minutesUntilStart": 2745,
             "isRecent": false
         },
         {
@@ -1486,7 +1486,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 2750,
+            "minutesUntilStart": 2745,
             "isRecent": false
         },
         {
@@ -1517,7 +1517,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 2750,
+            "minutesUntilStart": 2745,
             "isRecent": false
         },
         {
@@ -1548,7 +1548,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 2750,
+            "minutesUntilStart": 2745,
             "isRecent": false
         },
         {
@@ -1579,7 +1579,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 2795,
+            "minutesUntilStart": 2790,
             "isRecent": false
         },
         {
@@ -1610,43 +1610,12 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 4220,
+            "minutesUntilStart": 4215,
             "isRecent": false
         }
     ],
     "grouped_matches": {
         "live": [
-            {
-                "id": 537047,
-                "home": "Roma",
-                "away": "Cagliari",
-                "homeScore": 2,
-                "awayScore": 0,
-                "homeLogo": "https:\/\/crests.football-data.org\/100.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/104.png",
-                "status": "IN_PLAY",
-                "utcDate": "2026-02-09T19:45:00Z",
-                "localDate": "2026-02-10 01:15:00",
-                "localTime": "01:15",
-                "matchday": 24,
-                "competition": "Serie A",
-                "competitionCode": "SA",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "AS Roma (Home)",
-                "lastUpdated": "2026-02-09T21:15:29Z",
-                "referee": "Matteo Marcenaro",
-                "season": 24,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
             {
                 "id": 544437,
                 "home": "Villarreal",
@@ -1679,7 +1648,39 @@
                 "isRecent": false
             }
         ],
-        "finished_today": [],
+        "finished_today": {
+            "1": {
+                "id": 537047,
+                "home": "Roma",
+                "away": "Cagliari",
+                "homeScore": 2,
+                "awayScore": 0,
+                "homeLogo": "https:\/\/crests.football-data.org\/100.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/104.png",
+                "status": "FINISHED",
+                "utcDate": "2026-02-09T19:45:00Z",
+                "localDate": "2026-02-10 01:15:00",
+                "localTime": "01:15",
+                "matchday": 24,
+                "competition": "Serie A",
+                "competitionCode": "SA",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": false,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_today",
+                "venue": "AS Roma (Home)",
+                "lastUpdated": "2026-02-09T21:44:09Z",
+                "referee": "Matteo Marcenaro",
+                "season": 24,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": true
+            }
+        },
         "today": [],
         "tomorrow": {
             "42": {
@@ -1703,14 +1704,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 49m",
+                "timeUntilStart": "21h 44m",
                 "dayCategory": "tomorrow",
                 "venue": "Chelsea FC (Home)",
                 "lastUpdated": "2026-02-09T00:20:55Z",
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 1310,
+                "minutesUntilStart": 1305,
                 "isRecent": false
             },
             "43": {
@@ -1734,14 +1735,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 49m",
+                "timeUntilStart": "21h 44m",
                 "dayCategory": "tomorrow",
                 "venue": "Everton FC (Home)",
                 "lastUpdated": "2026-02-08T01:32:01Z",
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 1310,
+                "minutesUntilStart": 1305,
                 "isRecent": false
             },
             "44": {
@@ -1765,14 +1766,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 49m",
+                "timeUntilStart": "21h 44m",
                 "dayCategory": "tomorrow",
                 "venue": "Tottenham Hotspur FC (Home)",
                 "lastUpdated": "2026-02-09T01:32:00Z",
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 1310,
+                "minutesUntilStart": 1305,
                 "isRecent": false
             },
             "45": {
@@ -1796,14 +1797,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "22h 34m",
+                "timeUntilStart": "22h 29m",
                 "dayCategory": "tomorrow",
                 "venue": "West Ham United FC (Home)",
                 "lastUpdated": "2026-02-09T00:20:55Z",
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 1355,
+                "minutesUntilStart": 1350,
                 "isRecent": false
             },
             "46": {
@@ -1834,7 +1835,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 2750,
+                "minutesUntilStart": 2745,
                 "isRecent": false
             },
             "47": {
@@ -1865,7 +1866,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 2750,
+                "minutesUntilStart": 2745,
                 "isRecent": false
             },
             "48": {
@@ -1896,7 +1897,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 2750,
+                "minutesUntilStart": 2745,
                 "isRecent": false
             },
             "49": {
@@ -1927,7 +1928,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 2750,
+                "minutesUntilStart": 2745,
                 "isRecent": false
             },
             "50": {
@@ -1958,7 +1959,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 2795,
+                "minutesUntilStart": 2790,
                 "isRecent": false
             },
             "51": {
@@ -1989,7 +1990,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 4220,
+                "minutesUntilStart": 4215,
                 "isRecent": false
             }
         },
@@ -3243,10 +3244,10 @@
     },
     "stats": {
         "total_matches": 52,
-        "live_matches": 2,
+        "live_matches": 1,
         "today_matches": 0,
         "tomorrow_matches": 10,
-        "finished_today": 0,
+        "finished_today": 1,
         "finished_recent": 0
     },
     "query_info": {
@@ -3261,19 +3262,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 5980.64,
-        "current_time_local": "2026-02-10 03:10:16",
+        "api_call_time_ms": 5410.09,
+        "current_time_local": "2026-02-10 03:15:12",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-09 21:40:16",
-    "generated_at": "2026-02-09 21:40:16 UTC",
+    "last_updated": "2026-02-09 21:45:12",
+    "generated_at": "2026-02-09 21:45:12 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 123039,
+        "file_size": 123072,
         "file_path": "matches.json"
     }
 }
