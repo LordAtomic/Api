@@ -33,37 +33,6 @@
             "isRecent": false
         },
         {
-            "id": 538040,
-            "home": "Everton",
-            "away": "Bournemouth",
-            "homeScore": 1,
-            "awayScore": 2,
-            "homeLogo": "https:\/\/crests.football-data.org\/62.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/bournemouth.png",
-            "status": "IN_PLAY",
-            "utcDate": "2026-02-10T19:30:00Z",
-            "localDate": "2026-02-11 01:00:00",
-            "localTime": "01:00",
-            "matchday": 26,
-            "competition": "Premier League",
-            "competitionCode": "PL",
-            "isLive": true,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "live",
-            "venue": "Everton FC (Home)",
-            "lastUpdated": "2026-02-10T21:11:03Z",
-            "referee": "Andy Madley",
-            "season": 26,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 538043,
             "home": "Tottenham",
             "away": "Newcastle",
@@ -99,7 +68,7 @@
             "home": "West Ham",
             "away": "Man United",
             "homeScore": 1,
-            "awayScore": 0,
+            "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/563.png",
             "awayLogo": "https:\/\/crests.football-data.org\/66.png",
             "status": "IN_PLAY",
@@ -118,12 +87,43 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "West Ham United FC (Home)",
-            "lastUpdated": "2026-02-10T21:33:07Z",
+            "lastUpdated": "2026-02-10T21:41:08Z",
             "referee": "Simon Hooper",
             "season": 26,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
+        },
+        {
+            "id": 538040,
+            "home": "Everton",
+            "away": "Bournemouth",
+            "homeScore": 1,
+            "awayScore": 2,
+            "homeLogo": "https:\/\/crests.football-data.org\/62.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "status": "FINISHED",
+            "utcDate": "2026-02-10T19:30:00Z",
+            "localDate": "2026-02-11 01:00:00",
+            "localTime": "01:00",
+            "matchday": 26,
+            "competition": "Premier League",
+            "competitionCode": "PL",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_today",
+            "venue": "Everton FC (Home)",
+            "lastUpdated": "2026-02-10T21:41:41Z",
+            "referee": "Andy Madley",
+            "season": 26,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": true
         },
         {
             "id": 544437,
@@ -797,14 +797,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 49m",
+            "timeUntilStart": "21h 44m",
             "dayCategory": "tomorrow",
             "venue": "Aston Villa FC (Home)",
             "lastUpdated": "2026-02-09T01:32:01Z",
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 1310,
+            "minutesUntilStart": 1305,
             "isRecent": false
         },
         {
@@ -828,14 +828,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 49m",
+            "timeUntilStart": "21h 44m",
             "dayCategory": "tomorrow",
             "venue": "Crystal Palace FC (Home)",
             "lastUpdated": "2026-02-09T01:32:01Z",
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 1310,
+            "minutesUntilStart": 1305,
             "isRecent": false
         },
         {
@@ -859,14 +859,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 49m",
+            "timeUntilStart": "21h 44m",
             "dayCategory": "tomorrow",
             "venue": "Manchester City FC (Home)",
             "lastUpdated": "2026-02-10T00:20:57Z",
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 1310,
+            "minutesUntilStart": 1305,
             "isRecent": false
         },
         {
@@ -890,14 +890,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 49m",
+            "timeUntilStart": "21h 44m",
             "dayCategory": "tomorrow",
             "venue": "Nottingham Forest FC (Home)",
             "lastUpdated": "2026-02-10T00:20:57Z",
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 1310,
+            "minutesUntilStart": 1305,
             "isRecent": false
         },
         {
@@ -921,14 +921,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "22h 34m",
+            "timeUntilStart": "22h 29m",
             "dayCategory": "tomorrow",
             "venue": "Sunderland AFC (Home)",
             "lastUpdated": "2026-02-08T01:32:01Z",
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 1355,
+            "minutesUntilStart": 1350,
             "isRecent": false
         },
         {
@@ -959,7 +959,7 @@
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 2780,
+            "minutesUntilStart": 2775,
             "isRecent": false
         },
         {
@@ -990,7 +990,7 @@
             "referee": null,
             "season": 21,
             "group": null,
-            "minutesUntilStart": 4100,
+            "minutesUntilStart": 4095,
             "isRecent": false
         },
         {
@@ -1021,7 +1021,7 @@
             "referee": null,
             "season": 21,
             "group": null,
-            "minutesUntilStart": 4190,
+            "minutesUntilStart": 4185,
             "isRecent": false
         },
         {
@@ -1052,7 +1052,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 4205,
+            "minutesUntilStart": 4200,
             "isRecent": false
         },
         {
@@ -1083,7 +1083,7 @@
             "referee": null,
             "season": 23,
             "group": null,
-            "minutesUntilStart": 4220,
+            "minutesUntilStart": 4215,
             "isRecent": false
         },
         {
@@ -1114,7 +1114,7 @@
             "referee": null,
             "season": 21,
             "group": null,
-            "minutesUntilStart": 4225,
+            "minutesUntilStart": 4220,
             "isRecent": false
         }
     ],
@@ -1146,37 +1146,6 @@
                 "venue": "Chelsea FC (Home)",
                 "lastUpdated": "2026-02-10T21:11:43Z",
                 "referee": "Robert Jones",
-                "season": 26,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
-            {
-                "id": 538040,
-                "home": "Everton",
-                "away": "Bournemouth",
-                "homeScore": 1,
-                "awayScore": 2,
-                "homeLogo": "https:\/\/crests.football-data.org\/62.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/bournemouth.png",
-                "status": "IN_PLAY",
-                "utcDate": "2026-02-10T19:30:00Z",
-                "localDate": "2026-02-11 01:00:00",
-                "localTime": "01:00",
-                "matchday": 26,
-                "competition": "Premier League",
-                "competitionCode": "PL",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "Everton FC (Home)",
-                "lastUpdated": "2026-02-10T21:11:03Z",
-                "referee": "Andy Madley",
                 "season": 26,
                 "group": null,
                 "minutesUntilStart": null,
@@ -1218,7 +1187,7 @@
                 "home": "West Ham",
                 "away": "Man United",
                 "homeScore": 1,
-                "awayScore": 0,
+                "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/563.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/66.png",
                 "status": "IN_PLAY",
@@ -1237,7 +1206,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "West Ham United FC (Home)",
-                "lastUpdated": "2026-02-10T21:33:07Z",
+                "lastUpdated": "2026-02-10T21:41:08Z",
                 "referee": "Simon Hooper",
                 "season": 26,
                 "group": null,
@@ -1245,7 +1214,39 @@
                 "isRecent": false
             }
         ],
-        "finished_today": [],
+        "finished_today": {
+            "3": {
+                "id": 538040,
+                "home": "Everton",
+                "away": "Bournemouth",
+                "homeScore": 1,
+                "awayScore": 2,
+                "homeLogo": "https:\/\/crests.football-data.org\/62.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/bournemouth.png",
+                "status": "FINISHED",
+                "utcDate": "2026-02-10T19:30:00Z",
+                "localDate": "2026-02-11 01:00:00",
+                "localTime": "01:00",
+                "matchday": 26,
+                "competition": "Premier League",
+                "competitionCode": "PL",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": false,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_today",
+                "venue": "Everton FC (Home)",
+                "lastUpdated": "2026-02-10T21:41:41Z",
+                "referee": "Andy Madley",
+                "season": 26,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": true
+            }
+        },
         "today": [],
         "tomorrow": {
             "25": {
@@ -1269,14 +1270,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 49m",
+                "timeUntilStart": "21h 44m",
                 "dayCategory": "tomorrow",
                 "venue": "Aston Villa FC (Home)",
                 "lastUpdated": "2026-02-09T01:32:01Z",
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 1310,
+                "minutesUntilStart": 1305,
                 "isRecent": false
             },
             "26": {
@@ -1300,14 +1301,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 49m",
+                "timeUntilStart": "21h 44m",
                 "dayCategory": "tomorrow",
                 "venue": "Crystal Palace FC (Home)",
                 "lastUpdated": "2026-02-09T01:32:01Z",
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 1310,
+                "minutesUntilStart": 1305,
                 "isRecent": false
             },
             "27": {
@@ -1331,14 +1332,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 49m",
+                "timeUntilStart": "21h 44m",
                 "dayCategory": "tomorrow",
                 "venue": "Manchester City FC (Home)",
                 "lastUpdated": "2026-02-10T00:20:57Z",
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 1310,
+                "minutesUntilStart": 1305,
                 "isRecent": false
             },
             "28": {
@@ -1362,14 +1363,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 49m",
+                "timeUntilStart": "21h 44m",
                 "dayCategory": "tomorrow",
                 "venue": "Nottingham Forest FC (Home)",
                 "lastUpdated": "2026-02-10T00:20:57Z",
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 1310,
+                "minutesUntilStart": 1305,
                 "isRecent": false
             },
             "29": {
@@ -1393,14 +1394,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "22h 34m",
+                "timeUntilStart": "22h 29m",
                 "dayCategory": "tomorrow",
                 "venue": "Sunderland AFC (Home)",
                 "lastUpdated": "2026-02-08T01:32:01Z",
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 1355,
+                "minutesUntilStart": 1350,
                 "isRecent": false
             },
             "30": {
@@ -1431,7 +1432,7 @@
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 2780,
+                "minutesUntilStart": 2775,
                 "isRecent": false
             },
             "31": {
@@ -1462,7 +1463,7 @@
                 "referee": null,
                 "season": 21,
                 "group": null,
-                "minutesUntilStart": 4100,
+                "minutesUntilStart": 4095,
                 "isRecent": false
             },
             "32": {
@@ -1493,7 +1494,7 @@
                 "referee": null,
                 "season": 21,
                 "group": null,
-                "minutesUntilStart": 4190,
+                "minutesUntilStart": 4185,
                 "isRecent": false
             },
             "33": {
@@ -1524,7 +1525,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 4205,
+                "minutesUntilStart": 4200,
                 "isRecent": false
             },
             "34": {
@@ -1555,7 +1556,7 @@
                 "referee": null,
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 4220,
+                "minutesUntilStart": 4215,
                 "isRecent": false
             },
             "35": {
@@ -1586,7 +1587,7 @@
                 "referee": null,
                 "season": 21,
                 "group": null,
-                "minutesUntilStart": 4225,
+                "minutesUntilStart": 4220,
                 "isRecent": false
             }
         },
@@ -2250,10 +2251,10 @@
     },
     "stats": {
         "total_matches": 36,
-        "live_matches": 4,
+        "live_matches": 3,
         "today_matches": 0,
         "tomorrow_matches": 11,
-        "finished_today": 0,
+        "finished_today": 1,
         "finished_recent": 0
     },
     "query_info": {
@@ -2268,19 +2269,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 8552.63,
-        "current_time_local": "2026-02-11 03:10:12",
+        "api_call_time_ms": 7335.9,
+        "current_time_local": "2026-02-11 03:15:12",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-10 21:40:12",
-    "generated_at": "2026-02-10 21:40:12 UTC",
+    "last_updated": "2026-02-10 21:45:12",
+    "generated_at": "2026-02-10 21:45:12 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 85221,
+        "file_size": 85253,
         "file_path": "matches.json"
     }
 }
