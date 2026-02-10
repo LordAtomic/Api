@@ -766,14 +766,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4m",
+            "timeUntilStart": null,
             "dayCategory": "today",
             "venue": "West Ham United FC (Home)",
             "lastUpdated": "2026-02-10T00:20:57Z",
             "referee": "Simon Hooper",
             "season": 26,
             "group": null,
-            "minutesUntilStart": 5,
+            "minutesUntilStart": null,
             "isRecent": false
         },
         {
@@ -797,14 +797,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "23h 19m",
+            "timeUntilStart": "23h 14m",
             "dayCategory": "tomorrow",
             "venue": "Aston Villa FC (Home)",
             "lastUpdated": "2026-02-09T01:32:01Z",
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 1400,
+            "minutesUntilStart": 1395,
             "isRecent": false
         },
         {
@@ -828,14 +828,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "23h 19m",
+            "timeUntilStart": "23h 14m",
             "dayCategory": "tomorrow",
             "venue": "Crystal Palace FC (Home)",
             "lastUpdated": "2026-02-09T01:32:01Z",
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 1400,
+            "minutesUntilStart": 1395,
             "isRecent": false
         },
         {
@@ -859,14 +859,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "23h 19m",
+            "timeUntilStart": "23h 14m",
             "dayCategory": "tomorrow",
             "venue": "Manchester City FC (Home)",
             "lastUpdated": "2026-02-10T00:20:57Z",
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 1400,
+            "minutesUntilStart": 1395,
             "isRecent": false
         },
         {
@@ -890,14 +890,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "23h 19m",
+            "timeUntilStart": "23h 14m",
             "dayCategory": "tomorrow",
             "venue": "Nottingham Forest FC (Home)",
             "lastUpdated": "2026-02-10T00:20:57Z",
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 1400,
+            "minutesUntilStart": 1395,
             "isRecent": false
         },
         {
@@ -921,14 +921,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "Tomorrow",
+            "timeUntilStart": "23h 59m",
             "dayCategory": "tomorrow",
             "venue": "Sunderland AFC (Home)",
             "lastUpdated": "2026-02-08T01:32:01Z",
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 1445,
+            "minutesUntilStart": 1440,
             "isRecent": false
         },
         {
@@ -959,7 +959,7 @@
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 2870,
+            "minutesUntilStart": 2865,
             "isRecent": false
         },
         {
@@ -990,7 +990,7 @@
             "referee": null,
             "season": 21,
             "group": null,
-            "minutesUntilStart": 4190,
+            "minutesUntilStart": 4185,
             "isRecent": false
         },
         {
@@ -1021,7 +1021,7 @@
             "referee": null,
             "season": 21,
             "group": null,
-            "minutesUntilStart": 4280,
+            "minutesUntilStart": 4275,
             "isRecent": false
         },
         {
@@ -1052,7 +1052,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 4295,
+            "minutesUntilStart": 4290,
             "isRecent": false
         },
         {
@@ -1083,7 +1083,7 @@
             "referee": null,
             "season": 23,
             "group": null,
-            "minutesUntilStart": 4310,
+            "minutesUntilStart": 4305,
             "isRecent": false
         },
         {
@@ -1114,7 +1114,7 @@
             "referee": null,
             "season": 21,
             "group": null,
-            "minutesUntilStart": 4315,
+            "minutesUntilStart": 4310,
             "isRecent": false
         }
     ],
@@ -1237,14 +1237,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4m",
+                "timeUntilStart": null,
                 "dayCategory": "today",
                 "venue": "West Ham United FC (Home)",
                 "lastUpdated": "2026-02-10T00:20:57Z",
                 "referee": "Simon Hooper",
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 5,
+                "minutesUntilStart": null,
                 "isRecent": false
             }
         },
@@ -1270,14 +1270,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "23h 19m",
+                "timeUntilStart": "23h 14m",
                 "dayCategory": "tomorrow",
                 "venue": "Aston Villa FC (Home)",
                 "lastUpdated": "2026-02-09T01:32:01Z",
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 1400,
+                "minutesUntilStart": 1395,
                 "isRecent": false
             },
             "26": {
@@ -1301,14 +1301,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "23h 19m",
+                "timeUntilStart": "23h 14m",
                 "dayCategory": "tomorrow",
                 "venue": "Crystal Palace FC (Home)",
                 "lastUpdated": "2026-02-09T01:32:01Z",
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 1400,
+                "minutesUntilStart": 1395,
                 "isRecent": false
             },
             "27": {
@@ -1332,14 +1332,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "23h 19m",
+                "timeUntilStart": "23h 14m",
                 "dayCategory": "tomorrow",
                 "venue": "Manchester City FC (Home)",
                 "lastUpdated": "2026-02-10T00:20:57Z",
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 1400,
+                "minutesUntilStart": 1395,
                 "isRecent": false
             },
             "28": {
@@ -1363,14 +1363,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "23h 19m",
+                "timeUntilStart": "23h 14m",
                 "dayCategory": "tomorrow",
                 "venue": "Nottingham Forest FC (Home)",
                 "lastUpdated": "2026-02-10T00:20:57Z",
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 1400,
+                "minutesUntilStart": 1395,
                 "isRecent": false
             },
             "29": {
@@ -1394,14 +1394,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "Tomorrow",
+                "timeUntilStart": "23h 59m",
                 "dayCategory": "tomorrow",
                 "venue": "Sunderland AFC (Home)",
                 "lastUpdated": "2026-02-08T01:32:01Z",
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 1445,
+                "minutesUntilStart": 1440,
                 "isRecent": false
             },
             "30": {
@@ -1432,7 +1432,7 @@
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 2870,
+                "minutesUntilStart": 2865,
                 "isRecent": false
             },
             "31": {
@@ -1463,7 +1463,7 @@
                 "referee": null,
                 "season": 21,
                 "group": null,
-                "minutesUntilStart": 4190,
+                "minutesUntilStart": 4185,
                 "isRecent": false
             },
             "32": {
@@ -1494,7 +1494,7 @@
                 "referee": null,
                 "season": 21,
                 "group": null,
-                "minutesUntilStart": 4280,
+                "minutesUntilStart": 4275,
                 "isRecent": false
             },
             "33": {
@@ -1525,7 +1525,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 4295,
+                "minutesUntilStart": 4290,
                 "isRecent": false
             },
             "34": {
@@ -1556,7 +1556,7 @@
                 "referee": null,
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 4310,
+                "minutesUntilStart": 4305,
                 "isRecent": false
             },
             "35": {
@@ -1587,7 +1587,7 @@
                 "referee": null,
                 "season": 21,
                 "group": null,
-                "minutesUntilStart": 4315,
+                "minutesUntilStart": 4310,
                 "isRecent": false
             }
         },
@@ -2269,19 +2269,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 6627.83,
-        "current_time_local": "2026-02-11 01:40:14",
+        "api_call_time_ms": 5543.98,
+        "current_time_local": "2026-02-11 01:45:12",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-10 20:10:14",
-    "generated_at": "2026-02-10 20:10:14 UTC",
+    "last_updated": "2026-02-10 20:15:12",
+    "generated_at": "2026-02-10 20:15:12 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 85228,
+        "file_size": 85232,
         "file_path": "matches.json"
     }
 }
