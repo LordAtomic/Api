@@ -2,37 +2,6 @@
     "success": true,
     "matches": [
         {
-            "id": 544446,
-            "home": "Real Oviedo",
-            "away": "Athletic",
-            "homeScore": 1,
-            "awayScore": 2,
-            "homeLogo": "https:\/\/crests.football-data.org\/1048.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/77.png",
-            "status": "IN_PLAY",
-            "utcDate": "2026-02-15T13:00:00Z",
-            "localDate": "2026-02-15 18:30:00",
-            "localTime": "18:30",
-            "matchday": 24,
-            "competition": "Primera Division",
-            "competitionCode": "PD",
-            "isLive": true,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "live",
-            "venue": "Real Oviedo (Home)",
-            "lastUpdated": "2026-02-15T14:32:53Z",
-            "referee": "Mateo Busquets Ferrer",
-            "season": 24,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 537060,
             "home": "Parma",
             "away": "Verona",
@@ -155,6 +124,37 @@
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
+        },
+        {
+            "id": 544446,
+            "home": "Real Oviedo",
+            "away": "Athletic",
+            "homeScore": 1,
+            "awayScore": 2,
+            "homeLogo": "https:\/\/crests.football-data.org\/1048.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/77.png",
+            "status": "FINISHED",
+            "utcDate": "2026-02-15T13:00:00Z",
+            "localDate": "2026-02-15 18:30:00",
+            "localTime": "18:30",
+            "matchday": 24,
+            "competition": "Primera Division",
+            "competitionCode": "PD",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_today",
+            "venue": "Real Oviedo (Home)",
+            "lastUpdated": "2026-02-15T15:00:26Z",
+            "referee": "Mateo Busquets Ferrer",
+            "season": 24,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": true
         },
         {
             "id": 537063,
@@ -859,14 +859,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "14m",
+            "timeUntilStart": "9m",
             "dayCategory": "today",
             "venue": "Rayo Vallecano de Madrid (Home)",
             "lastUpdated": "2026-02-09T01:32:04Z",
             "referee": "Ricardo de Burgos",
             "season": 24,
             "group": null,
-            "minutesUntilStart": 15,
+            "minutesUntilStart": 10,
             "isRecent": false
         },
         {
@@ -890,14 +890,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 14m",
+            "timeUntilStart": "1h 9m",
             "dayCategory": "today",
             "venue": "FC Lorient (Home)",
             "lastUpdated": "2026-02-14T01:32:01Z",
             "referee": "St\u00e9phanie Frappart",
             "season": 22,
             "group": null,
-            "minutesUntilStart": 75,
+            "minutesUntilStart": 70,
             "isRecent": false
         },
         {
@@ -921,14 +921,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 14m",
+            "timeUntilStart": "1h 9m",
             "dayCategory": "today",
             "venue": "FC Metz (Home)",
             "lastUpdated": "2026-02-09T01:32:04Z",
             "referee": "Marc Bollengier",
             "season": 22,
             "group": null,
-            "minutesUntilStart": 75,
+            "minutesUntilStart": 70,
             "isRecent": false
         },
         {
@@ -952,14 +952,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 29m",
+            "timeUntilStart": "1h 24m",
             "dayCategory": "today",
             "venue": "RB Leipzig (Home)",
             "lastUpdated": "2026-02-15T01:32:00Z",
             "referee": "Matthias J\u00f6llenbeck",
             "season": 22,
             "group": null,
-            "minutesUntilStart": 90,
+            "minutesUntilStart": 85,
             "isRecent": false
         },
         {
@@ -983,14 +983,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 59m",
+            "timeUntilStart": "1h 54m",
             "dayCategory": "today",
             "venue": "Torino FC (Home)",
             "lastUpdated": "2026-02-09T01:32:04Z",
             "referee": "Francesco Fourneau",
             "season": 25,
             "group": null,
-            "minutesUntilStart": 120,
+            "minutesUntilStart": 115,
             "isRecent": false
         },
         {
@@ -1014,14 +1014,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 29m",
+            "timeUntilStart": "2h 24m",
             "dayCategory": "today",
             "venue": "Levante UD (Home)",
             "lastUpdated": "2026-02-09T01:32:04Z",
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 150,
+            "minutesUntilStart": 145,
             "isRecent": false
         },
         {
@@ -1045,14 +1045,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4h 44m",
+            "timeUntilStart": "4h 39m",
             "dayCategory": "tomorrow",
             "venue": "SSC Napoli (Home)",
             "lastUpdated": "2026-02-09T01:32:04Z",
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 285,
+            "minutesUntilStart": 280,
             "isRecent": false
         },
         {
@@ -1076,14 +1076,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4h 44m",
+            "timeUntilStart": "4h 39m",
             "dayCategory": "tomorrow",
             "venue": "Olympique Lyonnais (Home)",
             "lastUpdated": "2026-02-09T01:32:04Z",
             "referee": null,
             "season": 22,
             "group": null,
-            "minutesUntilStart": 285,
+            "minutesUntilStart": 280,
             "isRecent": false
         },
         {
@@ -1107,14 +1107,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4h 59m",
+            "timeUntilStart": "4h 54m",
             "dayCategory": "tomorrow",
             "venue": "RCD Mallorca (Home)",
             "lastUpdated": "2026-02-09T01:32:04Z",
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 300,
+            "minutesUntilStart": 295,
             "isRecent": false
         },
         {
@@ -1145,7 +1145,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 1725,
+            "minutesUntilStart": 1720,
             "isRecent": false
         },
         {
@@ -1176,7 +1176,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 1740,
+            "minutesUntilStart": 1735,
             "isRecent": false
         },
         {
@@ -1207,7 +1207,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 4560,
+            "minutesUntilStart": 4555,
             "isRecent": false
         },
         {
@@ -1238,7 +1238,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 4605,
+            "minutesUntilStart": 4600,
             "isRecent": false
         },
         {
@@ -1269,43 +1269,12 @@
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 4620,
+            "minutesUntilStart": 4615,
             "isRecent": false
         }
     ],
     "grouped_matches": {
         "live": [
-            {
-                "id": 544446,
-                "home": "Real Oviedo",
-                "away": "Athletic",
-                "homeScore": 1,
-                "awayScore": 2,
-                "homeLogo": "https:\/\/crests.football-data.org\/1048.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/77.png",
-                "status": "IN_PLAY",
-                "utcDate": "2026-02-15T13:00:00Z",
-                "localDate": "2026-02-15 18:30:00",
-                "localTime": "18:30",
-                "matchday": 24,
-                "competition": "Primera Division",
-                "competitionCode": "PD",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "Real Oviedo (Home)",
-                "lastUpdated": "2026-02-15T14:32:53Z",
-                "referee": "Mateo Busquets Ferrer",
-                "season": 24,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
             {
                 "id": 537060,
                 "home": "Parma",
@@ -1432,6 +1401,37 @@
             }
         ],
         "finished_today": {
+            "4": {
+                "id": 544446,
+                "home": "Real Oviedo",
+                "away": "Athletic",
+                "homeScore": 1,
+                "awayScore": 2,
+                "homeLogo": "https:\/\/crests.football-data.org\/1048.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/77.png",
+                "status": "FINISHED",
+                "utcDate": "2026-02-15T13:00:00Z",
+                "localDate": "2026-02-15 18:30:00",
+                "localTime": "18:30",
+                "matchday": 24,
+                "competition": "Primera Division",
+                "competitionCode": "PD",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": false,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_today",
+                "venue": "Real Oviedo (Home)",
+                "lastUpdated": "2026-02-15T15:00:26Z",
+                "referee": "Mateo Busquets Ferrer",
+                "season": 24,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": true
+            },
             "5": {
                 "id": 537063,
                 "home": "Udinese",
@@ -1579,14 +1579,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "14m",
+                "timeUntilStart": "9m",
                 "dayCategory": "today",
                 "venue": "Rayo Vallecano de Madrid (Home)",
                 "lastUpdated": "2026-02-09T01:32:04Z",
                 "referee": "Ricardo de Burgos",
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 15,
+                "minutesUntilStart": 10,
                 "isRecent": false
             },
             "28": {
@@ -1610,14 +1610,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 14m",
+                "timeUntilStart": "1h 9m",
                 "dayCategory": "today",
                 "venue": "FC Lorient (Home)",
                 "lastUpdated": "2026-02-14T01:32:01Z",
                 "referee": "St\u00e9phanie Frappart",
                 "season": 22,
                 "group": null,
-                "minutesUntilStart": 75,
+                "minutesUntilStart": 70,
                 "isRecent": false
             },
             "29": {
@@ -1641,14 +1641,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 14m",
+                "timeUntilStart": "1h 9m",
                 "dayCategory": "today",
                 "venue": "FC Metz (Home)",
                 "lastUpdated": "2026-02-09T01:32:04Z",
                 "referee": "Marc Bollengier",
                 "season": 22,
                 "group": null,
-                "minutesUntilStart": 75,
+                "minutesUntilStart": 70,
                 "isRecent": false
             },
             "30": {
@@ -1672,14 +1672,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 29m",
+                "timeUntilStart": "1h 24m",
                 "dayCategory": "today",
                 "venue": "RB Leipzig (Home)",
                 "lastUpdated": "2026-02-15T01:32:00Z",
                 "referee": "Matthias J\u00f6llenbeck",
                 "season": 22,
                 "group": null,
-                "minutesUntilStart": 90,
+                "minutesUntilStart": 85,
                 "isRecent": false
             },
             "31": {
@@ -1703,14 +1703,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 59m",
+                "timeUntilStart": "1h 54m",
                 "dayCategory": "today",
                 "venue": "Torino FC (Home)",
                 "lastUpdated": "2026-02-09T01:32:04Z",
                 "referee": "Francesco Fourneau",
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 120,
+                "minutesUntilStart": 115,
                 "isRecent": false
             },
             "32": {
@@ -1734,14 +1734,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 29m",
+                "timeUntilStart": "2h 24m",
                 "dayCategory": "today",
                 "venue": "Levante UD (Home)",
                 "lastUpdated": "2026-02-09T01:32:04Z",
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 150,
+                "minutesUntilStart": 145,
                 "isRecent": false
             }
         },
@@ -1767,14 +1767,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4h 44m",
+                "timeUntilStart": "4h 39m",
                 "dayCategory": "tomorrow",
                 "venue": "SSC Napoli (Home)",
                 "lastUpdated": "2026-02-09T01:32:04Z",
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 285,
+                "minutesUntilStart": 280,
                 "isRecent": false
             },
             "34": {
@@ -1798,14 +1798,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4h 44m",
+                "timeUntilStart": "4h 39m",
                 "dayCategory": "tomorrow",
                 "venue": "Olympique Lyonnais (Home)",
                 "lastUpdated": "2026-02-09T01:32:04Z",
                 "referee": null,
                 "season": 22,
                 "group": null,
-                "minutesUntilStart": 285,
+                "minutesUntilStart": 280,
                 "isRecent": false
             },
             "35": {
@@ -1829,14 +1829,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4h 59m",
+                "timeUntilStart": "4h 54m",
                 "dayCategory": "tomorrow",
                 "venue": "RCD Mallorca (Home)",
                 "lastUpdated": "2026-02-09T01:32:04Z",
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 300,
+                "minutesUntilStart": 295,
                 "isRecent": false
             },
             "36": {
@@ -1867,7 +1867,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 1725,
+                "minutesUntilStart": 1720,
                 "isRecent": false
             },
             "37": {
@@ -1898,7 +1898,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 1740,
+                "minutesUntilStart": 1735,
                 "isRecent": false
             },
             "38": {
@@ -1929,7 +1929,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 4560,
+                "minutesUntilStart": 4555,
                 "isRecent": false
             },
             "39": {
@@ -1960,7 +1960,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 4605,
+                "minutesUntilStart": 4600,
                 "isRecent": false
             },
             "40": {
@@ -1991,7 +1991,7 @@
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 4620,
+                "minutesUntilStart": 4615,
                 "isRecent": false
             }
         },
@@ -2562,10 +2562,10 @@
     },
     "stats": {
         "total_matches": 41,
-        "live_matches": 5,
+        "live_matches": 4,
         "today_matches": 6,
         "tomorrow_matches": 8,
-        "finished_today": 4,
+        "finished_today": 5,
         "finished_recent": 0
     },
     "query_info": {
@@ -2580,19 +2580,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 14113.89,
-        "current_time_local": "2026-02-15 20:30:18",
+        "api_call_time_ms": 5757.61,
+        "current_time_local": "2026-02-15 20:35:09",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-15 15:00:18",
-    "generated_at": "2026-02-15 15:00:18 UTC",
+    "last_updated": "2026-02-15 15:05:09",
+    "generated_at": "2026-02-15 15:05:09 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 97136,
+        "file_size": 97154,
         "file_path": "matches.json"
     }
 }
