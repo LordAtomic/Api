@@ -40,7 +40,7 @@
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/523.png",
             "awayLogo": "https:\/\/crests.football-data.org\/522.png",
-            "status": "PAUSED",
+            "status": "IN_PLAY",
             "utcDate": "2026-02-15T19:45:00Z",
             "localDate": "2026-02-16 01:15:00",
             "localTime": "01:15",
@@ -56,7 +56,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Olympique Lyonnais (Home)",
-            "lastUpdated": "2026-02-15T20:44:29Z",
+            "lastUpdated": "2026-02-15T21:02:29Z",
             "referee": "Thomas L\u00e9onard",
             "season": 22,
             "group": null,
@@ -1138,14 +1138,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "22h 44m",
+            "timeUntilStart": "22h 39m",
             "dayCategory": "tomorrow",
             "venue": "Cagliari Calcio (Home)",
             "lastUpdated": "2026-02-15T01:32:01Z",
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 1365,
+            "minutesUntilStart": 1360,
             "isRecent": false
         },
         {
@@ -1169,14 +1169,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "22h 59m",
+            "timeUntilStart": "22h 54m",
             "dayCategory": "tomorrow",
             "venue": "Girona FC (Home)",
             "lastUpdated": "2026-02-15T01:32:01Z",
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 1380,
+            "minutesUntilStart": 1375,
             "isRecent": false
         },
         {
@@ -1207,7 +1207,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 4200,
+            "minutesUntilStart": 4195,
             "isRecent": false
         },
         {
@@ -1238,7 +1238,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 4245,
+            "minutesUntilStart": 4240,
             "isRecent": false
         },
         {
@@ -1269,7 +1269,7 @@
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 4260,
+            "minutesUntilStart": 4255,
             "isRecent": false
         }
     ],
@@ -1314,7 +1314,7 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/523.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/522.png",
-                "status": "PAUSED",
+                "status": "IN_PLAY",
                 "utcDate": "2026-02-15T19:45:00Z",
                 "localDate": "2026-02-16 01:15:00",
                 "localTime": "01:15",
@@ -1330,7 +1330,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Olympique Lyonnais (Home)",
-                "lastUpdated": "2026-02-15T20:44:29Z",
+                "lastUpdated": "2026-02-15T21:02:29Z",
                 "referee": "Thomas L\u00e9onard",
                 "season": 22,
                 "group": null,
@@ -1393,14 +1393,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "22h 44m",
+                "timeUntilStart": "22h 39m",
                 "dayCategory": "tomorrow",
                 "venue": "Cagliari Calcio (Home)",
                 "lastUpdated": "2026-02-15T01:32:01Z",
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 1365,
+                "minutesUntilStart": 1360,
                 "isRecent": false
             },
             "37": {
@@ -1424,14 +1424,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "22h 59m",
+                "timeUntilStart": "22h 54m",
                 "dayCategory": "tomorrow",
                 "venue": "Girona FC (Home)",
                 "lastUpdated": "2026-02-15T01:32:01Z",
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 1380,
+                "minutesUntilStart": 1375,
                 "isRecent": false
             },
             "38": {
@@ -1462,7 +1462,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 4200,
+                "minutesUntilStart": 4195,
                 "isRecent": false
             },
             "39": {
@@ -1493,7 +1493,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 4245,
+                "minutesUntilStart": 4240,
                 "isRecent": false
             },
             "40": {
@@ -1524,7 +1524,7 @@
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 4260,
+                "minutesUntilStart": 4255,
                 "isRecent": false
             }
         },
@@ -2578,19 +2578,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 12056.32,
-        "current_time_local": "2026-02-16 02:30:15",
+        "api_call_time_ms": 6520.58,
+        "current_time_local": "2026-02-16 02:35:10",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-15 21:00:15",
-    "generated_at": "2026-02-15 21:00:15 UTC",
+    "last_updated": "2026-02-15 21:05:10",
+    "generated_at": "2026-02-15 21:05:10 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 97222,
+        "file_size": 97223,
         "file_path": "matches.json"
     }
 }
