@@ -6,7 +6,7 @@
             "home": "Napoli",
             "away": "Roma",
             "homeScore": 0,
-            "awayScore": 0,
+            "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/113.png",
             "awayLogo": "https:\/\/crests.football-data.org\/100.png",
             "status": "IN_PLAY",
@@ -25,7 +25,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "SSC Napoli (Home)",
-            "lastUpdated": "2026-02-15T19:50:34Z",
+            "lastUpdated": "2026-02-15T19:57:14Z",
             "referee": "Andrea Colombo",
             "season": 25,
             "group": null,
@@ -309,7 +309,7 @@
             "season": 25,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": true
+            "isRecent": false
         },
         {
             "id": 537064,
@@ -340,7 +340,7 @@
             "season": 25,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": true
+            "isRecent": false
         },
         {
             "id": 542595,
@@ -371,7 +371,7 @@
             "season": 22,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": true
+            "isRecent": false
         },
         {
             "id": 544446,
@@ -1107,14 +1107,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4m",
+            "timeUntilStart": null,
             "dayCategory": "today",
             "venue": "RCD Mallorca (Home)",
             "lastUpdated": "2026-02-09T01:32:04Z",
             "referee": "Isidro D\u00edaz de Mera",
             "season": 24,
             "group": null,
-            "minutesUntilStart": 5,
+            "minutesUntilStart": null,
             "isRecent": false
         },
         {
@@ -1138,14 +1138,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "23h 49m",
+            "timeUntilStart": "23h 44m",
             "dayCategory": "tomorrow",
             "venue": "Cagliari Calcio (Home)",
             "lastUpdated": "2026-02-15T01:32:01Z",
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 1430,
+            "minutesUntilStart": 1425,
             "isRecent": false
         },
         {
@@ -1169,14 +1169,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "Tomorrow",
+            "timeUntilStart": "23h 59m",
             "dayCategory": "tomorrow",
             "venue": "Girona FC (Home)",
             "lastUpdated": "2026-02-15T01:32:01Z",
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 1445,
+            "minutesUntilStart": 1440,
             "isRecent": false
         },
         {
@@ -1207,7 +1207,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 4265,
+            "minutesUntilStart": 4260,
             "isRecent": false
         },
         {
@@ -1238,7 +1238,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 4310,
+            "minutesUntilStart": 4305,
             "isRecent": false
         },
         {
@@ -1262,14 +1262,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "3 days",
+            "timeUntilStart": "2 days",
             "dayCategory": "tomorrow",
             "venue": "Wolverhampton Wanderers FC (Home)",
             "lastUpdated": "2026-02-15T00:20:56Z",
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 4325,
+            "minutesUntilStart": 4320,
             "isRecent": false
         }
     ],
@@ -1280,7 +1280,7 @@
                 "home": "Napoli",
                 "away": "Roma",
                 "homeScore": 0,
-                "awayScore": 0,
+                "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/113.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/100.png",
                 "status": "IN_PLAY",
@@ -1299,7 +1299,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "SSC Napoli (Home)",
-                "lastUpdated": "2026-02-15T19:50:34Z",
+                "lastUpdated": "2026-02-15T19:57:14Z",
                 "referee": "Andrea Colombo",
                 "season": 25,
                 "group": null,
@@ -1361,14 +1361,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4m",
+                "timeUntilStart": null,
                 "dayCategory": "today",
                 "venue": "RCD Mallorca (Home)",
                 "lastUpdated": "2026-02-09T01:32:04Z",
                 "referee": "Isidro D\u00edaz de Mera",
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 5,
+                "minutesUntilStart": null,
                 "isRecent": false
             }
         },
@@ -1394,14 +1394,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "23h 49m",
+                "timeUntilStart": "23h 44m",
                 "dayCategory": "tomorrow",
                 "venue": "Cagliari Calcio (Home)",
                 "lastUpdated": "2026-02-15T01:32:01Z",
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 1430,
+                "minutesUntilStart": 1425,
                 "isRecent": false
             },
             "37": {
@@ -1425,14 +1425,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "Tomorrow",
+                "timeUntilStart": "23h 59m",
                 "dayCategory": "tomorrow",
                 "venue": "Girona FC (Home)",
                 "lastUpdated": "2026-02-15T01:32:01Z",
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 1445,
+                "minutesUntilStart": 1440,
                 "isRecent": false
             },
             "38": {
@@ -1463,7 +1463,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 4265,
+                "minutesUntilStart": 4260,
                 "isRecent": false
             },
             "39": {
@@ -1494,7 +1494,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 4310,
+                "minutesUntilStart": 4305,
                 "isRecent": false
             },
             "40": {
@@ -1518,14 +1518,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "3 days",
+                "timeUntilStart": "2 days",
                 "dayCategory": "tomorrow",
                 "venue": "Wolverhampton Wanderers FC (Home)",
                 "lastUpdated": "2026-02-15T00:20:56Z",
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 4325,
+                "minutesUntilStart": 4320,
                 "isRecent": false
             }
         },
@@ -1777,7 +1777,7 @@
                 "season": 25,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
             "10": {
                 "id": 537064,
@@ -1808,7 +1808,7 @@
                 "season": 25,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
             "11": {
                 "id": 542595,
@@ -1839,7 +1839,7 @@
                 "season": 22,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
             "12": {
                 "id": 544446,
@@ -2579,19 +2579,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 6831.33,
-        "current_time_local": "2026-02-16 01:25:10",
+        "api_call_time_ms": 15502.45,
+        "current_time_local": "2026-02-16 01:30:20",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-15 19:55:10",
-    "generated_at": "2026-02-15 19:55:10 UTC",
+    "last_updated": "2026-02-15 20:00:20",
+    "generated_at": "2026-02-15 20:00:20 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 97224,
+        "file_size": 97235,
         "file_path": "matches.json"
     }
 }
