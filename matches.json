@@ -9,28 +9,28 @@
             "awayScore": 2,
             "homeLogo": "https:\/\/crests.football-data.org\/89.png",
             "awayLogo": "https:\/\/crests.football-data.org\/90.png",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "utcDate": "2026-02-15T20:00:00Z",
             "localDate": "2026-02-16 01:30:00",
             "localTime": "01:30",
             "matchday": 24,
             "competition": "Primera Division",
             "competitionCode": "PD",
-            "isLive": true,
-            "isFinished": false,
+            "isLive": false,
+            "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "live",
+            "dayCategory": "finished_today",
             "venue": "RCD Mallorca (Home)",
-            "lastUpdated": "2026-02-15T21:32:55Z",
+            "lastUpdated": "2026-02-15T22:01:49Z",
             "referee": "Isidro D\u00edaz de Mera",
             "season": 24,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
+            "isRecent": true
         },
         {
             "id": 537062,
@@ -1138,14 +1138,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 44m",
+            "timeUntilStart": "21h 39m",
             "dayCategory": "tomorrow",
             "venue": "Cagliari Calcio (Home)",
             "lastUpdated": "2026-02-15T01:32:01Z",
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 1305,
+            "minutesUntilStart": 1300,
             "isRecent": false
         },
         {
@@ -1169,14 +1169,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 59m",
+            "timeUntilStart": "21h 54m",
             "dayCategory": "tomorrow",
             "venue": "Girona FC (Home)",
             "lastUpdated": "2026-02-15T01:32:01Z",
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 1320,
+            "minutesUntilStart": 1315,
             "isRecent": false
         },
         {
@@ -1207,7 +1207,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 4140,
+            "minutesUntilStart": 4135,
             "isRecent": false
         },
         {
@@ -1238,7 +1238,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 4185,
+            "minutesUntilStart": 4180,
             "isRecent": false
         },
         {
@@ -1269,12 +1269,13 @@
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 4200,
+            "minutesUntilStart": 4195,
             "isRecent": false
         }
     ],
     "grouped_matches": {
-        "live": [
+        "live": [],
+        "finished_today": [
             {
                 "id": 544449,
                 "home": "Mallorca",
@@ -1283,32 +1284,30 @@
                 "awayScore": 2,
                 "homeLogo": "https:\/\/crests.football-data.org\/89.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/90.png",
-                "status": "IN_PLAY",
+                "status": "FINISHED",
                 "utcDate": "2026-02-15T20:00:00Z",
                 "localDate": "2026-02-16 01:30:00",
                 "localTime": "01:30",
                 "matchday": 24,
                 "competition": "Primera Division",
                 "competitionCode": "PD",
-                "isLive": true,
-                "isFinished": false,
+                "isLive": false,
+                "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "live",
+                "dayCategory": "finished_today",
                 "venue": "RCD Mallorca (Home)",
-                "lastUpdated": "2026-02-15T21:32:55Z",
+                "lastUpdated": "2026-02-15T22:01:49Z",
                 "referee": "Isidro D\u00edaz de Mera",
                 "season": 24,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
-        "finished_today": {
-            "1": {
+                "isRecent": true
+            },
+            {
                 "id": 537062,
                 "home": "Napoli",
                 "away": "Roma",
@@ -1339,7 +1338,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "2": {
+            {
                 "id": 542600,
                 "home": "Olympique Lyon",
                 "away": "Nice",
@@ -1370,7 +1369,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             }
-        },
+        ],
         "today": [],
         "tomorrow": {
             "36": {
@@ -1394,14 +1393,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 44m",
+                "timeUntilStart": "21h 39m",
                 "dayCategory": "tomorrow",
                 "venue": "Cagliari Calcio (Home)",
                 "lastUpdated": "2026-02-15T01:32:01Z",
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 1305,
+                "minutesUntilStart": 1300,
                 "isRecent": false
             },
             "37": {
@@ -1425,14 +1424,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 59m",
+                "timeUntilStart": "21h 54m",
                 "dayCategory": "tomorrow",
                 "venue": "Girona FC (Home)",
                 "lastUpdated": "2026-02-15T01:32:01Z",
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 1320,
+                "minutesUntilStart": 1315,
                 "isRecent": false
             },
             "38": {
@@ -1463,7 +1462,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 4140,
+                "minutesUntilStart": 4135,
                 "isRecent": false
             },
             "39": {
@@ -1494,7 +1493,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 4185,
+                "minutesUntilStart": 4180,
                 "isRecent": false
             },
             "40": {
@@ -1525,7 +1524,7 @@
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 4200,
+                "minutesUntilStart": 4195,
                 "isRecent": false
             }
         },
@@ -2561,10 +2560,10 @@
     },
     "stats": {
         "total_matches": 41,
-        "live_matches": 1,
+        "live_matches": 0,
         "today_matches": 0,
         "tomorrow_matches": 5,
-        "finished_today": 2,
+        "finished_today": 3,
         "finished_recent": 0
     },
     "query_info": {
@@ -2579,19 +2578,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 14705.65,
-        "current_time_local": "2026-02-16 03:30:20",
+        "api_call_time_ms": 6453.54,
+        "current_time_local": "2026-02-16 03:35:10",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-15 22:00:20",
-    "generated_at": "2026-02-15 22:00:20 UTC",
+    "last_updated": "2026-02-15 22:05:10",
+    "generated_at": "2026-02-15 22:05:10 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 97286,
+        "file_size": 97287,
         "file_path": "matches.json"
     }
 }
