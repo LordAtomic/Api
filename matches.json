@@ -68,7 +68,7 @@
             "home": "Mallorca",
             "away": "Real Betis",
             "homeScore": 0,
-            "awayScore": 0,
+            "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/89.png",
             "awayLogo": "https:\/\/crests.football-data.org\/90.png",
             "status": "IN_PLAY",
@@ -87,7 +87,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "RCD Mallorca (Home)",
-            "lastUpdated": "2026-02-15T20:05:06Z",
+            "lastUpdated": "2026-02-15T20:25:35Z",
             "referee": "Isidro D\u00edaz de Mera",
             "season": 24,
             "group": null,
@@ -309,7 +309,7 @@
             "season": 22,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": true
+            "isRecent": false
         },
         {
             "id": 537060,
@@ -1138,14 +1138,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "23h 19m",
+            "timeUntilStart": "23h 14m",
             "dayCategory": "tomorrow",
             "venue": "Cagliari Calcio (Home)",
             "lastUpdated": "2026-02-15T01:32:01Z",
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 1400,
+            "minutesUntilStart": 1395,
             "isRecent": false
         },
         {
@@ -1169,14 +1169,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "23h 34m",
+            "timeUntilStart": "23h 29m",
             "dayCategory": "tomorrow",
             "venue": "Girona FC (Home)",
             "lastUpdated": "2026-02-15T01:32:01Z",
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 1415,
+            "minutesUntilStart": 1410,
             "isRecent": false
         },
         {
@@ -1207,7 +1207,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 4235,
+            "minutesUntilStart": 4230,
             "isRecent": false
         },
         {
@@ -1238,7 +1238,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 4280,
+            "minutesUntilStart": 4275,
             "isRecent": false
         },
         {
@@ -1269,7 +1269,7 @@
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 4295,
+            "minutesUntilStart": 4290,
             "isRecent": false
         }
     ],
@@ -1342,7 +1342,7 @@
                 "home": "Mallorca",
                 "away": "Real Betis",
                 "homeScore": 0,
-                "awayScore": 0,
+                "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/89.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/90.png",
                 "status": "IN_PLAY",
@@ -1361,7 +1361,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "RCD Mallorca (Home)",
-                "lastUpdated": "2026-02-15T20:05:06Z",
+                "lastUpdated": "2026-02-15T20:25:35Z",
                 "referee": "Isidro D\u00edaz de Mera",
                 "season": 24,
                 "group": null,
@@ -1393,14 +1393,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "23h 19m",
+                "timeUntilStart": "23h 14m",
                 "dayCategory": "tomorrow",
                 "venue": "Cagliari Calcio (Home)",
                 "lastUpdated": "2026-02-15T01:32:01Z",
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 1400,
+                "minutesUntilStart": 1395,
                 "isRecent": false
             },
             "37": {
@@ -1424,14 +1424,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "23h 34m",
+                "timeUntilStart": "23h 29m",
                 "dayCategory": "tomorrow",
                 "venue": "Girona FC (Home)",
                 "lastUpdated": "2026-02-15T01:32:01Z",
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 1415,
+                "minutesUntilStart": 1410,
                 "isRecent": false
             },
             "38": {
@@ -1462,7 +1462,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 4235,
+                "minutesUntilStart": 4230,
                 "isRecent": false
             },
             "39": {
@@ -1493,7 +1493,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 4280,
+                "minutesUntilStart": 4275,
                 "isRecent": false
             },
             "40": {
@@ -1524,7 +1524,7 @@
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 4295,
+                "minutesUntilStart": 4290,
                 "isRecent": false
             }
         },
@@ -1745,7 +1745,7 @@
                 "season": 22,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
             "10": {
                 "id": 537060,
@@ -2578,19 +2578,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 5553.8,
-        "current_time_local": "2026-02-16 01:55:10",
+        "api_call_time_ms": 9922.01,
+        "current_time_local": "2026-02-16 02:00:14",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-15 20:25:10",
-    "generated_at": "2026-02-15 20:25:10 UTC",
+    "last_updated": "2026-02-15 20:30:14",
+    "generated_at": "2026-02-15 20:30:14 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 97222,
+        "file_size": 97225,
         "file_path": "matches.json"
     }
 }
