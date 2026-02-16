@@ -983,14 +983,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4m",
+            "timeUntilStart": null,
             "dayCategory": "today",
             "venue": "Cagliari Calcio (Home)",
             "lastUpdated": "2026-02-16T01:32:00Z",
             "referee": "Ermanno Feliciani",
             "season": 25,
             "group": null,
-            "minutesUntilStart": 5,
+            "minutesUntilStart": null,
             "isRecent": false
         },
         {
@@ -1014,14 +1014,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "19m",
+            "timeUntilStart": "14m",
             "dayCategory": "today",
             "venue": "Girona FC (Home)",
             "lastUpdated": "2026-02-16T01:32:00Z",
             "referee": "C\u00e9sar Soto Grado",
             "season": 24,
             "group": null,
-            "minutesUntilStart": 20,
+            "minutesUntilStart": 15,
             "isRecent": false
         },
         {
@@ -1052,7 +1052,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 2840,
+            "minutesUntilStart": 2835,
             "isRecent": false
         },
         {
@@ -1076,14 +1076,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2 days",
+            "timeUntilStart": "Tomorrow",
             "dayCategory": "tomorrow",
             "venue": "AC Milan (Home)",
             "lastUpdated": "2026-02-15T01:32:01Z",
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 2885,
+            "minutesUntilStart": 2880,
             "isRecent": false
         },
         {
@@ -1114,7 +1114,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 2900,
+            "minutesUntilStart": 2895,
             "isRecent": false
         }
     ],
@@ -1143,14 +1143,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4m",
+                "timeUntilStart": null,
                 "dayCategory": "today",
                 "venue": "Cagliari Calcio (Home)",
                 "lastUpdated": "2026-02-16T01:32:00Z",
                 "referee": "Ermanno Feliciani",
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 5,
+                "minutesUntilStart": null,
                 "isRecent": false
             },
             "32": {
@@ -1174,14 +1174,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "19m",
+                "timeUntilStart": "14m",
                 "dayCategory": "today",
                 "venue": "Girona FC (Home)",
                 "lastUpdated": "2026-02-16T01:32:00Z",
                 "referee": "C\u00e9sar Soto Grado",
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 20,
+                "minutesUntilStart": 15,
                 "isRecent": false
             }
         },
@@ -1214,7 +1214,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 2840,
+                "minutesUntilStart": 2835,
                 "isRecent": false
             },
             "34": {
@@ -1238,14 +1238,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2 days",
+                "timeUntilStart": "Tomorrow",
                 "dayCategory": "tomorrow",
                 "venue": "AC Milan (Home)",
                 "lastUpdated": "2026-02-15T01:32:01Z",
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 2885,
+                "minutesUntilStart": 2880,
                 "isRecent": false
             },
             "35": {
@@ -1276,7 +1276,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 2900,
+                "minutesUntilStart": 2895,
                 "isRecent": false
             }
         },
@@ -2268,19 +2268,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 5642.41,
-        "current_time_local": "2026-02-17 01:10:09",
+        "api_call_time_ms": 5772.93,
+        "current_time_local": "2026-02-17 01:15:09",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-16 19:40:09",
-    "generated_at": "2026-02-16 19:40:09 UTC",
+    "last_updated": "2026-02-16 19:45:09",
+    "generated_at": "2026-02-16 19:45:09 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 85407,
+        "file_size": 85417,
         "file_path": "matches.json"
     }
 }
