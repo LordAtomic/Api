@@ -33,6 +33,37 @@
             "isRecent": false
         },
         {
+            "id": 544448,
+            "home": "Girona",
+            "away": "Bar\u00e7a",
+            "homeScore": 0,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/298.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/81.png",
+            "status": "IN_PLAY",
+            "utcDate": "2026-02-16T20:00:00Z",
+            "localDate": "2026-02-17 01:30:00",
+            "localTime": "01:30",
+            "matchday": 24,
+            "competition": "Primera Division",
+            "competitionCode": "PD",
+            "isLive": true,
+            "isFinished": false,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "live",
+            "venue": "Girona FC (Home)",
+            "lastUpdated": "2026-02-16T20:05:24Z",
+            "referee": "C\u00e9sar Soto Grado",
+            "season": 24,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
+        },
+        {
             "id": 544449,
             "home": "Mallorca",
             "away": "Real Betis",
@@ -994,37 +1025,6 @@
             "isRecent": false
         },
         {
-            "id": 544448,
-            "home": "Girona",
-            "away": "Bar\u00e7a",
-            "homeScore": 0,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/298.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/81.png",
-            "status": "TIMED",
-            "utcDate": "2026-02-16T20:00:00Z",
-            "localDate": "2026-02-17 01:30:00",
-            "localTime": "01:30",
-            "matchday": 24,
-            "competition": "Primera Division",
-            "competitionCode": "PD",
-            "isLive": false,
-            "isFinished": false,
-            "isToday": true,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "today",
-            "venue": "Girona FC (Home)",
-            "lastUpdated": "2026-02-16T01:32:00Z",
-            "referee": "C\u00e9sar Soto Grado",
-            "season": 24,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 544364,
             "home": "Levante",
             "away": "Villarreal",
@@ -1052,7 +1052,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 2815,
+            "minutesUntilStart": 2810,
             "isRecent": false
         },
         {
@@ -1083,7 +1083,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 2860,
+            "minutesUntilStart": 2855,
             "isRecent": false
         },
         {
@@ -1114,7 +1114,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 2875,
+            "minutesUntilStart": 2870,
             "isRecent": false
         }
     ],
@@ -1150,11 +1150,8 @@
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
-            }
-        ],
-        "finished_today": [],
-        "today": {
-            "32": {
+            },
+            {
                 "id": 544448,
                 "home": "Girona",
                 "away": "Bar\u00e7a",
@@ -1162,30 +1159,32 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/298.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/81.png",
-                "status": "TIMED",
+                "status": "IN_PLAY",
                 "utcDate": "2026-02-16T20:00:00Z",
                 "localDate": "2026-02-17 01:30:00",
                 "localTime": "01:30",
                 "matchday": 24,
                 "competition": "Primera Division",
                 "competitionCode": "PD",
-                "isLive": false,
+                "isLive": true,
                 "isFinished": false,
-                "isToday": true,
+                "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "today",
+                "dayCategory": "live",
                 "venue": "Girona FC (Home)",
-                "lastUpdated": "2026-02-16T01:32:00Z",
+                "lastUpdated": "2026-02-16T20:05:24Z",
                 "referee": "C\u00e9sar Soto Grado",
                 "season": 24,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
             }
-        },
+        ],
+        "finished_today": [],
+        "today": [],
         "tomorrow": {
             "33": {
                 "id": 544364,
@@ -1215,7 +1214,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 2815,
+                "minutesUntilStart": 2810,
                 "isRecent": false
             },
             "34": {
@@ -1246,7 +1245,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 2860,
+                "minutesUntilStart": 2855,
                 "isRecent": false
             },
             "35": {
@@ -1277,13 +1276,13 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 2875,
+                "minutesUntilStart": 2870,
                 "isRecent": false
             }
         },
         "upcoming": [],
         "finished_yesterday": {
-            "1": {
+            "2": {
                 "id": 544449,
                 "home": "Mallorca",
                 "away": "Real Betis",
@@ -1314,7 +1313,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "2": {
+            "3": {
                 "id": 537062,
                 "home": "Napoli",
                 "away": "Roma",
@@ -1345,7 +1344,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "3": {
+            "4": {
                 "id": 542600,
                 "home": "Olympique Lyon",
                 "away": "Nice",
@@ -1379,7 +1378,7 @@
         },
         "finished_recent": [],
         "finished_older": {
-            "4": {
+            "5": {
                 "id": 544443,
                 "home": "Levante",
                 "away": "Valencia",
@@ -1410,7 +1409,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "5": {
+            "6": {
                 "id": 537057,
                 "home": "Torino",
                 "away": "Bologna",
@@ -1441,7 +1440,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "6": {
+            "7": {
                 "id": 540599,
                 "home": "RB Leipzig",
                 "away": "Wolfsburg",
@@ -1472,7 +1471,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "7": {
+            "8": {
                 "id": 542597,
                 "home": "Lorient",
                 "away": "Angers SCO",
@@ -1503,7 +1502,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "8": {
+            "9": {
                 "id": 542598,
                 "home": "FC Metz",
                 "away": "Auxerre",
@@ -1534,7 +1533,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "9": {
+            "10": {
                 "id": 544447,
                 "home": "Rayo Vallecano",
                 "away": "Atleti",
@@ -1565,7 +1564,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "10": {
+            "11": {
                 "id": 540602,
                 "home": "Augsburg",
                 "away": "Heidenheim",
@@ -1596,7 +1595,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "11": {
+            "12": {
                 "id": 537060,
                 "home": "Parma",
                 "away": "Verona",
@@ -1627,7 +1626,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "12": {
+            "13": {
                 "id": 537064,
                 "home": "Cremonese",
                 "away": "Genoa",
@@ -1658,7 +1657,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "13": {
+            "14": {
                 "id": 542595,
                 "home": "Le Havre",
                 "away": "Toulouse",
@@ -1689,7 +1688,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "14": {
+            "15": {
                 "id": 544446,
                 "home": "Real Oviedo",
                 "away": "Athletic",
@@ -1720,7 +1719,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "15": {
+            "16": {
                 "id": 537063,
                 "home": "Udinese",
                 "away": "Sassuolo",
@@ -1751,7 +1750,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "16": {
+            "17": {
                 "id": 542599,
                 "home": "Paris FC",
                 "away": "RC Lens",
@@ -1782,7 +1781,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "17": {
+            "18": {
                 "id": 544444,
                 "home": "Real Madrid",
                 "away": "Real Sociedad",
@@ -1813,7 +1812,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "18": {
+            "19": {
                 "id": 537058,
                 "home": "Inter",
                 "away": "Juventus",
@@ -1844,7 +1843,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "19": {
+            "20": {
                 "id": 542602,
                 "home": "Lille",
                 "away": "Brest",
@@ -1875,7 +1874,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "20": {
+            "21": {
                 "id": 544445,
                 "home": "Sevilla FC",
                 "away": "Alav\u00e9s",
@@ -1906,7 +1905,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "21": {
+            "22": {
                 "id": 540603,
                 "home": "Stuttgart",
                 "away": "1. FC K\u00f6ln",
@@ -1937,7 +1936,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "22": {
+            "23": {
                 "id": 537059,
                 "home": "Lazio",
                 "away": "Atalanta",
@@ -1968,7 +1967,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "23": {
+            "24": {
                 "id": 542601,
                 "home": "Marseille",
                 "away": "Strasbourg",
@@ -1999,7 +1998,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "24": {
+            "25": {
                 "id": 544442,
                 "home": "Getafe",
                 "away": "Villarreal",
@@ -2030,7 +2029,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "25": {
+            "26": {
                 "id": 540595,
                 "home": "Bremen",
                 "away": "Bayern",
@@ -2061,7 +2060,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "26": {
+            "27": {
                 "id": 540596,
                 "home": "Hoffenheim",
                 "away": "Freiburg",
@@ -2092,7 +2091,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "27": {
+            "28": {
                 "id": 540598,
                 "home": "Frankfurt",
                 "away": "M'gladbach",
@@ -2123,7 +2122,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "28": {
+            "29": {
                 "id": 540600,
                 "home": "HSV",
                 "away": "Union Berlin",
@@ -2154,7 +2153,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "29": {
+            "30": {
                 "id": 540601,
                 "home": "Leverkusen",
                 "away": "St. Pauli",
@@ -2185,7 +2184,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "30": {
+            "31": {
                 "id": 537056,
                 "home": "Como 1907",
                 "away": "Fiorentina",
@@ -2216,7 +2215,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "31": {
+            "32": {
                 "id": 544450,
                 "home": "Espanyol",
                 "away": "Celta",
@@ -2251,8 +2250,8 @@
     },
     "stats": {
         "total_matches": 36,
-        "live_matches": 1,
-        "today_matches": 1,
+        "live_matches": 2,
+        "today_matches": 0,
         "tomorrow_matches": 3,
         "finished_today": 0,
         "finished_recent": 0
@@ -2269,19 +2268,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 5461.57,
-        "current_time_local": "2026-02-17 01:35:09",
+        "api_call_time_ms": 7628.89,
+        "current_time_local": "2026-02-17 01:40:11",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-16 20:05:09",
-    "generated_at": "2026-02-16 20:05:09 UTC",
+    "last_updated": "2026-02-16 20:10:11",
+    "generated_at": "2026-02-16 20:10:11 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 85443,
+        "file_size": 85432,
         "file_path": "matches.json"
     }
 }
