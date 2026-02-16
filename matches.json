@@ -6,7 +6,7 @@
             "home": "Cagliari",
             "away": "Lecce",
             "homeScore": 0,
-            "awayScore": 1,
+            "awayScore": 2,
             "homeLogo": "https:\/\/crests.football-data.org\/104.png",
             "awayLogo": "https:\/\/crests.football-data.org\/5890.png",
             "status": "IN_PLAY",
@@ -25,7 +25,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Cagliari Calcio (Home)",
-            "lastUpdated": "2026-02-16T21:14:53Z",
+            "lastUpdated": "2026-02-16T21:26:13Z",
             "referee": "Ermanno Feliciani",
             "season": 25,
             "group": null,
@@ -36,7 +36,7 @@
             "id": 544448,
             "home": "Girona",
             "away": "Bar\u00e7a",
-            "homeScore": 0,
+            "homeScore": 1,
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/298.png",
             "awayLogo": "https:\/\/crests.football-data.org\/81.png",
@@ -56,7 +56,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Girona FC (Home)",
-            "lastUpdated": "2026-02-16T21:23:53Z",
+            "lastUpdated": "2026-02-16T21:25:13Z",
             "referee": "C\u00e9sar Soto Grado",
             "season": 24,
             "group": null,
@@ -1052,7 +1052,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 2735,
+            "minutesUntilStart": 2730,
             "isRecent": false
         },
         {
@@ -1083,7 +1083,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 2780,
+            "minutesUntilStart": 2775,
             "isRecent": false
         },
         {
@@ -1114,7 +1114,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 2795,
+            "minutesUntilStart": 2790,
             "isRecent": false
         }
     ],
@@ -1125,7 +1125,7 @@
                 "home": "Cagliari",
                 "away": "Lecce",
                 "homeScore": 0,
-                "awayScore": 1,
+                "awayScore": 2,
                 "homeLogo": "https:\/\/crests.football-data.org\/104.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/5890.png",
                 "status": "IN_PLAY",
@@ -1144,7 +1144,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Cagliari Calcio (Home)",
-                "lastUpdated": "2026-02-16T21:14:53Z",
+                "lastUpdated": "2026-02-16T21:26:13Z",
                 "referee": "Ermanno Feliciani",
                 "season": 25,
                 "group": null,
@@ -1155,7 +1155,7 @@
                 "id": 544448,
                 "home": "Girona",
                 "away": "Bar\u00e7a",
-                "homeScore": 0,
+                "homeScore": 1,
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/298.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/81.png",
@@ -1175,7 +1175,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Girona FC (Home)",
-                "lastUpdated": "2026-02-16T21:23:53Z",
+                "lastUpdated": "2026-02-16T21:25:13Z",
                 "referee": "C\u00e9sar Soto Grado",
                 "season": 24,
                 "group": null,
@@ -1214,7 +1214,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 2735,
+                "minutesUntilStart": 2730,
                 "isRecent": false
             },
             "34": {
@@ -1245,7 +1245,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 2780,
+                "minutesUntilStart": 2775,
                 "isRecent": false
             },
             "35": {
@@ -1276,7 +1276,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 2795,
+                "minutesUntilStart": 2790,
                 "isRecent": false
             }
         },
@@ -2268,19 +2268,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 5293.42,
-        "current_time_local": "2026-02-17 02:55:09",
+        "api_call_time_ms": 12175.68,
+        "current_time_local": "2026-02-17 03:00:16",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-16 21:25:09",
-    "generated_at": "2026-02-16 21:25:09 UTC",
+    "last_updated": "2026-02-16 21:30:16",
+    "generated_at": "2026-02-16 21:30:16 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 85432,
+        "file_size": 85433,
         "file_path": "matches.json"
     }
 }
