@@ -6,7 +6,7 @@
             "home": "Cagliari",
             "away": "Lecce",
             "homeScore": 0,
-            "awayScore": 0,
+            "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/104.png",
             "awayLogo": "https:\/\/crests.football-data.org\/5890.png",
             "status": "IN_PLAY",
@@ -25,7 +25,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Cagliari Calcio (Home)",
-            "lastUpdated": "2026-02-16T20:55:04Z",
+            "lastUpdated": "2026-02-16T21:14:53Z",
             "referee": "Ermanno Feliciani",
             "season": 25,
             "group": null,
@@ -1052,7 +1052,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 2750,
+            "minutesUntilStart": 2745,
             "isRecent": false
         },
         {
@@ -1083,7 +1083,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 2795,
+            "minutesUntilStart": 2790,
             "isRecent": false
         },
         {
@@ -1114,7 +1114,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 2810,
+            "minutesUntilStart": 2805,
             "isRecent": false
         }
     ],
@@ -1125,7 +1125,7 @@
                 "home": "Cagliari",
                 "away": "Lecce",
                 "homeScore": 0,
-                "awayScore": 0,
+                "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/104.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/5890.png",
                 "status": "IN_PLAY",
@@ -1144,7 +1144,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Cagliari Calcio (Home)",
-                "lastUpdated": "2026-02-16T20:55:04Z",
+                "lastUpdated": "2026-02-16T21:14:53Z",
                 "referee": "Ermanno Feliciani",
                 "season": 25,
                 "group": null,
@@ -1214,7 +1214,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 2750,
+                "minutesUntilStart": 2745,
                 "isRecent": false
             },
             "34": {
@@ -1245,7 +1245,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 2795,
+                "minutesUntilStart": 2790,
                 "isRecent": false
             },
             "35": {
@@ -1276,7 +1276,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 2810,
+                "minutesUntilStart": 2805,
                 "isRecent": false
             }
         },
@@ -2268,19 +2268,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 8581.4,
-        "current_time_local": "2026-02-17 02:40:13",
+        "api_call_time_ms": 5038.04,
+        "current_time_local": "2026-02-17 02:45:08",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-16 21:10:13",
-    "generated_at": "2026-02-16 21:10:13 UTC",
+    "last_updated": "2026-02-16 21:15:08",
+    "generated_at": "2026-02-16 21:15:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 85431,
+        "file_size": 85432,
         "file_path": "matches.json"
     }
 }
