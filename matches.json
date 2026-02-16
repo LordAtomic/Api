@@ -1014,14 +1014,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4m",
+            "timeUntilStart": null,
             "dayCategory": "today",
             "venue": "Girona FC (Home)",
             "lastUpdated": "2026-02-16T01:32:00Z",
             "referee": "C\u00e9sar Soto Grado",
             "season": 24,
             "group": null,
-            "minutesUntilStart": 5,
+            "minutesUntilStart": null,
             "isRecent": false
         },
         {
@@ -1052,7 +1052,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 2825,
+            "minutesUntilStart": 2820,
             "isRecent": false
         },
         {
@@ -1083,7 +1083,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 2870,
+            "minutesUntilStart": 2865,
             "isRecent": false
         },
         {
@@ -1107,14 +1107,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2 days",
+            "timeUntilStart": "Tomorrow",
             "dayCategory": "tomorrow",
             "venue": "Wolverhampton Wanderers FC (Home)",
             "lastUpdated": "2026-02-16T00:20:57Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 2885,
+            "minutesUntilStart": 2880,
             "isRecent": false
         }
     ],
@@ -1175,14 +1175,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4m",
+                "timeUntilStart": null,
                 "dayCategory": "today",
                 "venue": "Girona FC (Home)",
                 "lastUpdated": "2026-02-16T01:32:00Z",
                 "referee": "C\u00e9sar Soto Grado",
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 5,
+                "minutesUntilStart": null,
                 "isRecent": false
             }
         },
@@ -1215,7 +1215,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 2825,
+                "minutesUntilStart": 2820,
                 "isRecent": false
             },
             "34": {
@@ -1246,7 +1246,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 2870,
+                "minutesUntilStart": 2865,
                 "isRecent": false
             },
             "35": {
@@ -1270,14 +1270,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2 days",
+                "timeUntilStart": "Tomorrow",
                 "dayCategory": "tomorrow",
                 "venue": "Wolverhampton Wanderers FC (Home)",
                 "lastUpdated": "2026-02-16T00:20:57Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 2885,
+                "minutesUntilStart": 2880,
                 "isRecent": false
             }
         },
@@ -2269,19 +2269,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 6937.65,
-        "current_time_local": "2026-02-17 01:25:10",
+        "api_call_time_ms": 11831.41,
+        "current_time_local": "2026-02-17 01:30:17",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-16 19:55:10",
-    "generated_at": "2026-02-16 19:55:10 UTC",
+    "last_updated": "2026-02-16 20:00:17",
+    "generated_at": "2026-02-16 20:00:17 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 85433,
+        "file_size": 85444,
         "file_path": "matches.json"
     }
 }
