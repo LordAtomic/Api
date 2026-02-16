@@ -30,7 +30,7 @@
             "season": 24,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": true
+            "isRecent": false
         },
         {
             "id": 537062,
@@ -983,14 +983,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "17h 49m",
+            "timeUntilStart": "17h 44m",
             "dayCategory": "tomorrow",
             "venue": "Cagliari Calcio (Home)",
             "lastUpdated": "2026-02-15T01:32:01Z",
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 1070,
+            "minutesUntilStart": 1065,
             "isRecent": false
         },
         {
@@ -1014,14 +1014,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "18h 4m",
+            "timeUntilStart": "17h 59m",
             "dayCategory": "tomorrow",
             "venue": "Girona FC (Home)",
             "lastUpdated": "2026-02-15T01:32:01Z",
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 1085,
+            "minutesUntilStart": 1080,
             "isRecent": false
         },
         {
@@ -1052,7 +1052,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 3905,
+            "minutesUntilStart": 3900,
             "isRecent": false
         },
         {
@@ -1083,7 +1083,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 3950,
+            "minutesUntilStart": 3945,
             "isRecent": false
         },
         {
@@ -1114,7 +1114,7 @@
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 3965,
+            "minutesUntilStart": 3960,
             "isRecent": false
         }
     ],
@@ -1150,7 +1150,7 @@
                 "season": 24,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
             {
                 "id": 537062,
@@ -1238,14 +1238,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "17h 49m",
+                "timeUntilStart": "17h 44m",
                 "dayCategory": "tomorrow",
                 "venue": "Cagliari Calcio (Home)",
                 "lastUpdated": "2026-02-15T01:32:01Z",
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 1070,
+                "minutesUntilStart": 1065,
                 "isRecent": false
             },
             "32": {
@@ -1269,14 +1269,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "18h 4m",
+                "timeUntilStart": "17h 59m",
                 "dayCategory": "tomorrow",
                 "venue": "Girona FC (Home)",
                 "lastUpdated": "2026-02-15T01:32:01Z",
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 1085,
+                "minutesUntilStart": 1080,
                 "isRecent": false
             },
             "33": {
@@ -1307,7 +1307,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 3905,
+                "minutesUntilStart": 3900,
                 "isRecent": false
             },
             "34": {
@@ -1338,7 +1338,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 3950,
+                "minutesUntilStart": 3945,
                 "isRecent": false
             },
             "35": {
@@ -1369,7 +1369,7 @@
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 3965,
+                "minutesUntilStart": 3960,
                 "isRecent": false
             }
         },
@@ -2268,19 +2268,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 5225.45,
-        "current_time_local": "2026-02-16 07:25:08",
+        "api_call_time_ms": 8599.87,
+        "current_time_local": "2026-02-16 07:30:13",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-16 01:55:08",
-    "generated_at": "2026-02-16 01:55:08 UTC",
+    "last_updated": "2026-02-16 02:00:13",
+    "generated_at": "2026-02-16 02:00:13 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 85631,
+        "file_size": 85635,
         "file_path": "matches.json"
     }
 }
