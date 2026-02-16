@@ -40,7 +40,7 @@
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/298.png",
             "awayLogo": "https:\/\/crests.football-data.org\/81.png",
-            "status": "PAUSED",
+            "status": "IN_PLAY",
             "utcDate": "2026-02-16T20:00:00Z",
             "localDate": "2026-02-17 01:30:00",
             "localTime": "01:30",
@@ -56,7 +56,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Girona FC (Home)",
-            "lastUpdated": "2026-02-16T20:53:55Z",
+            "lastUpdated": "2026-02-16T21:09:13Z",
             "referee": "C\u00e9sar Soto Grado",
             "season": 24,
             "group": null,
@@ -1052,7 +1052,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 2755,
+            "minutesUntilStart": 2750,
             "isRecent": false
         },
         {
@@ -1083,7 +1083,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 2800,
+            "minutesUntilStart": 2795,
             "isRecent": false
         },
         {
@@ -1114,7 +1114,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 2815,
+            "minutesUntilStart": 2810,
             "isRecent": false
         }
     ],
@@ -1159,7 +1159,7 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/298.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/81.png",
-                "status": "PAUSED",
+                "status": "IN_PLAY",
                 "utcDate": "2026-02-16T20:00:00Z",
                 "localDate": "2026-02-17 01:30:00",
                 "localTime": "01:30",
@@ -1175,7 +1175,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Girona FC (Home)",
-                "lastUpdated": "2026-02-16T20:53:55Z",
+                "lastUpdated": "2026-02-16T21:09:13Z",
                 "referee": "C\u00e9sar Soto Grado",
                 "season": 24,
                 "group": null,
@@ -1214,7 +1214,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 2755,
+                "minutesUntilStart": 2750,
                 "isRecent": false
             },
             "34": {
@@ -1245,7 +1245,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 2800,
+                "minutesUntilStart": 2795,
                 "isRecent": false
             },
             "35": {
@@ -1276,7 +1276,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 2815,
+                "minutesUntilStart": 2810,
                 "isRecent": false
             }
         },
@@ -2268,19 +2268,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 5735.93,
-        "current_time_local": "2026-02-17 02:35:09",
+        "api_call_time_ms": 8581.4,
+        "current_time_local": "2026-02-17 02:40:13",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-16 21:05:09",
-    "generated_at": "2026-02-16 21:05:09 UTC",
+    "last_updated": "2026-02-16 21:10:13",
+    "generated_at": "2026-02-16 21:10:13 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 85430,
+        "file_size": 85431,
         "file_path": "matches.json"
     }
 }
