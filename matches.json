@@ -20,10 +20,10 @@
             "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
-            "isYesterday": false,
+            "isYesterday": true,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "finished_today",
+            "dayCategory": "finished_yesterday",
             "venue": "Girona FC (Home)",
             "lastUpdated": "2026-02-17T00:20:28Z",
             "referee": "C\u00e9sar Soto Grado",
@@ -51,10 +51,10 @@
             "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
-            "isYesterday": false,
+            "isYesterday": true,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "finished_today",
+            "dayCategory": "finished_yesterday",
             "venue": "Cagliari Calcio (Home)",
             "lastUpdated": "2026-02-17T00:20:28Z",
             "referee": "Ermanno Feliciani",
@@ -82,10 +82,10 @@
             "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
-            "isYesterday": true,
+            "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
+            "dayCategory": "finished",
             "venue": "RCD Mallorca (Home)",
             "lastUpdated": "2026-02-17T00:20:28Z",
             "referee": "Isidro D\u00edaz de Mera",
@@ -113,10 +113,10 @@
             "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
-            "isYesterday": true,
+            "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
+            "dayCategory": "finished",
             "venue": "SSC Napoli (Home)",
             "lastUpdated": "2026-02-17T00:20:28Z",
             "referee": "Andrea Colombo",
@@ -144,10 +144,10 @@
             "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
-            "isYesterday": true,
+            "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
+            "dayCategory": "finished",
             "venue": "Olympique Lyonnais (Home)",
             "lastUpdated": "2026-02-17T00:20:28Z",
             "referee": "Thomas L\u00e9onard",
@@ -556,7 +556,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 1475,
+            "minutesUntilStart": 1470,
             "isRecent": false
         },
         {
@@ -587,7 +587,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 1520,
+            "minutesUntilStart": 1515,
             "isRecent": false
         },
         {
@@ -618,7 +618,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 1535,
+            "minutesUntilStart": 1530,
             "isRecent": false
         },
         {
@@ -649,7 +649,7 @@
             "referee": null,
             "season": 22,
             "group": null,
-            "minutesUntilStart": 4385,
+            "minutesUntilStart": 4380,
             "isRecent": false
         },
         {
@@ -680,7 +680,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 4400,
+            "minutesUntilStart": 4395,
             "isRecent": false
         },
         {
@@ -711,7 +711,7 @@
             "referee": null,
             "season": 22,
             "group": null,
-            "minutesUntilStart": 4400,
+            "minutesUntilStart": 4395,
             "isRecent": false
         },
         {
@@ -742,76 +742,13 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 4415,
+            "minutesUntilStart": 4410,
             "isRecent": false
         }
     ],
     "grouped_matches": {
         "live": [],
-        "finished_today": [
-            {
-                "id": 544448,
-                "home": "Girona",
-                "away": "Bar\u00e7a",
-                "homeScore": 2,
-                "awayScore": 1,
-                "homeLogo": "https:\/\/crests.football-data.org\/298.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/81.png",
-                "status": "FINISHED",
-                "utcDate": "2026-02-16T20:00:00Z",
-                "localDate": "2026-02-17 01:30:00",
-                "localTime": "01:30",
-                "matchday": 24,
-                "competition": "Primera Division",
-                "competitionCode": "PD",
-                "isLive": false,
-                "isFinished": true,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "finished_today",
-                "venue": "Girona FC (Home)",
-                "lastUpdated": "2026-02-17T00:20:28Z",
-                "referee": "C\u00e9sar Soto Grado",
-                "season": 24,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
-            {
-                "id": 537055,
-                "home": "Cagliari",
-                "away": "Lecce",
-                "homeScore": 0,
-                "awayScore": 2,
-                "homeLogo": "https:\/\/crests.football-data.org\/104.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/5890.png",
-                "status": "FINISHED",
-                "utcDate": "2026-02-16T19:45:00Z",
-                "localDate": "2026-02-17 01:15:00",
-                "localTime": "01:15",
-                "matchday": 25,
-                "competition": "Serie A",
-                "competitionCode": "SA",
-                "isLive": false,
-                "isFinished": true,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "finished_today",
-                "venue": "Cagliari Calcio (Home)",
-                "lastUpdated": "2026-02-17T00:20:28Z",
-                "referee": "Ermanno Feliciani",
-                "season": 25,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
+        "finished_today": [],
         "today": [],
         "tomorrow": {
             "17": {
@@ -842,7 +779,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 1475,
+                "minutesUntilStart": 1470,
                 "isRecent": false
             },
             "18": {
@@ -873,7 +810,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 1520,
+                "minutesUntilStart": 1515,
                 "isRecent": false
             },
             "19": {
@@ -904,7 +841,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 1535,
+                "minutesUntilStart": 1530,
                 "isRecent": false
             },
             "20": {
@@ -935,7 +872,7 @@
                 "referee": null,
                 "season": 22,
                 "group": null,
-                "minutesUntilStart": 4385,
+                "minutesUntilStart": 4380,
                 "isRecent": false
             },
             "21": {
@@ -966,7 +903,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 4400,
+                "minutesUntilStart": 4395,
                 "isRecent": false
             },
             "22": {
@@ -997,7 +934,7 @@
                 "referee": null,
                 "season": 22,
                 "group": null,
-                "minutesUntilStart": 4400,
+                "minutesUntilStart": 4395,
                 "isRecent": false
             },
             "23": {
@@ -1028,12 +965,77 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 4415,
+                "minutesUntilStart": 4410,
                 "isRecent": false
             }
         },
         "upcoming": [],
-        "finished_yesterday": {
+        "finished_yesterday": [
+            {
+                "id": 544448,
+                "home": "Girona",
+                "away": "Bar\u00e7a",
+                "homeScore": 2,
+                "awayScore": 1,
+                "homeLogo": "https:\/\/crests.football-data.org\/298.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/81.png",
+                "status": "FINISHED",
+                "utcDate": "2026-02-16T20:00:00Z",
+                "localDate": "2026-02-17 01:30:00",
+                "localTime": "01:30",
+                "matchday": 24,
+                "competition": "Primera Division",
+                "competitionCode": "PD",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": true,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_yesterday",
+                "venue": "Girona FC (Home)",
+                "lastUpdated": "2026-02-17T00:20:28Z",
+                "referee": "C\u00e9sar Soto Grado",
+                "season": 24,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": false
+            },
+            {
+                "id": 537055,
+                "home": "Cagliari",
+                "away": "Lecce",
+                "homeScore": 0,
+                "awayScore": 2,
+                "homeLogo": "https:\/\/crests.football-data.org\/104.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/5890.png",
+                "status": "FINISHED",
+                "utcDate": "2026-02-16T19:45:00Z",
+                "localDate": "2026-02-17 01:15:00",
+                "localTime": "01:15",
+                "matchday": 25,
+                "competition": "Serie A",
+                "competitionCode": "SA",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": true,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_yesterday",
+                "venue": "Cagliari Calcio (Home)",
+                "lastUpdated": "2026-02-17T00:20:28Z",
+                "referee": "Ermanno Feliciani",
+                "season": 25,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": false
+            }
+        ],
+        "finished_recent": [],
+        "finished_older": {
             "2": {
                 "id": 544449,
                 "home": "Mallorca",
@@ -1053,10 +1055,10 @@
                 "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
-                "isYesterday": true,
+                "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "finished_yesterday",
+                "dayCategory": "finished",
                 "venue": "RCD Mallorca (Home)",
                 "lastUpdated": "2026-02-17T00:20:28Z",
                 "referee": "Isidro D\u00edaz de Mera",
@@ -1084,10 +1086,10 @@
                 "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
-                "isYesterday": true,
+                "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "finished_yesterday",
+                "dayCategory": "finished",
                 "venue": "SSC Napoli (Home)",
                 "lastUpdated": "2026-02-17T00:20:28Z",
                 "referee": "Andrea Colombo",
@@ -1115,10 +1117,10 @@
                 "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
-                "isYesterday": true,
+                "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "finished_yesterday",
+                "dayCategory": "finished",
                 "venue": "Olympique Lyonnais (Home)",
                 "lastUpdated": "2026-02-17T00:20:28Z",
                 "referee": "Thomas L\u00e9onard",
@@ -1126,10 +1128,7 @@
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
-            }
-        },
-        "finished_recent": [],
-        "finished_older": {
+            },
             "5": {
                 "id": 544443,
                 "home": "Levante",
@@ -1509,7 +1508,7 @@
         "live_matches": 0,
         "today_matches": 0,
         "tomorrow_matches": 7,
-        "finished_today": 2,
+        "finished_today": 0,
         "finished_recent": 0
     },
     "query_info": {
@@ -1524,19 +1523,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 5589.6,
-        "current_time_local": "2026-02-17 23:55:09",
+        "api_call_time_ms": 12455.48,
+        "current_time_local": "2026-02-18 00:00:17",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-17 18:25:09",
-    "generated_at": "2026-02-17 18:25:09 UTC",
+    "last_updated": "2026-02-17 18:30:17",
+    "generated_at": "2026-02-17 18:30:17 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 57149,
+        "file_size": 57101,
         "file_path": "matches.json"
     }
 }
