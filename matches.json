@@ -9,7 +9,7 @@
             "awayScore": 2,
             "homeLogo": "https:\/\/crests.football-data.org\/44.png",
             "awayLogo": "https:\/\/crests.football-data.org\/10.png",
-            "status": "PAUSED",
+            "status": "IN_PLAY",
             "utcDate": "2026-02-22T18:30:00Z",
             "localDate": "2026-02-23 00:00:00",
             "localTime": "00:00",
@@ -25,7 +25,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "1. FC Heidenheim 1846 (Home)",
-            "lastUpdated": "2026-02-22T19:27:36Z",
+            "lastUpdated": "2026-02-22T19:43:55Z",
             "referee": "Sascha Stegemann",
             "season": 23,
             "group": null,
@@ -1293,14 +1293,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4m",
+            "timeUntilStart": null,
             "dayCategory": "today",
             "venue": "AS Roma (Home)",
             "lastUpdated": "2026-02-16T01:32:04Z",
             "referee": "Marco Di Bello",
             "season": 26,
             "group": null,
-            "minutesUntilStart": 5,
+            "minutesUntilStart": null,
             "isRecent": false
         },
         {
@@ -1324,14 +1324,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4m",
+            "timeUntilStart": null,
             "dayCategory": "today",
             "venue": "RC Strasbourg Alsace (Home)",
             "lastUpdated": "2026-02-22T01:32:01Z",
             "referee": "Ruddy Buquet",
             "season": 23,
             "group": null,
-            "minutesUntilStart": 5,
+            "minutesUntilStart": null,
             "isRecent": false
         },
         {
@@ -1355,14 +1355,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "19m",
+            "timeUntilStart": "14m",
             "dayCategory": "today",
             "venue": "Villarreal CF (Home)",
             "lastUpdated": "2026-02-22T01:32:01Z",
             "referee": "Jes\u00fas Gil Manzano",
             "season": 25,
             "group": null,
-            "minutesUntilStart": 20,
+            "minutesUntilStart": 15,
             "isRecent": false
         },
         {
@@ -1386,14 +1386,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 49m",
+            "timeUntilStart": "21h 44m",
             "dayCategory": "today",
             "venue": "ACF Fiorentina (Home)",
             "lastUpdated": "2026-02-17T01:32:03Z",
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 1310,
+            "minutesUntilStart": 1305,
             "isRecent": false
         },
         {
@@ -1417,14 +1417,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "Tomorrow",
+            "timeUntilStart": "23h 59m",
             "dayCategory": "tomorrow",
             "venue": "Bologna FC 1909 (Home)",
             "lastUpdated": "2026-02-22T01:32:01Z",
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 1445,
+            "minutesUntilStart": 1440,
             "isRecent": false
         },
         {
@@ -1455,7 +1455,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 1460,
+            "minutesUntilStart": 1455,
             "isRecent": false
         },
         {
@@ -1486,7 +1486,7 @@
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 1460,
+            "minutesUntilStart": 1455,
             "isRecent": false
         }
     ],
@@ -1500,7 +1500,7 @@
                 "awayScore": 2,
                 "homeLogo": "https:\/\/crests.football-data.org\/44.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/10.png",
-                "status": "PAUSED",
+                "status": "IN_PLAY",
                 "utcDate": "2026-02-22T18:30:00Z",
                 "localDate": "2026-02-23 00:00:00",
                 "localTime": "00:00",
@@ -1516,7 +1516,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "1. FC Heidenheim 1846 (Home)",
-                "lastUpdated": "2026-02-22T19:27:36Z",
+                "lastUpdated": "2026-02-22T19:43:55Z",
                 "referee": "Sascha Stegemann",
                 "season": 23,
                 "group": null,
@@ -1547,14 +1547,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4m",
+                "timeUntilStart": null,
                 "dayCategory": "today",
                 "venue": "AS Roma (Home)",
                 "lastUpdated": "2026-02-16T01:32:04Z",
                 "referee": "Marco Di Bello",
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 5,
+                "minutesUntilStart": null,
                 "isRecent": false
             },
             "42": {
@@ -1578,14 +1578,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4m",
+                "timeUntilStart": null,
                 "dayCategory": "today",
                 "venue": "RC Strasbourg Alsace (Home)",
                 "lastUpdated": "2026-02-22T01:32:01Z",
                 "referee": "Ruddy Buquet",
                 "season": 23,
                 "group": null,
-                "minutesUntilStart": 5,
+                "minutesUntilStart": null,
                 "isRecent": false
             },
             "43": {
@@ -1609,14 +1609,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "19m",
+                "timeUntilStart": "14m",
                 "dayCategory": "today",
                 "venue": "Villarreal CF (Home)",
                 "lastUpdated": "2026-02-22T01:32:01Z",
                 "referee": "Jes\u00fas Gil Manzano",
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 20,
+                "minutesUntilStart": 15,
                 "isRecent": false
             },
             "44": {
@@ -1640,14 +1640,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 49m",
+                "timeUntilStart": "21h 44m",
                 "dayCategory": "today",
                 "venue": "ACF Fiorentina (Home)",
                 "lastUpdated": "2026-02-17T01:32:03Z",
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 1310,
+                "minutesUntilStart": 1305,
                 "isRecent": false
             }
         },
@@ -1673,14 +1673,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "Tomorrow",
+                "timeUntilStart": "23h 59m",
                 "dayCategory": "tomorrow",
                 "venue": "Bologna FC 1909 (Home)",
                 "lastUpdated": "2026-02-22T01:32:01Z",
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 1445,
+                "minutesUntilStart": 1440,
                 "isRecent": false
             },
             "46": {
@@ -1711,7 +1711,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 1460,
+                "minutesUntilStart": 1455,
                 "isRecent": false
             },
             "47": {
@@ -1742,7 +1742,7 @@
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 1460,
+                "minutesUntilStart": 1455,
                 "isRecent": false
             }
         },
@@ -3013,19 +3013,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 8374.57,
-        "current_time_local": "2026-02-23 01:10:14",
+        "api_call_time_ms": 6091.46,
+        "current_time_local": "2026-02-23 01:15:10",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-22 19:40:14",
-    "generated_at": "2026-02-22 19:40:14 UTC",
+    "last_updated": "2026-02-22 19:45:10",
+    "generated_at": "2026-02-22 19:45:10 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113797,
+        "file_size": 113809,
         "file_path": "matches.json"
     }
 }
