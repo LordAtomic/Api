@@ -9,28 +9,28 @@
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/94.png",
             "awayLogo": "https:\/\/crests.football-data.org\/95.png",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "utcDate": "2026-02-22T20:00:00Z",
             "localDate": "2026-02-23 01:30:00",
             "localTime": "01:30",
             "matchday": 25,
             "competition": "Primera Division",
             "competitionCode": "PD",
-            "isLive": true,
-            "isFinished": false,
+            "isLive": false,
+            "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "live",
+            "dayCategory": "finished_today",
             "venue": "Villarreal CF (Home)",
-            "lastUpdated": "2026-02-22T21:17:28Z",
+            "lastUpdated": "2026-02-22T22:06:22Z",
             "referee": "Jes\u00fas Gil Manzano",
             "season": 25,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
+            "isRecent": true
         },
         {
             "id": 537067,
@@ -1386,14 +1386,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "19h 24m",
+            "timeUntilStart": "19h 19m",
             "dayCategory": "today",
             "venue": "ACF Fiorentina (Home)",
             "lastUpdated": "2026-02-17T01:32:03Z",
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 1165,
+            "minutesUntilStart": 1160,
             "isRecent": false
         },
         {
@@ -1417,14 +1417,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 39m",
+            "timeUntilStart": "21h 34m",
             "dayCategory": "tomorrow",
             "venue": "Bologna FC 1909 (Home)",
             "lastUpdated": "2026-02-22T01:32:01Z",
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 1300,
+            "minutesUntilStart": 1295,
             "isRecent": false
         },
         {
@@ -1448,14 +1448,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 54m",
+            "timeUntilStart": "21h 49m",
             "dayCategory": "tomorrow",
             "venue": "Everton FC (Home)",
             "lastUpdated": "2026-02-22T01:32:01Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 1315,
+            "minutesUntilStart": 1310,
             "isRecent": false
         },
         {
@@ -1479,19 +1479,20 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 54m",
+            "timeUntilStart": "21h 49m",
             "dayCategory": "tomorrow",
             "venue": "Deportivo Alav\u00e9s (Home)",
             "lastUpdated": "2026-02-22T01:32:01Z",
             "referee": null,
             "season": 25,
             "group": null,
-            "minutesUntilStart": 1315,
+            "minutesUntilStart": 1310,
             "isRecent": false
         }
     ],
     "grouped_matches": {
-        "live": [
+        "live": [],
+        "finished_today": [
             {
                 "id": 544459,
                 "home": "Villarreal",
@@ -1500,32 +1501,30 @@
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/94.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/95.png",
-                "status": "IN_PLAY",
+                "status": "FINISHED",
                 "utcDate": "2026-02-22T20:00:00Z",
                 "localDate": "2026-02-23 01:30:00",
                 "localTime": "01:30",
                 "matchday": 25,
                 "competition": "Primera Division",
                 "competitionCode": "PD",
-                "isLive": true,
-                "isFinished": false,
+                "isLive": false,
+                "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "live",
+                "dayCategory": "finished_today",
                 "venue": "Villarreal CF (Home)",
-                "lastUpdated": "2026-02-22T21:17:28Z",
+                "lastUpdated": "2026-02-22T22:06:22Z",
                 "referee": "Jes\u00fas Gil Manzano",
                 "season": 25,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
-        "finished_today": {
-            "1": {
+                "isRecent": true
+            },
+            {
                 "id": 537067,
                 "home": "Roma",
                 "away": "Cremonese",
@@ -1556,7 +1555,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "2": {
+            {
                 "id": 542609,
                 "home": "Strasbourg",
                 "away": "Olympique Lyon",
@@ -1587,7 +1586,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "3": {
+            {
                 "id": 540608,
                 "home": "Heidenheim",
                 "away": "Stuttgart",
@@ -1618,7 +1617,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             }
-        },
+        ],
         "today": {
             "44": {
                 "id": 537065,
@@ -1641,14 +1640,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "19h 24m",
+                "timeUntilStart": "19h 19m",
                 "dayCategory": "today",
                 "venue": "ACF Fiorentina (Home)",
                 "lastUpdated": "2026-02-17T01:32:03Z",
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 1165,
+                "minutesUntilStart": 1160,
                 "isRecent": false
             }
         },
@@ -1674,14 +1673,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 39m",
+                "timeUntilStart": "21h 34m",
                 "dayCategory": "tomorrow",
                 "venue": "Bologna FC 1909 (Home)",
                 "lastUpdated": "2026-02-22T01:32:01Z",
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 1300,
+                "minutesUntilStart": 1295,
                 "isRecent": false
             },
             "46": {
@@ -1705,14 +1704,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 54m",
+                "timeUntilStart": "21h 49m",
                 "dayCategory": "tomorrow",
                 "venue": "Everton FC (Home)",
                 "lastUpdated": "2026-02-22T01:32:01Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 1315,
+                "minutesUntilStart": 1310,
                 "isRecent": false
             },
             "47": {
@@ -1736,14 +1735,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 54m",
+                "timeUntilStart": "21h 49m",
                 "dayCategory": "tomorrow",
                 "venue": "Deportivo Alav\u00e9s (Home)",
                 "lastUpdated": "2026-02-22T01:32:01Z",
                 "referee": null,
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 1315,
+                "minutesUntilStart": 1310,
                 "isRecent": false
             }
         },
@@ -2996,10 +2995,10 @@
     },
     "stats": {
         "total_matches": 48,
-        "live_matches": 1,
+        "live_matches": 0,
         "today_matches": 1,
         "tomorrow_matches": 3,
-        "finished_today": 3,
+        "finished_today": 4,
         "finished_recent": 0
     },
     "query_info": {
@@ -3014,19 +3013,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 7000.67,
-        "current_time_local": "2026-02-23 03:35:11",
+        "api_call_time_ms": 8669.06,
+        "current_time_local": "2026-02-23 03:40:12",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-22 22:05:11",
-    "generated_at": "2026-02-22 22:05:11 UTC",
+    "last_updated": "2026-02-22 22:10:12",
+    "generated_at": "2026-02-22 22:10:12 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 113895,
+        "file_size": 113892,
         "file_path": "matches.json"
     }
 }
