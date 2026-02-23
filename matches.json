@@ -71,7 +71,7 @@
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/263.png",
             "awayLogo": "https:\/\/crests.football-data.org\/298.png",
-            "status": "PAUSED",
+            "status": "IN_PLAY",
             "utcDate": "2026-02-23T20:00:00Z",
             "localDate": "2026-02-24 01:30:00",
             "localTime": "01:30",
@@ -87,7 +87,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Deportivo Alav\u00e9s (Home)",
-            "lastUpdated": "2026-02-23T20:55:44Z",
+            "lastUpdated": "2026-02-23T21:10:34Z",
             "referee": "Adri\u00e1n Cordero Vega",
             "season": 25,
             "group": null,
@@ -1438,7 +1438,7 @@
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/263.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/298.png",
-                "status": "PAUSED",
+                "status": "IN_PLAY",
                 "utcDate": "2026-02-23T20:00:00Z",
                 "localDate": "2026-02-24 01:30:00",
                 "localTime": "01:30",
@@ -1454,7 +1454,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Deportivo Alav\u00e9s (Home)",
-                "lastUpdated": "2026-02-23T20:55:44Z",
+                "lastUpdated": "2026-02-23T21:10:34Z",
                 "referee": "Adri\u00e1n Cordero Vega",
                 "season": 25,
                 "group": null,
@@ -2763,19 +2763,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 8466.65,
-        "current_time_local": "2026-02-24 02:40:13",
+        "api_call_time_ms": 5865.72,
+        "current_time_local": "2026-02-24 02:45:09",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-23 21:10:13",
-    "generated_at": "2026-02-23 21:10:13 UTC",
+    "last_updated": "2026-02-23 21:15:09",
+    "generated_at": "2026-02-23 21:15:09 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 104291,
+        "file_size": 104293,
         "file_path": "matches.json"
     }
 }
