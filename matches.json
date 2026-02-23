@@ -40,7 +40,7 @@
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/62.png",
             "awayLogo": "https:\/\/crests.football-data.org\/66.png",
-            "status": "PAUSED",
+            "status": "IN_PLAY",
             "utcDate": "2026-02-23T20:00:00Z",
             "localDate": "2026-02-24 01:30:00",
             "localTime": "01:30",
@@ -56,7 +56,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Everton FC (Home)",
-            "lastUpdated": "2026-02-23T20:53:44Z",
+            "lastUpdated": "2026-02-23T21:09:43Z",
             "referee": "Darren England",
             "season": 31,
             "group": null,
@@ -1407,7 +1407,7 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/62.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/66.png",
-                "status": "PAUSED",
+                "status": "IN_PLAY",
                 "utcDate": "2026-02-23T20:00:00Z",
                 "localDate": "2026-02-24 01:30:00",
                 "localTime": "01:30",
@@ -1423,7 +1423,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Everton FC (Home)",
-                "lastUpdated": "2026-02-23T20:53:44Z",
+                "lastUpdated": "2026-02-23T21:09:43Z",
                 "referee": "Darren England",
                 "season": 31,
                 "group": null,
@@ -2763,19 +2763,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 7802.58,
-        "current_time_local": "2026-02-24 02:35:12",
+        "api_call_time_ms": 8466.65,
+        "current_time_local": "2026-02-24 02:40:13",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-23 21:05:12",
-    "generated_at": "2026-02-23 21:05:12 UTC",
+    "last_updated": "2026-02-23 21:10:13",
+    "generated_at": "2026-02-23 21:10:13 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 104289,
+        "file_size": 104291,
         "file_path": "matches.json"
     }
 }
