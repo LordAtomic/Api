@@ -9,28 +9,28 @@
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/99.png",
             "awayLogo": "https:\/\/crests.football-data.org\/487.png",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "utcDate": "2026-02-23T17:30:00Z",
             "localDate": "2026-02-23 23:00:00",
             "localTime": "23:00",
             "matchday": 26,
             "competition": "Serie A",
             "competitionCode": "SA",
-            "isLive": true,
-            "isFinished": false,
+            "isLive": false,
+            "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
-            "isYesterday": false,
+            "isYesterday": true,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "live",
+            "dayCategory": "finished_yesterday",
             "venue": "ACF Fiorentina (Home)",
-            "lastUpdated": "2026-02-23T18:42:48Z",
+            "lastUpdated": "2026-02-23T19:33:22Z",
             "referee": "Maurizio Mariani",
             "season": 26,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
+            "isRecent": true
         },
         {
             "id": 544459,
@@ -1293,14 +1293,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "14m",
+            "timeUntilStart": "9m",
             "dayCategory": "today",
             "venue": "Bologna FC 1909 (Home)",
             "lastUpdated": "2026-02-22T01:32:01Z",
             "referee": "Matteo Marcenaro",
             "season": 26,
             "group": null,
-            "minutesUntilStart": 15,
+            "minutesUntilStart": 10,
             "isRecent": false
         },
         {
@@ -1324,14 +1324,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "29m",
+            "timeUntilStart": "24m",
             "dayCategory": "today",
             "venue": "Everton FC (Home)",
             "lastUpdated": "2026-02-23T00:20:57Z",
             "referee": "Darren England",
             "season": 31,
             "group": null,
-            "minutesUntilStart": 30,
+            "minutesUntilStart": 25,
             "isRecent": false
         },
         {
@@ -1355,51 +1355,19 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "29m",
+            "timeUntilStart": "24m",
             "dayCategory": "today",
             "venue": "Deportivo Alav\u00e9s (Home)",
             "lastUpdated": "2026-02-23T01:32:00Z",
             "referee": "Adri\u00e1n Cordero Vega",
             "season": 25,
             "group": null,
-            "minutesUntilStart": 30,
+            "minutesUntilStart": 25,
             "isRecent": false
         }
     ],
     "grouped_matches": {
-        "live": [
-            {
-                "id": 537065,
-                "home": "Fiorentina",
-                "away": "AC Pisa",
-                "homeScore": 1,
-                "awayScore": 0,
-                "homeLogo": "https:\/\/crests.football-data.org\/99.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/487.png",
-                "status": "IN_PLAY",
-                "utcDate": "2026-02-23T17:30:00Z",
-                "localDate": "2026-02-23 23:00:00",
-                "localTime": "23:00",
-                "matchday": 26,
-                "competition": "Serie A",
-                "competitionCode": "SA",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "ACF Fiorentina (Home)",
-                "lastUpdated": "2026-02-23T18:42:48Z",
-                "referee": "Maurizio Mariani",
-                "season": 26,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
+        "live": [],
         "finished_today": [],
         "today": {
             "41": {
@@ -1423,14 +1391,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "14m",
+                "timeUntilStart": "9m",
                 "dayCategory": "today",
                 "venue": "Bologna FC 1909 (Home)",
                 "lastUpdated": "2026-02-22T01:32:01Z",
                 "referee": "Matteo Marcenaro",
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 15,
+                "minutesUntilStart": 10,
                 "isRecent": false
             },
             "42": {
@@ -1454,14 +1422,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "29m",
+                "timeUntilStart": "24m",
                 "dayCategory": "today",
                 "venue": "Everton FC (Home)",
                 "lastUpdated": "2026-02-23T00:20:57Z",
                 "referee": "Darren England",
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 30,
+                "minutesUntilStart": 25,
                 "isRecent": false
             },
             "43": {
@@ -1485,21 +1453,52 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "29m",
+                "timeUntilStart": "24m",
                 "dayCategory": "today",
                 "venue": "Deportivo Alav\u00e9s (Home)",
                 "lastUpdated": "2026-02-23T01:32:00Z",
                 "referee": "Adri\u00e1n Cordero Vega",
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 30,
+                "minutesUntilStart": 25,
                 "isRecent": false
             }
         },
         "tomorrow": [],
         "upcoming": [],
-        "finished_yesterday": {
-            "1": {
+        "finished_yesterday": [
+            {
+                "id": 537065,
+                "home": "Fiorentina",
+                "away": "AC Pisa",
+                "homeScore": 1,
+                "awayScore": 0,
+                "homeLogo": "https:\/\/crests.football-data.org\/99.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/487.png",
+                "status": "FINISHED",
+                "utcDate": "2026-02-23T17:30:00Z",
+                "localDate": "2026-02-23 23:00:00",
+                "localTime": "23:00",
+                "matchday": 26,
+                "competition": "Serie A",
+                "competitionCode": "SA",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": true,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_yesterday",
+                "venue": "ACF Fiorentina (Home)",
+                "lastUpdated": "2026-02-23T19:33:22Z",
+                "referee": "Maurizio Mariani",
+                "season": 26,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": true
+            },
+            {
                 "id": 544459,
                 "home": "Villarreal",
                 "away": "Valencia",
@@ -1530,7 +1529,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "2": {
+            {
                 "id": 537067,
                 "home": "Roma",
                 "away": "Cremonese",
@@ -1561,7 +1560,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "3": {
+            {
                 "id": 542609,
                 "home": "Strasbourg",
                 "away": "Olympique Lyon",
@@ -1592,7 +1591,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "4": {
+            {
                 "id": 540608,
                 "home": "Heidenheim",
                 "away": "Stuttgart",
@@ -1623,7 +1622,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             }
-        },
+        ],
         "finished_recent": [],
         "finished_older": {
             "5": {
@@ -2746,7 +2745,7 @@
     },
     "stats": {
         "total_matches": 44,
-        "live_matches": 1,
+        "live_matches": 0,
         "today_matches": 3,
         "tomorrow_matches": 0,
         "finished_today": 0,
@@ -2764,19 +2763,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 11079.06,
-        "current_time_local": "2026-02-24 01:00:16",
+        "api_call_time_ms": 5542.87,
+        "current_time_local": "2026-02-24 01:05:09",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-02-23 19:30:16",
-    "generated_at": "2026-02-23 19:30:16 UTC",
+    "last_updated": "2026-02-23 19:35:09",
+    "generated_at": "2026-02-23 19:35:09 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 104274,
+        "file_size": 104269,
         "file_path": "matches.json"
     }
 }
