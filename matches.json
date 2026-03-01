@@ -9,28 +9,28 @@
             "awayScore": 2,
             "homeLogo": "https:\/\/crests.football-data.org\/298.png",
             "awayLogo": "https:\/\/crests.football-data.org\/558.png",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "utcDate": "2026-03-01T20:00:00Z",
             "localDate": "2026-03-02 01:30:00",
             "localTime": "01:30",
             "matchday": 26,
             "competition": "Primera Division",
             "competitionCode": "PD",
-            "isLive": true,
-            "isFinished": false,
+            "isLive": false,
+            "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "live",
+            "dayCategory": "finished_today",
             "venue": "Girona FC (Home)",
-            "lastUpdated": "2026-03-01T21:34:56Z",
+            "lastUpdated": "2026-03-01T22:01:34Z",
             "referee": "Miguel Ortiz Arias",
             "season": 26,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
+            "isRecent": true
         },
         {
             "id": 537075,
@@ -1417,14 +1417,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "19h 29m",
+            "timeUntilStart": "19h 24m",
             "dayCategory": "today",
             "venue": "AC Pisa 1909 (Home)",
             "lastUpdated": "2026-02-24T01:32:03Z",
             "referee": null,
             "season": 27,
             "group": null,
-            "minutesUntilStart": 1170,
+            "minutesUntilStart": 1165,
             "isRecent": false
         },
         {
@@ -1448,14 +1448,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 44m",
+            "timeUntilStart": "21h 39m",
             "dayCategory": "tomorrow",
             "venue": "Udinese Calcio (Home)",
             "lastUpdated": "2026-02-28T01:32:02Z",
             "referee": null,
             "season": 27,
             "group": null,
-            "minutesUntilStart": 1305,
+            "minutesUntilStart": 1300,
             "isRecent": false
         },
         {
@@ -1479,14 +1479,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 59m",
+            "timeUntilStart": "21h 54m",
             "dayCategory": "tomorrow",
             "venue": "Real Madrid CF (Home)",
             "lastUpdated": "2026-03-01T10:20:55Z",
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 1320,
+            "minutesUntilStart": 1315,
             "isRecent": false
         },
         {
@@ -1517,7 +1517,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 2730,
+            "minutesUntilStart": 2725,
             "isRecent": false
         },
         {
@@ -1548,7 +1548,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 2730,
+            "minutesUntilStart": 2725,
             "isRecent": false
         },
         {
@@ -1579,7 +1579,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 2730,
+            "minutesUntilStart": 2725,
             "isRecent": false
         },
         {
@@ -1610,7 +1610,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 2775,
+            "minutesUntilStart": 2770,
             "isRecent": false
         },
         {
@@ -1641,7 +1641,7 @@
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 4080,
+            "minutesUntilStart": 4075,
             "isRecent": false
         },
         {
@@ -1672,7 +1672,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 4170,
+            "minutesUntilStart": 4165,
             "isRecent": false
         },
         {
@@ -1703,7 +1703,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 4170,
+            "minutesUntilStart": 4165,
             "isRecent": false
         },
         {
@@ -1734,7 +1734,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 4170,
+            "minutesUntilStart": 4165,
             "isRecent": false
         },
         {
@@ -1765,7 +1765,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 4170,
+            "minutesUntilStart": 4165,
             "isRecent": false
         },
         {
@@ -1796,7 +1796,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 4170,
+            "minutesUntilStart": 4165,
             "isRecent": false
         },
         {
@@ -1827,12 +1827,13 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 4215,
+            "minutesUntilStart": 4210,
             "isRecent": false
         }
     ],
     "grouped_matches": {
-        "live": [
+        "live": [],
+        "finished_today": [
             {
                 "id": 544468,
                 "home": "Girona",
@@ -1841,32 +1842,30 @@
                 "awayScore": 2,
                 "homeLogo": "https:\/\/crests.football-data.org\/298.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/558.png",
-                "status": "IN_PLAY",
+                "status": "FINISHED",
                 "utcDate": "2026-03-01T20:00:00Z",
                 "localDate": "2026-03-02 01:30:00",
                 "localTime": "01:30",
                 "matchday": 26,
                 "competition": "Primera Division",
                 "competitionCode": "PD",
-                "isLive": true,
-                "isFinished": false,
+                "isLive": false,
+                "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "live",
+                "dayCategory": "finished_today",
                 "venue": "Girona FC (Home)",
-                "lastUpdated": "2026-03-01T21:34:56Z",
+                "lastUpdated": "2026-03-01T22:01:34Z",
                 "referee": "Miguel Ortiz Arias",
                 "season": 26,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
-        "finished_today": {
-            "1": {
+                "isRecent": true
+            },
+            {
                 "id": 537075,
                 "home": "Roma",
                 "away": "Juventus",
@@ -1897,7 +1896,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "2": {
+            {
                 "id": 542618,
                 "home": "Marseille",
                 "away": "Olympique Lyon",
@@ -1928,7 +1927,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "3": {
+            {
                 "id": 540616,
                 "home": "HSV",
                 "away": "RB Leipzig",
@@ -1959,7 +1958,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             }
-        },
+        ],
         "today": {
             "45": {
                 "id": 537081,
@@ -1982,14 +1981,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "19h 29m",
+                "timeUntilStart": "19h 24m",
                 "dayCategory": "today",
                 "venue": "AC Pisa 1909 (Home)",
                 "lastUpdated": "2026-02-24T01:32:03Z",
                 "referee": null,
                 "season": 27,
                 "group": null,
-                "minutesUntilStart": 1170,
+                "minutesUntilStart": 1165,
                 "isRecent": false
             }
         },
@@ -2015,14 +2014,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 44m",
+                "timeUntilStart": "21h 39m",
                 "dayCategory": "tomorrow",
                 "venue": "Udinese Calcio (Home)",
                 "lastUpdated": "2026-02-28T01:32:02Z",
                 "referee": null,
                 "season": 27,
                 "group": null,
-                "minutesUntilStart": 1305,
+                "minutesUntilStart": 1300,
                 "isRecent": false
             },
             "47": {
@@ -2046,14 +2045,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 59m",
+                "timeUntilStart": "21h 54m",
                 "dayCategory": "tomorrow",
                 "venue": "Real Madrid CF (Home)",
                 "lastUpdated": "2026-03-01T10:20:55Z",
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 1320,
+                "minutesUntilStart": 1315,
                 "isRecent": false
             },
             "48": {
@@ -2084,7 +2083,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 2730,
+                "minutesUntilStart": 2725,
                 "isRecent": false
             },
             "49": {
@@ -2115,7 +2114,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 2730,
+                "minutesUntilStart": 2725,
                 "isRecent": false
             },
             "50": {
@@ -2146,7 +2145,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 2730,
+                "minutesUntilStart": 2725,
                 "isRecent": false
             },
             "51": {
@@ -2177,7 +2176,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 2775,
+                "minutesUntilStart": 2770,
                 "isRecent": false
             },
             "52": {
@@ -2208,7 +2207,7 @@
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 4080,
+                "minutesUntilStart": 4075,
                 "isRecent": false
             },
             "53": {
@@ -2239,7 +2238,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 4170,
+                "minutesUntilStart": 4165,
                 "isRecent": false
             },
             "54": {
@@ -2270,7 +2269,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 4170,
+                "minutesUntilStart": 4165,
                 "isRecent": false
             },
             "55": {
@@ -2301,7 +2300,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 4170,
+                "minutesUntilStart": 4165,
                 "isRecent": false
             },
             "56": {
@@ -2332,7 +2331,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 4170,
+                "minutesUntilStart": 4165,
                 "isRecent": false
             },
             "57": {
@@ -2363,7 +2362,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 4170,
+                "minutesUntilStart": 4165,
                 "isRecent": false
             },
             "58": {
@@ -2394,7 +2393,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 4215,
+                "minutesUntilStart": 4210,
                 "isRecent": false
             }
         },
@@ -3678,10 +3677,10 @@
     },
     "stats": {
         "total_matches": 59,
-        "live_matches": 1,
+        "live_matches": 0,
         "today_matches": 1,
         "tomorrow_matches": 13,
-        "finished_today": 3,
+        "finished_today": 4,
         "finished_recent": 0
     },
     "query_info": {
@@ -3696,19 +3695,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 9646.58,
-        "current_time_local": "2026-03-02 03:30:14",
+        "api_call_time_ms": 6396.8,
+        "current_time_local": "2026-03-02 03:35:10",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-01 22:00:14",
-    "generated_at": "2026-03-01 22:00:14 UTC",
+    "last_updated": "2026-03-01 22:05:10",
+    "generated_at": "2026-03-01 22:05:10 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 139604,
+        "file_size": 139600,
         "file_path": "matches.json"
     }
 }
