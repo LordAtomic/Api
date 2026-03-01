@@ -2,37 +2,6 @@
     "success": true,
     "matches": [
         {
-            "id": 542618,
-            "home": "Marseille",
-            "away": "Olympique Lyon",
-            "homeScore": 3,
-            "awayScore": 2,
-            "homeLogo": "https:\/\/crests.football-data.org\/516.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/523.png",
-            "status": "IN_PLAY",
-            "utcDate": "2026-03-01T19:45:00Z",
-            "localDate": "2026-03-02 01:15:00",
-            "localTime": "01:15",
-            "matchday": 24,
-            "competition": "Ligue 1",
-            "competitionCode": "FL1",
-            "isLive": true,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "live",
-            "venue": "Olympique de Marseille (Home)",
-            "lastUpdated": "2026-03-01T21:48:54Z",
-            "referee": "J\u00e9r\u00f4me Brisard",
-            "season": 24,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 544468,
             "home": "Girona",
             "away": "Celta",
@@ -90,6 +59,37 @@
             "lastUpdated": "2026-03-01T21:43:35Z",
             "referee": "Simone Sozza",
             "season": 27,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": true
+        },
+        {
+            "id": 542618,
+            "home": "Marseille",
+            "away": "Olympique Lyon",
+            "homeScore": 3,
+            "awayScore": 2,
+            "homeLogo": "https:\/\/crests.football-data.org\/516.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/523.png",
+            "status": "FINISHED",
+            "utcDate": "2026-03-01T19:45:00Z",
+            "localDate": "2026-03-02 01:15:00",
+            "localTime": "01:15",
+            "matchday": 24,
+            "competition": "Ligue 1",
+            "competitionCode": "FL1",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_today",
+            "venue": "Olympique de Marseille (Home)",
+            "lastUpdated": "2026-03-01T21:57:34Z",
+            "referee": "J\u00e9r\u00f4me Brisard",
+            "season": 24,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": true
@@ -1417,14 +1417,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "19h 34m",
+            "timeUntilStart": "19h 29m",
             "dayCategory": "today",
             "venue": "AC Pisa 1909 (Home)",
             "lastUpdated": "2026-02-24T01:32:03Z",
             "referee": null,
             "season": 27,
             "group": null,
-            "minutesUntilStart": 1175,
+            "minutesUntilStart": 1170,
             "isRecent": false
         },
         {
@@ -1448,14 +1448,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 49m",
+            "timeUntilStart": "21h 44m",
             "dayCategory": "tomorrow",
             "venue": "Udinese Calcio (Home)",
             "lastUpdated": "2026-02-28T01:32:02Z",
             "referee": null,
             "season": 27,
             "group": null,
-            "minutesUntilStart": 1310,
+            "minutesUntilStart": 1305,
             "isRecent": false
         },
         {
@@ -1479,14 +1479,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "22h 4m",
+            "timeUntilStart": "21h 59m",
             "dayCategory": "tomorrow",
             "venue": "Real Madrid CF (Home)",
             "lastUpdated": "2026-03-01T10:20:55Z",
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 1325,
+            "minutesUntilStart": 1320,
             "isRecent": false
         },
         {
@@ -1517,7 +1517,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 2735,
+            "minutesUntilStart": 2730,
             "isRecent": false
         },
         {
@@ -1548,7 +1548,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 2735,
+            "minutesUntilStart": 2730,
             "isRecent": false
         },
         {
@@ -1579,7 +1579,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 2735,
+            "minutesUntilStart": 2730,
             "isRecent": false
         },
         {
@@ -1610,7 +1610,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 2780,
+            "minutesUntilStart": 2775,
             "isRecent": false
         },
         {
@@ -1641,7 +1641,7 @@
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 4085,
+            "minutesUntilStart": 4080,
             "isRecent": false
         },
         {
@@ -1672,7 +1672,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 4175,
+            "minutesUntilStart": 4170,
             "isRecent": false
         },
         {
@@ -1703,7 +1703,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 4175,
+            "minutesUntilStart": 4170,
             "isRecent": false
         },
         {
@@ -1734,7 +1734,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 4175,
+            "minutesUntilStart": 4170,
             "isRecent": false
         },
         {
@@ -1765,7 +1765,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 4175,
+            "minutesUntilStart": 4170,
             "isRecent": false
         },
         {
@@ -1796,7 +1796,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 4175,
+            "minutesUntilStart": 4170,
             "isRecent": false
         },
         {
@@ -1827,43 +1827,12 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 4220,
+            "minutesUntilStart": 4215,
             "isRecent": false
         }
     ],
     "grouped_matches": {
         "live": [
-            {
-                "id": 542618,
-                "home": "Marseille",
-                "away": "Olympique Lyon",
-                "homeScore": 3,
-                "awayScore": 2,
-                "homeLogo": "https:\/\/crests.football-data.org\/516.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/523.png",
-                "status": "IN_PLAY",
-                "utcDate": "2026-03-01T19:45:00Z",
-                "localDate": "2026-03-02 01:15:00",
-                "localTime": "01:15",
-                "matchday": 24,
-                "competition": "Ligue 1",
-                "competitionCode": "FL1",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "Olympique de Marseille (Home)",
-                "lastUpdated": "2026-03-01T21:48:54Z",
-                "referee": "J\u00e9r\u00f4me Brisard",
-                "season": 24,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
             {
                 "id": 544468,
                 "home": "Girona",
@@ -1897,7 +1866,7 @@
             }
         ],
         "finished_today": {
-            "2": {
+            "1": {
                 "id": 537075,
                 "home": "Roma",
                 "away": "Juventus",
@@ -1924,6 +1893,37 @@
                 "lastUpdated": "2026-03-01T21:43:35Z",
                 "referee": "Simone Sozza",
                 "season": 27,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": true
+            },
+            "2": {
+                "id": 542618,
+                "home": "Marseille",
+                "away": "Olympique Lyon",
+                "homeScore": 3,
+                "awayScore": 2,
+                "homeLogo": "https:\/\/crests.football-data.org\/516.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/523.png",
+                "status": "FINISHED",
+                "utcDate": "2026-03-01T19:45:00Z",
+                "localDate": "2026-03-02 01:15:00",
+                "localTime": "01:15",
+                "matchday": 24,
+                "competition": "Ligue 1",
+                "competitionCode": "FL1",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": false,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_today",
+                "venue": "Olympique de Marseille (Home)",
+                "lastUpdated": "2026-03-01T21:57:34Z",
+                "referee": "J\u00e9r\u00f4me Brisard",
+                "season": 24,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": true
@@ -1982,14 +1982,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "19h 34m",
+                "timeUntilStart": "19h 29m",
                 "dayCategory": "today",
                 "venue": "AC Pisa 1909 (Home)",
                 "lastUpdated": "2026-02-24T01:32:03Z",
                 "referee": null,
                 "season": 27,
                 "group": null,
-                "minutesUntilStart": 1175,
+                "minutesUntilStart": 1170,
                 "isRecent": false
             }
         },
@@ -2015,14 +2015,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 49m",
+                "timeUntilStart": "21h 44m",
                 "dayCategory": "tomorrow",
                 "venue": "Udinese Calcio (Home)",
                 "lastUpdated": "2026-02-28T01:32:02Z",
                 "referee": null,
                 "season": 27,
                 "group": null,
-                "minutesUntilStart": 1310,
+                "minutesUntilStart": 1305,
                 "isRecent": false
             },
             "47": {
@@ -2046,14 +2046,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "22h 4m",
+                "timeUntilStart": "21h 59m",
                 "dayCategory": "tomorrow",
                 "venue": "Real Madrid CF (Home)",
                 "lastUpdated": "2026-03-01T10:20:55Z",
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 1325,
+                "minutesUntilStart": 1320,
                 "isRecent": false
             },
             "48": {
@@ -2084,7 +2084,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 2735,
+                "minutesUntilStart": 2730,
                 "isRecent": false
             },
             "49": {
@@ -2115,7 +2115,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 2735,
+                "minutesUntilStart": 2730,
                 "isRecent": false
             },
             "50": {
@@ -2146,7 +2146,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 2735,
+                "minutesUntilStart": 2730,
                 "isRecent": false
             },
             "51": {
@@ -2177,7 +2177,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 2780,
+                "minutesUntilStart": 2775,
                 "isRecent": false
             },
             "52": {
@@ -2208,7 +2208,7 @@
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 4085,
+                "minutesUntilStart": 4080,
                 "isRecent": false
             },
             "53": {
@@ -2239,7 +2239,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 4175,
+                "minutesUntilStart": 4170,
                 "isRecent": false
             },
             "54": {
@@ -2270,7 +2270,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 4175,
+                "minutesUntilStart": 4170,
                 "isRecent": false
             },
             "55": {
@@ -2301,7 +2301,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 4175,
+                "minutesUntilStart": 4170,
                 "isRecent": false
             },
             "56": {
@@ -2332,7 +2332,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 4175,
+                "minutesUntilStart": 4170,
                 "isRecent": false
             },
             "57": {
@@ -2363,7 +2363,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 4175,
+                "minutesUntilStart": 4170,
                 "isRecent": false
             },
             "58": {
@@ -2394,7 +2394,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 4220,
+                "minutesUntilStart": 4215,
                 "isRecent": false
             }
         },
@@ -3678,10 +3678,10 @@
     },
     "stats": {
         "total_matches": 59,
-        "live_matches": 2,
+        "live_matches": 1,
         "today_matches": 1,
         "tomorrow_matches": 13,
-        "finished_today": 2,
+        "finished_today": 3,
         "finished_recent": 0
     },
     "query_info": {
@@ -3696,19 +3696,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 6575.83,
-        "current_time_local": "2026-03-02 03:25:12",
+        "api_call_time_ms": 9646.58,
+        "current_time_local": "2026-03-02 03:30:14",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-01 21:55:12",
-    "generated_at": "2026-03-01 21:55:12 UTC",
+    "last_updated": "2026-03-01 22:00:14",
+    "generated_at": "2026-03-01 22:00:14 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 139577,
+        "file_size": 139604,
         "file_path": "matches.json"
     }
 }
