@@ -2,17 +2,17 @@
     "success": true,
     "matches": [
         {
-            "id": 544470,
-            "home": "Valencia",
-            "away": "Osasuna",
-            "homeScore": 1,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/95.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/79.png",
+            "id": 544462,
+            "home": "Real Betis",
+            "away": "Sevilla FC",
+            "homeScore": 2,
+            "awayScore": 2,
+            "homeLogo": "https:\/\/crests.football-data.org\/90.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/559.png",
             "status": "IN_PLAY",
-            "utcDate": "2026-03-01T15:15:00Z",
-            "localDate": "2026-03-01 20:45:00",
-            "localTime": "20:45",
+            "utcDate": "2026-03-01T17:30:00Z",
+            "localDate": "2026-03-01 23:00:00",
+            "localTime": "23:00",
             "matchday": 26,
             "competition": "Primera Division",
             "competitionCode": "PD",
@@ -24,41 +24,10 @@
             "currentTime": null,
             "timeUntilStart": null,
             "dayCategory": "live",
-            "venue": "Valencia CF (Home)",
-            "lastUpdated": "2026-03-01T18:17:03Z",
-            "referee": "Adri\u00e1n Cordero Vega",
+            "venue": "Real Betis Balompi\u00e9 (Home)",
+            "lastUpdated": "2026-03-01T19:23:20Z",
+            "referee": "Ricardo de Burgos",
             "season": 26,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
-            "id": 537077,
-            "home": "Torino",
-            "away": "Lazio",
-            "homeScore": 0,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/586.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/110.png",
-            "status": "IN_PLAY",
-            "utcDate": "2026-03-01T17:00:00Z",
-            "localDate": "2026-03-01 22:30:00",
-            "localTime": "22:30",
-            "matchday": 27,
-            "competition": "Serie A",
-            "competitionCode": "SA",
-            "isLive": true,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "live",
-            "venue": "Torino FC (Home)",
-            "lastUpdated": "2026-03-01T18:16:59Z",
-            "referee": "Rosario Abisso",
-            "season": 27,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -71,7 +40,7 @@
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/7.png",
             "awayLogo": "https:\/\/crests.football-data.org\/721.png",
-            "status": "IN_PLAY",
+            "status": "PAUSED",
             "utcDate": "2026-03-01T18:30:00Z",
             "localDate": "2026-03-02 00:00:00",
             "localTime": "00:00",
@@ -87,12 +56,43 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Hamburger SV (Home)",
-            "lastUpdated": "2026-03-01T19:11:01Z",
+            "lastUpdated": "2026-03-01T19:25:01Z",
             "referee": "Bastian Dankert",
             "season": 24,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
+        },
+        {
+            "id": 537077,
+            "home": "Torino",
+            "away": "Lazio",
+            "homeScore": 2,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/586.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/110.png",
+            "status": "FINISHED",
+            "utcDate": "2026-03-01T17:00:00Z",
+            "localDate": "2026-03-01 22:30:00",
+            "localTime": "22:30",
+            "matchday": 27,
+            "competition": "Serie A",
+            "competitionCode": "SA",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": true,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_yesterday",
+            "venue": "Torino FC (Home)",
+            "lastUpdated": "2026-03-01T19:00:01Z",
+            "referee": "Rosario Abisso",
+            "season": 27,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": true
         },
         {
             "id": 538057,
@@ -250,6 +250,37 @@
             "isRecent": true
         },
         {
+            "id": 544470,
+            "home": "Valencia",
+            "away": "Osasuna",
+            "homeScore": 1,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/95.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/79.png",
+            "status": "FINISHED",
+            "utcDate": "2026-03-01T15:15:00Z",
+            "localDate": "2026-03-01 20:45:00",
+            "localTime": "20:45",
+            "matchday": 26,
+            "competition": "Primera Division",
+            "competitionCode": "PD",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": true,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_yesterday",
+            "venue": "Valencia CF (Home)",
+            "lastUpdated": "2026-03-01T17:24:00Z",
+            "referee": "Adri\u00e1n Cordero Vega",
+            "season": 26,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": true
+        },
+        {
             "id": 540617,
             "home": "Stuttgart",
             "away": "Wolfsburg",
@@ -397,7 +428,7 @@
             "timeUntilStart": null,
             "dayCategory": "finished_yesterday",
             "venue": "US Sassuolo Calcio (Home)",
-            "lastUpdated": "2026-03-01T16:59:11Z",
+            "lastUpdated": "2026-03-01T16:04:11Z",
             "referee": "Matteo Marchetti",
             "season": 27,
             "group": null,
@@ -459,7 +490,7 @@
             "timeUntilStart": null,
             "dayCategory": "finished_yesterday",
             "venue": "Elche CF (Home)",
-            "lastUpdated": "2026-03-01T16:02:40Z",
+            "lastUpdated": "2026-03-01T15:07:40Z",
             "referee": "Iosu Galech Apeztegu\u00eda",
             "season": 26,
             "group": null,
@@ -1273,37 +1304,6 @@
             "isRecent": false
         },
         {
-            "id": 544462,
-            "home": "Real Betis",
-            "away": "Sevilla FC",
-            "homeScore": 0,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/90.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/559.png",
-            "status": "TIMED",
-            "utcDate": "2026-03-01T17:30:00Z",
-            "localDate": "2026-03-01 23:00:00",
-            "localTime": "23:00",
-            "matchday": 26,
-            "competition": "Primera Division",
-            "competitionCode": "PD",
-            "isLive": false,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "upcoming",
-            "venue": "Real Betis Balompi\u00e9 (Home)",
-            "lastUpdated": "2026-03-01T17:28:22Z",
-            "referee": "Ricardo de Burgos",
-            "season": 26,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 537075,
             "home": "Roma",
             "away": "Juventus",
@@ -1324,14 +1324,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "24m",
+            "timeUntilStart": "19m",
             "dayCategory": "today",
             "venue": "AS Roma (Home)",
             "lastUpdated": "2026-03-01T01:32:01Z",
             "referee": "Simone Sozza",
             "season": 27,
             "group": null,
-            "minutesUntilStart": 25,
+            "minutesUntilStart": 20,
             "isRecent": false
         },
         {
@@ -1355,14 +1355,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "24m",
+            "timeUntilStart": "19m",
             "dayCategory": "today",
             "venue": "Olympique de Marseille (Home)",
             "lastUpdated": "2026-02-23T01:32:04Z",
             "referee": "J\u00e9r\u00f4me Brisard",
             "season": 24,
             "group": null,
-            "minutesUntilStart": 25,
+            "minutesUntilStart": 20,
             "isRecent": false
         },
         {
@@ -1386,14 +1386,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "39m",
+            "timeUntilStart": "34m",
             "dayCategory": "today",
             "venue": "Girona FC (Home)",
             "lastUpdated": "2026-02-24T01:32:03Z",
             "referee": "Miguel Ortiz Arias",
             "season": 26,
             "group": null,
-            "minutesUntilStart": 40,
+            "minutesUntilStart": 35,
             "isRecent": false
         },
         {
@@ -1417,14 +1417,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "22h 9m",
+            "timeUntilStart": "22h 4m",
             "dayCategory": "today",
             "venue": "AC Pisa 1909 (Home)",
             "lastUpdated": "2026-02-24T01:32:03Z",
             "referee": null,
             "season": 27,
             "group": null,
-            "minutesUntilStart": 1330,
+            "minutesUntilStart": 1325,
             "isRecent": false
         },
         {
@@ -1455,7 +1455,7 @@
             "referee": null,
             "season": 27,
             "group": null,
-            "minutesUntilStart": 1465,
+            "minutesUntilStart": 1460,
             "isRecent": false
         },
         {
@@ -1486,7 +1486,7 @@
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 1480,
+            "minutesUntilStart": 1475,
             "isRecent": false
         },
         {
@@ -1517,7 +1517,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 2890,
+            "minutesUntilStart": 2885,
             "isRecent": false
         },
         {
@@ -1548,7 +1548,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 2890,
+            "minutesUntilStart": 2885,
             "isRecent": false
         },
         {
@@ -1579,7 +1579,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 2890,
+            "minutesUntilStart": 2885,
             "isRecent": false
         },
         {
@@ -1610,7 +1610,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 2935,
+            "minutesUntilStart": 2930,
             "isRecent": false
         },
         {
@@ -1641,7 +1641,7 @@
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 4240,
+            "minutesUntilStart": 4235,
             "isRecent": false
         },
         {
@@ -1672,7 +1672,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 4330,
+            "minutesUntilStart": 4325,
             "isRecent": false
         },
         {
@@ -1703,7 +1703,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 4330,
+            "minutesUntilStart": 4325,
             "isRecent": false
         },
         {
@@ -1734,7 +1734,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 4330,
+            "minutesUntilStart": 4325,
             "isRecent": false
         },
         {
@@ -1765,7 +1765,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 4330,
+            "minutesUntilStart": 4325,
             "isRecent": false
         },
         {
@@ -1796,7 +1796,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 4330,
+            "minutesUntilStart": 4325,
             "isRecent": false
         },
         {
@@ -1827,24 +1827,24 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 4375,
+            "minutesUntilStart": 4370,
             "isRecent": false
         }
     ],
     "grouped_matches": {
         "live": [
             {
-                "id": 544470,
-                "home": "Valencia",
-                "away": "Osasuna",
-                "homeScore": 1,
-                "awayScore": 0,
-                "homeLogo": "https:\/\/crests.football-data.org\/95.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/79.png",
+                "id": 544462,
+                "home": "Real Betis",
+                "away": "Sevilla FC",
+                "homeScore": 2,
+                "awayScore": 2,
+                "homeLogo": "https:\/\/crests.football-data.org\/90.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/559.png",
                 "status": "IN_PLAY",
-                "utcDate": "2026-03-01T15:15:00Z",
-                "localDate": "2026-03-01 20:45:00",
-                "localTime": "20:45",
+                "utcDate": "2026-03-01T17:30:00Z",
+                "localDate": "2026-03-01 23:00:00",
+                "localTime": "23:00",
                 "matchday": 26,
                 "competition": "Primera Division",
                 "competitionCode": "PD",
@@ -1856,41 +1856,10 @@
                 "currentTime": null,
                 "timeUntilStart": null,
                 "dayCategory": "live",
-                "venue": "Valencia CF (Home)",
-                "lastUpdated": "2026-03-01T18:17:03Z",
-                "referee": "Adri\u00e1n Cordero Vega",
+                "venue": "Real Betis Balompi\u00e9 (Home)",
+                "lastUpdated": "2026-03-01T19:23:20Z",
+                "referee": "Ricardo de Burgos",
                 "season": 26,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
-            {
-                "id": 537077,
-                "home": "Torino",
-                "away": "Lazio",
-                "homeScore": 0,
-                "awayScore": 0,
-                "homeLogo": "https:\/\/crests.football-data.org\/586.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/110.png",
-                "status": "IN_PLAY",
-                "utcDate": "2026-03-01T17:00:00Z",
-                "localDate": "2026-03-01 22:30:00",
-                "localTime": "22:30",
-                "matchday": 27,
-                "competition": "Serie A",
-                "competitionCode": "SA",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "Torino FC (Home)",
-                "lastUpdated": "2026-03-01T18:16:59Z",
-                "referee": "Rosario Abisso",
-                "season": 27,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
@@ -1903,7 +1872,7 @@
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/7.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/721.png",
-                "status": "IN_PLAY",
+                "status": "PAUSED",
                 "utcDate": "2026-03-01T18:30:00Z",
                 "localDate": "2026-03-02 00:00:00",
                 "localTime": "00:00",
@@ -1919,7 +1888,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Hamburger SV (Home)",
-                "lastUpdated": "2026-03-01T19:11:01Z",
+                "lastUpdated": "2026-03-01T19:25:01Z",
                 "referee": "Bastian Dankert",
                 "season": 24,
                 "group": null,
@@ -1950,14 +1919,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "24m",
+                "timeUntilStart": "19m",
                 "dayCategory": "today",
                 "venue": "AS Roma (Home)",
                 "lastUpdated": "2026-03-01T01:32:01Z",
                 "referee": "Simone Sozza",
                 "season": 27,
                 "group": null,
-                "minutesUntilStart": 25,
+                "minutesUntilStart": 20,
                 "isRecent": false
             },
             "43": {
@@ -1981,14 +1950,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "24m",
+                "timeUntilStart": "19m",
                 "dayCategory": "today",
                 "venue": "Olympique de Marseille (Home)",
                 "lastUpdated": "2026-02-23T01:32:04Z",
                 "referee": "J\u00e9r\u00f4me Brisard",
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 25,
+                "minutesUntilStart": 20,
                 "isRecent": false
             },
             "44": {
@@ -2012,14 +1981,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "39m",
+                "timeUntilStart": "34m",
                 "dayCategory": "today",
                 "venue": "Girona FC (Home)",
                 "lastUpdated": "2026-02-24T01:32:03Z",
                 "referee": "Miguel Ortiz Arias",
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 40,
+                "minutesUntilStart": 35,
                 "isRecent": false
             },
             "45": {
@@ -2043,14 +2012,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "22h 9m",
+                "timeUntilStart": "22h 4m",
                 "dayCategory": "today",
                 "venue": "AC Pisa 1909 (Home)",
                 "lastUpdated": "2026-02-24T01:32:03Z",
                 "referee": null,
                 "season": 27,
                 "group": null,
-                "minutesUntilStart": 1330,
+                "minutesUntilStart": 1325,
                 "isRecent": false
             }
         },
@@ -2083,7 +2052,7 @@
                 "referee": null,
                 "season": 27,
                 "group": null,
-                "minutesUntilStart": 1465,
+                "minutesUntilStart": 1460,
                 "isRecent": false
             },
             "47": {
@@ -2114,7 +2083,7 @@
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 1480,
+                "minutesUntilStart": 1475,
                 "isRecent": false
             },
             "48": {
@@ -2145,7 +2114,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 2890,
+                "minutesUntilStart": 2885,
                 "isRecent": false
             },
             "49": {
@@ -2176,7 +2145,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 2890,
+                "minutesUntilStart": 2885,
                 "isRecent": false
             },
             "50": {
@@ -2207,7 +2176,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 2890,
+                "minutesUntilStart": 2885,
                 "isRecent": false
             },
             "51": {
@@ -2238,7 +2207,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 2935,
+                "minutesUntilStart": 2930,
                 "isRecent": false
             },
             "52": {
@@ -2269,7 +2238,7 @@
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 4240,
+                "minutesUntilStart": 4235,
                 "isRecent": false
             },
             "53": {
@@ -2300,7 +2269,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 4330,
+                "minutesUntilStart": 4325,
                 "isRecent": false
             },
             "54": {
@@ -2331,7 +2300,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 4330,
+                "minutesUntilStart": 4325,
                 "isRecent": false
             },
             "55": {
@@ -2362,7 +2331,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 4330,
+                "minutesUntilStart": 4325,
                 "isRecent": false
             },
             "56": {
@@ -2393,7 +2362,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 4330,
+                "minutesUntilStart": 4325,
                 "isRecent": false
             },
             "57": {
@@ -2424,7 +2393,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 4330,
+                "minutesUntilStart": 4325,
                 "isRecent": false
             },
             "58": {
@@ -2455,44 +2424,43 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 4375,
+                "minutesUntilStart": 4370,
                 "isRecent": false
             }
         },
-        "upcoming": {
-            "41": {
-                "id": 544462,
-                "home": "Real Betis",
-                "away": "Sevilla FC",
-                "homeScore": 0,
+        "upcoming": [],
+        "finished_yesterday": {
+            "2": {
+                "id": 537077,
+                "home": "Torino",
+                "away": "Lazio",
+                "homeScore": 2,
                 "awayScore": 0,
-                "homeLogo": "https:\/\/crests.football-data.org\/90.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/559.png",
-                "status": "TIMED",
-                "utcDate": "2026-03-01T17:30:00Z",
-                "localDate": "2026-03-01 23:00:00",
-                "localTime": "23:00",
-                "matchday": 26,
-                "competition": "Primera Division",
-                "competitionCode": "PD",
+                "homeLogo": "https:\/\/crests.football-data.org\/586.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/110.png",
+                "status": "FINISHED",
+                "utcDate": "2026-03-01T17:00:00Z",
+                "localDate": "2026-03-01 22:30:00",
+                "localTime": "22:30",
+                "matchday": 27,
+                "competition": "Serie A",
+                "competitionCode": "SA",
                 "isLive": false,
-                "isFinished": false,
+                "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
-                "isYesterday": false,
+                "isYesterday": true,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "upcoming",
-                "venue": "Real Betis Balompi\u00e9 (Home)",
-                "lastUpdated": "2026-03-01T17:28:22Z",
-                "referee": "Ricardo de Burgos",
-                "season": 26,
+                "dayCategory": "finished_yesterday",
+                "venue": "Torino FC (Home)",
+                "lastUpdated": "2026-03-01T19:00:01Z",
+                "referee": "Rosario Abisso",
+                "season": 27,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": false
-            }
-        },
-        "finished_yesterday": {
+                "isRecent": true
+            },
             "3": {
                 "id": 538057,
                 "home": "Arsenal",
@@ -2649,6 +2617,37 @@
                 "isRecent": true
             },
             "8": {
+                "id": 544470,
+                "home": "Valencia",
+                "away": "Osasuna",
+                "homeScore": 1,
+                "awayScore": 0,
+                "homeLogo": "https:\/\/crests.football-data.org\/95.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/79.png",
+                "status": "FINISHED",
+                "utcDate": "2026-03-01T15:15:00Z",
+                "localDate": "2026-03-01 20:45:00",
+                "localTime": "20:45",
+                "matchday": 26,
+                "competition": "Primera Division",
+                "competitionCode": "PD",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": true,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_yesterday",
+                "venue": "Valencia CF (Home)",
+                "lastUpdated": "2026-03-01T17:24:00Z",
+                "referee": "Adri\u00e1n Cordero Vega",
+                "season": 26,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": true
+            },
+            "9": {
                 "id": 540617,
                 "home": "Stuttgart",
                 "away": "Wolfsburg",
@@ -2679,7 +2678,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "9": {
+            "10": {
                 "id": 538056,
                 "home": "Brighton Hove",
                 "away": "Nottingham",
@@ -2710,7 +2709,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "10": {
+            "11": {
                 "id": 538059,
                 "home": "Fulham",
                 "away": "Tottenham",
@@ -2741,7 +2740,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "11": {
+            "12": {
                 "id": 538062,
                 "home": "Man United",
                 "away": "Crystal Palace",
@@ -2772,7 +2771,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "12": {
+            "13": {
                 "id": 537082,
                 "home": "Sassuolo",
                 "away": "Atalanta",
@@ -2796,14 +2795,14 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished_yesterday",
                 "venue": "US Sassuolo Calcio (Home)",
-                "lastUpdated": "2026-03-01T16:59:11Z",
+                "lastUpdated": "2026-03-01T16:04:11Z",
                 "referee": "Matteo Marchetti",
                 "season": 27,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "13": {
+            "14": {
                 "id": 542617,
                 "home": "Paris FC",
                 "away": "Nice",
@@ -2834,7 +2833,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "14": {
+            "15": {
                 "id": 544463,
                 "home": "Elche",
                 "away": "Espanyol",
@@ -2858,14 +2857,14 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished_yesterday",
                 "venue": "Elche CF (Home)",
-                "lastUpdated": "2026-03-01T16:02:40Z",
+                "lastUpdated": "2026-03-01T15:07:40Z",
                 "referee": "Iosu Galech Apeztegu\u00eda",
                 "season": 26,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "15": {
+            "16": {
                 "id": 537084,
                 "home": "Cremonese",
                 "away": "Milan",
@@ -2896,7 +2895,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "16": {
+            "17": {
                 "id": 542613,
                 "home": "Le Havre",
                 "away": "PSG",
@@ -2927,7 +2926,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "17": {
+            "18": {
                 "id": 544467,
                 "home": "Real Oviedo",
                 "away": "Atleti",
@@ -2958,7 +2957,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "18": {
+            "19": {
                 "id": 537079,
                 "home": "Inter",
                 "away": "Genoa",
@@ -2992,7 +2991,7 @@
         },
         "finished_recent": [],
         "finished_older": {
-            "19": {
+            "20": {
                 "id": 542614,
                 "home": "Monaco",
                 "away": "Angers SCO",
@@ -3023,7 +3022,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "20": {
+            "21": {
                 "id": 538061,
                 "home": "Leeds United",
                 "away": "Man City",
@@ -3054,7 +3053,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "21": {
+            "22": {
                 "id": 544464,
                 "home": "Mallorca",
                 "away": "Real Sociedad",
@@ -3085,7 +3084,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "22": {
+            "23": {
                 "id": 540613,
                 "home": "Dortmund",
                 "away": "Bayern",
@@ -3116,7 +3115,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "23": {
+            "24": {
                 "id": 537078,
                 "home": "Verona",
                 "away": "Napoli",
@@ -3147,7 +3146,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "24": {
+            "25": {
                 "id": 542621,
                 "home": "Stade Rennais",
                 "away": "Toulouse",
@@ -3178,7 +3177,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "25": {
+            "26": {
                 "id": 544461,
                 "home": "Bar\u00e7a",
                 "away": "Villarreal",
@@ -3209,7 +3208,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "26": {
+            "27": {
                 "id": 538058,
                 "home": "Burnley",
                 "away": "Brentford",
@@ -3240,7 +3239,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "27": {
+            "28": {
                 "id": 538060,
                 "home": "Liverpool",
                 "away": "West Ham",
@@ -3271,7 +3270,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "28": {
+            "29": {
                 "id": 538063,
                 "home": "Newcastle",
                 "away": "Everton",
@@ -3302,7 +3301,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "29": {
+            "30": {
                 "id": 540615,
                 "home": "Leverkusen",
                 "away": "Mainz",
@@ -3333,7 +3332,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "30": {
+            "31": {
                 "id": 540618,
                 "home": "M'gladbach",
                 "away": "Union Berlin",
@@ -3364,7 +3363,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "31": {
+            "32": {
                 "id": 540619,
                 "home": "Hoffenheim",
                 "away": "St. Pauli",
@@ -3395,7 +3394,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "32": {
+            "33": {
                 "id": 540620,
                 "home": "Bremen",
                 "away": "Heidenheim",
@@ -3426,7 +3425,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "33": {
+            "34": {
                 "id": 537076,
                 "home": "Como 1907",
                 "away": "Lecce",
@@ -3457,7 +3456,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "34": {
+            "35": {
                 "id": 544466,
                 "home": "Rayo Vallecano",
                 "away": "Athletic",
@@ -3488,7 +3487,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "35": {
+            "36": {
                 "id": 538055,
                 "home": "Bournemouth",
                 "away": "Sunderland",
@@ -3519,7 +3518,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "36": {
+            "37": {
                 "id": 538064,
                 "home": "Wolverhampton",
                 "away": "Aston Villa",
@@ -3550,7 +3549,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "37": {
+            "38": {
                 "id": 544465,
                 "home": "Levante",
                 "away": "Alav\u00e9s",
@@ -3581,7 +3580,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "38": {
+            "39": {
                 "id": 537080,
                 "home": "Parma",
                 "away": "Cagliari",
@@ -3612,7 +3611,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "39": {
+            "40": {
                 "id": 542620,
                 "home": "Strasbourg",
                 "away": "RC Lens",
@@ -3643,7 +3642,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "40": {
+            "41": {
                 "id": 540621,
                 "home": "Augsburg",
                 "away": "1. FC K\u00f6ln",
@@ -3678,7 +3677,7 @@
     },
     "stats": {
         "total_matches": 59,
-        "live_matches": 3,
+        "live_matches": 2,
         "today_matches": 4,
         "tomorrow_matches": 13,
         "finished_today": 0,
@@ -3696,19 +3695,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 8350.64,
-        "current_time_local": "2026-03-02 00:50:12",
+        "api_call_time_ms": 6434.22,
+        "current_time_local": "2026-03-02 00:55:09",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-01 19:20:12",
-    "generated_at": "2026-03-01 19:20:12 UTC",
+    "last_updated": "2026-03-01 19:25:09",
+    "generated_at": "2026-03-01 19:25:09 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 139422,
+        "file_size": 139463,
         "file_path": "matches.json"
     }
 }
