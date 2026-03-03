@@ -2,37 +2,6 @@
     "success": true,
     "matches": [
         {
-            "id": 538070,
-            "home": "Leeds United",
-            "away": "Sunderland",
-            "homeScore": 0,
-            "awayScore": 1,
-            "homeLogo": "https:\/\/crests.football-data.org\/341.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/71.png",
-            "status": "IN_PLAY",
-            "utcDate": "2026-03-03T19:30:00Z",
-            "localDate": "2026-03-04 01:00:00",
-            "localTime": "01:00",
-            "matchday": 29,
-            "competition": "Premier League",
-            "competitionCode": "PL",
-            "isLive": true,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "live",
-            "venue": "Leeds United FC (Home)",
-            "lastUpdated": "2026-03-03T21:06:19Z",
-            "referee": "Stuart Attwell",
-            "season": 31,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 538074,
             "home": "Wolverhampton",
             "away": "Liverpool",
@@ -120,6 +89,37 @@
             "venue": "Everton FC (Home)",
             "lastUpdated": "2026-03-03T21:36:45Z",
             "referee": "Tim Robinson",
+            "season": 31,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": true
+        },
+        {
+            "id": 538070,
+            "home": "Leeds United",
+            "away": "Sunderland",
+            "homeScore": 0,
+            "awayScore": 1,
+            "homeLogo": "https:\/\/crests.football-data.org\/341.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/71.png",
+            "status": "FINISHED",
+            "utcDate": "2026-03-03T19:30:00Z",
+            "localDate": "2026-03-04 01:00:00",
+            "localTime": "01:00",
+            "matchday": 29,
+            "competition": "Premier League",
+            "competitionCode": "PL",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_today",
+            "venue": "Leeds United FC (Home)",
+            "lastUpdated": "2026-03-03T21:40:41Z",
+            "referee": "Stuart Attwell",
             "season": 31,
             "group": null,
             "minutesUntilStart": null,
@@ -859,14 +859,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "20h 19m",
+            "timeUntilStart": "20h 14m",
             "dayCategory": "today",
             "venue": "Rayo Vallecano de Madrid (Home)",
             "lastUpdated": "2026-03-02T01:32:01Z",
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 1220,
+            "minutesUntilStart": 1215,
             "isRecent": false
         },
         {
@@ -890,14 +890,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 49m",
+            "timeUntilStart": "21h 44m",
             "dayCategory": "tomorrow",
             "venue": "Aston Villa FC (Home)",
             "lastUpdated": "2026-03-02T01:32:01Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 1310,
+            "minutesUntilStart": 1305,
             "isRecent": false
         },
         {
@@ -921,14 +921,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 49m",
+            "timeUntilStart": "21h 44m",
             "dayCategory": "tomorrow",
             "venue": "Brighton & Hove Albion FC (Home)",
             "lastUpdated": "2026-03-02T01:32:01Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 1310,
+            "minutesUntilStart": 1305,
             "isRecent": false
         },
         {
@@ -952,14 +952,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 49m",
+            "timeUntilStart": "21h 44m",
             "dayCategory": "tomorrow",
             "venue": "Fulham FC (Home)",
             "lastUpdated": "2026-03-02T01:32:01Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 1310,
+            "minutesUntilStart": 1305,
             "isRecent": false
         },
         {
@@ -983,14 +983,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 49m",
+            "timeUntilStart": "21h 44m",
             "dayCategory": "tomorrow",
             "venue": "Manchester City FC (Home)",
             "lastUpdated": "2026-03-03T00:20:55Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 1310,
+            "minutesUntilStart": 1305,
             "isRecent": false
         },
         {
@@ -1014,14 +1014,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 49m",
+            "timeUntilStart": "21h 44m",
             "dayCategory": "tomorrow",
             "venue": "Hamburger SV (Home)",
             "lastUpdated": "2026-02-26T01:32:04Z",
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 1310,
+            "minutesUntilStart": 1305,
             "isRecent": false
         },
         {
@@ -1045,14 +1045,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "22h 34m",
+            "timeUntilStart": "22h 29m",
             "dayCategory": "tomorrow",
             "venue": "Newcastle United FC (Home)",
             "lastUpdated": "2026-03-03T00:20:55Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 1355,
+            "minutesUntilStart": 1350,
             "isRecent": false
         },
         {
@@ -1083,7 +1083,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 2780,
+            "minutesUntilStart": 2775,
             "isRecent": false
         },
         {
@@ -1114,7 +1114,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 4190,
+            "minutesUntilStart": 4185,
             "isRecent": false
         },
         {
@@ -1145,7 +1145,7 @@
             "referee": null,
             "season": 27,
             "group": null,
-            "minutesUntilStart": 4205,
+            "minutesUntilStart": 4200,
             "isRecent": false
         },
         {
@@ -1176,7 +1176,7 @@
             "referee": null,
             "season": 24,
             "group": null,
-            "minutesUntilStart": 4205,
+            "minutesUntilStart": 4200,
             "isRecent": false
         },
         {
@@ -1207,43 +1207,12 @@
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 4220,
+            "minutesUntilStart": 4215,
             "isRecent": false
         }
     ],
     "grouped_matches": {
         "live": [
-            {
-                "id": 538070,
-                "home": "Leeds United",
-                "away": "Sunderland",
-                "homeScore": 0,
-                "awayScore": 1,
-                "homeLogo": "https:\/\/crests.football-data.org\/341.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/71.png",
-                "status": "IN_PLAY",
-                "utcDate": "2026-03-03T19:30:00Z",
-                "localDate": "2026-03-04 01:00:00",
-                "localTime": "01:00",
-                "matchday": 29,
-                "competition": "Premier League",
-                "competitionCode": "PL",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "Leeds United FC (Home)",
-                "lastUpdated": "2026-03-03T21:06:19Z",
-                "referee": "Stuart Attwell",
-                "season": 31,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
             {
                 "id": 538074,
                 "home": "Wolverhampton",
@@ -1277,7 +1246,7 @@
             }
         ],
         "finished_today": {
-            "2": {
+            "1": {
                 "id": 538065,
                 "home": "Bournemouth",
                 "away": "Brentford",
@@ -1308,7 +1277,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "3": {
+            "2": {
                 "id": 538068,
                 "home": "Everton",
                 "away": "Burnley",
@@ -1338,6 +1307,37 @@
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": true
+            },
+            "3": {
+                "id": 538070,
+                "home": "Leeds United",
+                "away": "Sunderland",
+                "homeScore": 0,
+                "awayScore": 1,
+                "homeLogo": "https:\/\/crests.football-data.org\/341.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/71.png",
+                "status": "FINISHED",
+                "utcDate": "2026-03-03T19:30:00Z",
+                "localDate": "2026-03-04 01:00:00",
+                "localTime": "01:00",
+                "matchday": 29,
+                "competition": "Premier League",
+                "competitionCode": "PL",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": false,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_today",
+                "venue": "Leeds United FC (Home)",
+                "lastUpdated": "2026-03-03T21:40:41Z",
+                "referee": "Stuart Attwell",
+                "season": 31,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": true
             }
         },
         "today": {
@@ -1362,14 +1362,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "20h 19m",
+                "timeUntilStart": "20h 14m",
                 "dayCategory": "today",
                 "venue": "Rayo Vallecano de Madrid (Home)",
                 "lastUpdated": "2026-03-02T01:32:01Z",
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 1220,
+                "minutesUntilStart": 1215,
                 "isRecent": false
             }
         },
@@ -1395,14 +1395,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 49m",
+                "timeUntilStart": "21h 44m",
                 "dayCategory": "tomorrow",
                 "venue": "Aston Villa FC (Home)",
                 "lastUpdated": "2026-03-02T01:32:01Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 1310,
+                "minutesUntilStart": 1305,
                 "isRecent": false
             },
             "29": {
@@ -1426,14 +1426,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 49m",
+                "timeUntilStart": "21h 44m",
                 "dayCategory": "tomorrow",
                 "venue": "Brighton & Hove Albion FC (Home)",
                 "lastUpdated": "2026-03-02T01:32:01Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 1310,
+                "minutesUntilStart": 1305,
                 "isRecent": false
             },
             "30": {
@@ -1457,14 +1457,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 49m",
+                "timeUntilStart": "21h 44m",
                 "dayCategory": "tomorrow",
                 "venue": "Fulham FC (Home)",
                 "lastUpdated": "2026-03-02T01:32:01Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 1310,
+                "minutesUntilStart": 1305,
                 "isRecent": false
             },
             "31": {
@@ -1488,14 +1488,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 49m",
+                "timeUntilStart": "21h 44m",
                 "dayCategory": "tomorrow",
                 "venue": "Manchester City FC (Home)",
                 "lastUpdated": "2026-03-03T00:20:55Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 1310,
+                "minutesUntilStart": 1305,
                 "isRecent": false
             },
             "32": {
@@ -1519,14 +1519,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 49m",
+                "timeUntilStart": "21h 44m",
                 "dayCategory": "tomorrow",
                 "venue": "Hamburger SV (Home)",
                 "lastUpdated": "2026-02-26T01:32:04Z",
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 1310,
+                "minutesUntilStart": 1305,
                 "isRecent": false
             },
             "33": {
@@ -1550,14 +1550,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "22h 34m",
+                "timeUntilStart": "22h 29m",
                 "dayCategory": "tomorrow",
                 "venue": "Newcastle United FC (Home)",
                 "lastUpdated": "2026-03-03T00:20:55Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 1355,
+                "minutesUntilStart": 1350,
                 "isRecent": false
             },
             "34": {
@@ -1588,7 +1588,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 2780,
+                "minutesUntilStart": 2775,
                 "isRecent": false
             },
             "35": {
@@ -1619,7 +1619,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 4190,
+                "minutesUntilStart": 4185,
                 "isRecent": false
             },
             "36": {
@@ -1650,7 +1650,7 @@
                 "referee": null,
                 "season": 27,
                 "group": null,
-                "minutesUntilStart": 4205,
+                "minutesUntilStart": 4200,
                 "isRecent": false
             },
             "37": {
@@ -1681,7 +1681,7 @@
                 "referee": null,
                 "season": 24,
                 "group": null,
-                "minutesUntilStart": 4205,
+                "minutesUntilStart": 4200,
                 "isRecent": false
             },
             "38": {
@@ -1712,7 +1712,7 @@
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 4220,
+                "minutesUntilStart": 4215,
                 "isRecent": false
             }
         },
@@ -2438,10 +2438,10 @@
     },
     "stats": {
         "total_matches": 39,
-        "live_matches": 2,
+        "live_matches": 1,
         "today_matches": 1,
         "tomorrow_matches": 11,
-        "finished_today": 2,
+        "finished_today": 3,
         "finished_recent": 0
     },
     "query_info": {
@@ -2456,19 +2456,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 5219.31,
-        "current_time_local": "2026-03-04 03:10:10",
+        "api_call_time_ms": 4922.22,
+        "current_time_local": "2026-03-04 03:15:08",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-03 21:40:10",
-    "generated_at": "2026-03-03 21:40:10 UTC",
+    "last_updated": "2026-03-03 21:45:08",
+    "generated_at": "2026-03-03 21:45:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 92319,
+        "file_size": 92344,
         "file_path": "matches.json"
     }
 }
