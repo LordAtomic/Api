@@ -371,7 +371,7 @@
             "season": 27,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": true
+            "isRecent": false
         },
         {
             "id": 537094,
@@ -1045,14 +1045,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "49m",
+            "timeUntilStart": "44m",
             "dayCategory": "today",
             "venue": "AC Milan (Home)",
             "lastUpdated": "2026-03-02T01:32:04Z",
             "referee": "Daniele Doveri",
             "season": 28,
             "group": null,
-            "minutesUntilStart": 50,
+            "minutesUntilStart": 45,
             "isRecent": false
         },
         {
@@ -1076,14 +1076,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "49m",
+            "timeUntilStart": "44m",
             "dayCategory": "today",
             "venue": "Olympique Lyonnais (Home)",
             "lastUpdated": "2026-03-08T01:32:01Z",
             "referee": "Eric Wattellier",
             "season": 25,
             "group": null,
-            "minutesUntilStart": 50,
+            "minutesUntilStart": 45,
             "isRecent": false
         },
         {
@@ -1107,14 +1107,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 4m",
+            "timeUntilStart": "59m",
             "dayCategory": "today",
             "venue": "Valencia CF (Home)",
             "lastUpdated": "2026-03-05T01:32:03Z",
             "referee": "Jos\u00e9 Luis Guzm\u00e1n Mansilla",
             "season": 27,
             "group": null,
-            "minutesUntilStart": 65,
+            "minutesUntilStart": 60,
             "isRecent": false
         },
         {
@@ -1145,7 +1145,7 @@
             "referee": null,
             "season": 28,
             "group": null,
-            "minutesUntilStart": 1490,
+            "minutesUntilStart": 1485,
             "isRecent": false
         },
         {
@@ -1176,7 +1176,7 @@
             "referee": null,
             "season": 27,
             "group": null,
-            "minutesUntilStart": 1505,
+            "minutesUntilStart": 1500,
             "isRecent": false
         }
     ],
@@ -1268,14 +1268,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "49m",
+                "timeUntilStart": "44m",
                 "dayCategory": "today",
                 "venue": "AC Milan (Home)",
                 "lastUpdated": "2026-03-02T01:32:04Z",
                 "referee": "Daniele Doveri",
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 50,
+                "minutesUntilStart": 45,
                 "isRecent": false
             },
             "34": {
@@ -1299,14 +1299,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "49m",
+                "timeUntilStart": "44m",
                 "dayCategory": "today",
                 "venue": "Olympique Lyonnais (Home)",
                 "lastUpdated": "2026-03-08T01:32:01Z",
                 "referee": "Eric Wattellier",
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 50,
+                "minutesUntilStart": 45,
                 "isRecent": false
             },
             "35": {
@@ -1330,14 +1330,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 4m",
+                "timeUntilStart": "59m",
                 "dayCategory": "today",
                 "venue": "Valencia CF (Home)",
                 "lastUpdated": "2026-03-05T01:32:03Z",
                 "referee": "Jos\u00e9 Luis Guzm\u00e1n Mansilla",
                 "season": 27,
                 "group": null,
-                "minutesUntilStart": 65,
+                "minutesUntilStart": 60,
                 "isRecent": false
             }
         },
@@ -1370,7 +1370,7 @@
                 "referee": null,
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 1490,
+                "minutesUntilStart": 1485,
                 "isRecent": false
             },
             "37": {
@@ -1401,7 +1401,7 @@
                 "referee": null,
                 "season": 27,
                 "group": null,
-                "minutesUntilStart": 1505,
+                "minutesUntilStart": 1500,
                 "isRecent": false
             }
         },
@@ -1715,7 +1715,7 @@
                 "season": 27,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
             "12": {
                 "id": 537094,
@@ -2393,19 +2393,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 4567.27,
-        "current_time_local": "2026-03-09 00:25:09",
+        "api_call_time_ms": 12517,
+        "current_time_local": "2026-03-09 00:30:17",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-08 18:55:09",
-    "generated_at": "2026-03-08 18:55:09 UTC",
+    "last_updated": "2026-03-08 19:00:17",
+    "generated_at": "2026-03-08 19:00:17 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 90200,
+        "file_size": 90196,
         "file_path": "matches.json"
     }
 }
