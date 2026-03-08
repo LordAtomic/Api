@@ -102,7 +102,7 @@
             "awayScore": 2,
             "homeLogo": "https:\/\/crests.football-data.org\/28.png",
             "awayLogo": "https:\/\/crests.football-data.org\/12.png",
-            "status": "PAUSED",
+            "status": "IN_PLAY",
             "utcDate": "2026-03-08T16:30:00Z",
             "localDate": "2026-03-08 22:00:00",
             "localTime": "22:00",
@@ -118,7 +118,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "1. FC Union Berlin (Home)",
-            "lastUpdated": "2026-03-08T17:26:45Z",
+            "lastUpdated": "2026-03-08T17:43:42Z",
             "referee": "Timo Gerach",
             "season": 25,
             "group": null,
@@ -149,7 +149,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Genoa CFC (Home)",
-            "lastUpdated": "2026-03-08T17:05:16Z",
+            "lastUpdated": "2026-03-08T17:05:17Z",
             "referee": "Andrea Colombo",
             "season": 28,
             "group": null,
@@ -1045,14 +1045,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 4m",
+            "timeUntilStart": "1h 59m",
             "dayCategory": "tomorrow",
             "venue": "AC Milan (Home)",
             "lastUpdated": "2026-03-02T01:32:04Z",
-            "referee": null,
+            "referee": "Daniele Doveri",
             "season": 28,
             "group": null,
-            "minutesUntilStart": 125,
+            "minutesUntilStart": 120,
             "isRecent": false
         },
         {
@@ -1076,14 +1076,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 4m",
+            "timeUntilStart": "1h 59m",
             "dayCategory": "tomorrow",
             "venue": "Olympique Lyonnais (Home)",
             "lastUpdated": "2026-03-08T01:32:01Z",
-            "referee": null,
+            "referee": "Eric Wattellier",
             "season": 25,
             "group": null,
-            "minutesUntilStart": 125,
+            "minutesUntilStart": 120,
             "isRecent": false
         },
         {
@@ -1107,14 +1107,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 19m",
+            "timeUntilStart": "2h 14m",
             "dayCategory": "tomorrow",
             "venue": "Valencia CF (Home)",
             "lastUpdated": "2026-03-05T01:32:03Z",
             "referee": null,
             "season": 27,
             "group": null,
-            "minutesUntilStart": 140,
+            "minutesUntilStart": 135,
             "isRecent": false
         },
         {
@@ -1145,7 +1145,7 @@
             "referee": null,
             "season": 28,
             "group": null,
-            "minutesUntilStart": 1565,
+            "minutesUntilStart": 1560,
             "isRecent": false
         },
         {
@@ -1176,7 +1176,7 @@
             "referee": null,
             "season": 27,
             "group": null,
-            "minutesUntilStart": 1580,
+            "minutesUntilStart": 1575,
             "isRecent": false
         }
     ],
@@ -1283,7 +1283,7 @@
                 "awayScore": 2,
                 "homeLogo": "https:\/\/crests.football-data.org\/28.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/12.png",
-                "status": "PAUSED",
+                "status": "IN_PLAY",
                 "utcDate": "2026-03-08T16:30:00Z",
                 "localDate": "2026-03-08 22:00:00",
                 "localTime": "22:00",
@@ -1299,7 +1299,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "1. FC Union Berlin (Home)",
-                "lastUpdated": "2026-03-08T17:26:45Z",
+                "lastUpdated": "2026-03-08T17:43:42Z",
                 "referee": "Timo Gerach",
                 "season": 25,
                 "group": null,
@@ -1330,7 +1330,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Genoa CFC (Home)",
-                "lastUpdated": "2026-03-08T17:05:16Z",
+                "lastUpdated": "2026-03-08T17:05:17Z",
                 "referee": "Andrea Colombo",
                 "season": 28,
                 "group": null,
@@ -1704,14 +1704,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 4m",
+                "timeUntilStart": "1h 59m",
                 "dayCategory": "tomorrow",
                 "venue": "AC Milan (Home)",
                 "lastUpdated": "2026-03-02T01:32:04Z",
-                "referee": null,
+                "referee": "Daniele Doveri",
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 125,
+                "minutesUntilStart": 120,
                 "isRecent": false
             },
             "34": {
@@ -1735,14 +1735,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 4m",
+                "timeUntilStart": "1h 59m",
                 "dayCategory": "tomorrow",
                 "venue": "Olympique Lyonnais (Home)",
                 "lastUpdated": "2026-03-08T01:32:01Z",
-                "referee": null,
+                "referee": "Eric Wattellier",
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 125,
+                "minutesUntilStart": 120,
                 "isRecent": false
             },
             "35": {
@@ -1766,14 +1766,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 19m",
+                "timeUntilStart": "2h 14m",
                 "dayCategory": "tomorrow",
                 "venue": "Valencia CF (Home)",
                 "lastUpdated": "2026-03-05T01:32:03Z",
                 "referee": null,
                 "season": 27,
                 "group": null,
-                "minutesUntilStart": 140,
+                "minutesUntilStart": 135,
                 "isRecent": false
             },
             "36": {
@@ -1804,7 +1804,7 @@
                 "referee": null,
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 1565,
+                "minutesUntilStart": 1560,
                 "isRecent": false
             },
             "37": {
@@ -1835,7 +1835,7 @@
                 "referee": null,
                 "season": 27,
                 "group": null,
-                "minutesUntilStart": 1580,
+                "minutesUntilStart": 1575,
                 "isRecent": false
             }
         },
@@ -2392,19 +2392,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 7084.02,
-        "current_time_local": "2026-03-08 23:10:11",
+        "api_call_time_ms": 6158.72,
+        "current_time_local": "2026-03-08 23:15:10",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-08 17:40:11",
-    "generated_at": "2026-03-08 17:40:11 UTC",
+    "last_updated": "2026-03-08 17:45:10",
+    "generated_at": "2026-03-08 17:45:10 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 90247,
+        "file_size": 90303,
         "file_path": "matches.json"
     }
 }
