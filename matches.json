@@ -9,28 +9,28 @@
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/559.png",
             "awayLogo": "https:\/\/crests.football-data.org\/87.png",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "utcDate": "2026-03-08T17:30:00Z",
             "localDate": "2026-03-08 23:00:00",
             "localTime": "23:00",
             "matchday": 27,
             "competition": "Primera Division",
             "competitionCode": "PD",
-            "isLive": true,
-            "isFinished": false,
+            "isLive": false,
+            "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
-            "isYesterday": false,
+            "isYesterday": true,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "live",
+            "dayCategory": "finished_yesterday",
             "venue": "Sevilla FC (Home)",
-            "lastUpdated": "2026-03-08T18:49:22Z",
+            "lastUpdated": "2026-03-08T19:36:00Z",
             "referee": "Alejandro Mu\u00f1iz Ruiz",
             "season": 27,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
+            "isRecent": true
         },
         {
             "id": 537089,
@@ -1045,14 +1045,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "9m",
+            "timeUntilStart": "4m",
             "dayCategory": "today",
             "venue": "AC Milan (Home)",
             "lastUpdated": "2026-03-02T01:32:04Z",
             "referee": "Daniele Doveri",
             "season": 28,
             "group": null,
-            "minutesUntilStart": 10,
+            "minutesUntilStart": 5,
             "isRecent": false
         },
         {
@@ -1076,14 +1076,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "9m",
+            "timeUntilStart": "4m",
             "dayCategory": "today",
             "venue": "Olympique Lyonnais (Home)",
             "lastUpdated": "2026-03-08T01:32:01Z",
             "referee": "Eric Wattellier",
             "season": 25,
             "group": null,
-            "minutesUntilStart": 10,
+            "minutesUntilStart": 5,
             "isRecent": false
         },
         {
@@ -1107,14 +1107,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "24m",
+            "timeUntilStart": "19m",
             "dayCategory": "today",
             "venue": "Valencia CF (Home)",
             "lastUpdated": "2026-03-05T01:32:03Z",
             "referee": "Jos\u00e9 Luis Guzm\u00e1n Mansilla",
             "season": 27,
             "group": null,
-            "minutesUntilStart": 25,
+            "minutesUntilStart": 20,
             "isRecent": false
         },
         {
@@ -1145,7 +1145,7 @@
             "referee": null,
             "season": 28,
             "group": null,
-            "minutesUntilStart": 1450,
+            "minutesUntilStart": 1445,
             "isRecent": false
         },
         {
@@ -1176,44 +1176,12 @@
             "referee": null,
             "season": 27,
             "group": null,
-            "minutesUntilStart": 1465,
+            "minutesUntilStart": 1460,
             "isRecent": false
         }
     ],
     "grouped_matches": {
-        "live": [
-            {
-                "id": 544480,
-                "home": "Sevilla FC",
-                "away": "Rayo Vallecano",
-                "homeScore": 1,
-                "awayScore": 1,
-                "homeLogo": "https:\/\/crests.football-data.org\/559.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/87.png",
-                "status": "IN_PLAY",
-                "utcDate": "2026-03-08T17:30:00Z",
-                "localDate": "2026-03-08 23:00:00",
-                "localTime": "23:00",
-                "matchday": 27,
-                "competition": "Primera Division",
-                "competitionCode": "PD",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "Sevilla FC (Home)",
-                "lastUpdated": "2026-03-08T18:49:22Z",
-                "referee": "Alejandro Mu\u00f1iz Ruiz",
-                "season": 27,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
+        "live": [],
         "finished_today": [],
         "today": {
             "33": {
@@ -1237,14 +1205,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "9m",
+                "timeUntilStart": "4m",
                 "dayCategory": "today",
                 "venue": "AC Milan (Home)",
                 "lastUpdated": "2026-03-02T01:32:04Z",
                 "referee": "Daniele Doveri",
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 10,
+                "minutesUntilStart": 5,
                 "isRecent": false
             },
             "34": {
@@ -1268,14 +1236,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "9m",
+                "timeUntilStart": "4m",
                 "dayCategory": "today",
                 "venue": "Olympique Lyonnais (Home)",
                 "lastUpdated": "2026-03-08T01:32:01Z",
                 "referee": "Eric Wattellier",
                 "season": 25,
                 "group": null,
-                "minutesUntilStart": 10,
+                "minutesUntilStart": 5,
                 "isRecent": false
             },
             "35": {
@@ -1299,14 +1267,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "24m",
+                "timeUntilStart": "19m",
                 "dayCategory": "today",
                 "venue": "Valencia CF (Home)",
                 "lastUpdated": "2026-03-05T01:32:03Z",
                 "referee": "Jos\u00e9 Luis Guzm\u00e1n Mansilla",
                 "season": 27,
                 "group": null,
-                "minutesUntilStart": 25,
+                "minutesUntilStart": 20,
                 "isRecent": false
             }
         },
@@ -1339,7 +1307,7 @@
                 "referee": null,
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 1450,
+                "minutesUntilStart": 1445,
                 "isRecent": false
             },
             "37": {
@@ -1370,13 +1338,44 @@
                 "referee": null,
                 "season": 27,
                 "group": null,
-                "minutesUntilStart": 1465,
+                "minutesUntilStart": 1460,
                 "isRecent": false
             }
         },
         "upcoming": [],
-        "finished_yesterday": {
-            "1": {
+        "finished_yesterday": [
+            {
+                "id": 544480,
+                "home": "Sevilla FC",
+                "away": "Rayo Vallecano",
+                "homeScore": 1,
+                "awayScore": 1,
+                "homeLogo": "https:\/\/crests.football-data.org\/559.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/87.png",
+                "status": "FINISHED",
+                "utcDate": "2026-03-08T17:30:00Z",
+                "localDate": "2026-03-08 23:00:00",
+                "localTime": "23:00",
+                "matchday": 27,
+                "competition": "Primera Division",
+                "competitionCode": "PD",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": true,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_yesterday",
+                "venue": "Sevilla FC (Home)",
+                "lastUpdated": "2026-03-08T19:36:00Z",
+                "referee": "Alejandro Mu\u00f1iz Ruiz",
+                "season": 27,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": true
+            },
+            {
                 "id": 537089,
                 "home": "Genoa",
                 "away": "Roma",
@@ -1407,7 +1406,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "2": {
+            {
                 "id": 540625,
                 "home": "Union Berlin",
                 "away": "Bremen",
@@ -1438,7 +1437,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "3": {
+            {
                 "id": 542625,
                 "home": "Nice",
                 "away": "Stade Rennais",
@@ -1469,7 +1468,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "4": {
+            {
                 "id": 542627,
                 "home": "Lille",
                 "away": "Lorient",
@@ -1500,7 +1499,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "5": {
+            {
                 "id": 542630,
                 "home": "Brest",
                 "away": "Le Havre",
@@ -1531,7 +1530,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "6": {
+            {
                 "id": 544476,
                 "home": "Getafe",
                 "away": "Real Betis",
@@ -1562,7 +1561,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "7": {
+            {
                 "id": 540623,
                 "home": "St. Pauli",
                 "away": "Frankfurt",
@@ -1593,7 +1592,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "8": {
+            {
                 "id": 537090,
                 "home": "Bologna",
                 "away": "Verona",
@@ -1624,7 +1623,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "9": {
+            {
                 "id": 537085,
                 "home": "Fiorentina",
                 "away": "Parma",
@@ -1655,7 +1654,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "10": {
+            {
                 "id": 542629,
                 "home": "RC Lens",
                 "away": "FC Metz",
@@ -1686,7 +1685,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "11": {
+            {
                 "id": 544477,
                 "home": "Villarreal",
                 "away": "Elche",
@@ -1717,7 +1716,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "12": {
+            {
                 "id": 537094,
                 "home": "Lecce",
                 "away": "Cremonese",
@@ -1748,7 +1747,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "13": {
+            {
                 "id": 542624,
                 "home": "Toulouse",
                 "away": "Marseille",
@@ -1779,7 +1778,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "14": {
+            {
                 "id": 544471,
                 "home": "Athletic",
                 "away": "Bar\u00e7a",
@@ -1810,7 +1809,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "15": {
+            {
                 "id": 537091,
                 "home": "Juventus",
                 "away": "AC Pisa",
@@ -1841,7 +1840,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             }
-        },
+        ],
         "finished_recent": [],
         "finished_older": {
             "16": {
@@ -2375,7 +2374,7 @@
     },
     "stats": {
         "total_matches": 38,
-        "live_matches": 1,
+        "live_matches": 0,
         "today_matches": 3,
         "tomorrow_matches": 2,
         "finished_today": 0,
@@ -2393,19 +2392,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 4325.87,
-        "current_time_local": "2026-03-09 01:05:09",
+        "api_call_time_ms": 5872.84,
+        "current_time_local": "2026-03-09 01:10:12",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-08 19:35:09",
-    "generated_at": "2026-03-08 19:35:09 UTC",
+    "last_updated": "2026-03-08 19:40:12",
+    "generated_at": "2026-03-08 19:40:12 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 90225,
+        "file_size": 90158,
         "file_path": "matches.json"
     }
 }
