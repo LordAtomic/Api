@@ -1045,14 +1045,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4m",
+            "timeUntilStart": null,
             "dayCategory": "today",
             "venue": "RCD Espanyol de Barcelona (Home)",
             "lastUpdated": "2026-03-03T01:32:04Z",
             "referee": "Javier Alberola Rojas",
             "season": 27,
             "group": null,
-            "minutesUntilStart": 5,
+            "minutesUntilStart": null,
             "isRecent": false
         }
     ],
@@ -1113,14 +1113,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4m",
+                "timeUntilStart": null,
                 "dayCategory": "today",
                 "venue": "RCD Espanyol de Barcelona (Home)",
                 "lastUpdated": "2026-03-03T01:32:04Z",
                 "referee": "Javier Alberola Rojas",
                 "season": 27,
                 "group": null,
-                "minutesUntilStart": 5,
+                "minutesUntilStart": null,
                 "isRecent": false
             }
         },
@@ -2144,19 +2144,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 5591.75,
-        "current_time_local": "2026-03-10 01:25:09",
+        "api_call_time_ms": 8592.92,
+        "current_time_local": "2026-03-10 01:30:13",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-09 19:55:09",
-    "generated_at": "2026-03-09 19:55:09 UTC",
+    "last_updated": "2026-03-09 20:00:13",
+    "generated_at": "2026-03-09 20:00:13 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 80739,
+        "file_size": 80745,
         "file_path": "matches.json"
     }
 }
