@@ -1014,14 +1014,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 4m",
+            "timeUntilStart": "59m",
             "dayCategory": "today",
             "venue": "SS Lazio (Home)",
             "lastUpdated": "2026-03-03T01:32:04Z",
             "referee": "Alberto Arena",
             "season": 28,
             "group": null,
-            "minutesUntilStart": 65,
+            "minutesUntilStart": 60,
             "isRecent": false
         },
         {
@@ -1045,14 +1045,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 19m",
+            "timeUntilStart": "1h 14m",
             "dayCategory": "today",
             "venue": "RCD Espanyol de Barcelona (Home)",
             "lastUpdated": "2026-03-03T01:32:04Z",
             "referee": "Javier Alberola Rojas",
             "season": 27,
             "group": null,
-            "minutesUntilStart": 80,
+            "minutesUntilStart": 75,
             "isRecent": false
         }
     ],
@@ -1081,14 +1081,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 4m",
+                "timeUntilStart": "59m",
                 "dayCategory": "today",
                 "venue": "SS Lazio (Home)",
                 "lastUpdated": "2026-03-03T01:32:04Z",
                 "referee": "Alberto Arena",
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 65,
+                "minutesUntilStart": 60,
                 "isRecent": false
             },
             "33": {
@@ -1112,14 +1112,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 19m",
+                "timeUntilStart": "1h 14m",
                 "dayCategory": "today",
                 "venue": "RCD Espanyol de Barcelona (Home)",
                 "lastUpdated": "2026-03-03T01:32:04Z",
                 "referee": "Javier Alberola Rojas",
                 "season": 27,
                 "group": null,
-                "minutesUntilStart": 80,
+                "minutesUntilStart": 75,
                 "isRecent": false
             }
         },
@@ -2143,19 +2143,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 5466.84,
-        "current_time_local": "2026-03-10 00:10:09",
+        "api_call_time_ms": 4659.29,
+        "current_time_local": "2026-03-10 00:15:09",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-09 18:40:09",
-    "generated_at": "2026-03-09 18:40:09 UTC",
+    "last_updated": "2026-03-09 18:45:09",
+    "generated_at": "2026-03-09 18:45:09 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 80731,
+        "file_size": 80727,
         "file_path": "matches.json"
     }
 }
