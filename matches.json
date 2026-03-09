@@ -9,7 +9,7 @@
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/110.png",
             "awayLogo": "https:\/\/crests.football-data.org\/471.png",
-            "status": "IN_PLAY",
+            "status": "PAUSED",
             "utcDate": "2026-03-09T19:45:00Z",
             "localDate": "2026-03-10 01:15:00",
             "localTime": "01:15",
@@ -25,7 +25,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "SS Lazio (Home)",
-            "lastUpdated": "2026-03-09T20:26:22Z",
+            "lastUpdated": "2026-03-09T20:38:22Z",
             "referee": "Alberto Arena",
             "season": 28,
             "group": null,
@@ -1066,7 +1066,7 @@
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/110.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/471.png",
-                "status": "IN_PLAY",
+                "status": "PAUSED",
                 "utcDate": "2026-03-09T19:45:00Z",
                 "localDate": "2026-03-10 01:15:00",
                 "localTime": "01:15",
@@ -1082,7 +1082,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "SS Lazio (Home)",
-                "lastUpdated": "2026-03-09T20:26:22Z",
+                "lastUpdated": "2026-03-09T20:38:22Z",
                 "referee": "Alberto Arena",
                 "season": 28,
                 "group": null,
@@ -2143,19 +2143,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 4584.6,
-        "current_time_local": "2026-03-10 02:05:08",
+        "api_call_time_ms": 5118.98,
+        "current_time_local": "2026-03-10 02:10:15",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-09 20:35:08",
-    "generated_at": "2026-03-09 20:35:08 UTC",
+    "last_updated": "2026-03-09 20:40:15",
+    "generated_at": "2026-03-09 20:40:15 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 80733,
+        "file_size": 80732,
         "file_path": "matches.json"
     }
 }
