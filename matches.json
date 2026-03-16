@@ -9,7 +9,7 @@
             "awayScore": 2,
             "homeLogo": "https:\/\/crests.football-data.org\/457.png",
             "awayLogo": "https:\/\/crests.football-data.org\/99.png",
-            "status": "IN_PLAY",
+            "status": "PAUSED",
             "utcDate": "2026-03-16T19:45:00Z",
             "localDate": "2026-03-17 01:15:00",
             "localTime": "01:15",
@@ -25,7 +25,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "US Cremonese (Home)",
-            "lastUpdated": "2026-03-16T20:23:55Z",
+            "lastUpdated": "2026-03-16T20:38:55Z",
             "referee": "Marco Di Bello",
             "season": 29,
             "group": null,
@@ -1376,7 +1376,7 @@
                 "awayScore": 2,
                 "homeLogo": "https:\/\/crests.football-data.org\/457.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/99.png",
-                "status": "IN_PLAY",
+                "status": "PAUSED",
                 "utcDate": "2026-03-16T19:45:00Z",
                 "localDate": "2026-03-17 01:15:00",
                 "localTime": "01:15",
@@ -1392,7 +1392,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "US Cremonese (Home)",
-                "lastUpdated": "2026-03-16T20:23:55Z",
+                "lastUpdated": "2026-03-16T20:38:55Z",
                 "referee": "Marco Di Bello",
                 "season": 29,
                 "group": null,
@@ -2764,19 +2764,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 5802.62,
-        "current_time_local": "2026-03-17 02:05:09",
+        "api_call_time_ms": 7760.79,
+        "current_time_local": "2026-03-17 02:10:15",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-16 20:35:09",
-    "generated_at": "2026-03-16 20:35:09 UTC",
+    "last_updated": "2026-03-16 20:40:15",
+    "generated_at": "2026-03-16 20:40:15 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 104275,
+        "file_size": 104273,
         "file_path": "matches.json"
     }
 }
