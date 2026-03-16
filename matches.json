@@ -2,6 +2,37 @@
     "success": true,
     "matches": [
         {
+            "id": 542636,
+            "home": "PSG",
+            "away": "Nantes",
+            "homeScore": 0,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/524.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/543.png",
+            "status": "POSTPONED",
+            "utcDate": "2026-03-15T00:00:00Z",
+            "localDate": "2026-03-15 05:30:00",
+            "localTime": "05:30",
+            "matchday": 26,
+            "competition": "Ligue 1",
+            "competitionCode": "FL1",
+            "isLive": false,
+            "isFinished": false,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "upcoming",
+            "venue": "Paris Saint-Germain FC (Home)",
+            "lastUpdated": "2026-03-08T01:32:05Z",
+            "referee": null,
+            "season": 26,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
+        },
+        {
             "id": 544490,
             "home": "Real Sociedad",
             "away": "Osasuna",
@@ -28,37 +59,6 @@
             "lastUpdated": "2026-03-16T00:21:04Z",
             "referee": "Guillermo Cuadra Fern\u00e1ndez",
             "season": 28,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
-            "id": 537099,
-            "home": "Lazio",
-            "away": "Milan",
-            "homeScore": 1,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/110.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/98.png",
-            "status": "FINISHED",
-            "utcDate": "2026-03-15T19:45:00Z",
-            "localDate": "2026-03-16 01:15:00",
-            "localTime": "01:15",
-            "matchday": 29,
-            "competition": "Serie A",
-            "competitionCode": "SA",
-            "isLive": false,
-            "isFinished": true,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "finished_today",
-            "venue": "SS Lazio (Home)",
-            "lastUpdated": "2026-03-16T00:21:04Z",
-            "referee": "Marco Guida",
-            "season": 29,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -152,37 +152,6 @@
             "lastUpdated": "2026-03-16T00:21:04Z",
             "referee": "Jos\u00e9 S\u00e1nchez Mart\u00ednez",
             "season": 28,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
-            "id": 537095,
-            "home": "Como 1907",
-            "away": "Roma",
-            "homeScore": 2,
-            "awayScore": 1,
-            "homeLogo": "https:\/\/crests.football-data.org\/7397.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/100.png",
-            "status": "FINISHED",
-            "utcDate": "2026-03-15T17:00:00Z",
-            "localDate": "2026-03-15 22:30:00",
-            "localTime": "22:30",
-            "matchday": 29,
-            "competition": "Serie A",
-            "competitionCode": "SA",
-            "isLive": false,
-            "isFinished": true,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": true,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
-            "venue": "Como 1907 (Home)",
-            "lastUpdated": "2026-03-16T00:21:04Z",
-            "referee": "Davide Massa",
-            "season": 29,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -467,68 +436,6 @@
             "isRecent": false
         },
         {
-            "id": 537100,
-            "home": "AC Pisa",
-            "away": "Cagliari",
-            "homeScore": 3,
-            "awayScore": 1,
-            "homeLogo": "https:\/\/crests.football-data.org\/487.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/104.png",
-            "status": "FINISHED",
-            "utcDate": "2026-03-15T14:00:00Z",
-            "localDate": "2026-03-15 19:30:00",
-            "localTime": "19:30",
-            "matchday": 29,
-            "competition": "Serie A",
-            "competitionCode": "SA",
-            "isLive": false,
-            "isFinished": true,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": true,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
-            "venue": "AC Pisa 1909 (Home)",
-            "lastUpdated": "2026-03-16T00:21:04Z",
-            "referee": "Federico La Penna",
-            "season": 29,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
-            "id": 537101,
-            "home": "Sassuolo",
-            "away": "Bologna",
-            "homeScore": 0,
-            "awayScore": 1,
-            "homeLogo": "https:\/\/crests.football-data.org\/471.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/103.png",
-            "status": "FINISHED",
-            "utcDate": "2026-03-15T14:00:00Z",
-            "localDate": "2026-03-15 19:30:00",
-            "localTime": "19:30",
-            "matchday": 29,
-            "competition": "Serie A",
-            "competitionCode": "SA",
-            "isLive": false,
-            "isFinished": true,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": true,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
-            "venue": "US Sassuolo Calcio (Home)",
-            "lastUpdated": "2026-03-16T00:21:04Z",
-            "referee": "Kevin Bonacina",
-            "season": 29,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 542637,
             "home": "Strasbourg",
             "away": "Paris FC",
@@ -586,37 +493,6 @@
             "lastUpdated": "2026-03-16T00:21:04Z",
             "referee": "Ricardo de Burgos",
             "season": 28,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
-            "id": 537097,
-            "home": "Verona",
-            "away": "Genoa",
-            "homeScore": 0,
-            "awayScore": 2,
-            "homeLogo": "https:\/\/crests.football-data.org\/450.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/107.png",
-            "status": "FINISHED",
-            "utcDate": "2026-03-15T11:30:00Z",
-            "localDate": "2026-03-15 17:00:00",
-            "localTime": "17:00",
-            "matchday": 29,
-            "competition": "Serie A",
-            "competitionCode": "SA",
-            "isLive": false,
-            "isFinished": true,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": true,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
-            "venue": "Hellas Verona FC (Home)",
-            "lastUpdated": "2026-03-16T00:21:04Z",
-            "referee": "Matteo Marchetti",
-            "season": 29,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -710,37 +586,6 @@
             "lastUpdated": "2026-03-16T00:21:04Z",
             "referee": "Jes\u00fas Gil Manzano",
             "season": 28,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
-            "id": 537103,
-            "home": "Udinese",
-            "away": "Juventus",
-            "homeScore": 0,
-            "awayScore": 1,
-            "homeLogo": "https:\/\/crests.football-data.org\/115.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/109.png",
-            "status": "FINISHED",
-            "utcDate": "2026-03-14T19:45:00Z",
-            "localDate": "2026-03-15 01:15:00",
-            "localTime": "01:15",
-            "matchday": 29,
-            "competition": "Serie A",
-            "competitionCode": "SA",
-            "isLive": false,
-            "isFinished": true,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": true,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
-            "venue": "Udinese Calcio (Home)",
-            "lastUpdated": "2026-03-16T00:21:04Z",
-            "referee": "Maurizio Mariani",
-            "season": 29,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -896,37 +741,6 @@
             "lastUpdated": "2026-03-16T00:21:03Z",
             "referee": "Tobias Welz",
             "season": 26,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
-            "id": 537102,
-            "home": "Napoli",
-            "away": "Lecce",
-            "homeScore": 2,
-            "awayScore": 1,
-            "homeLogo": "https:\/\/crests.football-data.org\/113.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/5890.png",
-            "status": "FINISHED",
-            "utcDate": "2026-03-14T17:00:00Z",
-            "localDate": "2026-03-14 22:30:00",
-            "localTime": "22:30",
-            "matchday": 29,
-            "competition": "Serie A",
-            "competitionCode": "SA",
-            "isLive": false,
-            "isFinished": true,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "finished",
-            "venue": "SSC Napoli (Home)",
-            "lastUpdated": "2026-03-16T00:21:04Z",
-            "referee": "Rosario Abisso",
-            "season": 29,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -1180,37 +994,6 @@
             "isRecent": false
         },
         {
-            "id": 537098,
-            "home": "Inter",
-            "away": "Atalanta",
-            "homeScore": 1,
-            "awayScore": 1,
-            "homeLogo": "https:\/\/crests.football-data.org\/108.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/102.png",
-            "status": "FINISHED",
-            "utcDate": "2026-03-14T14:00:00Z",
-            "localDate": "2026-03-14 19:30:00",
-            "localTime": "19:30",
-            "matchday": 29,
-            "competition": "Serie A",
-            "competitionCode": "SA",
-            "isLive": false,
-            "isFinished": true,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "finished",
-            "venue": "FC Internazionale Milano (Home)",
-            "lastUpdated": "2026-03-16T00:21:04Z",
-            "referee": "Gianluca Manganiello",
-            "season": 29,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 544486,
             "home": "Girona",
             "away": "Athletic",
@@ -1239,68 +1022,6 @@
             "season": 28,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
-            "id": 542636,
-            "home": "PSG",
-            "away": "Nantes",
-            "homeScore": 0,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/524.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/543.png",
-            "status": "POSTPONED",
-            "utcDate": "2026-03-15T00:00:00Z",
-            "localDate": "2026-03-15 05:30:00",
-            "localTime": "05:30",
-            "matchday": 26,
-            "competition": "Ligue 1",
-            "competitionCode": "FL1",
-            "isLive": false,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "upcoming",
-            "venue": "Paris Saint-Germain FC (Home)",
-            "lastUpdated": "2026-03-08T01:32:05Z",
-            "referee": null,
-            "season": 26,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
-            "id": 537104,
-            "home": "Cremonese",
-            "away": "Fiorentina",
-            "homeScore": 0,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/457.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/99.png",
-            "status": "TIMED",
-            "utcDate": "2026-03-16T19:45:00Z",
-            "localDate": "2026-03-17 01:15:00",
-            "localTime": "01:15",
-            "matchday": 29,
-            "competition": "Serie A",
-            "competitionCode": "SA",
-            "isLive": false,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": true,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": "7h 44m",
-            "dayCategory": "tomorrow",
-            "venue": "US Cremonese (Home)",
-            "lastUpdated": "2026-03-10T01:32:04Z",
-            "referee": null,
-            "season": 29,
-            "group": null,
-            "minutesUntilStart": 465,
             "isRecent": false
         },
         {
@@ -1368,8 +1089,8 @@
     ],
     "grouped_matches": {
         "live": [],
-        "finished_today": [
-            {
+        "finished_today": {
+            "1": {
                 "id": 544490,
                 "home": "Real Sociedad",
                 "away": "Osasuna",
@@ -1400,38 +1121,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            {
-                "id": 537099,
-                "home": "Lazio",
-                "away": "Milan",
-                "homeScore": 1,
-                "awayScore": 0,
-                "homeLogo": "https:\/\/crests.football-data.org\/110.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/98.png",
-                "status": "FINISHED",
-                "utcDate": "2026-03-15T19:45:00Z",
-                "localDate": "2026-03-16 01:15:00",
-                "localTime": "01:15",
-                "matchday": 29,
-                "competition": "Serie A",
-                "competitionCode": "SA",
-                "isLive": false,
-                "isFinished": true,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "finished_today",
-                "venue": "SS Lazio (Home)",
-                "lastUpdated": "2026-03-16T00:21:04Z",
-                "referee": "Marco Guida",
-                "season": 29,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
-            {
+            "2": {
                 "id": 542639,
                 "home": "Stade Rennais",
                 "away": "Lille",
@@ -1462,7 +1152,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            {
+            "3": {
                 "id": 540633,
                 "home": "Stuttgart",
                 "away": "RB Leipzig",
@@ -1493,41 +1183,10 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             }
-        ],
+        },
         "today": [],
         "tomorrow": {
-            "41": {
-                "id": 537104,
-                "home": "Cremonese",
-                "away": "Fiorentina",
-                "homeScore": 0,
-                "awayScore": 0,
-                "homeLogo": "https:\/\/crests.football-data.org\/457.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/99.png",
-                "status": "TIMED",
-                "utcDate": "2026-03-16T19:45:00Z",
-                "localDate": "2026-03-17 01:15:00",
-                "localTime": "01:15",
-                "matchday": 29,
-                "competition": "Serie A",
-                "competitionCode": "SA",
-                "isLive": false,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": true,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": "7h 44m",
-                "dayCategory": "tomorrow",
-                "venue": "US Cremonese (Home)",
-                "lastUpdated": "2026-03-10T01:32:04Z",
-                "referee": null,
-                "season": 29,
-                "group": null,
-                "minutesUntilStart": 465,
-                "isRecent": false
-            },
-            "42": {
+            "33": {
                 "id": 538078,
                 "home": "Brentford",
                 "away": "Wolverhampton",
@@ -1558,7 +1217,7 @@
                 "minutesUntilStart": 480,
                 "isRecent": false
             },
-            "43": {
+            "34": {
                 "id": 544489,
                 "home": "Rayo Vallecano",
                 "away": "Levante",
@@ -1590,8 +1249,8 @@
                 "isRecent": false
             }
         },
-        "upcoming": {
-            "40": {
+        "upcoming": [
+            {
                 "id": 542636,
                 "home": "PSG",
                 "away": "Nantes",
@@ -1622,7 +1281,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             }
-        },
+        ],
         "finished_yesterday": {
             "4": {
                 "id": 544484,
@@ -1656,37 +1315,6 @@
                 "isRecent": false
             },
             "5": {
-                "id": 537095,
-                "home": "Como 1907",
-                "away": "Roma",
-                "homeScore": 2,
-                "awayScore": 1,
-                "homeLogo": "https:\/\/crests.football-data.org\/7397.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/100.png",
-                "status": "FINISHED",
-                "utcDate": "2026-03-15T17:00:00Z",
-                "localDate": "2026-03-15 22:30:00",
-                "localTime": "22:30",
-                "matchday": 29,
-                "competition": "Serie A",
-                "competitionCode": "SA",
-                "isLive": false,
-                "isFinished": true,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": true,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "finished_yesterday",
-                "venue": "Como 1907 (Home)",
-                "lastUpdated": "2026-03-16T00:21:04Z",
-                "referee": "Davide Massa",
-                "season": 29,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
-            "6": {
                 "id": 538081,
                 "home": "Liverpool",
                 "away": "Tottenham",
@@ -1717,7 +1345,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "7": {
+            "6": {
                 "id": 540636,
                 "home": "Freiburg",
                 "away": "Union Berlin",
@@ -1748,7 +1376,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "8": {
+            "7": {
                 "id": 542631,
                 "home": "Le Havre",
                 "away": "Olympique Lyon",
@@ -1779,7 +1407,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "9": {
+            "8": {
                 "id": 542634,
                 "home": "FC Metz",
                 "away": "Toulouse",
@@ -1810,7 +1438,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "10": {
+            "9": {
                 "id": 544483,
                 "home": "Bar\u00e7a",
                 "away": "Sevilla FC",
@@ -1841,7 +1469,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "11": {
+            "10": {
                 "id": 540632,
                 "home": "Bremen",
                 "away": "Mainz",
@@ -1872,7 +1500,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "12": {
+            "11": {
                 "id": 538076,
                 "home": "Crystal Palace",
                 "away": "Leeds United",
@@ -1903,7 +1531,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "13": {
+            "12": {
                 "id": 538082,
                 "home": "Man United",
                 "away": "Aston Villa",
@@ -1934,7 +1562,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "14": {
+            "13": {
                 "id": 538083,
                 "home": "Nottingham",
                 "away": "Fulham",
@@ -1965,69 +1593,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "15": {
-                "id": 537100,
-                "home": "AC Pisa",
-                "away": "Cagliari",
-                "homeScore": 3,
-                "awayScore": 1,
-                "homeLogo": "https:\/\/crests.football-data.org\/487.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/104.png",
-                "status": "FINISHED",
-                "utcDate": "2026-03-15T14:00:00Z",
-                "localDate": "2026-03-15 19:30:00",
-                "localTime": "19:30",
-                "matchday": 29,
-                "competition": "Serie A",
-                "competitionCode": "SA",
-                "isLive": false,
-                "isFinished": true,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": true,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "finished_yesterday",
-                "venue": "AC Pisa 1909 (Home)",
-                "lastUpdated": "2026-03-16T00:21:04Z",
-                "referee": "Federico La Penna",
-                "season": 29,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
-            "16": {
-                "id": 537101,
-                "home": "Sassuolo",
-                "away": "Bologna",
-                "homeScore": 0,
-                "awayScore": 1,
-                "homeLogo": "https:\/\/crests.football-data.org\/471.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/103.png",
-                "status": "FINISHED",
-                "utcDate": "2026-03-15T14:00:00Z",
-                "localDate": "2026-03-15 19:30:00",
-                "localTime": "19:30",
-                "matchday": 29,
-                "competition": "Serie A",
-                "competitionCode": "SA",
-                "isLive": false,
-                "isFinished": true,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": true,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "finished_yesterday",
-                "venue": "US Sassuolo Calcio (Home)",
-                "lastUpdated": "2026-03-16T00:21:04Z",
-                "referee": "Kevin Bonacina",
-                "season": 29,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
-            "17": {
+            "14": {
                 "id": 542637,
                 "home": "Strasbourg",
                 "away": "Paris FC",
@@ -2058,7 +1624,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "18": {
+            "15": {
                 "id": 544488,
                 "home": "Mallorca",
                 "away": "Espanyol",
@@ -2089,38 +1655,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "19": {
-                "id": 537097,
-                "home": "Verona",
-                "away": "Genoa",
-                "homeScore": 0,
-                "awayScore": 2,
-                "homeLogo": "https:\/\/crests.football-data.org\/450.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/107.png",
-                "status": "FINISHED",
-                "utcDate": "2026-03-15T11:30:00Z",
-                "localDate": "2026-03-15 17:00:00",
-                "localTime": "17:00",
-                "matchday": 29,
-                "competition": "Serie A",
-                "competitionCode": "SA",
-                "isLive": false,
-                "isFinished": true,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": true,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "finished_yesterday",
-                "venue": "Hellas Verona FC (Home)",
-                "lastUpdated": "2026-03-16T00:21:04Z",
-                "referee": "Matteo Marchetti",
-                "season": 29,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
-            "20": {
+            "16": {
                 "id": 542632,
                 "home": "Monaco",
                 "away": "Brest",
@@ -2151,7 +1686,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "21": {
+            "17": {
                 "id": 538084,
                 "home": "West Ham",
                 "away": "Man City",
@@ -2182,7 +1717,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "22": {
+            "18": {
                 "id": 544487,
                 "home": "Real Madrid",
                 "away": "Elche",
@@ -2212,42 +1747,11 @@
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
-            },
-            "23": {
-                "id": 537103,
-                "home": "Udinese",
-                "away": "Juventus",
-                "homeScore": 0,
-                "awayScore": 1,
-                "homeLogo": "https:\/\/crests.football-data.org\/115.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/109.png",
-                "status": "FINISHED",
-                "utcDate": "2026-03-14T19:45:00Z",
-                "localDate": "2026-03-15 01:15:00",
-                "localTime": "01:15",
-                "matchday": 29,
-                "competition": "Serie A",
-                "competitionCode": "SA",
-                "isLive": false,
-                "isFinished": true,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": true,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "finished_yesterday",
-                "venue": "Udinese Calcio (Home)",
-                "lastUpdated": "2026-03-16T00:21:04Z",
-                "referee": "Maurizio Mariani",
-                "season": 29,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
             }
         },
         "finished_recent": [],
         "finished_older": {
-            "24": {
+            "19": {
                 "id": 542638,
                 "home": "Angers SCO",
                 "away": "Nice",
@@ -2278,7 +1782,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "25": {
+            "20": {
                 "id": 538077,
                 "home": "Arsenal",
                 "away": "Everton",
@@ -2309,7 +1813,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "26": {
+            "21": {
                 "id": 538080,
                 "home": "Chelsea",
                 "away": "Newcastle",
@@ -2340,7 +1844,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "27": {
+            "22": {
                 "id": 544485,
                 "home": "Real Oviedo",
                 "away": "Valencia",
@@ -2371,7 +1875,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "28": {
+            "23": {
                 "id": 540639,
                 "home": "HSV",
                 "away": "1. FC K\u00f6ln",
@@ -2402,38 +1906,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "29": {
-                "id": 537102,
-                "home": "Napoli",
-                "away": "Lecce",
-                "homeScore": 2,
-                "awayScore": 1,
-                "homeLogo": "https:\/\/crests.football-data.org\/113.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/5890.png",
-                "status": "FINISHED",
-                "utcDate": "2026-03-14T17:00:00Z",
-                "localDate": "2026-03-14 22:30:00",
-                "localTime": "22:30",
-                "matchday": 29,
-                "competition": "Serie A",
-                "competitionCode": "SA",
-                "isLive": false,
-                "isFinished": true,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "finished",
-                "venue": "SSC Napoli (Home)",
-                "lastUpdated": "2026-03-16T00:21:04Z",
-                "referee": "Rosario Abisso",
-                "season": 29,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
-            "30": {
+            "24": {
                 "id": 542633,
                 "home": "Lorient",
                 "away": "RC Lens",
@@ -2464,7 +1937,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "31": {
+            "25": {
                 "id": 544482,
                 "home": "Atleti",
                 "away": "Getafe",
@@ -2495,7 +1968,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "32": {
+            "26": {
                 "id": 538075,
                 "home": "Sunderland",
                 "away": "Brighton Hove",
@@ -2526,7 +1999,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "33": {
+            "27": {
                 "id": 538079,
                 "home": "Burnley",
                 "away": "Bournemouth",
@@ -2557,7 +2030,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "34": {
+            "28": {
                 "id": 540631,
                 "home": "Leverkusen",
                 "away": "Bayern",
@@ -2588,7 +2061,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "35": {
+            "29": {
                 "id": 540634,
                 "home": "Hoffenheim",
                 "away": "Wolfsburg",
@@ -2619,7 +2092,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "36": {
+            "30": {
                 "id": 540635,
                 "home": "Dortmund",
                 "away": "Augsburg",
@@ -2650,7 +2123,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "37": {
+            "31": {
                 "id": 540638,
                 "home": "Frankfurt",
                 "away": "Heidenheim",
@@ -2681,38 +2154,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "38": {
-                "id": 537098,
-                "home": "Inter",
-                "away": "Atalanta",
-                "homeScore": 1,
-                "awayScore": 1,
-                "homeLogo": "https:\/\/crests.football-data.org\/108.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/102.png",
-                "status": "FINISHED",
-                "utcDate": "2026-03-14T14:00:00Z",
-                "localDate": "2026-03-14 19:30:00",
-                "localTime": "19:30",
-                "matchday": 29,
-                "competition": "Serie A",
-                "competitionCode": "SA",
-                "isLive": false,
-                "isFinished": true,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "finished",
-                "venue": "FC Internazionale Milano (Home)",
-                "lastUpdated": "2026-03-16T00:21:04Z",
-                "referee": "Gianluca Manganiello",
-                "season": 29,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
-            "39": {
+            "32": {
                 "id": 544486,
                 "home": "Girona",
                 "away": "Athletic",
@@ -2746,11 +2188,11 @@
         }
     },
     "stats": {
-        "total_matches": 44,
+        "total_matches": 35,
         "live_matches": 0,
         "today_matches": 0,
-        "tomorrow_matches": 3,
-        "finished_today": 4,
+        "tomorrow_matches": 2,
+        "finished_today": 3,
         "finished_recent": 0
     },
     "query_info": {
@@ -2765,19 +2207,21 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 12299.84,
-        "current_time_local": "2026-03-16 17:30:17",
-        "api_errors": []
+        "api_call_time_ms": 15835.18,
+        "current_time_local": "2026-03-16 17:30:21",
+        "api_errors": [
+            "Failed to fetch data from SA"
+        ]
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-16 12:00:17",
-    "generated_at": "2026-03-16 12:00:17 UTC",
+    "last_updated": "2026-03-16 12:00:21",
+    "generated_at": "2026-03-16 12:00:21 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 104567,
+        "file_size": 83602,
         "file_path": "matches.json"
     }
 }
