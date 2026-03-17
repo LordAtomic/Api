@@ -64,37 +64,6 @@
             "isRecent": true
         },
         {
-            "id": 537104,
-            "home": "Cremonese",
-            "away": "Fiorentina",
-            "homeScore": 1,
-            "awayScore": 4,
-            "homeLogo": "https:\/\/crests.football-data.org\/457.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/99.png",
-            "status": "FINISHED",
-            "utcDate": "2026-03-16T19:45:00Z",
-            "localDate": "2026-03-17 01:15:00",
-            "localTime": "01:15",
-            "matchday": 29,
-            "competition": "Serie A",
-            "competitionCode": "SA",
-            "isLive": false,
-            "isFinished": true,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "finished_today",
-            "venue": "US Cremonese (Home)",
-            "lastUpdated": "2026-03-16T21:44:48Z",
-            "referee": "Marco Di Bello",
-            "season": 29,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": true
-        },
-        {
             "id": 542636,
             "home": "PSG",
             "away": "Nantes",
@@ -121,6 +90,37 @@
             "lastUpdated": "2026-03-08T01:32:05Z",
             "referee": null,
             "season": 26,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
+        },
+        {
+            "id": 537104,
+            "home": "Cremonese",
+            "away": "Fiorentina",
+            "homeScore": 1,
+            "awayScore": 4,
+            "homeLogo": "https:\/\/crests.football-data.org\/457.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/99.png",
+            "status": "FINISHED",
+            "utcDate": "2026-03-16T19:45:00Z",
+            "localDate": "2026-03-17 01:15:00",
+            "localTime": "01:15",
+            "matchday": 29,
+            "competition": "Serie A",
+            "competitionCode": "SA",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_today",
+            "venue": "US Cremonese (Home)",
+            "lastUpdated": "2026-03-16T21:44:48Z",
+            "referee": "Marco Di Bello",
+            "season": 29,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -773,7 +773,7 @@
             "referee": null,
             "season": 29,
             "group": null,
-            "minutesUntilStart": 5270,
+            "minutesUntilStart": 5265,
             "isRecent": false
         },
         {
@@ -804,7 +804,7 @@
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 5390,
+            "minutesUntilStart": 5385,
             "isRecent": false
         },
         {
@@ -835,7 +835,7 @@
             "referee": null,
             "season": 29,
             "group": null,
-            "minutesUntilStart": 5405,
+            "minutesUntilStart": 5400,
             "isRecent": false
         },
         {
@@ -866,7 +866,7 @@
             "referee": null,
             "season": 26,
             "group": null,
-            "minutesUntilStart": 5405,
+            "minutesUntilStart": 5400,
             "isRecent": false
         },
         {
@@ -897,7 +897,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 5420,
+            "minutesUntilStart": 5415,
             "isRecent": false
         },
         {
@@ -928,7 +928,7 @@
             "referee": null,
             "season": 28,
             "group": null,
-            "minutesUntilStart": 5420,
+            "minutesUntilStart": 5415,
             "isRecent": false
         },
         {
@@ -959,14 +959,14 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 5660,
+            "minutesUntilStart": 5655,
             "isRecent": false
         }
     ],
     "grouped_matches": {
         "live": [],
-        "finished_today": [
-            {
+        "finished_today": {
+            "0": {
                 "id": 538078,
                 "home": "Brentford",
                 "away": "Wolverhampton",
@@ -997,7 +997,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            {
+            "1": {
                 "id": 544489,
                 "home": "Rayo Vallecano",
                 "away": "Levante",
@@ -1028,7 +1028,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            {
+            "3": {
                 "id": 537104,
                 "home": "Cremonese",
                 "away": "Fiorentina",
@@ -1057,9 +1057,9 @@
                 "season": 29,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             }
-        ],
+        },
         "today": [],
         "tomorrow": {
             "24": {
@@ -1090,7 +1090,7 @@
                 "referee": null,
                 "season": 29,
                 "group": null,
-                "minutesUntilStart": 5270,
+                "minutesUntilStart": 5265,
                 "isRecent": false
             },
             "25": {
@@ -1121,7 +1121,7 @@
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 5390,
+                "minutesUntilStart": 5385,
                 "isRecent": false
             },
             "26": {
@@ -1152,7 +1152,7 @@
                 "referee": null,
                 "season": 29,
                 "group": null,
-                "minutesUntilStart": 5405,
+                "minutesUntilStart": 5400,
                 "isRecent": false
             },
             "27": {
@@ -1183,7 +1183,7 @@
                 "referee": null,
                 "season": 26,
                 "group": null,
-                "minutesUntilStart": 5405,
+                "minutesUntilStart": 5400,
                 "isRecent": false
             },
             "28": {
@@ -1214,7 +1214,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 5420,
+                "minutesUntilStart": 5415,
                 "isRecent": false
             },
             "29": {
@@ -1245,7 +1245,7 @@
                 "referee": null,
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 5420,
+                "minutesUntilStart": 5415,
                 "isRecent": false
             },
             "30": {
@@ -1276,12 +1276,12 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 5660,
+                "minutesUntilStart": 5655,
                 "isRecent": false
             }
         },
         "upcoming": {
-            "3": {
+            "2": {
                 "id": 542636,
                 "home": "PSG",
                 "away": "Nantes",
@@ -1959,19 +1959,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 6958.93,
-        "current_time_local": "2026-03-17 07:10:12",
+        "api_call_time_ms": 5233.92,
+        "current_time_local": "2026-03-17 07:15:09",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-17 01:40:12",
-    "generated_at": "2026-03-17 01:40:12 UTC",
+    "last_updated": "2026-03-17 01:45:09",
+    "generated_at": "2026-03-17 01:45:09 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 73775,
+        "file_size": 73792,
         "file_path": "matches.json"
     }
 }
