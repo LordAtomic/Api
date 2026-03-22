@@ -71,7 +71,7 @@
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/86.png",
             "awayLogo": "https:\/\/crests.football-data.org\/78.png",
-            "status": "PAUSED",
+            "status": "IN_PLAY",
             "utcDate": "2026-03-22T20:00:00Z",
             "localDate": "2026-03-23 01:30:00",
             "localTime": "01:30",
@@ -87,7 +87,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Real Madrid CF (Home)",
-            "lastUpdated": "2026-03-22T20:55:37Z",
+            "lastUpdated": "2026-03-22T21:10:57Z",
             "referee": "Jos\u00e9 Munuera Montero",
             "season": 29,
             "group": null,
@@ -312,37 +312,6 @@
             "isRecent": true
         },
         {
-            "id": 544497,
-            "home": "Celta",
-            "away": "Alav\u00e9s",
-            "homeScore": 3,
-            "awayScore": 4,
-            "homeLogo": "https:\/\/crests.football-data.org\/558.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/263.png",
-            "status": "FINISHED",
-            "utcDate": "2026-03-22T15:15:00Z",
-            "localDate": "2026-03-22 20:45:00",
-            "localTime": "20:45",
-            "matchday": 29,
-            "competition": "Primera Division",
-            "competitionCode": "PD",
-            "isLive": false,
-            "isFinished": true,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": true,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
-            "venue": "RC Celta de Vigo (Home)",
-            "lastUpdated": "2026-03-22T17:21:51Z",
-            "referee": "Miguel Sesma Espinosa",
-            "season": 29,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": true
-        },
-        {
             "id": 538091,
             "home": "Man City",
             "away": "Crystal Palace",
@@ -369,6 +338,37 @@
             "lastUpdated": "2026-03-22T00:20:54Z",
             "referee": null,
             "season": 31,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
+        },
+        {
+            "id": 544497,
+            "home": "Celta",
+            "away": "Alav\u00e9s",
+            "homeScore": 3,
+            "awayScore": 4,
+            "homeLogo": "https:\/\/crests.football-data.org\/558.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/263.png",
+            "status": "FINISHED",
+            "utcDate": "2026-03-22T15:15:00Z",
+            "localDate": "2026-03-22 20:45:00",
+            "localTime": "20:45",
+            "matchday": 29,
+            "competition": "Primera Division",
+            "competitionCode": "PD",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": true,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_yesterday",
+            "venue": "RC Celta de Vigo (Home)",
+            "lastUpdated": "2026-03-22T17:21:51Z",
+            "referee": "Miguel Sesma Espinosa",
+            "season": 29,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -1531,7 +1531,7 @@
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/86.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/78.png",
-                "status": "PAUSED",
+                "status": "IN_PLAY",
                 "utcDate": "2026-03-22T20:00:00Z",
                 "localDate": "2026-03-23 01:30:00",
                 "localTime": "01:30",
@@ -1547,7 +1547,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Real Madrid CF (Home)",
-                "lastUpdated": "2026-03-22T20:55:37Z",
+                "lastUpdated": "2026-03-22T21:10:57Z",
                 "referee": "Jos\u00e9 Munuera Montero",
                 "season": 29,
                 "group": null,
@@ -1591,7 +1591,7 @@
         "today": [],
         "tomorrow": [],
         "upcoming": {
-            "11": {
+            "10": {
                 "id": 538091,
                 "home": "Man City",
                 "away": "Crystal Palace",
@@ -1810,7 +1810,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "10": {
+            "11": {
                 "id": 544497,
                 "home": "Celta",
                 "away": "Alav\u00e9s",
@@ -1839,7 +1839,7 @@
                 "season": 29,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
             "12": {
                 "id": 540641,
@@ -2951,19 +2951,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 6443.68,
-        "current_time_local": "2026-03-23 02:40:16",
+        "api_call_time_ms": 5368.53,
+        "current_time_local": "2026-03-23 02:45:15",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-22 21:10:16",
-    "generated_at": "2026-03-22 21:10:16 UTC",
+    "last_updated": "2026-03-22 21:15:15",
+    "generated_at": "2026-03-22 21:15:15 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 111563,
+        "file_size": 111567,
         "file_path": "matches.json"
     }
 }
