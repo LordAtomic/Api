@@ -343,37 +343,6 @@
             "isRecent": true
         },
         {
-            "id": 540641,
-            "home": "Mainz",
-            "away": "Frankfurt",
-            "homeScore": 2,
-            "awayScore": 1,
-            "homeLogo": "https:\/\/crests.football-data.org\/15.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/19.png",
-            "status": "FINISHED",
-            "utcDate": "2026-03-22T14:30:00Z",
-            "localDate": "2026-03-22 20:00:00",
-            "localTime": "20:00",
-            "matchday": 27,
-            "competition": "Bundesliga",
-            "competitionCode": "BL1",
-            "isLive": false,
-            "isFinished": true,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": true,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
-            "venue": "1. FSV Mainz 05 (Home)",
-            "lastUpdated": "2026-03-22T16:34:15Z",
-            "referee": "Tobias Stieler",
-            "season": 27,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": true
-        },
-        {
             "id": 538091,
             "home": "Man City",
             "away": "Crystal Palace",
@@ -400,6 +369,37 @@
             "lastUpdated": "2026-03-22T00:20:54Z",
             "referee": null,
             "season": 31,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
+        },
+        {
+            "id": 540641,
+            "home": "Mainz",
+            "away": "Frankfurt",
+            "homeScore": 2,
+            "awayScore": 1,
+            "homeLogo": "https:\/\/crests.football-data.org\/15.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/19.png",
+            "status": "FINISHED",
+            "utcDate": "2026-03-22T14:30:00Z",
+            "localDate": "2026-03-22 20:00:00",
+            "localTime": "20:00",
+            "matchday": 27,
+            "competition": "Bundesliga",
+            "competitionCode": "BL1",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": true,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_yesterday",
+            "venue": "1. FSV Mainz 05 (Home)",
+            "lastUpdated": "2026-03-22T16:34:15Z",
+            "referee": "Tobias Stieler",
+            "season": 27,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -1590,7 +1590,7 @@
         "today": [],
         "tomorrow": [],
         "upcoming": {
-            "12": {
+            "11": {
                 "id": 538091,
                 "home": "Man City",
                 "away": "Crystal Palace",
@@ -1840,7 +1840,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "11": {
+            "12": {
                 "id": 540641,
                 "home": "Mainz",
                 "away": "Frankfurt",
@@ -1869,7 +1869,7 @@
                 "season": 27,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
             "13": {
                 "id": 538086,
@@ -2950,19 +2950,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 4395.57,
-        "current_time_local": "2026-03-23 01:55:09",
+        "api_call_time_ms": 12670.4,
+        "current_time_local": "2026-03-23 02:00:17",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-22 20:25:09",
-    "generated_at": "2026-03-22 20:25:09 UTC",
+    "last_updated": "2026-03-22 20:30:17",
+    "generated_at": "2026-03-22 20:30:17 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 111530,
+        "file_size": 111532,
         "file_path": "matches.json"
     }
 }
