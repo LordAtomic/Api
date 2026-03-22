@@ -188,37 +188,6 @@
             "isRecent": true
         },
         {
-            "id": 540642,
-            "home": "St. Pauli",
-            "away": "Freiburg",
-            "homeScore": 1,
-            "awayScore": 2,
-            "homeLogo": "https:\/\/crests.football-data.org\/20.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/17.png",
-            "status": "FINISHED",
-            "utcDate": "2026-03-22T16:30:00Z",
-            "localDate": "2026-03-22 22:00:00",
-            "localTime": "22:00",
-            "matchday": 27,
-            "competition": "Bundesliga",
-            "competitionCode": "BL1",
-            "isLive": false,
-            "isFinished": true,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": true,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
-            "venue": "FC St. Pauli 1910 (Home)",
-            "lastUpdated": "2026-03-22T18:32:49Z",
-            "referee": "Florian Badst\u00fcbner",
-            "season": 27,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": true
-        },
-        {
             "id": 538091,
             "home": "Man City",
             "away": "Crystal Palace",
@@ -245,6 +214,37 @@
             "lastUpdated": "2026-03-22T00:20:54Z",
             "referee": null,
             "season": 31,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
+        },
+        {
+            "id": 540642,
+            "home": "St. Pauli",
+            "away": "Freiburg",
+            "homeScore": 1,
+            "awayScore": 2,
+            "homeLogo": "https:\/\/crests.football-data.org\/20.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/17.png",
+            "status": "FINISHED",
+            "utcDate": "2026-03-22T16:30:00Z",
+            "localDate": "2026-03-22 22:00:00",
+            "localTime": "22:00",
+            "matchday": 27,
+            "competition": "Bundesliga",
+            "competitionCode": "BL1",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": true,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_yesterday",
+            "venue": "FC St. Pauli 1910 (Home)",
+            "lastUpdated": "2026-03-22T18:32:49Z",
+            "referee": "Florian Badst\u00fcbner",
+            "season": 27,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -1590,7 +1590,7 @@
         "today": [],
         "tomorrow": [],
         "upcoming": {
-            "7": {
+            "6": {
                 "id": 538091,
                 "home": "Man City",
                 "away": "Crystal Palace",
@@ -1685,7 +1685,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "6": {
+            "7": {
                 "id": 540642,
                 "home": "St. Pauli",
                 "away": "Freiburg",
@@ -1714,7 +1714,7 @@
                 "season": 27,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
             "8": {
                 "id": 542642,
@@ -2950,19 +2950,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 4747.36,
-        "current_time_local": "2026-03-23 03:55:10",
+        "api_call_time_ms": 7730.59,
+        "current_time_local": "2026-03-23 04:00:15",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-22 22:25:10",
-    "generated_at": "2026-03-22 22:25:10 UTC",
+    "last_updated": "2026-03-22 22:30:15",
+    "generated_at": "2026-03-22 22:30:15 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 111620,
+        "file_size": 111622,
         "file_path": "matches.json"
     }
 }
