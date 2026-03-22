@@ -9,28 +9,28 @@
             "awayScore": 2,
             "homeLogo": "https:\/\/crests.football-data.org\/86.png",
             "awayLogo": "https:\/\/crests.football-data.org\/78.png",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "utcDate": "2026-03-22T20:00:00Z",
             "localDate": "2026-03-23 01:30:00",
             "localTime": "01:30",
             "matchday": 29,
             "competition": "Primera Division",
             "competitionCode": "PD",
-            "isLive": true,
-            "isFinished": false,
+            "isLive": false,
+            "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "live",
+            "dayCategory": "finished_today",
             "venue": "Real Madrid CF (Home)",
-            "lastUpdated": "2026-03-22T21:37:36Z",
+            "lastUpdated": "2026-03-22T22:03:01Z",
             "referee": "Jos\u00e9 Munuera Montero",
             "season": 29,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
+            "isRecent": true
         },
         {
             "id": 537105,
@@ -1460,7 +1460,8 @@
         }
     ],
     "grouped_matches": {
-        "live": [
+        "live": [],
+        "finished_today": [
             {
                 "id": 544498,
                 "home": "Real Madrid",
@@ -1469,32 +1470,30 @@
                 "awayScore": 2,
                 "homeLogo": "https:\/\/crests.football-data.org\/86.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/78.png",
-                "status": "IN_PLAY",
+                "status": "FINISHED",
                 "utcDate": "2026-03-22T20:00:00Z",
                 "localDate": "2026-03-23 01:30:00",
                 "localTime": "01:30",
                 "matchday": 29,
                 "competition": "Primera Division",
                 "competitionCode": "PD",
-                "isLive": true,
-                "isFinished": false,
+                "isLive": false,
+                "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "live",
+                "dayCategory": "finished_today",
                 "venue": "Real Madrid CF (Home)",
-                "lastUpdated": "2026-03-22T21:37:36Z",
+                "lastUpdated": "2026-03-22T22:03:01Z",
                 "referee": "Jos\u00e9 Munuera Montero",
                 "season": 29,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
-        "finished_today": {
-            "1": {
+                "isRecent": true
+            },
+            {
                 "id": 537105,
                 "home": "Fiorentina",
                 "away": "Inter",
@@ -1525,7 +1524,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "2": {
+            {
                 "id": 542641,
                 "home": "Nantes",
                 "away": "Strasbourg",
@@ -1556,7 +1555,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "3": {
+            {
                 "id": 540644,
                 "home": "Augsburg",
                 "away": "Stuttgart",
@@ -1587,7 +1586,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             }
-        },
+        ],
         "today": [],
         "tomorrow": [],
         "upcoming": {
@@ -2933,10 +2932,10 @@
     },
     "stats": {
         "total_matches": 47,
-        "live_matches": 1,
+        "live_matches": 0,
         "today_matches": 0,
         "tomorrow_matches": 0,
-        "finished_today": 3,
+        "finished_today": 4,
         "finished_recent": 0
     },
     "query_info": {
@@ -2951,19 +2950,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 7427.8,
-        "current_time_local": "2026-03-23 03:30:27",
+        "api_call_time_ms": 4270.26,
+        "current_time_local": "2026-03-23 03:35:11",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-22 22:00:27",
-    "generated_at": "2026-03-22 22:00:27 UTC",
+    "last_updated": "2026-03-22 22:05:11",
+    "generated_at": "2026-03-22 22:05:11 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 111616,
+        "file_size": 111614,
         "file_path": "matches.json"
     }
 }
