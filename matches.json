@@ -68,7 +68,7 @@
             "home": "Real Madrid",
             "away": "Atleti",
             "homeScore": 0,
-            "awayScore": 0,
+            "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/86.png",
             "awayLogo": "https:\/\/crests.football-data.org\/78.png",
             "status": "IN_PLAY",
@@ -87,7 +87,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Real Madrid CF (Home)",
-            "lastUpdated": "2026-03-22T20:05:13Z",
+            "lastUpdated": "2026-03-22T20:41:02Z",
             "referee": "Jos\u00e9 Munuera Montero",
             "season": 29,
             "group": null,
@@ -1528,7 +1528,7 @@
                 "home": "Real Madrid",
                 "away": "Atleti",
                 "homeScore": 0,
-                "awayScore": 0,
+                "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/86.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/78.png",
                 "status": "IN_PLAY",
@@ -1547,7 +1547,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Real Madrid CF (Home)",
-                "lastUpdated": "2026-03-22T20:05:13Z",
+                "lastUpdated": "2026-03-22T20:41:02Z",
                 "referee": "Jos\u00e9 Munuera Montero",
                 "season": 29,
                 "group": null,
@@ -2951,19 +2951,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 7265.9,
-        "current_time_local": "2026-03-23 02:10:15",
+        "api_call_time_ms": 5873.69,
+        "current_time_local": "2026-03-23 02:15:11",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-22 20:40:15",
-    "generated_at": "2026-03-22 20:40:15 UTC",
+    "last_updated": "2026-03-22 20:45:11",
+    "generated_at": "2026-03-22 20:45:11 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 111560,
+        "file_size": 111561,
         "file_path": "matches.json"
     }
 }
