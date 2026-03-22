@@ -1386,14 +1386,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "9m",
+            "timeUntilStart": "4m",
             "dayCategory": "today",
             "venue": "ACF Fiorentina (Home)",
             "lastUpdated": "2026-03-17T01:32:04Z",
             "referee": "Andrea Colombo",
             "season": 30,
             "group": null,
-            "minutesUntilStart": 10,
+            "minutesUntilStart": 5,
             "isRecent": false
         },
         {
@@ -1417,14 +1417,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "9m",
+            "timeUntilStart": "4m",
             "dayCategory": "today",
             "venue": "FC Nantes (Home)",
             "lastUpdated": "2026-03-16T01:32:04Z",
             "referee": "Mathieu Vernice",
             "season": 27,
             "group": null,
-            "minutesUntilStart": 10,
+            "minutesUntilStart": 5,
             "isRecent": false
         },
         {
@@ -1448,14 +1448,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "24m",
+            "timeUntilStart": "19m",
             "dayCategory": "today",
             "venue": "Real Madrid CF (Home)",
             "lastUpdated": "2026-03-22T00:20:54Z",
             "referee": "Jos\u00e9 Munuera Montero",
             "season": 29,
             "group": null,
-            "minutesUntilStart": 25,
+            "minutesUntilStart": 20,
             "isRecent": false
         }
     ],
@@ -1516,14 +1516,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "9m",
+                "timeUntilStart": "4m",
                 "dayCategory": "today",
                 "venue": "ACF Fiorentina (Home)",
                 "lastUpdated": "2026-03-17T01:32:04Z",
                 "referee": "Andrea Colombo",
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 10,
+                "minutesUntilStart": 5,
                 "isRecent": false
             },
             "45": {
@@ -1547,14 +1547,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "9m",
+                "timeUntilStart": "4m",
                 "dayCategory": "today",
                 "venue": "FC Nantes (Home)",
                 "lastUpdated": "2026-03-16T01:32:04Z",
                 "referee": "Mathieu Vernice",
                 "season": 27,
                 "group": null,
-                "minutesUntilStart": 10,
+                "minutesUntilStart": 5,
                 "isRecent": false
             },
             "46": {
@@ -1578,14 +1578,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "24m",
+                "timeUntilStart": "19m",
                 "dayCategory": "today",
                 "venue": "Real Madrid CF (Home)",
                 "lastUpdated": "2026-03-22T00:20:54Z",
                 "referee": "Jos\u00e9 Munuera Montero",
                 "season": 29,
                 "group": null,
-                "minutesUntilStart": 25,
+                "minutesUntilStart": 20,
                 "isRecent": false
             }
         },
@@ -2951,19 +2951,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 4704.81,
-        "current_time_local": "2026-03-23 01:05:11",
+        "api_call_time_ms": 7076.06,
+        "current_time_local": "2026-03-23 01:10:12",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-22 19:35:11",
-    "generated_at": "2026-03-22 19:35:11 UTC",
+    "last_updated": "2026-03-22 19:40:12",
+    "generated_at": "2026-03-22 19:40:12 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 111525,
+        "file_size": 111521,
         "file_path": "matches.json"
     }
 }
