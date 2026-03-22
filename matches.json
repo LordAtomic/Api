@@ -219,6 +219,37 @@
             "isRecent": true
         },
         {
+            "id": 538091,
+            "home": "Man City",
+            "away": "Crystal Palace",
+            "homeScore": 0,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/65.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/354.png",
+            "status": "POSTPONED",
+            "utcDate": "2026-03-21T00:00:00Z",
+            "localDate": "2026-03-21 05:30:00",
+            "localTime": "05:30",
+            "matchday": 31,
+            "competition": "Premier League",
+            "competitionCode": "PL",
+            "isLive": false,
+            "isFinished": false,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "upcoming",
+            "venue": "Manchester City FC (Home)",
+            "lastUpdated": "2026-03-22T00:20:54Z",
+            "referee": null,
+            "season": 31,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
+        },
+        {
             "id": 542642,
             "home": "Paris FC",
             "away": "Le Havre",
@@ -247,7 +278,7 @@
             "season": 27,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": true
+            "isRecent": false
         },
         {
             "id": 542646,
@@ -278,7 +309,7 @@
             "season": 27,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": true
+            "isRecent": false
         },
         {
             "id": 542648,
@@ -307,37 +338,6 @@
             "lastUpdated": "2026-03-22T18:14:41Z",
             "referee": "Bastien Dechepy",
             "season": 27,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": true
-        },
-        {
-            "id": 538091,
-            "home": "Man City",
-            "away": "Crystal Palace",
-            "homeScore": 0,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/65.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/354.png",
-            "status": "POSTPONED",
-            "utcDate": "2026-03-21T00:00:00Z",
-            "localDate": "2026-03-21 05:30:00",
-            "localTime": "05:30",
-            "matchday": 31,
-            "competition": "Premier League",
-            "competitionCode": "PL",
-            "isLive": false,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "upcoming",
-            "venue": "Manchester City FC (Home)",
-            "lastUpdated": "2026-03-22T00:20:54Z",
-            "referee": null,
-            "season": 31,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -1590,7 +1590,7 @@
         "today": [],
         "tomorrow": [],
         "upcoming": {
-            "10": {
+            "7": {
                 "id": 538091,
                 "home": "Man City",
                 "away": "Crystal Palace",
@@ -1716,7 +1716,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "7": {
+            "8": {
                 "id": 542642,
                 "home": "Paris FC",
                 "away": "Le Havre",
@@ -1745,9 +1745,9 @@
                 "season": 27,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
-            "8": {
+            "9": {
                 "id": 542646,
                 "home": "Marseille",
                 "away": "Lille",
@@ -1776,9 +1776,9 @@
                 "season": 27,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
-            "9": {
+            "10": {
                 "id": 542648,
                 "home": "Stade Rennais",
                 "away": "FC Metz",
@@ -1807,7 +1807,7 @@
                 "season": 27,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
             "11": {
                 "id": 544497,
@@ -2950,19 +2950,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 6404.14,
-        "current_time_local": "2026-03-23 03:40:13",
+        "api_call_time_ms": 6120.7,
+        "current_time_local": "2026-03-23 03:45:11",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-22 22:10:13",
-    "generated_at": "2026-03-22 22:10:13 UTC",
+    "last_updated": "2026-03-22 22:15:11",
+    "generated_at": "2026-03-22 22:15:11 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 111614,
+        "file_size": 111619,
         "file_path": "matches.json"
     }
 }
