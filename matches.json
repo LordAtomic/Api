@@ -33,6 +33,37 @@
             "isRecent": true
         },
         {
+            "id": 538091,
+            "home": "Man City",
+            "away": "Crystal Palace",
+            "homeScore": 0,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/65.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/354.png",
+            "status": "POSTPONED",
+            "utcDate": "2026-03-21T00:00:00Z",
+            "localDate": "2026-03-21 05:30:00",
+            "localTime": "05:30",
+            "matchday": 31,
+            "competition": "Premier League",
+            "competitionCode": "PL",
+            "isLive": false,
+            "isFinished": false,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "upcoming",
+            "venue": "Manchester City FC (Home)",
+            "lastUpdated": "2026-03-22T00:20:54Z",
+            "referee": null,
+            "season": 31,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
+        },
+        {
             "id": 537105,
             "home": "Fiorentina",
             "away": "Inter",
@@ -61,7 +92,7 @@
             "season": 30,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": true
+            "isRecent": false
         },
         {
             "id": 542641,
@@ -90,37 +121,6 @@
             "lastUpdated": "2026-03-22T21:47:36Z",
             "referee": "Mathieu Vernice",
             "season": 27,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": true
-        },
-        {
-            "id": 538091,
-            "home": "Man City",
-            "away": "Crystal Palace",
-            "homeScore": 0,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/65.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/354.png",
-            "status": "POSTPONED",
-            "utcDate": "2026-03-21T00:00:00Z",
-            "localDate": "2026-03-21 05:30:00",
-            "localTime": "05:30",
-            "matchday": 31,
-            "competition": "Premier League",
-            "competitionCode": "PL",
-            "isLive": false,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "upcoming",
-            "venue": "Manchester City FC (Home)",
-            "lastUpdated": "2026-03-22T00:20:54Z",
-            "referee": null,
-            "season": 31,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -1307,7 +1307,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "1": {
+            "2": {
                 "id": 537105,
                 "home": "Fiorentina",
                 "away": "Inter",
@@ -1336,9 +1336,9 @@
                 "season": 30,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
-            "2": {
+            "3": {
                 "id": 542641,
                 "home": "Nantes",
                 "away": "Strasbourg",
@@ -1367,7 +1367,7 @@
                 "season": 27,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             },
             "4": {
                 "id": 540644,
@@ -1404,7 +1404,7 @@
         "today": [],
         "tomorrow": [],
         "upcoming": {
-            "3": {
+            "1": {
                 "id": 538091,
                 "home": "Man City",
                 "away": "Crystal Palace",
@@ -2578,19 +2578,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 6474.88,
-        "current_time_local": "2026-03-23 07:10:11",
+        "api_call_time_ms": 3743.7,
+        "current_time_local": "2026-03-23 07:15:12",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-23 01:40:11",
-    "generated_at": "2026-03-23 01:40:11 UTC",
+    "last_updated": "2026-03-23 01:45:12",
+    "generated_at": "2026-03-23 01:45:12 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 97570,
+        "file_size": 97573,
         "file_path": "matches.json"
     }
 }
