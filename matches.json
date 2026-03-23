@@ -95,37 +95,6 @@
             "isRecent": true
         },
         {
-            "id": 540644,
-            "home": "Augsburg",
-            "away": "Stuttgart",
-            "homeScore": 2,
-            "awayScore": 5,
-            "homeLogo": "https:\/\/crests.football-data.org\/16.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/10.png",
-            "status": "FINISHED",
-            "utcDate": "2026-03-22T18:30:00Z",
-            "localDate": "2026-03-23 00:00:00",
-            "localTime": "00:00",
-            "matchday": 27,
-            "competition": "Bundesliga",
-            "competitionCode": "BL1",
-            "isLive": false,
-            "isFinished": true,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "finished_today",
-            "venue": "FC Augsburg (Home)",
-            "lastUpdated": "2026-03-22T20:32:42Z",
-            "referee": "Felix Zwayer",
-            "season": 27,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": true
-        },
-        {
             "id": 538091,
             "home": "Man City",
             "away": "Crystal Palace",
@@ -152,6 +121,37 @@
             "lastUpdated": "2026-03-22T00:20:54Z",
             "referee": null,
             "season": 31,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
+        },
+        {
+            "id": 540644,
+            "home": "Augsburg",
+            "away": "Stuttgart",
+            "homeScore": 2,
+            "awayScore": 5,
+            "homeLogo": "https:\/\/crests.football-data.org\/16.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/10.png",
+            "status": "FINISHED",
+            "utcDate": "2026-03-22T18:30:00Z",
+            "localDate": "2026-03-23 00:00:00",
+            "localTime": "00:00",
+            "matchday": 27,
+            "competition": "Bundesliga",
+            "competitionCode": "BL1",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_today",
+            "venue": "FC Augsburg (Home)",
+            "lastUpdated": "2026-03-22T20:32:42Z",
+            "referee": "Felix Zwayer",
+            "season": 27,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -1275,8 +1275,8 @@
     ],
     "grouped_matches": {
         "live": [],
-        "finished_today": [
-            {
+        "finished_today": {
+            "0": {
                 "id": 544498,
                 "home": "Real Madrid",
                 "away": "Atleti",
@@ -1307,7 +1307,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            {
+            "1": {
                 "id": 537105,
                 "home": "Fiorentina",
                 "away": "Inter",
@@ -1338,7 +1338,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            {
+            "2": {
                 "id": 542641,
                 "home": "Nantes",
                 "away": "Strasbourg",
@@ -1369,7 +1369,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            {
+            "4": {
                 "id": 540644,
                 "home": "Augsburg",
                 "away": "Stuttgart",
@@ -1398,13 +1398,13 @@
                 "season": 27,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": true
+                "isRecent": false
             }
-        ],
+        },
         "today": [],
         "tomorrow": [],
         "upcoming": {
-            "4": {
+            "3": {
                 "id": 538091,
                 "home": "Man City",
                 "away": "Crystal Palace",
@@ -2578,19 +2578,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 3643.4,
-        "current_time_local": "2026-03-23 05:55:09",
+        "api_call_time_ms": 8325.82,
+        "current_time_local": "2026-03-23 06:00:20",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-23 00:25:09",
-    "generated_at": "2026-03-23 00:25:09 UTC",
+    "last_updated": "2026-03-23 00:30:20",
+    "generated_at": "2026-03-23 00:30:20 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 97547,
+        "file_size": 97570,
         "file_path": "matches.json"
     }
 }
