@@ -20,10 +20,10 @@
             "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
-            "isYesterday": true,
+            "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
+            "dayCategory": "finished",
             "venue": "Real Madrid CF (Home)",
             "lastUpdated": "2026-03-24T00:20:56Z",
             "referee": "Jos\u00e9 Munuera Montero",
@@ -51,10 +51,10 @@
             "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
-            "isYesterday": true,
+            "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
+            "dayCategory": "finished",
             "venue": "ACF Fiorentina (Home)",
             "lastUpdated": "2026-03-24T00:20:57Z",
             "referee": "Andrea Colombo",
@@ -82,10 +82,10 @@
             "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
-            "isYesterday": true,
+            "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
+            "dayCategory": "finished",
             "venue": "FC Nantes (Home)",
             "lastUpdated": "2026-03-24T00:20:56Z",
             "referee": "Mathieu Vernice",
@@ -113,10 +113,10 @@
             "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
-            "isYesterday": true,
+            "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
+            "dayCategory": "finished",
             "venue": "FC Augsburg (Home)",
             "lastUpdated": "2026-03-24T00:20:56Z",
             "referee": "Felix Zwayer",
@@ -628,7 +628,9 @@
         "today": [],
         "tomorrow": [],
         "upcoming": [],
-        "finished_yesterday": [
+        "finished_yesterday": [],
+        "finished_recent": [],
+        "finished_older": [
             {
                 "id": 544498,
                 "home": "Real Madrid",
@@ -648,10 +650,10 @@
                 "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
-                "isYesterday": true,
+                "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "finished_yesterday",
+                "dayCategory": "finished",
                 "venue": "Real Madrid CF (Home)",
                 "lastUpdated": "2026-03-24T00:20:56Z",
                 "referee": "Jos\u00e9 Munuera Montero",
@@ -679,10 +681,10 @@
                 "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
-                "isYesterday": true,
+                "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "finished_yesterday",
+                "dayCategory": "finished",
                 "venue": "ACF Fiorentina (Home)",
                 "lastUpdated": "2026-03-24T00:20:57Z",
                 "referee": "Andrea Colombo",
@@ -710,10 +712,10 @@
                 "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
-                "isYesterday": true,
+                "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "finished_yesterday",
+                "dayCategory": "finished",
                 "venue": "FC Nantes (Home)",
                 "lastUpdated": "2026-03-24T00:20:56Z",
                 "referee": "Mathieu Vernice",
@@ -741,10 +743,10 @@
                 "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
-                "isYesterday": true,
+                "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "finished_yesterday",
+                "dayCategory": "finished",
                 "venue": "FC Augsburg (Home)",
                 "lastUpdated": "2026-03-24T00:20:56Z",
                 "referee": "Felix Zwayer",
@@ -752,11 +754,8 @@
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
-            }
-        ],
-        "finished_recent": [],
-        "finished_older": {
-            "4": {
+            },
+            {
                 "id": 544491,
                 "home": "Athletic",
                 "away": "Real Betis",
@@ -787,7 +786,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "5": {
+            {
                 "id": 537107,
                 "home": "Roma",
                 "away": "Lecce",
@@ -818,7 +817,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "6": {
+            {
                 "id": 540642,
                 "home": "St. Pauli",
                 "away": "Freiburg",
@@ -849,7 +848,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "7": {
+            {
                 "id": 542642,
                 "home": "Paris FC",
                 "away": "Le Havre",
@@ -880,7 +879,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "8": {
+            {
                 "id": 542646,
                 "home": "Marseille",
                 "away": "Lille",
@@ -911,7 +910,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "9": {
+            {
                 "id": 542648,
                 "home": "Stade Rennais",
                 "away": "FC Metz",
@@ -942,7 +941,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "10": {
+            {
                 "id": 544497,
                 "home": "Celta",
                 "away": "Alav\u00e9s",
@@ -973,7 +972,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "11": {
+            {
                 "id": 540641,
                 "home": "Mainz",
                 "away": "Frankfurt",
@@ -1004,7 +1003,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "12": {
+            {
                 "id": 538086,
                 "home": "Aston Villa",
                 "away": "West Ham",
@@ -1035,7 +1034,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "13": {
+            {
                 "id": 538093,
                 "home": "Tottenham",
                 "away": "Nottingham",
@@ -1066,7 +1065,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "14": {
+            {
                 "id": 537108,
                 "home": "Atalanta",
                 "away": "Verona",
@@ -1097,7 +1096,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "15": {
+            {
                 "id": 537112,
                 "home": "Bologna",
                 "away": "Lazio",
@@ -1128,7 +1127,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "16": {
+            {
                 "id": 542645,
                 "home": "Olympique Lyon",
                 "away": "Monaco",
@@ -1159,7 +1158,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "17": {
+            {
                 "id": 544492,
                 "home": "Bar\u00e7a",
                 "away": "Rayo Vallecano",
@@ -1190,7 +1189,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "18": {
+            {
                 "id": 538092,
                 "home": "Newcastle",
                 "away": "Sunderland",
@@ -1221,7 +1220,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "19": {
+            {
                 "id": 537111,
                 "home": "Como 1907",
                 "away": "AC Pisa",
@@ -1252,7 +1251,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             }
-        }
+        ]
     },
     "stats": {
         "total_matches": 20,
@@ -1274,19 +1273,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 4444.59,
-        "current_time_local": "2026-03-24 23:55:08",
+        "api_call_time_ms": 8769.49,
+        "current_time_local": "2026-03-25 00:00:15",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-24 18:25:08",
-    "generated_at": "2026-03-24 18:25:08 UTC",
+    "last_updated": "2026-03-24 18:30:15",
+    "generated_at": "2026-03-24 18:30:15 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 48020,
+        "file_size": 47850,
         "file_path": "matches.json"
     }
 }
