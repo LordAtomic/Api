@@ -29,7 +29,7 @@
             "referee": null,
             "season": 28,
             "group": null,
-            "minutesUntilStart": 4365,
+            "minutesUntilStart": 4360,
             "isRecent": false
         },
         {
@@ -60,7 +60,7 @@
             "referee": null,
             "season": 30,
             "group": null,
-            "minutesUntilStart": 4380,
+            "minutesUntilStart": 4375,
             "isRecent": false
         }
     ],
@@ -97,7 +97,7 @@
                 "referee": null,
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 4365,
+                "minutesUntilStart": 4360,
                 "isRecent": false
             },
             {
@@ -128,7 +128,7 @@
                 "referee": null,
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 4380,
+                "minutesUntilStart": 4375,
                 "isRecent": false
             }
         ],
@@ -157,22 +157,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 13293.37,
-        "current_time_local": "2026-03-31 23:30:18",
-        "api_errors": [
-            "Failed to fetch data from BL1",
-            "Failed to fetch data from SA"
-        ]
+        "api_call_time_ms": 4420.79,
+        "current_time_local": "2026-03-31 23:35:08",
+        "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-31 18:00:18",
-    "generated_at": "2026-03-31 18:00:18 UTC",
+    "last_updated": "2026-03-31 18:05:08",
+    "generated_at": "2026-03-31 18:05:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 5863,
+        "file_size": 5765,
         "file_path": "matches.json"
     }
 }
