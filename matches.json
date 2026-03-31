@@ -29,7 +29,38 @@
             "referee": null,
             "season": 28,
             "group": null,
-            "minutesUntilStart": 4545,
+            "minutesUntilStart": 4540,
+            "isRecent": false
+        },
+        {
+            "id": 544509,
+            "home": "Rayo Vallecano",
+            "away": "Elche",
+            "homeScore": 0,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/87.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/285.png",
+            "status": "TIMED",
+            "utcDate": "2026-04-03T19:00:00Z",
+            "localDate": "2026-04-04 00:30:00",
+            "localTime": "00:30",
+            "matchday": 30,
+            "competition": "Primera Division",
+            "competitionCode": "PD",
+            "isLive": false,
+            "isFinished": false,
+            "isToday": false,
+            "isTomorrow": true,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": "3 days",
+            "dayCategory": "tomorrow",
+            "venue": "Rayo Vallecano de Madrid (Home)",
+            "lastUpdated": "2026-03-28T01:32:01Z",
+            "referee": null,
+            "season": 30,
+            "group": null,
+            "minutesUntilStart": 4555,
             "isRecent": false
         }
     ],
@@ -66,7 +97,38 @@
                 "referee": null,
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 4545,
+                "minutesUntilStart": 4540,
+                "isRecent": false
+            },
+            {
+                "id": 544509,
+                "home": "Rayo Vallecano",
+                "away": "Elche",
+                "homeScore": 0,
+                "awayScore": 0,
+                "homeLogo": "https:\/\/crests.football-data.org\/87.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/285.png",
+                "status": "TIMED",
+                "utcDate": "2026-04-03T19:00:00Z",
+                "localDate": "2026-04-04 00:30:00",
+                "localTime": "00:30",
+                "matchday": 30,
+                "competition": "Primera Division",
+                "competitionCode": "PD",
+                "isLive": false,
+                "isFinished": false,
+                "isToday": false,
+                "isTomorrow": true,
+                "isYesterday": false,
+                "currentTime": null,
+                "timeUntilStart": "3 days",
+                "dayCategory": "tomorrow",
+                "venue": "Rayo Vallecano de Madrid (Home)",
+                "lastUpdated": "2026-03-28T01:32:01Z",
+                "referee": null,
+                "season": 30,
+                "group": null,
+                "minutesUntilStart": 4555,
                 "isRecent": false
             }
         ],
@@ -76,10 +138,10 @@
         "finished_older": []
     },
     "stats": {
-        "total_matches": 1,
+        "total_matches": 2,
         "live_matches": 0,
         "today_matches": 0,
-        "tomorrow_matches": 1,
+        "tomorrow_matches": 2,
         "finished_today": 0,
         "finished_recent": 0
     },
@@ -95,21 +157,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 17538.71,
-        "current_time_local": "2026-03-31 20:30:24",
-        "api_errors": [
-            "Failed to fetch data from PD"
-        ]
+        "api_call_time_ms": 4209.58,
+        "current_time_local": "2026-03-31 20:35:08",
+        "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-31 15:00:24",
-    "generated_at": "2026-03-31 15:00:24 UTC",
+    "last_updated": "2026-03-31 15:05:08",
+    "generated_at": "2026-03-31 15:05:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 3472,
+        "file_size": 5765,
         "file_path": "matches.json"
     }
 }
