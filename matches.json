@@ -157,19 +157,21 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 9377.61,
-        "current_time_local": "2026-03-31 12:30:13",
-        "api_errors": []
+        "api_call_time_ms": 17451.15,
+        "current_time_local": "2026-03-31 12:30:21",
+        "api_errors": [
+            "Failed to fetch data from SA"
+        ]
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-31 07:00:13",
-    "generated_at": "2026-03-31 07:00:13 UTC",
+    "last_updated": "2026-03-31 07:00:21",
+    "generated_at": "2026-03-31 07:00:21 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 5765,
+        "file_size": 5818,
         "file_path": "matches.json"
     }
 }
