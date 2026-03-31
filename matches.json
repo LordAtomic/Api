@@ -2,37 +2,6 @@
     "success": true,
     "matches": [
         {
-            "id": 542654,
-            "home": "PSG",
-            "away": "Toulouse",
-            "homeScore": 0,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/524.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/511.png",
-            "status": "TIMED",
-            "utcDate": "2026-04-03T18:45:00Z",
-            "localDate": "2026-04-04 00:15:00",
-            "localTime": "00:15",
-            "matchday": 28,
-            "competition": "Ligue 1",
-            "competitionCode": "FL1",
-            "isLive": false,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": true,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": "3 days",
-            "dayCategory": "tomorrow",
-            "venue": "Paris Saint-Germain FC (Home)",
-            "lastUpdated": "2026-03-28T01:32:01Z",
-            "referee": null,
-            "season": 28,
-            "group": null,
-            "minutesUntilStart": 4370,
-            "isRecent": false
-        },
-        {
             "id": 544509,
             "home": "Rayo Vallecano",
             "away": "Elche",
@@ -60,7 +29,7 @@
             "referee": null,
             "season": 30,
             "group": null,
-            "minutesUntilStart": 4385,
+            "minutesUntilStart": 4380,
             "isRecent": false
         }
     ],
@@ -69,37 +38,6 @@
         "finished_today": [],
         "today": [],
         "tomorrow": [
-            {
-                "id": 542654,
-                "home": "PSG",
-                "away": "Toulouse",
-                "homeScore": 0,
-                "awayScore": 0,
-                "homeLogo": "https:\/\/crests.football-data.org\/524.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/511.png",
-                "status": "TIMED",
-                "utcDate": "2026-04-03T18:45:00Z",
-                "localDate": "2026-04-04 00:15:00",
-                "localTime": "00:15",
-                "matchday": 28,
-                "competition": "Ligue 1",
-                "competitionCode": "FL1",
-                "isLive": false,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": true,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": "3 days",
-                "dayCategory": "tomorrow",
-                "venue": "Paris Saint-Germain FC (Home)",
-                "lastUpdated": "2026-03-28T01:32:01Z",
-                "referee": null,
-                "season": 28,
-                "group": null,
-                "minutesUntilStart": 4370,
-                "isRecent": false
-            },
             {
                 "id": 544509,
                 "home": "Rayo Vallecano",
@@ -128,7 +66,7 @@
                 "referee": null,
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 4385,
+                "minutesUntilStart": 4380,
                 "isRecent": false
             }
         ],
@@ -138,10 +76,10 @@
         "finished_older": []
     },
     "stats": {
-        "total_matches": 2,
+        "total_matches": 1,
         "live_matches": 0,
         "today_matches": 0,
-        "tomorrow_matches": 2,
+        "tomorrow_matches": 1,
         "finished_today": 0,
         "finished_recent": 0
     },
@@ -157,19 +95,21 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 4699.31,
-        "current_time_local": "2026-03-31 23:25:08",
-        "api_errors": []
+        "api_call_time_ms": 11293.35,
+        "current_time_local": "2026-03-31 23:30:16",
+        "api_errors": [
+            "Failed to fetch data from FL1"
+        ]
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-31 17:55:08",
-    "generated_at": "2026-03-31 17:55:08 UTC",
+    "last_updated": "2026-03-31 18:00:16",
+    "generated_at": "2026-03-31 18:00:16 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 5765,
+        "file_size": 3507,
         "file_path": "matches.json"
     }
 }
