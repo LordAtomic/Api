@@ -31,37 +31,6 @@
             "group": null,
             "minutesUntilStart": 4845,
             "isRecent": false
-        },
-        {
-            "id": 544509,
-            "home": "Rayo Vallecano",
-            "away": "Elche",
-            "homeScore": 0,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/87.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/285.png",
-            "status": "TIMED",
-            "utcDate": "2026-04-03T19:00:00Z",
-            "localDate": "2026-04-04 00:30:00",
-            "localTime": "00:30",
-            "matchday": 30,
-            "competition": "Primera Division",
-            "competitionCode": "PD",
-            "isLive": false,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": true,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": "3 days",
-            "dayCategory": "tomorrow",
-            "venue": "Rayo Vallecano de Madrid (Home)",
-            "lastUpdated": "2026-03-28T01:32:01Z",
-            "referee": null,
-            "season": 30,
-            "group": null,
-            "minutesUntilStart": 4860,
-            "isRecent": false
         }
     ],
     "grouped_matches": {
@@ -99,37 +68,6 @@
                 "group": null,
                 "minutesUntilStart": 4845,
                 "isRecent": false
-            },
-            {
-                "id": 544509,
-                "home": "Rayo Vallecano",
-                "away": "Elche",
-                "homeScore": 0,
-                "awayScore": 0,
-                "homeLogo": "https:\/\/crests.football-data.org\/87.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/285.png",
-                "status": "TIMED",
-                "utcDate": "2026-04-03T19:00:00Z",
-                "localDate": "2026-04-04 00:30:00",
-                "localTime": "00:30",
-                "matchday": 30,
-                "competition": "Primera Division",
-                "competitionCode": "PD",
-                "isLive": false,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": true,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": "3 days",
-                "dayCategory": "tomorrow",
-                "venue": "Rayo Vallecano de Madrid (Home)",
-                "lastUpdated": "2026-03-28T01:32:01Z",
-                "referee": null,
-                "season": 30,
-                "group": null,
-                "minutesUntilStart": 4860,
-                "isRecent": false
             }
         ],
         "upcoming": [],
@@ -138,10 +76,10 @@
         "finished_older": []
     },
     "stats": {
-        "total_matches": 2,
+        "total_matches": 1,
         "live_matches": 0,
         "today_matches": 0,
-        "tomorrow_matches": 2,
+        "tomorrow_matches": 1,
         "finished_today": 0,
         "finished_recent": 0
     },
@@ -157,19 +95,21 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 11651.28,
-        "current_time_local": "2026-03-31 15:30:17",
-        "api_errors": []
+        "api_call_time_ms": 19435.24,
+        "current_time_local": "2026-03-31 15:30:25",
+        "api_errors": [
+            "Failed to fetch data from PD"
+        ]
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-03-31 10:00:17",
-    "generated_at": "2026-03-31 10:00:17 UTC",
+    "last_updated": "2026-03-31 10:00:25",
+    "generated_at": "2026-03-31 10:00:25 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 5766,
+        "file_size": 3472,
         "file_path": "matches.json"
     }
 }
