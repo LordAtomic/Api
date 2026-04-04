@@ -40,7 +40,7 @@
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/17.png",
             "awayLogo": "https:\/\/crests.football-data.org\/5.png",
-            "status": "IN_PLAY",
+            "status": "PAUSED",
             "utcDate": "2026-04-04T13:30:00Z",
             "localDate": "2026-04-04 19:00:00",
             "localTime": "19:00",
@@ -56,7 +56,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "SC Freiburg (Home)",
-            "lastUpdated": "2026-04-04T13:35:21Z",
+            "lastUpdated": "2026-04-04T14:23:50Z",
             "referee": "Daniel Siebert",
             "season": 28,
             "group": null,
@@ -71,7 +71,7 @@
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/2.png",
             "awayLogo": "https:\/\/crests.football-data.org\/15.png",
-            "status": "IN_PLAY",
+            "status": "PAUSED",
             "utcDate": "2026-04-04T13:30:00Z",
             "localDate": "2026-04-04 19:00:00",
             "localTime": "19:00",
@@ -87,7 +87,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "TSG 1899 Hoffenheim (Home)",
-            "lastUpdated": "2026-04-04T13:58:25Z",
+            "lastUpdated": "2026-04-04T14:23:51Z",
             "referee": "Harm Osmers",
             "season": 28,
             "group": null,
@@ -102,7 +102,7 @@
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/12.png",
             "awayLogo": "https:\/\/crests.football-data.org\/721.png",
-            "status": "IN_PLAY",
+            "status": "PAUSED",
             "utcDate": "2026-04-04T13:30:00Z",
             "localDate": "2026-04-04 19:00:00",
             "localTime": "19:00",
@@ -118,7 +118,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "SV Werder Bremen (Home)",
-            "lastUpdated": "2026-04-04T13:49:35Z",
+            "lastUpdated": "2026-04-04T14:22:22Z",
             "referee": "Robert Hartmann",
             "season": 28,
             "group": null,
@@ -195,7 +195,7 @@
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/18.png",
             "awayLogo": "https:\/\/crests.football-data.org\/44.png",
-            "status": "IN_PLAY",
+            "status": "PAUSED",
             "utcDate": "2026-04-04T13:30:00Z",
             "localDate": "2026-04-04 19:00:00",
             "localTime": "19:00",
@@ -211,9 +211,40 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Borussia M\u00f6nchengladbach (Home)",
-            "lastUpdated": "2026-04-04T14:01:05Z",
+            "lastUpdated": "2026-04-04T14:23:51Z",
             "referee": "Bastian Dankert",
             "season": 28,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
+        },
+        {
+            "id": 544505,
+            "home": "Mallorca",
+            "away": "Real Madrid",
+            "homeScore": 0,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/89.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/86.png",
+            "status": "IN_PLAY",
+            "utcDate": "2026-04-04T14:15:00Z",
+            "localDate": "2026-04-04 19:45:00",
+            "localTime": "19:45",
+            "matchday": 30,
+            "competition": "Primera Division",
+            "competitionCode": "PD",
+            "isLive": true,
+            "isFinished": false,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "live",
+            "venue": "RCD Mallorca (Home)",
+            "lastUpdated": "2026-04-04T14:20:28Z",
+            "referee": "Jos\u00e9 S\u00e1nchez Mart\u00ednez",
+            "season": 30,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -312,37 +343,6 @@
             "isRecent": false
         },
         {
-            "id": 544505,
-            "home": "Mallorca",
-            "away": "Real Madrid",
-            "homeScore": 0,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/89.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/86.png",
-            "status": "TIMED",
-            "utcDate": "2026-04-04T14:15:00Z",
-            "localDate": "2026-04-04 19:45:00",
-            "localTime": "19:45",
-            "matchday": 30,
-            "competition": "Primera Division",
-            "competitionCode": "PD",
-            "isLive": false,
-            "isFinished": false,
-            "isToday": true,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "today",
-            "venue": "RCD Mallorca (Home)",
-            "lastUpdated": "2026-04-04T00:20:58Z",
-            "referee": "Jos\u00e9 S\u00e1nchez Mart\u00ednez",
-            "season": 30,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 542655,
             "home": "Strasbourg",
             "away": "Nice",
@@ -363,14 +363,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "39m",
+            "timeUntilStart": "34m",
             "dayCategory": "today",
             "venue": "RC Strasbourg Alsace (Home)",
             "lastUpdated": "2026-03-29T01:32:02Z",
             "referee": "Thomas L\u00e9onard",
             "season": 28,
             "group": null,
-            "minutesUntilStart": 40,
+            "minutesUntilStart": 35,
             "isRecent": false
         },
         {
@@ -394,14 +394,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 39m",
+            "timeUntilStart": "1h 34m",
             "dayCategory": "today",
             "venue": "Hellas Verona FC (Home)",
             "lastUpdated": "2026-03-29T01:32:02Z",
             "referee": "Marco Guida",
             "season": 31,
             "group": null,
-            "minutesUntilStart": 100,
+            "minutesUntilStart": 95,
             "isRecent": false
         },
         {
@@ -425,14 +425,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 9m",
+            "timeUntilStart": "2h 4m",
             "dayCategory": "today",
             "venue": "Real Betis Balompi\u00e9 (Home)",
             "lastUpdated": "2026-03-29T01:32:02Z",
             "referee": null,
             "season": 30,
             "group": null,
-            "minutesUntilStart": 130,
+            "minutesUntilStart": 125,
             "isRecent": false
         },
         {
@@ -456,14 +456,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 9m",
+            "timeUntilStart": "2h 4m",
             "dayCategory": "today",
             "venue": "VfB Stuttgart (Home)",
             "lastUpdated": "2026-04-04T00:20:57Z",
             "referee": null,
             "season": 28,
             "group": null,
-            "minutesUntilStart": 130,
+            "minutesUntilStart": 125,
             "isRecent": false
         },
         {
@@ -487,14 +487,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 39m",
+            "timeUntilStart": "2h 34m",
             "dayCategory": "today",
             "venue": "Stade Brestois 29 (Home)",
             "lastUpdated": "2026-03-29T01:32:03Z",
             "referee": null,
             "season": 28,
             "group": null,
-            "minutesUntilStart": 160,
+            "minutesUntilStart": 155,
             "isRecent": false
         },
         {
@@ -518,14 +518,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4h 24m",
+            "timeUntilStart": "4h 19m",
             "dayCategory": "tomorrow",
             "venue": "SS Lazio (Home)",
             "lastUpdated": "2026-03-29T01:32:03Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 265,
+            "minutesUntilStart": 260,
             "isRecent": false
         },
         {
@@ -549,14 +549,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4h 39m",
+            "timeUntilStart": "4h 34m",
             "dayCategory": "tomorrow",
             "venue": "Club Atl\u00e9tico de Madrid (Home)",
             "lastUpdated": "2026-03-29T01:32:03Z",
             "referee": null,
             "season": 30,
             "group": null,
-            "minutesUntilStart": 280,
+            "minutesUntilStart": 275,
             "isRecent": false
         },
         {
@@ -580,14 +580,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4h 44m",
+            "timeUntilStart": "4h 39m",
             "dayCategory": "tomorrow",
             "venue": "Lille OSC (Home)",
             "lastUpdated": "2026-03-29T01:32:03Z",
             "referee": null,
             "season": 28,
             "group": null,
-            "minutesUntilStart": 285,
+            "minutesUntilStart": 280,
             "isRecent": false
         },
         {
@@ -611,14 +611,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 39m",
+            "timeUntilStart": "21h 34m",
             "dayCategory": "tomorrow",
             "venue": "Getafe CF (Home)",
             "lastUpdated": "2026-03-30T01:32:03Z",
             "referee": null,
             "season": 30,
             "group": null,
-            "minutesUntilStart": 1300,
+            "minutesUntilStart": 1295,
             "isRecent": false
         },
         {
@@ -642,14 +642,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "22h 39m",
+            "timeUntilStart": "22h 34m",
             "dayCategory": "tomorrow",
             "venue": "US Cremonese (Home)",
             "lastUpdated": "2026-03-30T01:32:03Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 1360,
+            "minutesUntilStart": 1355,
             "isRecent": false
         },
         {
@@ -673,14 +673,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "22h 39m",
+            "timeUntilStart": "22h 34m",
             "dayCategory": "tomorrow",
             "venue": "Angers SCO (Home)",
             "lastUpdated": "2026-03-30T01:32:03Z",
             "referee": null,
             "season": 28,
             "group": null,
-            "minutesUntilStart": 1360,
+            "minutesUntilStart": 1355,
             "isRecent": false
         },
         {
@@ -704,14 +704,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "23h 9m",
+            "timeUntilStart": "23h 4m",
             "dayCategory": "tomorrow",
             "venue": "1. FC Union Berlin (Home)",
             "lastUpdated": "2026-03-30T01:32:03Z",
             "referee": null,
             "season": 28,
             "group": null,
-            "minutesUntilStart": 1390,
+            "minutesUntilStart": 1385,
             "isRecent": false
         },
         {
@@ -735,14 +735,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "23h 54m",
+            "timeUntilStart": "23h 49m",
             "dayCategory": "tomorrow",
             "venue": "Valencia CF (Home)",
             "lastUpdated": "2026-04-04T01:32:02Z",
             "referee": null,
             "season": 30,
             "group": null,
-            "minutesUntilStart": 1435,
+            "minutesUntilStart": 1430,
             "isRecent": false
         },
         {
@@ -773,7 +773,7 @@
             "referee": null,
             "season": 28,
             "group": null,
-            "minutesUntilStart": 1495,
+            "minutesUntilStart": 1490,
             "isRecent": false
         },
         {
@@ -804,7 +804,7 @@
             "referee": null,
             "season": 28,
             "group": null,
-            "minutesUntilStart": 1495,
+            "minutesUntilStart": 1490,
             "isRecent": false
         },
         {
@@ -835,7 +835,7 @@
             "referee": null,
             "season": 28,
             "group": null,
-            "minutesUntilStart": 1495,
+            "minutesUntilStart": 1490,
             "isRecent": false
         },
         {
@@ -866,7 +866,7 @@
             "referee": null,
             "season": 28,
             "group": null,
-            "minutesUntilStart": 1510,
+            "minutesUntilStart": 1505,
             "isRecent": false
         },
         {
@@ -897,7 +897,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 1540,
+            "minutesUntilStart": 1535,
             "isRecent": false
         },
         {
@@ -928,7 +928,7 @@
             "referee": null,
             "season": 30,
             "group": null,
-            "minutesUntilStart": 1570,
+            "minutesUntilStart": 1565,
             "isRecent": false
         },
         {
@@ -959,7 +959,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 1705,
+            "minutesUntilStart": 1700,
             "isRecent": false
         },
         {
@@ -990,7 +990,7 @@
             "referee": null,
             "season": 28,
             "group": null,
-            "minutesUntilStart": 1705,
+            "minutesUntilStart": 1700,
             "isRecent": false
         },
         {
@@ -1021,7 +1021,7 @@
             "referee": null,
             "season": 30,
             "group": null,
-            "minutesUntilStart": 1720,
+            "minutesUntilStart": 1715,
             "isRecent": false
         },
         {
@@ -1052,7 +1052,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 2650,
+            "minutesUntilStart": 2645,
             "isRecent": false
         },
         {
@@ -1083,7 +1083,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 2800,
+            "minutesUntilStart": 2795,
             "isRecent": false
         },
         {
@@ -1114,7 +1114,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 2980,
+            "minutesUntilStart": 2975,
             "isRecent": false
         },
         {
@@ -1145,7 +1145,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 3145,
+            "minutesUntilStart": 3140,
             "isRecent": false
         },
         {
@@ -1176,7 +1176,7 @@
             "referee": null,
             "season": 30,
             "group": null,
-            "minutesUntilStart": 3160,
+            "minutesUntilStart": 3155,
             "isRecent": false
         }
     ],
@@ -1221,7 +1221,7 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/17.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/5.png",
-                "status": "IN_PLAY",
+                "status": "PAUSED",
                 "utcDate": "2026-04-04T13:30:00Z",
                 "localDate": "2026-04-04 19:00:00",
                 "localTime": "19:00",
@@ -1237,7 +1237,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "SC Freiburg (Home)",
-                "lastUpdated": "2026-04-04T13:35:21Z",
+                "lastUpdated": "2026-04-04T14:23:50Z",
                 "referee": "Daniel Siebert",
                 "season": 28,
                 "group": null,
@@ -1252,7 +1252,7 @@
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/2.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/15.png",
-                "status": "IN_PLAY",
+                "status": "PAUSED",
                 "utcDate": "2026-04-04T13:30:00Z",
                 "localDate": "2026-04-04 19:00:00",
                 "localTime": "19:00",
@@ -1268,7 +1268,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "TSG 1899 Hoffenheim (Home)",
-                "lastUpdated": "2026-04-04T13:58:25Z",
+                "lastUpdated": "2026-04-04T14:23:51Z",
                 "referee": "Harm Osmers",
                 "season": 28,
                 "group": null,
@@ -1283,7 +1283,7 @@
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/12.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/721.png",
-                "status": "IN_PLAY",
+                "status": "PAUSED",
                 "utcDate": "2026-04-04T13:30:00Z",
                 "localDate": "2026-04-04 19:00:00",
                 "localTime": "19:00",
@@ -1299,7 +1299,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "SV Werder Bremen (Home)",
-                "lastUpdated": "2026-04-04T13:49:35Z",
+                "lastUpdated": "2026-04-04T14:22:22Z",
                 "referee": "Robert Hartmann",
                 "season": 28,
                 "group": null,
@@ -1376,7 +1376,7 @@
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/18.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/44.png",
-                "status": "IN_PLAY",
+                "status": "PAUSED",
                 "utcDate": "2026-04-04T13:30:00Z",
                 "localDate": "2026-04-04 19:00:00",
                 "localTime": "19:00",
@@ -1392,16 +1392,47 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Borussia M\u00f6nchengladbach (Home)",
-                "lastUpdated": "2026-04-04T14:01:05Z",
+                "lastUpdated": "2026-04-04T14:23:51Z",
                 "referee": "Bastian Dankert",
                 "season": 28,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": false
+            },
+            {
+                "id": 544505,
+                "home": "Mallorca",
+                "away": "Real Madrid",
+                "homeScore": 0,
+                "awayScore": 0,
+                "homeLogo": "https:\/\/crests.football-data.org\/89.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/86.png",
+                "status": "IN_PLAY",
+                "utcDate": "2026-04-04T14:15:00Z",
+                "localDate": "2026-04-04 19:45:00",
+                "localTime": "19:45",
+                "matchday": 30,
+                "competition": "Primera Division",
+                "competitionCode": "PD",
+                "isLive": true,
+                "isFinished": false,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": false,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "live",
+                "venue": "RCD Mallorca (Home)",
+                "lastUpdated": "2026-04-04T14:20:28Z",
+                "referee": "Jos\u00e9 S\u00e1nchez Mart\u00ednez",
+                "season": 30,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
             }
         ],
         "finished_today": {
-            "7": {
+            "8": {
                 "id": 544510,
                 "home": "Real Sociedad",
                 "away": "Levante",
@@ -1432,7 +1463,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "8": {
+            "9": {
                 "id": 544509,
                 "home": "Rayo Vallecano",
                 "away": "Elche",
@@ -1463,7 +1494,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "9": {
+            "10": {
                 "id": 542654,
                 "home": "PSG",
                 "away": "Toulouse",
@@ -1496,37 +1527,6 @@
             }
         },
         "today": {
-            "10": {
-                "id": 544505,
-                "home": "Mallorca",
-                "away": "Real Madrid",
-                "homeScore": 0,
-                "awayScore": 0,
-                "homeLogo": "https:\/\/crests.football-data.org\/89.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/86.png",
-                "status": "TIMED",
-                "utcDate": "2026-04-04T14:15:00Z",
-                "localDate": "2026-04-04 19:45:00",
-                "localTime": "19:45",
-                "matchday": 30,
-                "competition": "Primera Division",
-                "competitionCode": "PD",
-                "isLive": false,
-                "isFinished": false,
-                "isToday": true,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "today",
-                "venue": "RCD Mallorca (Home)",
-                "lastUpdated": "2026-04-04T00:20:58Z",
-                "referee": "Jos\u00e9 S\u00e1nchez Mart\u00ednez",
-                "season": 30,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
             "11": {
                 "id": 542655,
                 "home": "Strasbourg",
@@ -1548,14 +1548,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "39m",
+                "timeUntilStart": "34m",
                 "dayCategory": "today",
                 "venue": "RC Strasbourg Alsace (Home)",
                 "lastUpdated": "2026-03-29T01:32:02Z",
                 "referee": "Thomas L\u00e9onard",
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 40,
+                "minutesUntilStart": 35,
                 "isRecent": false
             },
             "12": {
@@ -1579,14 +1579,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 39m",
+                "timeUntilStart": "1h 34m",
                 "dayCategory": "today",
                 "venue": "Hellas Verona FC (Home)",
                 "lastUpdated": "2026-03-29T01:32:02Z",
                 "referee": "Marco Guida",
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 100,
+                "minutesUntilStart": 95,
                 "isRecent": false
             },
             "13": {
@@ -1610,14 +1610,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 9m",
+                "timeUntilStart": "2h 4m",
                 "dayCategory": "today",
                 "venue": "Real Betis Balompi\u00e9 (Home)",
                 "lastUpdated": "2026-03-29T01:32:02Z",
                 "referee": null,
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 130,
+                "minutesUntilStart": 125,
                 "isRecent": false
             },
             "14": {
@@ -1641,14 +1641,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 9m",
+                "timeUntilStart": "2h 4m",
                 "dayCategory": "today",
                 "venue": "VfB Stuttgart (Home)",
                 "lastUpdated": "2026-04-04T00:20:57Z",
                 "referee": null,
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 130,
+                "minutesUntilStart": 125,
                 "isRecent": false
             },
             "15": {
@@ -1672,14 +1672,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 39m",
+                "timeUntilStart": "2h 34m",
                 "dayCategory": "today",
                 "venue": "Stade Brestois 29 (Home)",
                 "lastUpdated": "2026-03-29T01:32:03Z",
                 "referee": null,
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 160,
+                "minutesUntilStart": 155,
                 "isRecent": false
             }
         },
@@ -1705,14 +1705,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4h 24m",
+                "timeUntilStart": "4h 19m",
                 "dayCategory": "tomorrow",
                 "venue": "SS Lazio (Home)",
                 "lastUpdated": "2026-03-29T01:32:03Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 265,
+                "minutesUntilStart": 260,
                 "isRecent": false
             },
             "17": {
@@ -1736,14 +1736,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4h 39m",
+                "timeUntilStart": "4h 34m",
                 "dayCategory": "tomorrow",
                 "venue": "Club Atl\u00e9tico de Madrid (Home)",
                 "lastUpdated": "2026-03-29T01:32:03Z",
                 "referee": null,
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 280,
+                "minutesUntilStart": 275,
                 "isRecent": false
             },
             "18": {
@@ -1767,14 +1767,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4h 44m",
+                "timeUntilStart": "4h 39m",
                 "dayCategory": "tomorrow",
                 "venue": "Lille OSC (Home)",
                 "lastUpdated": "2026-03-29T01:32:03Z",
                 "referee": null,
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 285,
+                "minutesUntilStart": 280,
                 "isRecent": false
             },
             "19": {
@@ -1798,14 +1798,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 39m",
+                "timeUntilStart": "21h 34m",
                 "dayCategory": "tomorrow",
                 "venue": "Getafe CF (Home)",
                 "lastUpdated": "2026-03-30T01:32:03Z",
                 "referee": null,
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 1300,
+                "minutesUntilStart": 1295,
                 "isRecent": false
             },
             "20": {
@@ -1829,14 +1829,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "22h 39m",
+                "timeUntilStart": "22h 34m",
                 "dayCategory": "tomorrow",
                 "venue": "US Cremonese (Home)",
                 "lastUpdated": "2026-03-30T01:32:03Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 1360,
+                "minutesUntilStart": 1355,
                 "isRecent": false
             },
             "21": {
@@ -1860,14 +1860,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "22h 39m",
+                "timeUntilStart": "22h 34m",
                 "dayCategory": "tomorrow",
                 "venue": "Angers SCO (Home)",
                 "lastUpdated": "2026-03-30T01:32:03Z",
                 "referee": null,
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 1360,
+                "minutesUntilStart": 1355,
                 "isRecent": false
             },
             "22": {
@@ -1891,14 +1891,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "23h 9m",
+                "timeUntilStart": "23h 4m",
                 "dayCategory": "tomorrow",
                 "venue": "1. FC Union Berlin (Home)",
                 "lastUpdated": "2026-03-30T01:32:03Z",
                 "referee": null,
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 1390,
+                "minutesUntilStart": 1385,
                 "isRecent": false
             },
             "23": {
@@ -1922,14 +1922,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "23h 54m",
+                "timeUntilStart": "23h 49m",
                 "dayCategory": "tomorrow",
                 "venue": "Valencia CF (Home)",
                 "lastUpdated": "2026-04-04T01:32:02Z",
                 "referee": null,
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 1435,
+                "minutesUntilStart": 1430,
                 "isRecent": false
             },
             "24": {
@@ -1960,7 +1960,7 @@
                 "referee": null,
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 1495,
+                "minutesUntilStart": 1490,
                 "isRecent": false
             },
             "25": {
@@ -1991,7 +1991,7 @@
                 "referee": null,
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 1495,
+                "minutesUntilStart": 1490,
                 "isRecent": false
             },
             "26": {
@@ -2022,7 +2022,7 @@
                 "referee": null,
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 1495,
+                "minutesUntilStart": 1490,
                 "isRecent": false
             },
             "27": {
@@ -2053,7 +2053,7 @@
                 "referee": null,
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 1510,
+                "minutesUntilStart": 1505,
                 "isRecent": false
             },
             "28": {
@@ -2084,7 +2084,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 1540,
+                "minutesUntilStart": 1535,
                 "isRecent": false
             },
             "29": {
@@ -2115,7 +2115,7 @@
                 "referee": null,
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 1570,
+                "minutesUntilStart": 1565,
                 "isRecent": false
             },
             "30": {
@@ -2146,7 +2146,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 1705,
+                "minutesUntilStart": 1700,
                 "isRecent": false
             },
             "31": {
@@ -2177,7 +2177,7 @@
                 "referee": null,
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 1705,
+                "minutesUntilStart": 1700,
                 "isRecent": false
             },
             "32": {
@@ -2208,7 +2208,7 @@
                 "referee": null,
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 1720,
+                "minutesUntilStart": 1715,
                 "isRecent": false
             },
             "33": {
@@ -2239,7 +2239,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 2650,
+                "minutesUntilStart": 2645,
                 "isRecent": false
             },
             "34": {
@@ -2270,7 +2270,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 2800,
+                "minutesUntilStart": 2795,
                 "isRecent": false
             },
             "35": {
@@ -2301,7 +2301,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 2980,
+                "minutesUntilStart": 2975,
                 "isRecent": false
             },
             "36": {
@@ -2332,7 +2332,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 3145,
+                "minutesUntilStart": 3140,
                 "isRecent": false
             },
             "37": {
@@ -2363,7 +2363,7 @@
                 "referee": null,
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 3160,
+                "minutesUntilStart": 3155,
                 "isRecent": false
             }
         },
@@ -2374,8 +2374,8 @@
     },
     "stats": {
         "total_matches": 38,
-        "live_matches": 7,
-        "today_matches": 6,
+        "live_matches": 8,
+        "today_matches": 5,
         "tomorrow_matches": 22,
         "finished_today": 3,
         "finished_recent": 0
@@ -2392,19 +2392,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 8337.69,
-        "current_time_local": "2026-04-04 19:50:13",
+        "api_call_time_ms": 3921.7,
+        "current_time_local": "2026-04-04 19:55:15",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-04-04 14:20:13",
-    "generated_at": "2026-04-04 14:20:13 UTC",
+    "last_updated": "2026-04-04 14:25:15",
+    "generated_at": "2026-04-04 14:25:15 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 89374,
+        "file_size": 89360,
         "file_path": "matches.json"
     }
 }
