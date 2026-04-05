@@ -952,14 +952,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4m",
+            "timeUntilStart": null,
             "dayCategory": "today",
             "venue": "FC Internazionale Milano (Home)",
             "lastUpdated": "2026-03-30T01:32:03Z",
             "referee": "Simone Sozza",
             "season": 31,
             "group": null,
-            "minutesUntilStart": 5,
+            "minutesUntilStart": null,
             "isRecent": false
         },
         {
@@ -983,14 +983,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4m",
+            "timeUntilStart": null,
             "dayCategory": "today",
             "venue": "AS Monaco FC (Home)",
             "lastUpdated": "2026-04-05T01:32:00Z",
             "referee": "Cl\u00e9ment Turpin",
             "season": 28,
             "group": null,
-            "minutesUntilStart": 5,
+            "minutesUntilStart": null,
             "isRecent": false
         },
         {
@@ -1014,14 +1014,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "19m",
+            "timeUntilStart": "14m",
             "dayCategory": "today",
             "venue": "Deportivo Alav\u00e9s (Home)",
             "lastUpdated": "2026-04-05T01:32:01Z",
             "referee": "C\u00e9sar Soto Grado",
             "season": 30,
             "group": null,
-            "minutesUntilStart": 20,
+            "minutesUntilStart": 15,
             "isRecent": false
         },
         {
@@ -1045,14 +1045,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "15h 49m",
+            "timeUntilStart": "15h 44m",
             "dayCategory": "today",
             "venue": "Udinese Calcio (Home)",
             "lastUpdated": "2026-03-31T01:32:04Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 950,
+            "minutesUntilStart": 945,
             "isRecent": false
         },
         {
@@ -1076,14 +1076,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "18h 19m",
+            "timeUntilStart": "18h 14m",
             "dayCategory": "today",
             "venue": "US Lecce (Home)",
             "lastUpdated": "2026-03-31T01:32:04Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 1100,
+            "minutesUntilStart": 1095,
             "isRecent": false
         },
         {
@@ -1107,14 +1107,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 19m",
+            "timeUntilStart": "21h 14m",
             "dayCategory": "today",
             "venue": "Juventus FC (Home)",
             "lastUpdated": "2026-03-31T01:32:05Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 1280,
+            "minutesUntilStart": 1275,
             "isRecent": false
         },
         {
@@ -1138,14 +1138,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "Tomorrow",
+            "timeUntilStart": "23h 59m",
             "dayCategory": "tomorrow",
             "venue": "SSC Napoli (Home)",
             "lastUpdated": "2026-03-31T01:32:05Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 1445,
+            "minutesUntilStart": 1440,
             "isRecent": false
         },
         {
@@ -1176,7 +1176,7 @@
             "referee": null,
             "season": 30,
             "group": null,
-            "minutesUntilStart": 1460,
+            "minutesUntilStart": 1455,
             "isRecent": false
         }
     ],
@@ -1205,14 +1205,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4m",
+                "timeUntilStart": null,
                 "dayCategory": "today",
                 "venue": "FC Internazionale Milano (Home)",
                 "lastUpdated": "2026-03-30T01:32:03Z",
                 "referee": "Simone Sozza",
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 5,
+                "minutesUntilStart": null,
                 "isRecent": false
             },
             "31": {
@@ -1236,14 +1236,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4m",
+                "timeUntilStart": null,
                 "dayCategory": "today",
                 "venue": "AS Monaco FC (Home)",
                 "lastUpdated": "2026-04-05T01:32:00Z",
                 "referee": "Cl\u00e9ment Turpin",
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 5,
+                "minutesUntilStart": null,
                 "isRecent": false
             },
             "32": {
@@ -1267,14 +1267,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "19m",
+                "timeUntilStart": "14m",
                 "dayCategory": "today",
                 "venue": "Deportivo Alav\u00e9s (Home)",
                 "lastUpdated": "2026-04-05T01:32:01Z",
                 "referee": "C\u00e9sar Soto Grado",
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 20,
+                "minutesUntilStart": 15,
                 "isRecent": false
             },
             "33": {
@@ -1298,14 +1298,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "15h 49m",
+                "timeUntilStart": "15h 44m",
                 "dayCategory": "today",
                 "venue": "Udinese Calcio (Home)",
                 "lastUpdated": "2026-03-31T01:32:04Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 950,
+                "minutesUntilStart": 945,
                 "isRecent": false
             },
             "34": {
@@ -1329,14 +1329,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "18h 19m",
+                "timeUntilStart": "18h 14m",
                 "dayCategory": "today",
                 "venue": "US Lecce (Home)",
                 "lastUpdated": "2026-03-31T01:32:04Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 1100,
+                "minutesUntilStart": 1095,
                 "isRecent": false
             },
             "35": {
@@ -1360,14 +1360,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 19m",
+                "timeUntilStart": "21h 14m",
                 "dayCategory": "today",
                 "venue": "Juventus FC (Home)",
                 "lastUpdated": "2026-03-31T01:32:05Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 1280,
+                "minutesUntilStart": 1275,
                 "isRecent": false
             }
         },
@@ -1393,14 +1393,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "Tomorrow",
+                "timeUntilStart": "23h 59m",
                 "dayCategory": "tomorrow",
                 "venue": "SSC Napoli (Home)",
                 "lastUpdated": "2026-03-31T01:32:05Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 1445,
+                "minutesUntilStart": 1440,
                 "isRecent": false
             },
             "37": {
@@ -1431,7 +1431,7 @@
                 "referee": null,
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 1460,
+                "minutesUntilStart": 1455,
                 "isRecent": false
             }
         },
@@ -2392,19 +2392,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 10216.42,
-        "current_time_local": "2026-04-06 00:10:16",
+        "api_call_time_ms": 6193.3,
+        "current_time_local": "2026-04-06 00:15:11",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-04-05 18:40:16",
-    "generated_at": "2026-04-05 18:40:16 UTC",
+    "last_updated": "2026-04-05 18:45:11",
+    "generated_at": "2026-04-05 18:45:11 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 90119,
+        "file_size": 90127,
         "file_path": "matches.json"
     }
 }
