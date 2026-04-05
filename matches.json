@@ -40,7 +40,7 @@
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/95.png",
             "awayLogo": "https:\/\/crests.football-data.org\/558.png",
-            "status": "PAUSED",
+            "status": "IN_PLAY",
             "utcDate": "2026-04-05T14:15:00Z",
             "localDate": "2026-04-05 19:45:00",
             "localTime": "19:45",
@@ -56,7 +56,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Valencia CF (Home)",
-            "lastUpdated": "2026-04-05T15:13:21Z",
+            "lastUpdated": "2026-04-05T15:30:02Z",
             "referee": "Iosu Galech Apeztegu\u00eda",
             "season": 30,
             "group": null,
@@ -859,14 +859,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4m",
+            "timeUntilStart": null,
             "dayCategory": "today",
             "venue": "Eintracht Frankfurt (Home)",
             "lastUpdated": "2026-03-30T01:32:03Z",
             "referee": "Florian Exner",
             "season": 28,
             "group": null,
-            "minutesUntilStart": 5,
+            "minutesUntilStart": null,
             "isRecent": false
         },
         {
@@ -890,14 +890,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "34m",
+            "timeUntilStart": "29m",
             "dayCategory": "today",
             "venue": "AC Pisa 1909 (Home)",
             "lastUpdated": "2026-04-05T01:32:00Z",
             "referee": "Luca Zufferli",
             "season": 31,
             "group": null,
-            "minutesUntilStart": 35,
+            "minutesUntilStart": 30,
             "isRecent": false
         },
         {
@@ -921,14 +921,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 4m",
+            "timeUntilStart": "59m",
             "dayCategory": "today",
             "venue": "Real Oviedo (Home)",
             "lastUpdated": "2026-04-05T01:32:00Z",
             "referee": "Alejandro Hern\u00e1ndez Hern\u00e1ndez",
             "season": 30,
             "group": null,
-            "minutesUntilStart": 65,
+            "minutesUntilStart": 60,
             "isRecent": false
         },
         {
@@ -952,14 +952,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "3h 19m",
+            "timeUntilStart": "3h 14m",
             "dayCategory": "tomorrow",
             "venue": "FC Internazionale Milano (Home)",
             "lastUpdated": "2026-03-30T01:32:03Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 200,
+            "minutesUntilStart": 195,
             "isRecent": false
         },
         {
@@ -983,14 +983,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "3h 19m",
+            "timeUntilStart": "3h 14m",
             "dayCategory": "tomorrow",
             "venue": "AS Monaco FC (Home)",
             "lastUpdated": "2026-04-05T01:32:00Z",
             "referee": null,
             "season": 28,
             "group": null,
-            "minutesUntilStart": 200,
+            "minutesUntilStart": 195,
             "isRecent": false
         },
         {
@@ -1014,14 +1014,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "3h 34m",
+            "timeUntilStart": "3h 29m",
             "dayCategory": "tomorrow",
             "venue": "Deportivo Alav\u00e9s (Home)",
             "lastUpdated": "2026-04-05T01:32:01Z",
             "referee": null,
             "season": 30,
             "group": null,
-            "minutesUntilStart": 215,
+            "minutesUntilStart": 210,
             "isRecent": false
         },
         {
@@ -1045,14 +1045,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "19h 4m",
+            "timeUntilStart": "18h 59m",
             "dayCategory": "tomorrow",
             "venue": "Udinese Calcio (Home)",
             "lastUpdated": "2026-03-31T01:32:04Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 1145,
+            "minutesUntilStart": 1140,
             "isRecent": false
         },
         {
@@ -1076,14 +1076,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 34m",
+            "timeUntilStart": "21h 29m",
             "dayCategory": "tomorrow",
             "venue": "US Lecce (Home)",
             "lastUpdated": "2026-03-31T01:32:04Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 1295,
+            "minutesUntilStart": 1290,
             "isRecent": false
         },
         {
@@ -1114,7 +1114,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 1475,
+            "minutesUntilStart": 1470,
             "isRecent": false
         },
         {
@@ -1145,7 +1145,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 1640,
+            "minutesUntilStart": 1635,
             "isRecent": false
         },
         {
@@ -1176,7 +1176,7 @@
             "referee": null,
             "season": 30,
             "group": null,
-            "minutesUntilStart": 1655,
+            "minutesUntilStart": 1650,
             "isRecent": false
         }
     ],
@@ -1221,7 +1221,7 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/95.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/558.png",
-                "status": "PAUSED",
+                "status": "IN_PLAY",
                 "utcDate": "2026-04-05T14:15:00Z",
                 "localDate": "2026-04-05 19:45:00",
                 "localTime": "19:45",
@@ -1237,7 +1237,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Valencia CF (Home)",
-                "lastUpdated": "2026-04-05T15:13:21Z",
+                "lastUpdated": "2026-04-05T15:30:02Z",
                 "referee": "Iosu Galech Apeztegu\u00eda",
                 "season": 30,
                 "group": null,
@@ -1548,14 +1548,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4m",
+                "timeUntilStart": null,
                 "dayCategory": "today",
                 "venue": "Eintracht Frankfurt (Home)",
                 "lastUpdated": "2026-03-30T01:32:03Z",
                 "referee": "Florian Exner",
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 5,
+                "minutesUntilStart": null,
                 "isRecent": false
             },
             "28": {
@@ -1579,14 +1579,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "34m",
+                "timeUntilStart": "29m",
                 "dayCategory": "today",
                 "venue": "AC Pisa 1909 (Home)",
                 "lastUpdated": "2026-04-05T01:32:00Z",
                 "referee": "Luca Zufferli",
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 35,
+                "minutesUntilStart": 30,
                 "isRecent": false
             },
             "29": {
@@ -1610,14 +1610,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 4m",
+                "timeUntilStart": "59m",
                 "dayCategory": "today",
                 "venue": "Real Oviedo (Home)",
                 "lastUpdated": "2026-04-05T01:32:00Z",
                 "referee": "Alejandro Hern\u00e1ndez Hern\u00e1ndez",
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 65,
+                "minutesUntilStart": 60,
                 "isRecent": false
             }
         },
@@ -1643,14 +1643,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "3h 19m",
+                "timeUntilStart": "3h 14m",
                 "dayCategory": "tomorrow",
                 "venue": "FC Internazionale Milano (Home)",
                 "lastUpdated": "2026-03-30T01:32:03Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 200,
+                "minutesUntilStart": 195,
                 "isRecent": false
             },
             "31": {
@@ -1674,14 +1674,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "3h 19m",
+                "timeUntilStart": "3h 14m",
                 "dayCategory": "tomorrow",
                 "venue": "AS Monaco FC (Home)",
                 "lastUpdated": "2026-04-05T01:32:00Z",
                 "referee": null,
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 200,
+                "minutesUntilStart": 195,
                 "isRecent": false
             },
             "32": {
@@ -1705,14 +1705,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "3h 34m",
+                "timeUntilStart": "3h 29m",
                 "dayCategory": "tomorrow",
                 "venue": "Deportivo Alav\u00e9s (Home)",
                 "lastUpdated": "2026-04-05T01:32:01Z",
                 "referee": null,
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 215,
+                "minutesUntilStart": 210,
                 "isRecent": false
             },
             "33": {
@@ -1736,14 +1736,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "19h 4m",
+                "timeUntilStart": "18h 59m",
                 "dayCategory": "tomorrow",
                 "venue": "Udinese Calcio (Home)",
                 "lastUpdated": "2026-03-31T01:32:04Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 1145,
+                "minutesUntilStart": 1140,
                 "isRecent": false
             },
             "34": {
@@ -1767,14 +1767,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 34m",
+                "timeUntilStart": "21h 29m",
                 "dayCategory": "tomorrow",
                 "venue": "US Lecce (Home)",
                 "lastUpdated": "2026-03-31T01:32:04Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 1295,
+                "minutesUntilStart": 1290,
                 "isRecent": false
             },
             "35": {
@@ -1805,7 +1805,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 1475,
+                "minutesUntilStart": 1470,
                 "isRecent": false
             },
             "36": {
@@ -1836,7 +1836,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 1640,
+                "minutesUntilStart": 1635,
                 "isRecent": false
             },
             "37": {
@@ -1867,7 +1867,7 @@
                 "referee": null,
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 1655,
+                "minutesUntilStart": 1650,
                 "isRecent": false
             }
         },
@@ -2393,19 +2393,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 7365.12,
-        "current_time_local": "2026-04-05 20:55:15",
+        "api_call_time_ms": 10075.3,
+        "current_time_local": "2026-04-05 21:00:14",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-04-05 15:25:15",
-    "generated_at": "2026-04-05 15:25:15 UTC",
+    "last_updated": "2026-04-05 15:30:14",
+    "generated_at": "2026-04-05 15:30:14 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 90197,
+        "file_size": 90203,
         "file_path": "matches.json"
     }
 }
