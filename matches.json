@@ -9,28 +9,28 @@
             "awayScore": 2,
             "homeLogo": "https:\/\/crests.football-data.org\/263.png",
             "awayLogo": "https:\/\/crests.football-data.org\/79.png",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "utcDate": "2026-04-05T19:00:00Z",
             "localDate": "2026-04-06 00:30:00",
             "localTime": "00:30",
             "matchday": 30,
             "competition": "Primera Division",
             "competitionCode": "PD",
-            "isLive": true,
-            "isFinished": false,
+            "isLive": false,
+            "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "live",
+            "dayCategory": "finished_today",
             "venue": "Deportivo Alav\u00e9s (Home)",
-            "lastUpdated": "2026-04-05T20:58:56Z",
+            "lastUpdated": "2026-04-05T21:06:06Z",
             "referee": "C\u00e9sar Soto Grado",
             "season": 30,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
+            "isRecent": true
         },
         {
             "id": 537116,
@@ -1045,14 +1045,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "13h 24m",
+            "timeUntilStart": "13h 19m",
             "dayCategory": "today",
             "venue": "Udinese Calcio (Home)",
             "lastUpdated": "2026-03-31T01:32:04Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 805,
+            "minutesUntilStart": 800,
             "isRecent": false
         },
         {
@@ -1076,14 +1076,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "15h 54m",
+            "timeUntilStart": "15h 49m",
             "dayCategory": "today",
             "venue": "US Lecce (Home)",
             "lastUpdated": "2026-03-31T01:32:04Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 955,
+            "minutesUntilStart": 950,
             "isRecent": false
         },
         {
@@ -1107,14 +1107,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "18h 54m",
+            "timeUntilStart": "18h 49m",
             "dayCategory": "today",
             "venue": "Juventus FC (Home)",
             "lastUpdated": "2026-03-31T01:32:05Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 1135,
+            "minutesUntilStart": 1130,
             "isRecent": false
         },
         {
@@ -1138,14 +1138,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 39m",
+            "timeUntilStart": "21h 34m",
             "dayCategory": "tomorrow",
             "venue": "SSC Napoli (Home)",
             "lastUpdated": "2026-03-31T01:32:05Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 1300,
+            "minutesUntilStart": 1295,
             "isRecent": false
         },
         {
@@ -1169,19 +1169,20 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 54m",
+            "timeUntilStart": "21h 49m",
             "dayCategory": "tomorrow",
             "venue": "Girona FC (Home)",
             "lastUpdated": "2026-04-04T01:32:03Z",
             "referee": null,
             "season": 30,
             "group": null,
-            "minutesUntilStart": 1315,
+            "minutesUntilStart": 1310,
             "isRecent": false
         }
     ],
     "grouped_matches": {
-        "live": [
+        "live": [],
+        "finished_today": [
             {
                 "id": 544501,
                 "home": "Alav\u00e9s",
@@ -1190,32 +1191,30 @@
                 "awayScore": 2,
                 "homeLogo": "https:\/\/crests.football-data.org\/263.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/79.png",
-                "status": "IN_PLAY",
+                "status": "FINISHED",
                 "utcDate": "2026-04-05T19:00:00Z",
                 "localDate": "2026-04-06 00:30:00",
                 "localTime": "00:30",
                 "matchday": 30,
                 "competition": "Primera Division",
                 "competitionCode": "PD",
-                "isLive": true,
-                "isFinished": false,
+                "isLive": false,
+                "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "live",
+                "dayCategory": "finished_today",
                 "venue": "Deportivo Alav\u00e9s (Home)",
-                "lastUpdated": "2026-04-05T20:58:56Z",
+                "lastUpdated": "2026-04-05T21:06:06Z",
                 "referee": "C\u00e9sar Soto Grado",
                 "season": 30,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
-        "finished_today": {
-            "1": {
+                "isRecent": true
+            },
+            {
                 "id": 537116,
                 "home": "Inter",
                 "away": "Roma",
@@ -1246,7 +1245,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "2": {
+            {
                 "id": 542650,
                 "home": "Monaco",
                 "away": "Marseille",
@@ -1277,7 +1276,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             }
-        },
+        ],
         "today": {
             "33": {
                 "id": 537122,
@@ -1300,14 +1299,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "13h 24m",
+                "timeUntilStart": "13h 19m",
                 "dayCategory": "today",
                 "venue": "Udinese Calcio (Home)",
                 "lastUpdated": "2026-03-31T01:32:04Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 805,
+                "minutesUntilStart": 800,
                 "isRecent": false
             },
             "34": {
@@ -1331,14 +1330,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "15h 54m",
+                "timeUntilStart": "15h 49m",
                 "dayCategory": "today",
                 "venue": "US Lecce (Home)",
                 "lastUpdated": "2026-03-31T01:32:04Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 955,
+                "minutesUntilStart": 950,
                 "isRecent": false
             },
             "35": {
@@ -1362,14 +1361,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "18h 54m",
+                "timeUntilStart": "18h 49m",
                 "dayCategory": "today",
                 "venue": "Juventus FC (Home)",
                 "lastUpdated": "2026-03-31T01:32:05Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 1135,
+                "minutesUntilStart": 1130,
                 "isRecent": false
             }
         },
@@ -1395,14 +1394,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 39m",
+                "timeUntilStart": "21h 34m",
                 "dayCategory": "tomorrow",
                 "venue": "SSC Napoli (Home)",
                 "lastUpdated": "2026-03-31T01:32:05Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 1300,
+                "minutesUntilStart": 1295,
                 "isRecent": false
             },
             "37": {
@@ -1426,14 +1425,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 54m",
+                "timeUntilStart": "21h 49m",
                 "dayCategory": "tomorrow",
                 "venue": "Girona FC (Home)",
                 "lastUpdated": "2026-04-04T01:32:03Z",
                 "referee": null,
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 1315,
+                "minutesUntilStart": 1310,
                 "isRecent": false
             }
         },
@@ -2376,10 +2375,10 @@
     },
     "stats": {
         "total_matches": 38,
-        "live_matches": 1,
+        "live_matches": 0,
         "today_matches": 3,
         "tomorrow_matches": 2,
-        "finished_today": 2,
+        "finished_today": 3,
         "finished_recent": 0
     },
     "query_info": {
@@ -2394,19 +2393,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 5552.71,
-        "current_time_local": "2026-04-06 02:35:09",
+        "api_call_time_ms": 6612.06,
+        "current_time_local": "2026-04-06 02:40:11",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-04-05 21:05:09",
-    "generated_at": "2026-04-05 21:05:09 UTC",
+    "last_updated": "2026-04-05 21:10:11",
+    "generated_at": "2026-04-05 21:10:11 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 90265,
+        "file_size": 90267,
         "file_path": "matches.json"
     }
 }
