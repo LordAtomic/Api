@@ -9,28 +9,28 @@
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/1048.png",
             "awayLogo": "https:\/\/crests.football-data.org\/559.png",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "utcDate": "2026-04-05T16:30:00Z",
             "localDate": "2026-04-05 22:00:00",
             "localTime": "22:00",
             "matchday": 30,
             "competition": "Primera Division",
             "competitionCode": "PD",
-            "isLive": true,
-            "isFinished": false,
+            "isLive": false,
+            "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
-            "isYesterday": false,
+            "isYesterday": true,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "live",
+            "dayCategory": "finished_yesterday",
             "venue": "Real Oviedo (Home)",
-            "lastUpdated": "2026-04-05T17:47:53Z",
+            "lastUpdated": "2026-04-05T18:37:51Z",
             "referee": "Alejandro Hern\u00e1ndez Hern\u00e1ndez",
             "season": 30,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
+            "isRecent": true
         },
         {
             "id": 537119,
@@ -952,14 +952,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "9m",
+            "timeUntilStart": "4m",
             "dayCategory": "today",
             "venue": "FC Internazionale Milano (Home)",
             "lastUpdated": "2026-03-30T01:32:03Z",
             "referee": "Simone Sozza",
             "season": 31,
             "group": null,
-            "minutesUntilStart": 10,
+            "minutesUntilStart": 5,
             "isRecent": false
         },
         {
@@ -983,14 +983,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "9m",
+            "timeUntilStart": "4m",
             "dayCategory": "today",
             "venue": "AS Monaco FC (Home)",
             "lastUpdated": "2026-04-05T01:32:00Z",
             "referee": "Cl\u00e9ment Turpin",
             "season": 28,
             "group": null,
-            "minutesUntilStart": 10,
+            "minutesUntilStart": 5,
             "isRecent": false
         },
         {
@@ -1014,14 +1014,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "24m",
+            "timeUntilStart": "19m",
             "dayCategory": "today",
             "venue": "Deportivo Alav\u00e9s (Home)",
             "lastUpdated": "2026-04-05T01:32:01Z",
             "referee": "C\u00e9sar Soto Grado",
             "season": 30,
             "group": null,
-            "minutesUntilStart": 25,
+            "minutesUntilStart": 20,
             "isRecent": false
         },
         {
@@ -1045,14 +1045,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "15h 54m",
+            "timeUntilStart": "15h 49m",
             "dayCategory": "today",
             "venue": "Udinese Calcio (Home)",
             "lastUpdated": "2026-03-31T01:32:04Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 955,
+            "minutesUntilStart": 950,
             "isRecent": false
         },
         {
@@ -1076,14 +1076,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "18h 24m",
+            "timeUntilStart": "18h 19m",
             "dayCategory": "today",
             "venue": "US Lecce (Home)",
             "lastUpdated": "2026-03-31T01:32:04Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 1105,
+            "minutesUntilStart": 1100,
             "isRecent": false
         },
         {
@@ -1107,14 +1107,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 24m",
+            "timeUntilStart": "21h 19m",
             "dayCategory": "today",
             "venue": "Juventus FC (Home)",
             "lastUpdated": "2026-03-31T01:32:05Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 1285,
+            "minutesUntilStart": 1280,
             "isRecent": false
         },
         {
@@ -1145,7 +1145,7 @@
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 1450,
+            "minutesUntilStart": 1445,
             "isRecent": false
         },
         {
@@ -1176,44 +1176,12 @@
             "referee": null,
             "season": 30,
             "group": null,
-            "minutesUntilStart": 1465,
+            "minutesUntilStart": 1460,
             "isRecent": false
         }
     ],
     "grouped_matches": {
-        "live": [
-            {
-                "id": 544506,
-                "home": "Real Oviedo",
-                "away": "Sevilla FC",
-                "homeScore": 1,
-                "awayScore": 0,
-                "homeLogo": "https:\/\/crests.football-data.org\/1048.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/559.png",
-                "status": "IN_PLAY",
-                "utcDate": "2026-04-05T16:30:00Z",
-                "localDate": "2026-04-05 22:00:00",
-                "localTime": "22:00",
-                "matchday": 30,
-                "competition": "Primera Division",
-                "competitionCode": "PD",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "Real Oviedo (Home)",
-                "lastUpdated": "2026-04-05T17:47:53Z",
-                "referee": "Alejandro Hern\u00e1ndez Hern\u00e1ndez",
-                "season": 30,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
+        "live": [],
         "finished_today": [],
         "today": {
             "30": {
@@ -1237,14 +1205,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "9m",
+                "timeUntilStart": "4m",
                 "dayCategory": "today",
                 "venue": "FC Internazionale Milano (Home)",
                 "lastUpdated": "2026-03-30T01:32:03Z",
                 "referee": "Simone Sozza",
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 10,
+                "minutesUntilStart": 5,
                 "isRecent": false
             },
             "31": {
@@ -1268,14 +1236,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "9m",
+                "timeUntilStart": "4m",
                 "dayCategory": "today",
                 "venue": "AS Monaco FC (Home)",
                 "lastUpdated": "2026-04-05T01:32:00Z",
                 "referee": "Cl\u00e9ment Turpin",
                 "season": 28,
                 "group": null,
-                "minutesUntilStart": 10,
+                "minutesUntilStart": 5,
                 "isRecent": false
             },
             "32": {
@@ -1299,14 +1267,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "24m",
+                "timeUntilStart": "19m",
                 "dayCategory": "today",
                 "venue": "Deportivo Alav\u00e9s (Home)",
                 "lastUpdated": "2026-04-05T01:32:01Z",
                 "referee": "C\u00e9sar Soto Grado",
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 25,
+                "minutesUntilStart": 20,
                 "isRecent": false
             },
             "33": {
@@ -1330,14 +1298,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "15h 54m",
+                "timeUntilStart": "15h 49m",
                 "dayCategory": "today",
                 "venue": "Udinese Calcio (Home)",
                 "lastUpdated": "2026-03-31T01:32:04Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 955,
+                "minutesUntilStart": 950,
                 "isRecent": false
             },
             "34": {
@@ -1361,14 +1329,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "18h 24m",
+                "timeUntilStart": "18h 19m",
                 "dayCategory": "today",
                 "venue": "US Lecce (Home)",
                 "lastUpdated": "2026-03-31T01:32:04Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 1105,
+                "minutesUntilStart": 1100,
                 "isRecent": false
             },
             "35": {
@@ -1392,14 +1360,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 24m",
+                "timeUntilStart": "21h 19m",
                 "dayCategory": "today",
                 "venue": "Juventus FC (Home)",
                 "lastUpdated": "2026-03-31T01:32:05Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 1285,
+                "minutesUntilStart": 1280,
                 "isRecent": false
             }
         },
@@ -1432,7 +1400,7 @@
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 1450,
+                "minutesUntilStart": 1445,
                 "isRecent": false
             },
             "37": {
@@ -1463,13 +1431,44 @@
                 "referee": null,
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 1465,
+                "minutesUntilStart": 1460,
                 "isRecent": false
             }
         },
         "upcoming": [],
-        "finished_yesterday": {
-            "1": {
+        "finished_yesterday": [
+            {
+                "id": 544506,
+                "home": "Real Oviedo",
+                "away": "Sevilla FC",
+                "homeScore": 1,
+                "awayScore": 0,
+                "homeLogo": "https:\/\/crests.football-data.org\/1048.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/559.png",
+                "status": "FINISHED",
+                "utcDate": "2026-04-05T16:30:00Z",
+                "localDate": "2026-04-05 22:00:00",
+                "localTime": "22:00",
+                "matchday": 30,
+                "competition": "Primera Division",
+                "competitionCode": "PD",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": true,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_yesterday",
+                "venue": "Real Oviedo (Home)",
+                "lastUpdated": "2026-04-05T18:37:51Z",
+                "referee": "Alejandro Hern\u00e1ndez Hern\u00e1ndez",
+                "season": 30,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": true
+            },
+            {
                 "id": 537119,
                 "home": "AC Pisa",
                 "away": "Torino",
@@ -1500,7 +1499,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "2": {
+            {
                 "id": 540657,
                 "home": "Frankfurt",
                 "away": "1. FC K\u00f6ln",
@@ -1531,7 +1530,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "3": {
+            {
                 "id": 542649,
                 "home": "Le Havre",
                 "away": "Auxerre",
@@ -1562,7 +1561,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "4": {
+            {
                 "id": 542651,
                 "home": "Lorient",
                 "away": "Paris FC",
@@ -1593,7 +1592,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "5": {
+            {
                 "id": 542652,
                 "home": "FC Metz",
                 "away": "Nantes",
@@ -1624,7 +1623,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "6": {
+            {
                 "id": 544508,
                 "home": "Valencia",
                 "away": "Celta",
@@ -1655,7 +1654,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "7": {
+            {
                 "id": 540655,
                 "home": "Union Berlin",
                 "away": "St. Pauli",
@@ -1686,7 +1685,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "8": {
+            {
                 "id": 537123,
                 "home": "Cremonese",
                 "away": "Bologna",
@@ -1717,7 +1716,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "9": {
+            {
                 "id": 542656,
                 "home": "Angers SCO",
                 "away": "Olympique Lyon",
@@ -1748,7 +1747,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "10": {
+            {
                 "id": 544507,
                 "home": "Getafe",
                 "away": "Athletic",
@@ -1779,7 +1778,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "11": {
+            {
                 "id": 542653,
                 "home": "Lille",
                 "away": "RC Lens",
@@ -1810,7 +1809,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "12": {
+            {
                 "id": 544502,
                 "home": "Atleti",
                 "away": "Bar\u00e7a",
@@ -1841,7 +1840,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "13": {
+            {
                 "id": 537118,
                 "home": "Lazio",
                 "away": "Parma",
@@ -1872,7 +1871,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             }
-        },
+        ],
         "finished_recent": [],
         "finished_older": {
             "14": {
@@ -2375,7 +2374,7 @@
     },
     "stats": {
         "total_matches": 38,
-        "live_matches": 1,
+        "live_matches": 0,
         "today_matches": 6,
         "tomorrow_matches": 2,
         "finished_today": 0,
@@ -2393,19 +2392,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 5585.15,
-        "current_time_local": "2026-04-06 00:05:10",
+        "api_call_time_ms": 7267.95,
+        "current_time_local": "2026-04-06 00:10:13",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-04-05 18:35:10",
-    "generated_at": "2026-04-05 18:35:10 UTC",
+    "last_updated": "2026-04-05 18:40:13",
+    "generated_at": "2026-04-05 18:40:13 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 90173,
+        "file_size": 90118,
         "file_path": "matches.json"
     }
 }
