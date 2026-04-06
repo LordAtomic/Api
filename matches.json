@@ -1014,14 +1014,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "1h 9m",
+            "timeUntilStart": "1h 4m",
             "dayCategory": "today",
             "venue": "US Lecce (Home)",
             "lastUpdated": "2026-04-06T01:32:00Z",
             "referee": "Federico La Penna",
             "season": 31,
             "group": null,
-            "minutesUntilStart": 70,
+            "minutesUntilStart": 65,
             "isRecent": false
         },
         {
@@ -1045,14 +1045,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "4h 9m",
+            "timeUntilStart": "4h 4m",
             "dayCategory": "today",
             "venue": "Juventus FC (Home)",
             "lastUpdated": "2026-04-06T01:32:01Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 250,
+            "minutesUntilStart": 245,
             "isRecent": false
         },
         {
@@ -1076,14 +1076,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "6h 54m",
+            "timeUntilStart": "6h 49m",
             "dayCategory": "tomorrow",
             "venue": "SSC Napoli (Home)",
             "lastUpdated": "2026-03-31T01:32:05Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 415,
+            "minutesUntilStart": 410,
             "isRecent": false
         },
         {
@@ -1107,14 +1107,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "7h 9m",
+            "timeUntilStart": "7h 4m",
             "dayCategory": "tomorrow",
             "venue": "Girona FC (Home)",
             "lastUpdated": "2026-04-04T01:32:03Z",
             "referee": null,
             "season": 30,
             "group": null,
-            "minutesUntilStart": 430,
+            "minutesUntilStart": 425,
             "isRecent": false
         }
     ],
@@ -1269,14 +1269,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "1h 9m",
+                "timeUntilStart": "1h 4m",
                 "dayCategory": "today",
                 "venue": "US Lecce (Home)",
                 "lastUpdated": "2026-04-06T01:32:00Z",
                 "referee": "Federico La Penna",
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 70,
+                "minutesUntilStart": 65,
                 "isRecent": false
             },
             "33": {
@@ -1300,14 +1300,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "4h 9m",
+                "timeUntilStart": "4h 4m",
                 "dayCategory": "today",
                 "venue": "Juventus FC (Home)",
                 "lastUpdated": "2026-04-06T01:32:01Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 250,
+                "minutesUntilStart": 245,
                 "isRecent": false
             }
         },
@@ -1333,14 +1333,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "6h 54m",
+                "timeUntilStart": "6h 49m",
                 "dayCategory": "tomorrow",
                 "venue": "SSC Napoli (Home)",
                 "lastUpdated": "2026-03-31T01:32:05Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 415,
+                "minutesUntilStart": 410,
                 "isRecent": false
             },
             "35": {
@@ -1364,14 +1364,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "7h 9m",
+                "timeUntilStart": "7h 4m",
                 "dayCategory": "tomorrow",
                 "venue": "Girona FC (Home)",
                 "lastUpdated": "2026-04-04T01:32:03Z",
                 "referee": null,
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 430,
+                "minutesUntilStart": 425,
                 "isRecent": false
             }
         },
@@ -2270,19 +2270,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 8468.9,
-        "current_time_local": "2026-04-06 17:20:12",
+        "api_call_time_ms": 4942.63,
+        "current_time_local": "2026-04-06 17:25:09",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-04-06 11:50:12",
-    "generated_at": "2026-04-06 11:50:12 UTC",
+    "last_updated": "2026-04-06 11:55:09",
+    "generated_at": "2026-04-06 11:55:09 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 85596,
+        "file_size": 85597,
         "file_path": "matches.json"
     }
 }
