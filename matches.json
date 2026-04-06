@@ -9,28 +9,28 @@
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/115.png",
             "awayLogo": "https:\/\/crests.football-data.org\/7397.png",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "utcDate": "2026-04-06T10:30:00Z",
             "localDate": "2026-04-06 16:00:00",
             "localTime": "16:00",
             "matchday": 31,
             "competition": "Serie A",
             "competitionCode": "SA",
-            "isLive": true,
-            "isFinished": false,
+            "isLive": false,
+            "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "live",
+            "dayCategory": "finished_today",
             "venue": "Udinese Calcio (Home)",
-            "lastUpdated": "2026-04-06T11:42:57Z",
+            "lastUpdated": "2026-04-06T12:35:26Z",
             "referee": "Fabio Maresca",
             "season": 31,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
+            "isRecent": true
         },
         {
             "id": 544501,
@@ -1014,14 +1014,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "24m",
+            "timeUntilStart": "19m",
             "dayCategory": "today",
             "venue": "US Lecce (Home)",
             "lastUpdated": "2026-04-06T01:32:00Z",
             "referee": "Federico La Penna",
             "season": 31,
             "group": null,
-            "minutesUntilStart": 25,
+            "minutesUntilStart": 20,
             "isRecent": false
         },
         {
@@ -1045,14 +1045,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "3h 24m",
+            "timeUntilStart": "3h 19m",
             "dayCategory": "today",
             "venue": "Juventus FC (Home)",
             "lastUpdated": "2026-04-06T01:32:01Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 205,
+            "minutesUntilStart": 200,
             "isRecent": false
         },
         {
@@ -1076,14 +1076,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "6h 9m",
+            "timeUntilStart": "6h 4m",
             "dayCategory": "tomorrow",
             "venue": "SSC Napoli (Home)",
             "lastUpdated": "2026-03-31T01:32:05Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 370,
+            "minutesUntilStart": 365,
             "isRecent": false
         },
         {
@@ -1107,19 +1107,20 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "6h 24m",
+            "timeUntilStart": "6h 19m",
             "dayCategory": "tomorrow",
             "venue": "Girona FC (Home)",
             "lastUpdated": "2026-04-04T01:32:03Z",
             "referee": null,
             "season": 30,
             "group": null,
-            "minutesUntilStart": 385,
+            "minutesUntilStart": 380,
             "isRecent": false
         }
     ],
     "grouped_matches": {
-        "live": [
+        "live": [],
+        "finished_today": [
             {
                 "id": 537122,
                 "home": "Udinese",
@@ -1128,32 +1129,30 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/115.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/7397.png",
-                "status": "IN_PLAY",
+                "status": "FINISHED",
                 "utcDate": "2026-04-06T10:30:00Z",
                 "localDate": "2026-04-06 16:00:00",
                 "localTime": "16:00",
                 "matchday": 31,
                 "competition": "Serie A",
                 "competitionCode": "SA",
-                "isLive": true,
-                "isFinished": false,
+                "isLive": false,
+                "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "live",
+                "dayCategory": "finished_today",
                 "venue": "Udinese Calcio (Home)",
-                "lastUpdated": "2026-04-06T11:42:57Z",
+                "lastUpdated": "2026-04-06T12:35:26Z",
                 "referee": "Fabio Maresca",
                 "season": 31,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
-        "finished_today": {
-            "1": {
+                "isRecent": true
+            },
+            {
                 "id": 544501,
                 "home": "Alav\u00e9s",
                 "away": "Osasuna",
@@ -1184,7 +1183,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "2": {
+            {
                 "id": 537116,
                 "home": "Inter",
                 "away": "Roma",
@@ -1215,7 +1214,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "3": {
+            {
                 "id": 542650,
                 "home": "Monaco",
                 "away": "Marseille",
@@ -1246,7 +1245,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             }
-        },
+        ],
         "today": {
             "32": {
                 "id": 537124,
@@ -1269,14 +1268,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "24m",
+                "timeUntilStart": "19m",
                 "dayCategory": "today",
                 "venue": "US Lecce (Home)",
                 "lastUpdated": "2026-04-06T01:32:00Z",
                 "referee": "Federico La Penna",
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 25,
+                "minutesUntilStart": 20,
                 "isRecent": false
             },
             "33": {
@@ -1300,14 +1299,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "3h 24m",
+                "timeUntilStart": "3h 19m",
                 "dayCategory": "today",
                 "venue": "Juventus FC (Home)",
                 "lastUpdated": "2026-04-06T01:32:01Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 205,
+                "minutesUntilStart": 200,
                 "isRecent": false
             }
         },
@@ -1333,14 +1332,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "6h 9m",
+                "timeUntilStart": "6h 4m",
                 "dayCategory": "tomorrow",
                 "venue": "SSC Napoli (Home)",
                 "lastUpdated": "2026-03-31T01:32:05Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 370,
+                "minutesUntilStart": 365,
                 "isRecent": false
             },
             "35": {
@@ -1364,14 +1363,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "6h 24m",
+                "timeUntilStart": "6h 19m",
                 "dayCategory": "tomorrow",
                 "venue": "Girona FC (Home)",
                 "lastUpdated": "2026-04-04T01:32:03Z",
                 "referee": null,
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 385,
+                "minutesUntilStart": 380,
                 "isRecent": false
             }
         },
@@ -2252,10 +2251,10 @@
     },
     "stats": {
         "total_matches": 36,
-        "live_matches": 1,
+        "live_matches": 0,
         "today_matches": 2,
         "tomorrow_matches": 2,
-        "finished_today": 3,
+        "finished_today": 4,
         "finished_recent": 0
     },
     "query_info": {
@@ -2270,19 +2269,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 5151.21,
-        "current_time_local": "2026-04-06 18:05:09",
+        "api_call_time_ms": 7608.55,
+        "current_time_local": "2026-04-06 18:10:13",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-04-06 12:35:09",
-    "generated_at": "2026-04-06 12:35:09 UTC",
+    "last_updated": "2026-04-06 12:40:13",
+    "generated_at": "2026-04-06 12:40:13 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 85595,
+        "file_size": 85592,
         "file_path": "matches.json"
     }
 }
