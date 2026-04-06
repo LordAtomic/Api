@@ -1045,14 +1045,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "29m",
+            "timeUntilStart": "24m",
             "dayCategory": "today",
             "venue": "Juventus FC (Home)",
             "lastUpdated": "2026-04-06T01:32:01Z",
             "referee": "Davide Massa",
             "season": 31,
             "group": null,
-            "minutesUntilStart": 30,
+            "minutesUntilStart": 25,
             "isRecent": false
         },
         {
@@ -1076,14 +1076,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "3h 14m",
+            "timeUntilStart": "3h 9m",
             "dayCategory": "tomorrow",
             "venue": "SSC Napoli (Home)",
             "lastUpdated": "2026-03-31T01:32:05Z",
             "referee": null,
             "season": 31,
             "group": null,
-            "minutesUntilStart": 195,
+            "minutesUntilStart": 190,
             "isRecent": false
         },
         {
@@ -1107,14 +1107,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "3h 29m",
+            "timeUntilStart": "3h 24m",
             "dayCategory": "tomorrow",
             "venue": "Girona FC (Home)",
             "lastUpdated": "2026-04-04T01:32:03Z",
             "referee": null,
             "season": 30,
             "group": null,
-            "minutesUntilStart": 210,
+            "minutesUntilStart": 205,
             "isRecent": false
         }
     ],
@@ -1299,14 +1299,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "29m",
+                "timeUntilStart": "24m",
                 "dayCategory": "today",
                 "venue": "Juventus FC (Home)",
                 "lastUpdated": "2026-04-06T01:32:01Z",
                 "referee": "Davide Massa",
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 30,
+                "minutesUntilStart": 25,
                 "isRecent": false
             }
         },
@@ -1332,14 +1332,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "3h 14m",
+                "timeUntilStart": "3h 9m",
                 "dayCategory": "tomorrow",
                 "venue": "SSC Napoli (Home)",
                 "lastUpdated": "2026-03-31T01:32:05Z",
                 "referee": null,
                 "season": 31,
                 "group": null,
-                "minutesUntilStart": 195,
+                "minutesUntilStart": 190,
                 "isRecent": false
             },
             "35": {
@@ -1363,14 +1363,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "3h 29m",
+                "timeUntilStart": "3h 24m",
                 "dayCategory": "tomorrow",
                 "venue": "Girona FC (Home)",
                 "lastUpdated": "2026-04-04T01:32:03Z",
                 "referee": null,
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 210,
+                "minutesUntilStart": 205,
                 "isRecent": false
             }
         },
@@ -2269,19 +2269,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 8317.54,
-        "current_time_local": "2026-04-06 21:00:19",
+        "api_call_time_ms": 5362.91,
+        "current_time_local": "2026-04-06 21:05:08",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-04-06 15:30:19",
-    "generated_at": "2026-04-06 15:30:19 UTC",
+    "last_updated": "2026-04-06 15:35:08",
+    "generated_at": "2026-04-06 15:35:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 85625,
+        "file_size": 85623,
         "file_path": "matches.json"
     }
 }
