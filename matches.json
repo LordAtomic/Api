@@ -684,37 +684,6 @@
             "isRecent": false
         },
         {
-            "id": 538104,
-            "home": "West Ham",
-            "away": "Wolverhampton",
-            "homeScore": 0,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/563.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/76.png",
-            "status": "TIMED",
-            "utcDate": "2026-04-10T19:00:00Z",
-            "localDate": "2026-04-11 00:30:00",
-            "localTime": "00:30",
-            "matchday": 32,
-            "competition": "Premier League",
-            "competitionCode": "PL",
-            "isLive": false,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": true,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": "3 days",
-            "dayCategory": "tomorrow",
-            "venue": "West Ham United FC (Home)",
-            "lastUpdated": "2026-04-07T00:21:00Z",
-            "referee": null,
-            "season": 32,
-            "group": null,
-            "minutesUntilStart": 4464,
-            "isRecent": false
-        },
-        {
             "id": 544520,
             "home": "Real Madrid",
             "away": "Girona",
@@ -939,37 +908,6 @@
                 "isRecent": false
             },
             "22": {
-                "id": 538104,
-                "home": "West Ham",
-                "away": "Wolverhampton",
-                "homeScore": 0,
-                "awayScore": 0,
-                "homeLogo": "https:\/\/crests.football-data.org\/563.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/76.png",
-                "status": "TIMED",
-                "utcDate": "2026-04-10T19:00:00Z",
-                "localDate": "2026-04-11 00:30:00",
-                "localTime": "00:30",
-                "matchday": 32,
-                "competition": "Premier League",
-                "competitionCode": "PL",
-                "isLive": false,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": true,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": "3 days",
-                "dayCategory": "tomorrow",
-                "venue": "West Ham United FC (Home)",
-                "lastUpdated": "2026-04-07T00:21:00Z",
-                "referee": null,
-                "season": 32,
-                "group": null,
-                "minutesUntilStart": 4464,
-                "isRecent": false
-            },
-            "23": {
                 "id": 544520,
                 "home": "Real Madrid",
                 "away": "Girona",
@@ -1000,7 +938,7 @@
                 "minutesUntilStart": 4464,
                 "isRecent": false
             },
-            "24": {
+            "23": {
                 "id": 542663,
                 "home": "Marseille",
                 "away": "FC Metz",
@@ -1567,10 +1505,10 @@
         }
     },
     "stats": {
-        "total_matches": 25,
+        "total_matches": 24,
         "live_matches": 0,
         "today_matches": 0,
-        "tomorrow_matches": 6,
+        "tomorrow_matches": 5,
         "finished_today": 2,
         "finished_recent": 0
     },
@@ -1586,19 +1524,21 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 31745.63,
-        "current_time_local": "2026-04-07 22:05:38",
-        "api_errors": []
+        "api_call_time_ms": 33526.89,
+        "current_time_local": "2026-04-07 22:05:40",
+        "api_errors": [
+            "Failed to fetch data from PL"
+        ]
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-04-07 16:35:38",
-    "generated_at": "2026-04-07 16:35:38 UTC",
+    "last_updated": "2026-04-07 16:35:40",
+    "generated_at": "2026-04-07 16:35:40 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 59531,
+        "file_size": 57243,
         "file_path": "matches.json"
     }
 }
