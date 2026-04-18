@@ -64,6 +64,37 @@
             "isRecent": false
         },
         {
+            "id": 542671,
+            "home": "Lille",
+            "away": "Nice",
+            "homeScore": 0,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/521.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/522.png",
+            "status": "IN_PLAY",
+            "utcDate": "2026-04-18T19:05:00Z",
+            "localDate": "2026-04-19 00:35:00",
+            "localTime": "00:35",
+            "matchday": 30,
+            "competition": "Ligue 1",
+            "competitionCode": "FL1",
+            "isLive": true,
+            "isFinished": false,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "live",
+            "venue": "Lille OSC (Home)",
+            "lastUpdated": "2026-04-18T19:10:38Z",
+            "referee": "Bastien Dechepy",
+            "season": 29,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
+        },
+        {
             "id": 542675,
             "home": "Angers SCO",
             "away": "Le Havre",
@@ -89,7 +120,7 @@
             "venue": "Angers SCO (Home)",
             "lastUpdated": "2026-04-18T19:02:33Z",
             "referee": "Marc Bollengier",
-            "season": 30,
+            "season": 29,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": true
@@ -213,7 +244,7 @@
             "venue": "FC Lorient (Home)",
             "lastUpdated": "2026-04-18T17:02:16Z",
             "referee": "Eric Wattellier",
-            "season": 30,
+            "season": 29,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": true
@@ -521,9 +552,9 @@
             "timeUntilStart": null,
             "dayCategory": "finished_yesterday",
             "venue": "Racing Club de Lens (Home)",
-            "lastUpdated": "2026-04-18T00:21:01Z",
+            "lastUpdated": "2026-04-17T20:48:12Z",
             "referee": "J\u00e9r\u00e9mie Pignard",
-            "season": 30,
+            "season": 29,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -591,37 +622,6 @@
             "isRecent": false
         },
         {
-            "id": 542671,
-            "home": "Lille",
-            "away": "Nice",
-            "homeScore": 0,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/521.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/522.png",
-            "status": "TIMED",
-            "utcDate": "2026-04-18T19:05:00Z",
-            "localDate": "2026-04-19 00:35:00",
-            "localTime": "00:35",
-            "matchday": 30,
-            "competition": "Ligue 1",
-            "competitionCode": "FL1",
-            "isLive": false,
-            "isFinished": false,
-            "isToday": true,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "today",
-            "venue": "Lille OSC (Home)",
-            "lastUpdated": "2026-04-13T01:32:03Z",
-            "referee": "Bastien Dechepy",
-            "season": 30,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 537143,
             "home": "Cremonese",
             "away": "Torino",
@@ -642,14 +642,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "15h 19m",
+            "timeUntilStart": "15h 14m",
             "dayCategory": "today",
             "venue": "US Cremonese (Home)",
             "lastUpdated": "2026-04-13T01:32:03Z",
             "referee": "Michael Fabbri",
             "season": 33,
             "group": null,
-            "minutesUntilStart": 920,
+            "minutesUntilStart": 915,
             "isRecent": false
         },
         {
@@ -673,14 +673,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "17h 49m",
+            "timeUntilStart": "17h 44m",
             "dayCategory": "today",
             "venue": "Nottingham Forest FC (Home)",
             "lastUpdated": "2026-04-13T01:32:04Z",
             "referee": "Thomas Kirk",
             "season": 33,
             "group": null,
-            "minutesUntilStart": 1070,
+            "minutesUntilStart": 1065,
             "isRecent": false
         },
         {
@@ -704,14 +704,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "17h 49m",
+            "timeUntilStart": "17h 44m",
             "dayCategory": "today",
             "venue": "Aston Villa FC (Home)",
             "lastUpdated": "2026-04-13T01:32:04Z",
             "referee": "Sam Barrott",
             "season": 33,
             "group": null,
-            "minutesUntilStart": 1070,
+            "minutesUntilStart": 1065,
             "isRecent": false
         },
         {
@@ -735,14 +735,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "17h 49m",
+            "timeUntilStart": "17h 44m",
             "dayCategory": "today",
             "venue": "Everton FC (Home)",
             "lastUpdated": "2026-04-13T01:32:04Z",
             "referee": "Chris Kavanagh",
             "season": 33,
             "group": null,
-            "minutesUntilStart": 1070,
+            "minutesUntilStart": 1065,
             "isRecent": false
         },
         {
@@ -766,14 +766,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "17h 49m",
+            "timeUntilStart": "17h 44m",
             "dayCategory": "today",
             "venue": "Hellas Verona FC (Home)",
             "lastUpdated": "2026-04-13T01:32:04Z",
             "referee": "Daniele Chiffi",
             "season": 33,
             "group": null,
-            "minutesUntilStart": 1070,
+            "minutesUntilStart": 1065,
             "isRecent": false
         },
         {
@@ -797,14 +797,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "17h 49m",
+            "timeUntilStart": "17h 44m",
             "dayCategory": "today",
             "venue": "AS Monaco FC (Home)",
-            "lastUpdated": "2026-04-13T01:32:04Z",
+            "lastUpdated": "2026-03-24T10:21:05Z",
             "referee": "Thomas L\u00e9onard",
-            "season": 30,
+            "season": 29,
             "group": null,
-            "minutesUntilStart": 1070,
+            "minutesUntilStart": 1065,
             "isRecent": false
         },
         {
@@ -828,14 +828,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "18h 19m",
+            "timeUntilStart": "18h 14m",
             "dayCategory": "today",
             "venue": "SC Freiburg (Home)",
             "lastUpdated": "2026-04-13T01:32:04Z",
             "referee": "Patrick Ittrich",
             "season": 30,
             "group": null,
-            "minutesUntilStart": 1100,
+            "minutesUntilStart": 1095,
             "isRecent": false
         },
         {
@@ -859,14 +859,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "20h 4m",
+            "timeUntilStart": "19h 59m",
             "dayCategory": "today",
             "venue": "FC Metz (Home)",
-            "lastUpdated": "2026-04-13T01:32:04Z",
+            "lastUpdated": "2026-03-24T10:21:05Z",
             "referee": "Jeremy Stinat",
-            "season": 30,
+            "season": 29,
             "group": null,
-            "minutesUntilStart": 1205,
+            "minutesUntilStart": 1200,
             "isRecent": false
         },
         {
@@ -890,14 +890,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "20h 4m",
+            "timeUntilStart": "19h 59m",
             "dayCategory": "today",
             "venue": "FC Nantes (Home)",
-            "lastUpdated": "2026-04-13T01:32:04Z",
+            "lastUpdated": "2026-03-24T10:21:05Z",
             "referee": "Guillaume Paradis",
-            "season": 30,
+            "season": 29,
             "group": null,
-            "minutesUntilStart": 1205,
+            "minutesUntilStart": 1200,
             "isRecent": false
         },
         {
@@ -921,14 +921,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "20h 4m",
+            "timeUntilStart": "19h 59m",
             "dayCategory": "today",
             "venue": "RC Strasbourg Alsace (Home)",
-            "lastUpdated": "2026-04-13T01:32:04Z",
+            "lastUpdated": "2026-03-24T10:21:05Z",
             "referee": "Ruddy Buquet",
-            "season": 30,
+            "season": 29,
             "group": null,
-            "minutesUntilStart": 1205,
+            "minutesUntilStart": 1200,
             "isRecent": false
         },
         {
@@ -952,14 +952,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "20h 19m",
+            "timeUntilStart": "20h 14m",
             "dayCategory": "today",
             "venue": "Manchester City FC (Home)",
             "lastUpdated": "2026-04-18T00:21:02Z",
             "referee": "Anthony Taylor",
             "season": 33,
             "group": null,
-            "minutesUntilStart": 1220,
+            "minutesUntilStart": 1215,
             "isRecent": false
         },
         {
@@ -983,14 +983,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "20h 19m",
+            "timeUntilStart": "20h 14m",
             "dayCategory": "today",
             "venue": "FC Bayern M\u00fcnchen (Home)",
             "lastUpdated": "2026-04-18T00:21:01Z",
             "referee": "S\u00f6ren Storks",
             "season": 30,
             "group": null,
-            "minutesUntilStart": 1220,
+            "minutesUntilStart": 1215,
             "isRecent": false
         },
         {
@@ -1014,14 +1014,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "20h 49m",
+            "timeUntilStart": "20h 44m",
             "dayCategory": "today",
             "venue": "AC Pisa 1909 (Home)",
             "lastUpdated": "2026-04-13T01:32:04Z",
             "referee": "Valerio Crezzini",
             "season": 33,
             "group": null,
-            "minutesUntilStart": 1250,
+            "minutesUntilStart": 1245,
             "isRecent": false
         },
         {
@@ -1045,14 +1045,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "22h 19m",
+            "timeUntilStart": "22h 14m",
             "dayCategory": "today",
             "venue": "Borussia M\u00f6nchengladbach (Home)",
             "lastUpdated": "2026-04-13T01:32:04Z",
             "referee": "Tobias Welz",
             "season": 30,
             "group": null,
-            "minutesUntilStart": 1340,
+            "minutesUntilStart": 1335,
             "isRecent": false
         },
         {
@@ -1076,14 +1076,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "23h 34m",
+            "timeUntilStart": "23h 29m",
             "dayCategory": "tomorrow",
             "venue": "Juventus FC (Home)",
             "lastUpdated": "2026-04-13T01:32:05Z",
             "referee": "Maurizio Mariani",
             "season": 33,
             "group": null,
-            "minutesUntilStart": 1415,
+            "minutesUntilStart": 1410,
             "isRecent": false
         },
         {
@@ -1107,14 +1107,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "23h 34m",
+            "timeUntilStart": "23h 29m",
             "dayCategory": "tomorrow",
             "venue": "Paris Saint-Germain FC (Home)",
-            "lastUpdated": "2026-04-13T01:32:05Z",
+            "lastUpdated": "2026-03-24T10:21:05Z",
             "referee": "J\u00e9r\u00f4me Brisard",
-            "season": 30,
+            "season": 29,
             "group": null,
-            "minutesUntilStart": 1415,
+            "minutesUntilStart": 1410,
             "isRecent": false
         },
         {
@@ -1145,7 +1145,7 @@
             "referee": "Fabio Maresca",
             "season": 33,
             "group": null,
-            "minutesUntilStart": 2855,
+            "minutesUntilStart": 2850,
             "isRecent": false
         },
         {
@@ -1176,7 +1176,7 @@
             "referee": "Darren England",
             "season": 33,
             "group": null,
-            "minutesUntilStart": 2870,
+            "minutesUntilStart": 2865,
             "isRecent": false
         },
         {
@@ -1207,7 +1207,7 @@
             "referee": null,
             "season": 33,
             "group": null,
-            "minutesUntilStart": 4190,
+            "minutesUntilStart": 4185,
             "isRecent": false
         },
         {
@@ -1238,7 +1238,7 @@
             "referee": null,
             "season": 33,
             "group": null,
-            "minutesUntilStart": 4190,
+            "minutesUntilStart": 4185,
             "isRecent": false
         },
         {
@@ -1269,7 +1269,7 @@
             "referee": "Craig Pawson",
             "season": 33,
             "group": null,
-            "minutesUntilStart": 4310,
+            "minutesUntilStart": 4305,
             "isRecent": false
         },
         {
@@ -1300,7 +1300,7 @@
             "referee": null,
             "season": 33,
             "group": null,
-            "minutesUntilStart": 4340,
+            "minutesUntilStart": 4335,
             "isRecent": false
         },
         {
@@ -1331,7 +1331,7 @@
             "referee": null,
             "season": 33,
             "group": null,
-            "minutesUntilStart": 4340,
+            "minutesUntilStart": 4335,
             "isRecent": false
         }
     ],
@@ -1398,11 +1398,8 @@
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
-            }
-        ],
-        "finished_today": [],
-        "today": {
-            "19": {
+            },
+            {
                 "id": 542671,
                 "home": "Lille",
                 "away": "Nice",
@@ -1410,29 +1407,32 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/521.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/522.png",
-                "status": "TIMED",
+                "status": "IN_PLAY",
                 "utcDate": "2026-04-18T19:05:00Z",
                 "localDate": "2026-04-19 00:35:00",
                 "localTime": "00:35",
                 "matchday": 30,
                 "competition": "Ligue 1",
                 "competitionCode": "FL1",
-                "isLive": false,
+                "isLive": true,
                 "isFinished": false,
-                "isToday": true,
+                "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "today",
+                "dayCategory": "live",
                 "venue": "Lille OSC (Home)",
-                "lastUpdated": "2026-04-13T01:32:03Z",
+                "lastUpdated": "2026-04-18T19:10:38Z",
                 "referee": "Bastien Dechepy",
-                "season": 30,
+                "season": 29,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
-            },
+            }
+        ],
+        "finished_today": [],
+        "today": {
             "20": {
                 "id": 537143,
                 "home": "Cremonese",
@@ -1454,14 +1454,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "15h 19m",
+                "timeUntilStart": "15h 14m",
                 "dayCategory": "today",
                 "venue": "US Cremonese (Home)",
                 "lastUpdated": "2026-04-13T01:32:03Z",
                 "referee": "Michael Fabbri",
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 920,
+                "minutesUntilStart": 915,
                 "isRecent": false
             },
             "21": {
@@ -1485,14 +1485,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "17h 49m",
+                "timeUntilStart": "17h 44m",
                 "dayCategory": "today",
                 "venue": "Nottingham Forest FC (Home)",
                 "lastUpdated": "2026-04-13T01:32:04Z",
                 "referee": "Thomas Kirk",
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 1070,
+                "minutesUntilStart": 1065,
                 "isRecent": false
             },
             "22": {
@@ -1516,14 +1516,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "17h 49m",
+                "timeUntilStart": "17h 44m",
                 "dayCategory": "today",
                 "venue": "Aston Villa FC (Home)",
                 "lastUpdated": "2026-04-13T01:32:04Z",
                 "referee": "Sam Barrott",
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 1070,
+                "minutesUntilStart": 1065,
                 "isRecent": false
             },
             "23": {
@@ -1547,14 +1547,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "17h 49m",
+                "timeUntilStart": "17h 44m",
                 "dayCategory": "today",
                 "venue": "Everton FC (Home)",
                 "lastUpdated": "2026-04-13T01:32:04Z",
                 "referee": "Chris Kavanagh",
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 1070,
+                "minutesUntilStart": 1065,
                 "isRecent": false
             },
             "24": {
@@ -1578,14 +1578,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "17h 49m",
+                "timeUntilStart": "17h 44m",
                 "dayCategory": "today",
                 "venue": "Hellas Verona FC (Home)",
                 "lastUpdated": "2026-04-13T01:32:04Z",
                 "referee": "Daniele Chiffi",
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 1070,
+                "minutesUntilStart": 1065,
                 "isRecent": false
             },
             "25": {
@@ -1609,14 +1609,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "17h 49m",
+                "timeUntilStart": "17h 44m",
                 "dayCategory": "today",
                 "venue": "AS Monaco FC (Home)",
-                "lastUpdated": "2026-04-13T01:32:04Z",
+                "lastUpdated": "2026-03-24T10:21:05Z",
                 "referee": "Thomas L\u00e9onard",
-                "season": 30,
+                "season": 29,
                 "group": null,
-                "minutesUntilStart": 1070,
+                "minutesUntilStart": 1065,
                 "isRecent": false
             },
             "26": {
@@ -1640,14 +1640,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "18h 19m",
+                "timeUntilStart": "18h 14m",
                 "dayCategory": "today",
                 "venue": "SC Freiburg (Home)",
                 "lastUpdated": "2026-04-13T01:32:04Z",
                 "referee": "Patrick Ittrich",
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 1100,
+                "minutesUntilStart": 1095,
                 "isRecent": false
             },
             "27": {
@@ -1671,14 +1671,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "20h 4m",
+                "timeUntilStart": "19h 59m",
                 "dayCategory": "today",
                 "venue": "FC Metz (Home)",
-                "lastUpdated": "2026-04-13T01:32:04Z",
+                "lastUpdated": "2026-03-24T10:21:05Z",
                 "referee": "Jeremy Stinat",
-                "season": 30,
+                "season": 29,
                 "group": null,
-                "minutesUntilStart": 1205,
+                "minutesUntilStart": 1200,
                 "isRecent": false
             },
             "28": {
@@ -1702,14 +1702,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "20h 4m",
+                "timeUntilStart": "19h 59m",
                 "dayCategory": "today",
                 "venue": "FC Nantes (Home)",
-                "lastUpdated": "2026-04-13T01:32:04Z",
+                "lastUpdated": "2026-03-24T10:21:05Z",
                 "referee": "Guillaume Paradis",
-                "season": 30,
+                "season": 29,
                 "group": null,
-                "minutesUntilStart": 1205,
+                "minutesUntilStart": 1200,
                 "isRecent": false
             },
             "29": {
@@ -1733,14 +1733,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "20h 4m",
+                "timeUntilStart": "19h 59m",
                 "dayCategory": "today",
                 "venue": "RC Strasbourg Alsace (Home)",
-                "lastUpdated": "2026-04-13T01:32:04Z",
+                "lastUpdated": "2026-03-24T10:21:05Z",
                 "referee": "Ruddy Buquet",
-                "season": 30,
+                "season": 29,
                 "group": null,
-                "minutesUntilStart": 1205,
+                "minutesUntilStart": 1200,
                 "isRecent": false
             },
             "30": {
@@ -1764,14 +1764,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "20h 19m",
+                "timeUntilStart": "20h 14m",
                 "dayCategory": "today",
                 "venue": "Manchester City FC (Home)",
                 "lastUpdated": "2026-04-18T00:21:02Z",
                 "referee": "Anthony Taylor",
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 1220,
+                "minutesUntilStart": 1215,
                 "isRecent": false
             },
             "31": {
@@ -1795,14 +1795,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "20h 19m",
+                "timeUntilStart": "20h 14m",
                 "dayCategory": "today",
                 "venue": "FC Bayern M\u00fcnchen (Home)",
                 "lastUpdated": "2026-04-18T00:21:01Z",
                 "referee": "S\u00f6ren Storks",
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 1220,
+                "minutesUntilStart": 1215,
                 "isRecent": false
             },
             "32": {
@@ -1826,14 +1826,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "20h 49m",
+                "timeUntilStart": "20h 44m",
                 "dayCategory": "today",
                 "venue": "AC Pisa 1909 (Home)",
                 "lastUpdated": "2026-04-13T01:32:04Z",
                 "referee": "Valerio Crezzini",
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 1250,
+                "minutesUntilStart": 1245,
                 "isRecent": false
             },
             "33": {
@@ -1857,14 +1857,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "22h 19m",
+                "timeUntilStart": "22h 14m",
                 "dayCategory": "today",
                 "venue": "Borussia M\u00f6nchengladbach (Home)",
                 "lastUpdated": "2026-04-13T01:32:04Z",
                 "referee": "Tobias Welz",
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 1340,
+                "minutesUntilStart": 1335,
                 "isRecent": false
             }
         },
@@ -1890,14 +1890,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "23h 34m",
+                "timeUntilStart": "23h 29m",
                 "dayCategory": "tomorrow",
                 "venue": "Juventus FC (Home)",
                 "lastUpdated": "2026-04-13T01:32:05Z",
                 "referee": "Maurizio Mariani",
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 1415,
+                "minutesUntilStart": 1410,
                 "isRecent": false
             },
             "35": {
@@ -1921,14 +1921,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "23h 34m",
+                "timeUntilStart": "23h 29m",
                 "dayCategory": "tomorrow",
                 "venue": "Paris Saint-Germain FC (Home)",
-                "lastUpdated": "2026-04-13T01:32:05Z",
+                "lastUpdated": "2026-03-24T10:21:05Z",
                 "referee": "J\u00e9r\u00f4me Brisard",
-                "season": 30,
+                "season": 29,
                 "group": null,
-                "minutesUntilStart": 1415,
+                "minutesUntilStart": 1410,
                 "isRecent": false
             },
             "36": {
@@ -1959,7 +1959,7 @@
                 "referee": "Fabio Maresca",
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 2855,
+                "minutesUntilStart": 2850,
                 "isRecent": false
             },
             "37": {
@@ -1990,7 +1990,7 @@
                 "referee": "Darren England",
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 2870,
+                "minutesUntilStart": 2865,
                 "isRecent": false
             },
             "38": {
@@ -2021,7 +2021,7 @@
                 "referee": null,
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 4190,
+                "minutesUntilStart": 4185,
                 "isRecent": false
             },
             "39": {
@@ -2052,7 +2052,7 @@
                 "referee": null,
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 4190,
+                "minutesUntilStart": 4185,
                 "isRecent": false
             },
             "40": {
@@ -2083,7 +2083,7 @@
                 "referee": "Craig Pawson",
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 4310,
+                "minutesUntilStart": 4305,
                 "isRecent": false
             },
             "41": {
@@ -2114,7 +2114,7 @@
                 "referee": null,
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 4340,
+                "minutesUntilStart": 4335,
                 "isRecent": false
             },
             "42": {
@@ -2145,13 +2145,13 @@
                 "referee": null,
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 4340,
+                "minutesUntilStart": 4335,
                 "isRecent": false
             }
         },
         "upcoming": [],
         "finished_yesterday": {
-            "2": {
+            "3": {
                 "id": 542675,
                 "home": "Angers SCO",
                 "away": "Le Havre",
@@ -2177,12 +2177,12 @@
                 "venue": "Angers SCO (Home)",
                 "lastUpdated": "2026-04-18T19:02:33Z",
                 "referee": "Marc Bollengier",
-                "season": 30,
+                "season": 29,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "3": {
+            "4": {
                 "id": 538114,
                 "home": "Tottenham",
                 "away": "Brighton Hove",
@@ -2213,7 +2213,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "4": {
+            "5": {
                 "id": 540669,
                 "home": "Frankfurt",
                 "away": "RB Leipzig",
@@ -2244,7 +2244,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "5": {
+            "6": {
                 "id": 537141,
                 "home": "Napoli",
                 "away": "Lazio",
@@ -2275,7 +2275,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "6": {
+            "7": {
                 "id": 542668,
                 "home": "Lorient",
                 "away": "Marseille",
@@ -2301,12 +2301,12 @@
                 "venue": "FC Lorient (Home)",
                 "lastUpdated": "2026-04-18T17:02:16Z",
                 "referee": "Eric Wattellier",
-                "season": 30,
+                "season": 29,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "7": {
+            "8": {
                 "id": 538112,
                 "home": "Newcastle",
                 "away": "Bournemouth",
@@ -2337,7 +2337,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "8": {
+            "9": {
                 "id": 538110,
                 "home": "Leeds United",
                 "away": "Wolverhampton",
@@ -2368,7 +2368,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "9": {
+            "10": {
                 "id": 540674,
                 "home": "Bremen",
                 "away": "HSV",
@@ -2399,7 +2399,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "10": {
+            "11": {
                 "id": 540675,
                 "home": "Leverkusen",
                 "away": "Augsburg",
@@ -2430,7 +2430,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "11": {
+            "12": {
                 "id": 540667,
                 "home": "Hoffenheim",
                 "away": "Dortmund",
@@ -2461,7 +2461,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "12": {
+            "13": {
                 "id": 540671,
                 "home": "Union Berlin",
                 "away": "Wolfsburg",
@@ -2492,7 +2492,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "13": {
+            "14": {
                 "id": 537142,
                 "home": "Udinese",
                 "away": "Parma",
@@ -2523,7 +2523,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "14": {
+            "15": {
                 "id": 538107,
                 "home": "Brentford",
                 "away": "Fulham",
@@ -2554,7 +2554,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "15": {
+            "16": {
                 "id": 537137,
                 "home": "Inter",
                 "away": "Cagliari",
@@ -2585,7 +2585,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "16": {
+            "17": {
                 "id": 542674,
                 "home": "RC Lens",
                 "away": "Toulouse",
@@ -2609,14 +2609,14 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished_yesterday",
                 "venue": "Racing Club de Lens (Home)",
-                "lastUpdated": "2026-04-18T00:21:01Z",
+                "lastUpdated": "2026-04-17T20:48:12Z",
                 "referee": "J\u00e9r\u00e9mie Pignard",
-                "season": 30,
+                "season": 29,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "17": {
+            "18": {
                 "id": 540673,
                 "home": "St. Pauli",
                 "away": "1. FC K\u00f6ln",
@@ -2650,7 +2650,7 @@
         },
         "finished_recent": [],
         "finished_older": {
-            "18": {
+            "19": {
                 "id": 537140,
                 "home": "Sassuolo",
                 "away": "Como 1907",
@@ -2685,8 +2685,8 @@
     },
     "stats": {
         "total_matches": 43,
-        "live_matches": 2,
-        "today_matches": 15,
+        "live_matches": 3,
+        "today_matches": 14,
         "tomorrow_matches": 9,
         "finished_today": 0,
         "finished_recent": 0
@@ -2703,19 +2703,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 7980.59,
-        "current_time_local": "2026-04-19 00:40:11",
+        "api_call_time_ms": 5453.33,
+        "current_time_local": "2026-04-19 00:45:09",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-04-18 19:10:11",
-    "generated_at": "2026-04-18 19:10:11 UTC",
+    "last_updated": "2026-04-18 19:15:09",
+    "generated_at": "2026-04-18 19:15:09 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 101907,
+        "file_size": 101910,
         "file_path": "matches.json"
     }
 }
