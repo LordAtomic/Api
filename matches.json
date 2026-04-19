@@ -102,7 +102,7 @@
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/65.png",
             "awayLogo": "https:\/\/crests.football-data.org\/57.png",
-            "status": "PAUSED",
+            "status": "IN_PLAY",
             "utcDate": "2026-04-19T15:30:00Z",
             "localDate": "2026-04-19 21:00:00",
             "localTime": "21:00",
@@ -118,7 +118,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Manchester City FC (Home)",
-            "lastUpdated": "2026-04-19T16:22:29Z",
+            "lastUpdated": "2026-04-19T16:38:38Z",
             "referee": "Anthony Taylor",
             "season": 33,
             "group": null,
@@ -1045,14 +1045,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "54m",
+            "timeUntilStart": "49m",
             "dayCategory": "today",
             "venue": "Borussia M\u00f6nchengladbach (Home)",
             "lastUpdated": "2026-04-19T01:32:01Z",
             "referee": "Tobias Welz",
             "season": 30,
             "group": null,
-            "minutesUntilStart": 55,
+            "minutesUntilStart": 50,
             "isRecent": false
         },
         {
@@ -1076,14 +1076,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 9m",
+            "timeUntilStart": "2h 4m",
             "dayCategory": "tomorrow",
             "venue": "Juventus FC (Home)",
             "lastUpdated": "2026-04-13T01:32:05Z",
             "referee": "Maurizio Mariani",
             "season": 33,
             "group": null,
-            "minutesUntilStart": 130,
+            "minutesUntilStart": 125,
             "isRecent": false
         },
         {
@@ -1107,14 +1107,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "2h 9m",
+            "timeUntilStart": "2h 4m",
             "dayCategory": "tomorrow",
             "venue": "Paris Saint-Germain FC (Home)",
             "lastUpdated": "2026-04-13T01:32:05Z",
             "referee": "J\u00e9r\u00f4me Brisard",
             "season": 30,
             "group": null,
-            "minutesUntilStart": 130,
+            "minutesUntilStart": 125,
             "isRecent": false
         },
         {
@@ -1145,7 +1145,7 @@
             "referee": "Fabio Maresca",
             "season": 33,
             "group": null,
-            "minutesUntilStart": 1570,
+            "minutesUntilStart": 1565,
             "isRecent": false
         },
         {
@@ -1176,7 +1176,7 @@
             "referee": "Darren England",
             "season": 33,
             "group": null,
-            "minutesUntilStart": 1585,
+            "minutesUntilStart": 1580,
             "isRecent": false
         },
         {
@@ -1207,7 +1207,7 @@
             "referee": null,
             "season": 33,
             "group": null,
-            "minutesUntilStart": 2905,
+            "minutesUntilStart": 2900,
             "isRecent": false
         },
         {
@@ -1238,7 +1238,7 @@
             "referee": null,
             "season": 33,
             "group": null,
-            "minutesUntilStart": 2905,
+            "minutesUntilStart": 2900,
             "isRecent": false
         },
         {
@@ -1269,7 +1269,7 @@
             "referee": "Craig Pawson",
             "season": 33,
             "group": null,
-            "minutesUntilStart": 3025,
+            "minutesUntilStart": 3020,
             "isRecent": false
         },
         {
@@ -1300,7 +1300,7 @@
             "referee": null,
             "season": 33,
             "group": null,
-            "minutesUntilStart": 3055,
+            "minutesUntilStart": 3050,
             "isRecent": false
         },
         {
@@ -1331,7 +1331,7 @@
             "referee": null,
             "season": 33,
             "group": null,
-            "minutesUntilStart": 3055,
+            "minutesUntilStart": 3050,
             "isRecent": false
         },
         {
@@ -1362,7 +1362,7 @@
             "referee": null,
             "season": 33,
             "group": null,
-            "minutesUntilStart": 4345,
+            "minutesUntilStart": 4340,
             "isRecent": false
         },
         {
@@ -1393,7 +1393,7 @@
             "referee": null,
             "season": 30,
             "group": null,
-            "minutesUntilStart": 4345,
+            "minutesUntilStart": 4340,
             "isRecent": false
         },
         {
@@ -1424,7 +1424,7 @@
             "referee": null,
             "season": 33,
             "group": null,
-            "minutesUntilStart": 4405,
+            "minutesUntilStart": 4400,
             "isRecent": false
         },
         {
@@ -1455,7 +1455,7 @@
             "referee": "Michael Salisbury",
             "season": 33,
             "group": null,
-            "minutesUntilStart": 4465,
+            "minutesUntilStart": 4460,
             "isRecent": false
         },
         {
@@ -1486,7 +1486,7 @@
             "referee": "Andy Madley",
             "season": 33,
             "group": null,
-            "minutesUntilStart": 4465,
+            "minutesUntilStart": 4460,
             "isRecent": false
         },
         {
@@ -1517,7 +1517,7 @@
             "referee": null,
             "season": 33,
             "group": null,
-            "minutesUntilStart": 4495,
+            "minutesUntilStart": 4490,
             "isRecent": false
         }
     ],
@@ -1624,7 +1624,7 @@
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/65.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/57.png",
-                "status": "PAUSED",
+                "status": "IN_PLAY",
                 "utcDate": "2026-04-19T15:30:00Z",
                 "localDate": "2026-04-19 21:00:00",
                 "localTime": "21:00",
@@ -1640,7 +1640,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Manchester City FC (Home)",
-                "lastUpdated": "2026-04-19T16:22:29Z",
+                "lastUpdated": "2026-04-19T16:38:38Z",
                 "referee": "Anthony Taylor",
                 "season": 33,
                 "group": null,
@@ -2044,14 +2044,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "54m",
+                "timeUntilStart": "49m",
                 "dayCategory": "today",
                 "venue": "Borussia M\u00f6nchengladbach (Home)",
                 "lastUpdated": "2026-04-19T01:32:01Z",
                 "referee": "Tobias Welz",
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 55,
+                "minutesUntilStart": 50,
                 "isRecent": false
             }
         },
@@ -2077,14 +2077,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 9m",
+                "timeUntilStart": "2h 4m",
                 "dayCategory": "tomorrow",
                 "venue": "Juventus FC (Home)",
                 "lastUpdated": "2026-04-13T01:32:05Z",
                 "referee": "Maurizio Mariani",
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 130,
+                "minutesUntilStart": 125,
                 "isRecent": false
             },
             "35": {
@@ -2108,14 +2108,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "2h 9m",
+                "timeUntilStart": "2h 4m",
                 "dayCategory": "tomorrow",
                 "venue": "Paris Saint-Germain FC (Home)",
                 "lastUpdated": "2026-04-13T01:32:05Z",
                 "referee": "J\u00e9r\u00f4me Brisard",
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 130,
+                "minutesUntilStart": 125,
                 "isRecent": false
             },
             "36": {
@@ -2146,7 +2146,7 @@
                 "referee": "Fabio Maresca",
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 1570,
+                "minutesUntilStart": 1565,
                 "isRecent": false
             },
             "37": {
@@ -2177,7 +2177,7 @@
                 "referee": "Darren England",
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 1585,
+                "minutesUntilStart": 1580,
                 "isRecent": false
             },
             "38": {
@@ -2208,7 +2208,7 @@
                 "referee": null,
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 2905,
+                "minutesUntilStart": 2900,
                 "isRecent": false
             },
             "39": {
@@ -2239,7 +2239,7 @@
                 "referee": null,
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 2905,
+                "minutesUntilStart": 2900,
                 "isRecent": false
             },
             "40": {
@@ -2270,7 +2270,7 @@
                 "referee": "Craig Pawson",
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 3025,
+                "minutesUntilStart": 3020,
                 "isRecent": false
             },
             "41": {
@@ -2301,7 +2301,7 @@
                 "referee": null,
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 3055,
+                "minutesUntilStart": 3050,
                 "isRecent": false
             },
             "42": {
@@ -2332,7 +2332,7 @@
                 "referee": null,
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 3055,
+                "minutesUntilStart": 3050,
                 "isRecent": false
             },
             "43": {
@@ -2363,7 +2363,7 @@
                 "referee": null,
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 4345,
+                "minutesUntilStart": 4340,
                 "isRecent": false
             },
             "44": {
@@ -2394,7 +2394,7 @@
                 "referee": null,
                 "season": 30,
                 "group": null,
-                "minutesUntilStart": 4345,
+                "minutesUntilStart": 4340,
                 "isRecent": false
             },
             "45": {
@@ -2425,7 +2425,7 @@
                 "referee": null,
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 4405,
+                "minutesUntilStart": 4400,
                 "isRecent": false
             },
             "46": {
@@ -2456,7 +2456,7 @@
                 "referee": "Michael Salisbury",
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 4465,
+                "minutesUntilStart": 4460,
                 "isRecent": false
             },
             "47": {
@@ -2487,7 +2487,7 @@
                 "referee": "Andy Madley",
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 4465,
+                "minutesUntilStart": 4460,
                 "isRecent": false
             },
             "48": {
@@ -2518,7 +2518,7 @@
                 "referee": null,
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 4495,
+                "minutesUntilStart": 4490,
                 "isRecent": false
             }
         },
@@ -3076,19 +3076,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 4328.11,
-        "current_time_local": "2026-04-19 22:05:10",
+        "api_call_time_ms": 7123.4,
+        "current_time_local": "2026-04-19 22:10:13",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-04-19 16:35:10",
-    "generated_at": "2026-04-19 16:35:10 UTC",
+    "last_updated": "2026-04-19 16:40:13",
+    "generated_at": "2026-04-19 16:40:13 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 116000,
+        "file_size": 116001,
         "file_path": "matches.json"
     }
 }
