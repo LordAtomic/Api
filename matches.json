@@ -2,68 +2,6 @@
     "success": true,
     "matches": [
         {
-            "id": 542699,
-            "home": "PSG",
-            "away": "Brest",
-            "homeScore": 1,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/524.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/512.png",
-            "status": "IN_PLAY",
-            "utcDate": "2026-05-10T19:00:00Z",
-            "localDate": "2026-05-11 00:30:00",
-            "localTime": "00:30",
-            "matchday": 33,
-            "competition": "Ligue 1",
-            "competitionCode": "FL1",
-            "isLive": true,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "live",
-            "venue": "Paris Saint-Germain FC (Home)",
-            "lastUpdated": "2026-05-10T20:53:03Z",
-            "referee": "J\u00e9r\u00f4me Brisard",
-            "season": 33,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
-            "id": 542701,
-            "home": "Angers SCO",
-            "away": "Strasbourg",
-            "homeScore": 1,
-            "awayScore": 1,
-            "homeLogo": "https:\/\/crests.football-data.org\/532.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/576.png",
-            "status": "IN_PLAY",
-            "utcDate": "2026-05-10T19:00:00Z",
-            "localDate": "2026-05-11 00:30:00",
-            "localTime": "00:30",
-            "matchday": 33,
-            "competition": "Ligue 1",
-            "competitionCode": "FL1",
-            "isLive": true,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "live",
-            "venue": "Angers SCO (Home)",
-            "lastUpdated": "2026-05-10T20:37:43Z",
-            "referee": "Hakim Ben El Hadj Salem",
-            "season": 33,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 544553,
             "home": "Bar\u00e7a",
             "away": "Real Madrid",
@@ -244,6 +182,68 @@
             "venue": "Toulouse FC (Home)",
             "lastUpdated": "2026-05-10T21:03:58Z",
             "referee": "Bastien Dechepy",
+            "season": 33,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": true
+        },
+        {
+            "id": 542699,
+            "home": "PSG",
+            "away": "Brest",
+            "homeScore": 1,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/524.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/512.png",
+            "status": "FINISHED",
+            "utcDate": "2026-05-10T19:00:00Z",
+            "localDate": "2026-05-11 00:30:00",
+            "localTime": "00:30",
+            "matchday": 33,
+            "competition": "Ligue 1",
+            "competitionCode": "FL1",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_today",
+            "venue": "Paris Saint-Germain FC (Home)",
+            "lastUpdated": "2026-05-10T21:08:28Z",
+            "referee": "J\u00e9r\u00f4me Brisard",
+            "season": 33,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": true
+        },
+        {
+            "id": 542701,
+            "home": "Angers SCO",
+            "away": "Strasbourg",
+            "homeScore": 1,
+            "awayScore": 1,
+            "homeLogo": "https:\/\/crests.football-data.org\/532.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/576.png",
+            "status": "FINISHED",
+            "utcDate": "2026-05-10T19:00:00Z",
+            "localDate": "2026-05-11 00:30:00",
+            "localTime": "00:30",
+            "matchday": 33,
+            "competition": "Ligue 1",
+            "competitionCode": "FL1",
+            "isLive": false,
+            "isFinished": true,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "finished_today",
+            "venue": "Angers SCO (Home)",
+            "lastUpdated": "2026-05-10T21:09:48Z",
+            "referee": "Hakim Ben El Hadj Salem",
             "season": 33,
             "group": null,
             "minutesUntilStart": null,
@@ -490,7 +490,7 @@
             "timeUntilStart": null,
             "dayCategory": "finished_yesterday",
             "venue": "Athletic Club (Home)",
-            "lastUpdated": "2026-05-10T16:21:12Z",
+            "lastUpdated": "2026-05-10T16:21:13Z",
             "referee": "Miguel Ortiz Arias",
             "season": 35,
             "group": null,
@@ -893,7 +893,7 @@
             "timeUntilStart": null,
             "dayCategory": "finished",
             "venue": "VfL Wolfsburg (Home)",
-            "lastUpdated": "2026-05-10T00:21:09Z",
+            "lastUpdated": "2026-05-10T05:21:15Z",
             "referee": "Matthias J\u00f6llenbeck",
             "season": 33,
             "group": null,
@@ -1079,7 +1079,7 @@
             "timeUntilStart": null,
             "dayCategory": "finished",
             "venue": "VfB Stuttgart (Home)",
-            "lastUpdated": "2026-05-10T00:21:09Z",
+            "lastUpdated": "2026-05-10T05:21:15Z",
             "referee": "Robert Schr\u00f6der",
             "season": 33,
             "group": null,
@@ -1110,7 +1110,7 @@
             "timeUntilStart": null,
             "dayCategory": "finished",
             "venue": "TSG 1899 Hoffenheim (Home)",
-            "lastUpdated": "2026-05-10T00:21:09Z",
+            "lastUpdated": "2026-05-10T05:21:15Z",
             "referee": "S\u00f6ren Storks",
             "season": 33,
             "group": null,
@@ -1141,7 +1141,7 @@
             "timeUntilStart": null,
             "dayCategory": "finished",
             "venue": "FC Augsburg (Home)",
-            "lastUpdated": "2026-05-10T00:21:09Z",
+            "lastUpdated": "2026-05-10T05:21:15Z",
             "referee": "Tobias Reichel",
             "season": 33,
             "group": null,
@@ -1172,7 +1172,7 @@
             "timeUntilStart": null,
             "dayCategory": "finished",
             "venue": "RB Leipzig (Home)",
-            "lastUpdated": "2026-05-10T00:21:09Z",
+            "lastUpdated": "2026-05-10T05:21:15Z",
             "referee": "Benjamin Brand",
             "season": 33,
             "group": null,
@@ -1358,7 +1358,7 @@
             "timeUntilStart": null,
             "dayCategory": "finished",
             "venue": "Racing Club de Lens (Home)",
-            "lastUpdated": "2026-05-10T00:21:10Z",
+            "lastUpdated": "2026-05-10T05:21:16Z",
             "referee": "Mathieu Vernice",
             "season": 33,
             "group": null,
@@ -1389,7 +1389,7 @@
             "timeUntilStart": null,
             "dayCategory": "finished",
             "venue": "Borussia Dortmund (Home)",
-            "lastUpdated": "2026-05-10T00:21:09Z",
+            "lastUpdated": "2026-05-10T05:21:15Z",
             "referee": "Patrick Ittrich",
             "season": 33,
             "group": null,
@@ -1417,14 +1417,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 39m",
+            "timeUntilStart": "21h 34m",
             "dayCategory": "tomorrow",
             "venue": "SSC Napoli (Home)",
             "lastUpdated": "2026-05-10T01:32:01Z",
             "referee": "Marco Piccinini",
             "season": 36,
             "group": null,
-            "minutesUntilStart": 1300,
+            "minutesUntilStart": 1295,
             "isRecent": false
         },
         {
@@ -1448,14 +1448,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 54m",
+            "timeUntilStart": "21h 49m",
             "dayCategory": "tomorrow",
             "venue": "Tottenham Hotspur FC (Home)",
             "lastUpdated": "2026-05-10T00:21:11Z",
             "referee": "Jarred Gillett",
             "season": 36,
             "group": null,
-            "minutesUntilStart": 1315,
+            "minutesUntilStart": 1310,
             "isRecent": false
         },
         {
@@ -1479,14 +1479,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 54m",
+            "timeUntilStart": "21h 49m",
             "dayCategory": "tomorrow",
             "venue": "Rayo Vallecano de Madrid (Home)",
             "lastUpdated": "2026-05-10T01:32:01Z",
             "referee": null,
             "season": 35,
             "group": null,
-            "minutesUntilStart": 1315,
+            "minutesUntilStart": 1310,
             "isRecent": false
         },
         {
@@ -1517,7 +1517,7 @@
             "referee": null,
             "season": 35,
             "group": null,
-            "minutesUntilStart": 2635,
+            "minutesUntilStart": 2630,
             "isRecent": false
         },
         {
@@ -1548,7 +1548,7 @@
             "referee": null,
             "season": 35,
             "group": null,
-            "minutesUntilStart": 2695,
+            "minutesUntilStart": 2690,
             "isRecent": false
         },
         {
@@ -1579,7 +1579,7 @@
             "referee": null,
             "season": 35,
             "group": null,
-            "minutesUntilStart": 2785,
+            "minutesUntilStart": 2780,
             "isRecent": false
         },
         {
@@ -1610,7 +1610,7 @@
             "referee": null,
             "season": 35,
             "group": null,
-            "minutesUntilStart": 4075,
+            "minutesUntilStart": 4070,
             "isRecent": false
         },
         {
@@ -1641,7 +1641,7 @@
             "referee": null,
             "season": 35,
             "group": null,
-            "minutesUntilStart": 4075,
+            "minutesUntilStart": 4070,
             "isRecent": false
         },
         {
@@ -1672,7 +1672,7 @@
             "referee": null,
             "season": 33,
             "group": null,
-            "minutesUntilStart": 4075,
+            "minutesUntilStart": 4070,
             "isRecent": false
         },
         {
@@ -1703,7 +1703,7 @@
             "referee": "Stuart Attwell",
             "season": 36,
             "group": null,
-            "minutesUntilStart": 4195,
+            "minutesUntilStart": 4190,
             "isRecent": false
         },
         {
@@ -1734,7 +1734,7 @@
             "referee": null,
             "season": 33,
             "group": null,
-            "minutesUntilStart": 4195,
+            "minutesUntilStart": 4190,
             "isRecent": false
         },
         {
@@ -1765,7 +1765,7 @@
             "referee": null,
             "season": 35,
             "group": null,
-            "minutesUntilStart": 4225,
+            "minutesUntilStart": 4220,
             "isRecent": false
         },
         {
@@ -1796,77 +1796,14 @@
             "referee": null,
             "season": 35,
             "group": null,
-            "minutesUntilStart": 4225,
+            "minutesUntilStart": 4220,
             "isRecent": false
         }
     ],
     "grouped_matches": {
-        "live": [
+        "live": [],
+        "finished_today": [
             {
-                "id": 542699,
-                "home": "PSG",
-                "away": "Brest",
-                "homeScore": 1,
-                "awayScore": 0,
-                "homeLogo": "https:\/\/crests.football-data.org\/524.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/512.png",
-                "status": "IN_PLAY",
-                "utcDate": "2026-05-10T19:00:00Z",
-                "localDate": "2026-05-11 00:30:00",
-                "localTime": "00:30",
-                "matchday": 33,
-                "competition": "Ligue 1",
-                "competitionCode": "FL1",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "Paris Saint-Germain FC (Home)",
-                "lastUpdated": "2026-05-10T20:53:03Z",
-                "referee": "J\u00e9r\u00f4me Brisard",
-                "season": 33,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
-            {
-                "id": 542701,
-                "home": "Angers SCO",
-                "away": "Strasbourg",
-                "homeScore": 1,
-                "awayScore": 1,
-                "homeLogo": "https:\/\/crests.football-data.org\/532.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/576.png",
-                "status": "IN_PLAY",
-                "utcDate": "2026-05-10T19:00:00Z",
-                "localDate": "2026-05-11 00:30:00",
-                "localTime": "00:30",
-                "matchday": 33,
-                "competition": "Ligue 1",
-                "competitionCode": "FL1",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "Angers SCO (Home)",
-                "lastUpdated": "2026-05-10T20:37:43Z",
-                "referee": "Hakim Ben El Hadj Salem",
-                "season": 33,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
-        "finished_today": {
-            "2": {
                 "id": 544553,
                 "home": "Bar\u00e7a",
                 "away": "Real Madrid",
@@ -1897,7 +1834,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "3": {
+            {
                 "id": 542694,
                 "home": "Le Havre",
                 "away": "Marseille",
@@ -1928,7 +1865,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "4": {
+            {
                 "id": 542695,
                 "home": "Auxerre",
                 "away": "Nice",
@@ -1959,7 +1896,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "5": {
+            {
                 "id": 542696,
                 "home": "Monaco",
                 "away": "Lille",
@@ -1990,7 +1927,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "6": {
+            {
                 "id": 542697,
                 "home": "FC Metz",
                 "away": "Lorient",
@@ -2021,7 +1958,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "7": {
+            {
                 "id": 542698,
                 "home": "Toulouse",
                 "away": "Olympique Lyon",
@@ -2052,7 +1989,69 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "8": {
+            {
+                "id": 542699,
+                "home": "PSG",
+                "away": "Brest",
+                "homeScore": 1,
+                "awayScore": 0,
+                "homeLogo": "https:\/\/crests.football-data.org\/524.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/512.png",
+                "status": "FINISHED",
+                "utcDate": "2026-05-10T19:00:00Z",
+                "localDate": "2026-05-11 00:30:00",
+                "localTime": "00:30",
+                "matchday": 33,
+                "competition": "Ligue 1",
+                "competitionCode": "FL1",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": false,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_today",
+                "venue": "Paris Saint-Germain FC (Home)",
+                "lastUpdated": "2026-05-10T21:08:28Z",
+                "referee": "J\u00e9r\u00f4me Brisard",
+                "season": 33,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": true
+            },
+            {
+                "id": 542701,
+                "home": "Angers SCO",
+                "away": "Strasbourg",
+                "homeScore": 1,
+                "awayScore": 1,
+                "homeLogo": "https:\/\/crests.football-data.org\/532.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/576.png",
+                "status": "FINISHED",
+                "utcDate": "2026-05-10T19:00:00Z",
+                "localDate": "2026-05-11 00:30:00",
+                "localTime": "00:30",
+                "matchday": 33,
+                "competition": "Ligue 1",
+                "competitionCode": "FL1",
+                "isLive": false,
+                "isFinished": true,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": false,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "finished_today",
+                "venue": "Angers SCO (Home)",
+                "lastUpdated": "2026-05-10T21:09:48Z",
+                "referee": "Hakim Ben El Hadj Salem",
+                "season": 33,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": true
+            },
+            {
                 "id": 542702,
                 "home": "Stade Rennais",
                 "away": "Paris FC",
@@ -2083,7 +2082,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "9": {
+            {
                 "id": 537166,
                 "home": "Milan",
                 "away": "Atalanta",
@@ -2114,7 +2113,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             }
-        },
+        ],
         "today": [],
         "tomorrow": {
             "45": {
@@ -2138,14 +2137,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 39m",
+                "timeUntilStart": "21h 34m",
                 "dayCategory": "tomorrow",
                 "venue": "SSC Napoli (Home)",
                 "lastUpdated": "2026-05-10T01:32:01Z",
                 "referee": "Marco Piccinini",
                 "season": 36,
                 "group": null,
-                "minutesUntilStart": 1300,
+                "minutesUntilStart": 1295,
                 "isRecent": false
             },
             "46": {
@@ -2169,14 +2168,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 54m",
+                "timeUntilStart": "21h 49m",
                 "dayCategory": "tomorrow",
                 "venue": "Tottenham Hotspur FC (Home)",
                 "lastUpdated": "2026-05-10T00:21:11Z",
                 "referee": "Jarred Gillett",
                 "season": 36,
                 "group": null,
-                "minutesUntilStart": 1315,
+                "minutesUntilStart": 1310,
                 "isRecent": false
             },
             "47": {
@@ -2200,14 +2199,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 54m",
+                "timeUntilStart": "21h 49m",
                 "dayCategory": "tomorrow",
                 "venue": "Rayo Vallecano de Madrid (Home)",
                 "lastUpdated": "2026-05-10T01:32:01Z",
                 "referee": null,
                 "season": 35,
                 "group": null,
-                "minutesUntilStart": 1315,
+                "minutesUntilStart": 1310,
                 "isRecent": false
             },
             "48": {
@@ -2238,7 +2237,7 @@
                 "referee": null,
                 "season": 35,
                 "group": null,
-                "minutesUntilStart": 2635,
+                "minutesUntilStart": 2630,
                 "isRecent": false
             },
             "49": {
@@ -2269,7 +2268,7 @@
                 "referee": null,
                 "season": 35,
                 "group": null,
-                "minutesUntilStart": 2695,
+                "minutesUntilStart": 2690,
                 "isRecent": false
             },
             "50": {
@@ -2300,7 +2299,7 @@
                 "referee": null,
                 "season": 35,
                 "group": null,
-                "minutesUntilStart": 2785,
+                "minutesUntilStart": 2780,
                 "isRecent": false
             },
             "51": {
@@ -2331,7 +2330,7 @@
                 "referee": null,
                 "season": 35,
                 "group": null,
-                "minutesUntilStart": 4075,
+                "minutesUntilStart": 4070,
                 "isRecent": false
             },
             "52": {
@@ -2362,7 +2361,7 @@
                 "referee": null,
                 "season": 35,
                 "group": null,
-                "minutesUntilStart": 4075,
+                "minutesUntilStart": 4070,
                 "isRecent": false
             },
             "53": {
@@ -2393,7 +2392,7 @@
                 "referee": null,
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 4075,
+                "minutesUntilStart": 4070,
                 "isRecent": false
             },
             "54": {
@@ -2424,7 +2423,7 @@
                 "referee": "Stuart Attwell",
                 "season": 36,
                 "group": null,
-                "minutesUntilStart": 4195,
+                "minutesUntilStart": 4190,
                 "isRecent": false
             },
             "55": {
@@ -2455,7 +2454,7 @@
                 "referee": null,
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 4195,
+                "minutesUntilStart": 4190,
                 "isRecent": false
             },
             "56": {
@@ -2486,7 +2485,7 @@
                 "referee": null,
                 "season": 35,
                 "group": null,
-                "minutesUntilStart": 4225,
+                "minutesUntilStart": 4220,
                 "isRecent": false
             },
             "57": {
@@ -2517,7 +2516,7 @@
                 "referee": null,
                 "season": 35,
                 "group": null,
-                "minutesUntilStart": 4225,
+                "minutesUntilStart": 4220,
                 "isRecent": false
             }
         },
@@ -2702,7 +2701,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished_yesterday",
                 "venue": "Athletic Club (Home)",
-                "lastUpdated": "2026-05-10T16:21:12Z",
+                "lastUpdated": "2026-05-10T16:21:13Z",
                 "referee": "Miguel Ortiz Arias",
                 "season": 35,
                 "group": null,
@@ -3108,7 +3107,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished",
                 "venue": "VfL Wolfsburg (Home)",
-                "lastUpdated": "2026-05-10T00:21:09Z",
+                "lastUpdated": "2026-05-10T05:21:15Z",
                 "referee": "Matthias J\u00f6llenbeck",
                 "season": 33,
                 "group": null,
@@ -3294,7 +3293,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished",
                 "venue": "VfB Stuttgart (Home)",
-                "lastUpdated": "2026-05-10T00:21:09Z",
+                "lastUpdated": "2026-05-10T05:21:15Z",
                 "referee": "Robert Schr\u00f6der",
                 "season": 33,
                 "group": null,
@@ -3325,7 +3324,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished",
                 "venue": "TSG 1899 Hoffenheim (Home)",
-                "lastUpdated": "2026-05-10T00:21:09Z",
+                "lastUpdated": "2026-05-10T05:21:15Z",
                 "referee": "S\u00f6ren Storks",
                 "season": 33,
                 "group": null,
@@ -3356,7 +3355,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished",
                 "venue": "FC Augsburg (Home)",
-                "lastUpdated": "2026-05-10T00:21:09Z",
+                "lastUpdated": "2026-05-10T05:21:15Z",
                 "referee": "Tobias Reichel",
                 "season": 33,
                 "group": null,
@@ -3387,7 +3386,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished",
                 "venue": "RB Leipzig (Home)",
-                "lastUpdated": "2026-05-10T00:21:09Z",
+                "lastUpdated": "2026-05-10T05:21:15Z",
                 "referee": "Benjamin Brand",
                 "season": 33,
                 "group": null,
@@ -3573,7 +3572,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished",
                 "venue": "Racing Club de Lens (Home)",
-                "lastUpdated": "2026-05-10T00:21:10Z",
+                "lastUpdated": "2026-05-10T05:21:16Z",
                 "referee": "Mathieu Vernice",
                 "season": 33,
                 "group": null,
@@ -3604,7 +3603,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished",
                 "venue": "Borussia Dortmund (Home)",
-                "lastUpdated": "2026-05-10T00:21:09Z",
+                "lastUpdated": "2026-05-10T05:21:15Z",
                 "referee": "Patrick Ittrich",
                 "season": 33,
                 "group": null,
@@ -3615,10 +3614,10 @@
     },
     "stats": {
         "total_matches": 58,
-        "live_matches": 2,
+        "live_matches": 0,
         "today_matches": 0,
         "tomorrow_matches": 13,
-        "finished_today": 8,
+        "finished_today": 10,
         "finished_recent": 0
     },
     "query_info": {
@@ -3633,19 +3632,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 4307.96,
-        "current_time_local": "2026-05-11 02:35:09",
+        "api_call_time_ms": 5956.34,
+        "current_time_local": "2026-05-11 02:40:12",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-05-10 21:05:09",
-    "generated_at": "2026-05-10 21:05:09 UTC",
+    "last_updated": "2026-05-10 21:10:12",
+    "generated_at": "2026-05-10 21:10:12 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 137201,
+        "file_size": 137194,
         "file_path": "matches.json"
     }
 }
