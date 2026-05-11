@@ -9,28 +9,28 @@
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/73.png",
             "awayLogo": "https:\/\/crests.football-data.org\/341.png",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "utcDate": "2026-05-11T19:00:00Z",
             "localDate": "2026-05-12 00:30:00",
             "localTime": "00:30",
             "matchday": 36,
             "competition": "Premier League",
             "competitionCode": "PL",
-            "isLive": true,
-            "isFinished": false,
+            "isLive": false,
+            "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "live",
+            "dayCategory": "finished_today",
             "venue": "Tottenham Hotspur FC (Home)",
-            "lastUpdated": "2026-05-11T20:40:20Z",
+            "lastUpdated": "2026-05-11T21:11:50Z",
             "referee": "Jarred Gillett",
             "season": 36,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
+            "isRecent": true
         },
         {
             "id": 544560,
@@ -1386,14 +1386,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "19h 49m",
+            "timeUntilStart": "19h 44m",
             "dayCategory": "today",
             "venue": "RC Celta de Vigo (Home)",
             "lastUpdated": "2026-05-06T01:32:02Z",
             "referee": null,
             "season": 35,
             "group": null,
-            "minutesUntilStart": 1190,
+            "minutesUntilStart": 1185,
             "isRecent": false
         },
         {
@@ -1417,14 +1417,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "20h 49m",
+            "timeUntilStart": "20h 44m",
             "dayCategory": "today",
             "venue": "Real Betis Balompi\u00e9 (Home)",
             "lastUpdated": "2026-05-11T01:32:00Z",
             "referee": null,
             "season": 35,
             "group": null,
-            "minutesUntilStart": 1250,
+            "minutesUntilStart": 1245,
             "isRecent": false
         },
         {
@@ -1448,14 +1448,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "22h 19m",
+            "timeUntilStart": "22h 14m",
             "dayCategory": "tomorrow",
             "venue": "CA Osasuna (Home)",
             "lastUpdated": "2026-05-06T01:32:02Z",
             "referee": null,
             "season": 35,
             "group": null,
-            "minutesUntilStart": 1340,
+            "minutesUntilStart": 1335,
             "isRecent": false
         },
         {
@@ -1486,7 +1486,7 @@
             "referee": null,
             "season": 35,
             "group": null,
-            "minutesUntilStart": 2630,
+            "minutesUntilStart": 2625,
             "isRecent": false
         },
         {
@@ -1517,7 +1517,7 @@
             "referee": null,
             "season": 35,
             "group": null,
-            "minutesUntilStart": 2630,
+            "minutesUntilStart": 2625,
             "isRecent": false
         },
         {
@@ -1548,7 +1548,7 @@
             "referee": null,
             "season": 33,
             "group": null,
-            "minutesUntilStart": 2630,
+            "minutesUntilStart": 2625,
             "isRecent": false
         },
         {
@@ -1579,7 +1579,7 @@
             "referee": "Stuart Attwell",
             "season": 36,
             "group": null,
-            "minutesUntilStart": 2750,
+            "minutesUntilStart": 2745,
             "isRecent": false
         },
         {
@@ -1610,7 +1610,7 @@
             "referee": null,
             "season": 33,
             "group": null,
-            "minutesUntilStart": 2750,
+            "minutesUntilStart": 2745,
             "isRecent": false
         },
         {
@@ -1641,7 +1641,7 @@
             "referee": null,
             "season": 35,
             "group": null,
-            "minutesUntilStart": 2780,
+            "minutesUntilStart": 2775,
             "isRecent": false
         },
         {
@@ -1672,7 +1672,7 @@
             "referee": null,
             "season": 35,
             "group": null,
-            "minutesUntilStart": 2780,
+            "minutesUntilStart": 2775,
             "isRecent": false
         },
         {
@@ -1703,7 +1703,7 @@
             "referee": null,
             "season": 35,
             "group": null,
-            "minutesUntilStart": 4070,
+            "minutesUntilStart": 4065,
             "isRecent": false
         },
         {
@@ -1734,7 +1734,7 @@
             "referee": null,
             "season": 35,
             "group": null,
-            "minutesUntilStart": 4130,
+            "minutesUntilStart": 4125,
             "isRecent": false
         },
         {
@@ -1765,12 +1765,13 @@
             "referee": null,
             "season": 35,
             "group": null,
-            "minutesUntilStart": 4220,
+            "minutesUntilStart": 4215,
             "isRecent": false
         }
     ],
     "grouped_matches": {
-        "live": [
+        "live": [],
+        "finished_today": [
             {
                 "id": 538143,
                 "home": "Tottenham",
@@ -1779,32 +1780,30 @@
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/73.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/341.png",
-                "status": "IN_PLAY",
+                "status": "FINISHED",
                 "utcDate": "2026-05-11T19:00:00Z",
                 "localDate": "2026-05-12 00:30:00",
                 "localTime": "00:30",
                 "matchday": 36,
                 "competition": "Premier League",
                 "competitionCode": "PL",
-                "isLive": true,
-                "isFinished": false,
+                "isLive": false,
+                "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "live",
+                "dayCategory": "finished_today",
                 "venue": "Tottenham Hotspur FC (Home)",
-                "lastUpdated": "2026-05-11T20:40:20Z",
+                "lastUpdated": "2026-05-11T21:11:50Z",
                 "referee": "Jarred Gillett",
                 "season": 36,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
-        "finished_today": {
-            "1": {
+                "isRecent": true
+            },
+            {
                 "id": 544560,
                 "home": "Rayo Vallecano",
                 "away": "Girona",
@@ -1835,7 +1834,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "2": {
+            {
                 "id": 537172,
                 "home": "Napoli",
                 "away": "Bologna",
@@ -1866,7 +1865,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             }
-        },
+        ],
         "today": {
             "44": {
                 "id": 544563,
@@ -1889,14 +1888,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "19h 49m",
+                "timeUntilStart": "19h 44m",
                 "dayCategory": "today",
                 "venue": "RC Celta de Vigo (Home)",
                 "lastUpdated": "2026-05-06T01:32:02Z",
                 "referee": null,
                 "season": 35,
                 "group": null,
-                "minutesUntilStart": 1190,
+                "minutesUntilStart": 1185,
                 "isRecent": false
             },
             "45": {
@@ -1920,14 +1919,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "20h 49m",
+                "timeUntilStart": "20h 44m",
                 "dayCategory": "today",
                 "venue": "Real Betis Balompi\u00e9 (Home)",
                 "lastUpdated": "2026-05-11T01:32:00Z",
                 "referee": null,
                 "season": 35,
                 "group": null,
-                "minutesUntilStart": 1250,
+                "minutesUntilStart": 1245,
                 "isRecent": false
             }
         },
@@ -1953,14 +1952,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "22h 19m",
+                "timeUntilStart": "22h 14m",
                 "dayCategory": "tomorrow",
                 "venue": "CA Osasuna (Home)",
                 "lastUpdated": "2026-05-06T01:32:02Z",
                 "referee": null,
                 "season": 35,
                 "group": null,
-                "minutesUntilStart": 1340,
+                "minutesUntilStart": 1335,
                 "isRecent": false
             },
             "47": {
@@ -1991,7 +1990,7 @@
                 "referee": null,
                 "season": 35,
                 "group": null,
-                "minutesUntilStart": 2630,
+                "minutesUntilStart": 2625,
                 "isRecent": false
             },
             "48": {
@@ -2022,7 +2021,7 @@
                 "referee": null,
                 "season": 35,
                 "group": null,
-                "minutesUntilStart": 2630,
+                "minutesUntilStart": 2625,
                 "isRecent": false
             },
             "49": {
@@ -2053,7 +2052,7 @@
                 "referee": null,
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 2630,
+                "minutesUntilStart": 2625,
                 "isRecent": false
             },
             "50": {
@@ -2084,7 +2083,7 @@
                 "referee": "Stuart Attwell",
                 "season": 36,
                 "group": null,
-                "minutesUntilStart": 2750,
+                "minutesUntilStart": 2745,
                 "isRecent": false
             },
             "51": {
@@ -2115,7 +2114,7 @@
                 "referee": null,
                 "season": 33,
                 "group": null,
-                "minutesUntilStart": 2750,
+                "minutesUntilStart": 2745,
                 "isRecent": false
             },
             "52": {
@@ -2146,7 +2145,7 @@
                 "referee": null,
                 "season": 35,
                 "group": null,
-                "minutesUntilStart": 2780,
+                "minutesUntilStart": 2775,
                 "isRecent": false
             },
             "53": {
@@ -2177,7 +2176,7 @@
                 "referee": null,
                 "season": 35,
                 "group": null,
-                "minutesUntilStart": 2780,
+                "minutesUntilStart": 2775,
                 "isRecent": false
             },
             "54": {
@@ -2208,7 +2207,7 @@
                 "referee": null,
                 "season": 35,
                 "group": null,
-                "minutesUntilStart": 4070,
+                "minutesUntilStart": 4065,
                 "isRecent": false
             },
             "55": {
@@ -2239,7 +2238,7 @@
                 "referee": null,
                 "season": 35,
                 "group": null,
-                "minutesUntilStart": 4130,
+                "minutesUntilStart": 4125,
                 "isRecent": false
             },
             "56": {
@@ -2270,7 +2269,7 @@
                 "referee": null,
                 "season": 35,
                 "group": null,
-                "minutesUntilStart": 4220,
+                "minutesUntilStart": 4215,
                 "isRecent": false
             }
         },
@@ -3554,10 +3553,10 @@
     },
     "stats": {
         "total_matches": 57,
-        "live_matches": 1,
+        "live_matches": 0,
         "today_matches": 2,
         "tomorrow_matches": 11,
-        "finished_today": 2,
+        "finished_today": 3,
         "finished_recent": 0
     },
     "query_info": {
@@ -3572,19 +3571,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 5017.36,
-        "current_time_local": "2026-05-12 02:40:10",
+        "api_call_time_ms": 3555.61,
+        "current_time_local": "2026-05-12 02:45:07",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-05-11 21:10:10",
-    "generated_at": "2026-05-11 21:10:10 UTC",
+    "last_updated": "2026-05-11 21:15:07",
+    "generated_at": "2026-05-11 21:15:07 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 134756,
+        "file_size": 134758,
         "file_path": "matches.json"
     }
 }
