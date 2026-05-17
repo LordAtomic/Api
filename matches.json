@@ -25,7 +25,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "FC Nantes (Home)",
-            "lastUpdated": "2026-05-17T21:15:02Z",
+            "lastUpdated": "2026-05-17T19:05:57Z",
             "referee": "St\u00e9phanie Frappart",
             "season": 33,
             "group": null,
@@ -40,28 +40,28 @@
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/81.png",
             "awayLogo": "https:\/\/crests.football-data.org\/90.png",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "utcDate": "2026-05-17T19:15:00Z",
             "localDate": "2026-05-18 00:45:00",
             "localTime": "00:45",
             "matchday": 37,
             "competition": "Primera Division",
             "competitionCode": "PD",
-            "isLive": true,
-            "isFinished": false,
+            "isLive": false,
+            "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "live",
+            "dayCategory": "finished_today",
             "venue": "FC Barcelona (Home)",
-            "lastUpdated": "2026-05-17T21:14:42Z",
+            "lastUpdated": "2026-05-17T21:17:26Z",
             "referee": "Guillermo Cuadra Fern\u00e1ndez",
             "season": 37,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
+            "isRecent": true
         },
         {
             "id": 542703,
@@ -1417,14 +1417,14 @@
             "isTomorrow": true,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "21h 44m",
+            "timeUntilStart": "21h 39m",
             "dayCategory": "tomorrow",
             "venue": "Arsenal FC (Home)",
             "lastUpdated": "2026-05-12T01:32:02Z",
             "referee": "Paul Tierney",
             "season": 37,
             "group": null,
-            "minutesUntilStart": 1305,
+            "minutesUntilStart": 1300,
             "isRecent": false
         },
         {
@@ -1455,7 +1455,7 @@
             "referee": "Anthony Taylor",
             "season": 37,
             "group": null,
-            "minutesUntilStart": 2715,
+            "minutesUntilStart": 2710,
             "isRecent": false
         },
         {
@@ -1486,7 +1486,7 @@
             "referee": "Stuart Attwell",
             "season": 37,
             "group": null,
-            "minutesUntilStart": 2760,
+            "minutesUntilStart": 2755,
             "isRecent": false
         }
     ],
@@ -1516,14 +1516,16 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "FC Nantes (Home)",
-                "lastUpdated": "2026-05-17T21:15:02Z",
+                "lastUpdated": "2026-05-17T19:05:57Z",
                 "referee": "St\u00e9phanie Frappart",
                 "season": 33,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
-            },
-            {
+            }
+        ],
+        "finished_today": {
+            "1": {
                 "id": 544573,
                 "home": "Bar\u00e7a",
                 "away": "Real Betis",
@@ -1531,31 +1533,29 @@
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/81.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/90.png",
-                "status": "IN_PLAY",
+                "status": "FINISHED",
                 "utcDate": "2026-05-17T19:15:00Z",
                 "localDate": "2026-05-18 00:45:00",
                 "localTime": "00:45",
                 "matchday": 37,
                 "competition": "Primera Division",
                 "competitionCode": "PD",
-                "isLive": true,
-                "isFinished": false,
+                "isLive": false,
+                "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "live",
+                "dayCategory": "finished_today",
                 "venue": "FC Barcelona (Home)",
-                "lastUpdated": "2026-05-17T21:14:42Z",
+                "lastUpdated": "2026-05-17T21:17:26Z",
                 "referee": "Guillermo Cuadra Fern\u00e1ndez",
                 "season": 37,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
-        "finished_today": {
+                "isRecent": true
+            },
             "2": {
                 "id": 542703,
                 "home": "Lorient",
@@ -1921,14 +1921,14 @@
                 "isTomorrow": true,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "21h 44m",
+                "timeUntilStart": "21h 39m",
                 "dayCategory": "tomorrow",
                 "venue": "Arsenal FC (Home)",
                 "lastUpdated": "2026-05-12T01:32:02Z",
                 "referee": "Paul Tierney",
                 "season": 37,
                 "group": null,
-                "minutesUntilStart": 1305,
+                "minutesUntilStart": 1300,
                 "isRecent": false
             },
             "46": {
@@ -1959,7 +1959,7 @@
                 "referee": "Anthony Taylor",
                 "season": 37,
                 "group": null,
-                "minutesUntilStart": 2715,
+                "minutesUntilStart": 2710,
                 "isRecent": false
             },
             "47": {
@@ -1990,7 +1990,7 @@
                 "referee": "Stuart Attwell",
                 "season": 37,
                 "group": null,
-                "minutesUntilStart": 2760,
+                "minutesUntilStart": 2755,
                 "isRecent": false
             }
         },
@@ -2995,10 +2995,10 @@
     },
     "stats": {
         "total_matches": 48,
-        "live_matches": 2,
+        "live_matches": 1,
         "today_matches": 0,
         "tomorrow_matches": 3,
-        "finished_today": 11,
+        "finished_today": 12,
         "finished_recent": 0
     },
     "query_info": {
@@ -3013,19 +3013,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 4701.78,
-        "current_time_local": "2026-05-18 02:45:09",
+        "api_call_time_ms": 4014.2,
+        "current_time_local": "2026-05-18 02:50:08",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-05-17 21:15:09",
-    "generated_at": "2026-05-17 21:15:09 UTC",
+    "last_updated": "2026-05-17 21:20:08",
+    "generated_at": "2026-05-17 21:20:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 114163,
+        "file_size": 114187,
         "file_path": "matches.json"
     }
 }
