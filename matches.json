@@ -2,6 +2,37 @@
     "success": true,
     "matches": [
         {
+            "id": 538145,
+            "home": "Bournemouth",
+            "away": "Man City",
+            "homeScore": 1,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/65.png",
+            "status": "IN_PLAY",
+            "utcDate": "2026-05-19T18:30:00Z",
+            "localDate": "2026-05-20 00:00:00",
+            "localTime": "00:00",
+            "matchday": 37,
+            "competition": "Premier League",
+            "competitionCode": "PL",
+            "isLive": true,
+            "isFinished": false,
+            "isToday": false,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "live",
+            "venue": "AFC Bournemouth (Home)",
+            "lastUpdated": "2026-05-19T20:29:06Z",
+            "referee": "Anthony Taylor",
+            "season": 36,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
+        },
+        {
             "id": 538149,
             "home": "Chelsea",
             "away": "Tottenham",
@@ -25,40 +56,9 @@
             "timeUntilStart": null,
             "dayCategory": "finished_yesterday",
             "venue": "Chelsea FC (Home)",
-            "lastUpdated": "2026-05-20T00:20:52Z",
+            "lastUpdated": "2026-05-19T21:15:21Z",
             "referee": "Stuart Attwell",
-            "season": 37,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
-            "id": 538145,
-            "home": "Bournemouth",
-            "away": "Man City",
-            "homeScore": 1,
-            "awayScore": 1,
-            "homeLogo": "https:\/\/crests.football-data.org\/bournemouth.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/65.png",
-            "status": "FINISHED",
-            "utcDate": "2026-05-19T18:30:00Z",
-            "localDate": "2026-05-20 00:00:00",
-            "localTime": "00:00",
-            "matchday": 37,
-            "competition": "Premier League",
-            "competitionCode": "PL",
-            "isLive": false,
-            "isFinished": true,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": true,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
-            "venue": "AFC Bournemouth (Home)",
-            "lastUpdated": "2026-05-19T22:25:33Z",
-            "referee": "Anthony Taylor",
-            "season": 37,
+            "season": 36,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -87,9 +87,9 @@
             "timeUntilStart": null,
             "dayCategory": "finished",
             "venue": "Arsenal FC (Home)",
-            "lastUpdated": "2026-05-20T00:20:52Z",
+            "lastUpdated": "2026-05-18T21:04:16Z",
             "referee": "Paul Tierney",
-            "season": 37,
+            "season": 36,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -122,7 +122,7 @@
             "referee": null,
             "season": 37,
             "group": null,
-            "minutesUntilStart": 2815,
+            "minutesUntilStart": 2810,
             "isRecent": false
         },
         {
@@ -153,7 +153,7 @@
             "referee": null,
             "season": 37,
             "group": null,
-            "minutesUntilStart": 4090,
+            "minutesUntilStart": 4085,
             "isRecent": false
         },
         {
@@ -184,7 +184,7 @@
             "referee": null,
             "season": 37,
             "group": null,
-            "minutesUntilStart": 4255,
+            "minutesUntilStart": 4250,
             "isRecent": false
         },
         {
@@ -215,7 +215,7 @@
             "referee": null,
             "season": 37,
             "group": null,
-            "minutesUntilStart": 4270,
+            "minutesUntilStart": 4265,
             "isRecent": false
         },
         {
@@ -246,7 +246,7 @@
             "referee": null,
             "season": 37,
             "group": null,
-            "minutesUntilStart": 4270,
+            "minutesUntilStart": 4265,
             "isRecent": false
         },
         {
@@ -277,7 +277,7 @@
             "referee": null,
             "season": 37,
             "group": null,
-            "minutesUntilStart": 4270,
+            "minutesUntilStart": 4265,
             "isRecent": false
         },
         {
@@ -308,7 +308,7 @@
             "referee": null,
             "season": 37,
             "group": null,
-            "minutesUntilStart": 4270,
+            "minutesUntilStart": 4265,
             "isRecent": false
         },
         {
@@ -339,7 +339,7 @@
             "referee": null,
             "season": 37,
             "group": null,
-            "minutesUntilStart": 4270,
+            "minutesUntilStart": 4265,
             "isRecent": false
         },
         {
@@ -370,7 +370,7 @@
             "referee": null,
             "season": 37,
             "group": null,
-            "minutesUntilStart": 4270,
+            "minutesUntilStart": 4265,
             "isRecent": false
         },
         {
@@ -401,7 +401,7 @@
             "referee": null,
             "season": 37,
             "group": null,
-            "minutesUntilStart": 4270,
+            "minutesUntilStart": 4265,
             "isRecent": false
         },
         {
@@ -432,7 +432,7 @@
             "referee": null,
             "season": 37,
             "group": null,
-            "minutesUntilStart": 4270,
+            "minutesUntilStart": 4265,
             "isRecent": false
         },
         {
@@ -463,12 +463,44 @@
             "referee": null,
             "season": 37,
             "group": null,
-            "minutesUntilStart": 4270,
+            "minutesUntilStart": 4265,
             "isRecent": false
         }
     ],
     "grouped_matches": {
-        "live": [],
+        "live": [
+            {
+                "id": 538145,
+                "home": "Bournemouth",
+                "away": "Man City",
+                "homeScore": 1,
+                "awayScore": 0,
+                "homeLogo": "https:\/\/crests.football-data.org\/bournemouth.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/65.png",
+                "status": "IN_PLAY",
+                "utcDate": "2026-05-19T18:30:00Z",
+                "localDate": "2026-05-20 00:00:00",
+                "localTime": "00:00",
+                "matchday": 37,
+                "competition": "Premier League",
+                "competitionCode": "PL",
+                "isLive": true,
+                "isFinished": false,
+                "isToday": false,
+                "isTomorrow": false,
+                "isYesterday": false,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "live",
+                "venue": "AFC Bournemouth (Home)",
+                "lastUpdated": "2026-05-19T20:29:06Z",
+                "referee": "Anthony Taylor",
+                "season": 36,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": false
+            }
+        ],
         "finished_today": [],
         "today": [],
         "tomorrow": {
@@ -500,7 +532,7 @@
                 "referee": null,
                 "season": 37,
                 "group": null,
-                "minutesUntilStart": 2815,
+                "minutesUntilStart": 2810,
                 "isRecent": false
             },
             "4": {
@@ -531,7 +563,7 @@
                 "referee": null,
                 "season": 37,
                 "group": null,
-                "minutesUntilStart": 4090,
+                "minutesUntilStart": 4085,
                 "isRecent": false
             },
             "5": {
@@ -562,7 +594,7 @@
                 "referee": null,
                 "season": 37,
                 "group": null,
-                "minutesUntilStart": 4255,
+                "minutesUntilStart": 4250,
                 "isRecent": false
             },
             "6": {
@@ -593,7 +625,7 @@
                 "referee": null,
                 "season": 37,
                 "group": null,
-                "minutesUntilStart": 4270,
+                "minutesUntilStart": 4265,
                 "isRecent": false
             },
             "7": {
@@ -624,7 +656,7 @@
                 "referee": null,
                 "season": 37,
                 "group": null,
-                "minutesUntilStart": 4270,
+                "minutesUntilStart": 4265,
                 "isRecent": false
             },
             "8": {
@@ -655,7 +687,7 @@
                 "referee": null,
                 "season": 37,
                 "group": null,
-                "minutesUntilStart": 4270,
+                "minutesUntilStart": 4265,
                 "isRecent": false
             },
             "9": {
@@ -686,7 +718,7 @@
                 "referee": null,
                 "season": 37,
                 "group": null,
-                "minutesUntilStart": 4270,
+                "minutesUntilStart": 4265,
                 "isRecent": false
             },
             "10": {
@@ -717,7 +749,7 @@
                 "referee": null,
                 "season": 37,
                 "group": null,
-                "minutesUntilStart": 4270,
+                "minutesUntilStart": 4265,
                 "isRecent": false
             },
             "11": {
@@ -748,7 +780,7 @@
                 "referee": null,
                 "season": 37,
                 "group": null,
-                "minutesUntilStart": 4270,
+                "minutesUntilStart": 4265,
                 "isRecent": false
             },
             "12": {
@@ -779,7 +811,7 @@
                 "referee": null,
                 "season": 37,
                 "group": null,
-                "minutesUntilStart": 4270,
+                "minutesUntilStart": 4265,
                 "isRecent": false
             },
             "13": {
@@ -810,7 +842,7 @@
                 "referee": null,
                 "season": 37,
                 "group": null,
-                "minutesUntilStart": 4270,
+                "minutesUntilStart": 4265,
                 "isRecent": false
             },
             "14": {
@@ -841,13 +873,13 @@
                 "referee": null,
                 "season": 37,
                 "group": null,
-                "minutesUntilStart": 4270,
+                "minutesUntilStart": 4265,
                 "isRecent": false
             }
         },
         "upcoming": [],
-        "finished_yesterday": [
-            {
+        "finished_yesterday": {
+            "1": {
                 "id": 538149,
                 "home": "Chelsea",
                 "away": "Tottenham",
@@ -871,45 +903,14 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished_yesterday",
                 "venue": "Chelsea FC (Home)",
-                "lastUpdated": "2026-05-20T00:20:52Z",
+                "lastUpdated": "2026-05-19T21:15:21Z",
                 "referee": "Stuart Attwell",
-                "season": 37,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
-            {
-                "id": 538145,
-                "home": "Bournemouth",
-                "away": "Man City",
-                "homeScore": 1,
-                "awayScore": 1,
-                "homeLogo": "https:\/\/crests.football-data.org\/bournemouth.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/65.png",
-                "status": "FINISHED",
-                "utcDate": "2026-05-19T18:30:00Z",
-                "localDate": "2026-05-20 00:00:00",
-                "localTime": "00:00",
-                "matchday": 37,
-                "competition": "Premier League",
-                "competitionCode": "PL",
-                "isLive": false,
-                "isFinished": true,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": true,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "finished_yesterday",
-                "venue": "AFC Bournemouth (Home)",
-                "lastUpdated": "2026-05-19T22:25:33Z",
-                "referee": "Anthony Taylor",
-                "season": 37,
+                "season": 36,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
             }
-        ],
+        },
         "finished_recent": [],
         "finished_older": {
             "2": {
@@ -936,9 +937,9 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished",
                 "venue": "Arsenal FC (Home)",
-                "lastUpdated": "2026-05-20T00:20:52Z",
+                "lastUpdated": "2026-05-18T21:04:16Z",
                 "referee": "Paul Tierney",
-                "season": 37,
+                "season": 36,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
@@ -947,7 +948,7 @@
     },
     "stats": {
         "total_matches": 15,
-        "live_matches": 0,
+        "live_matches": 1,
         "today_matches": 0,
         "tomorrow_matches": 12,
         "finished_today": 0,
@@ -965,19 +966,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 3826.85,
-        "current_time_local": "2026-05-21 01:20:13",
+        "api_call_time_ms": 3175.72,
+        "current_time_local": "2026-05-21 01:25:08",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-05-20 19:50:13",
-    "generated_at": "2026-05-20 19:50:13 UTC",
+    "last_updated": "2026-05-20 19:55:08",
+    "generated_at": "2026-05-20 19:55:08 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 36037,
+        "file_size": 36022,
         "file_path": "matches.json"
     }
 }
