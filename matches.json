@@ -2,99 +2,6 @@
     "success": true,
     "matches": [
         {
-            "id": 538149,
-            "home": "Chelsea",
-            "away": "Tottenham",
-            "homeScore": 2,
-            "awayScore": 1,
-            "homeLogo": "https:\/\/crests.football-data.org\/61.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/73.png",
-            "status": "FINISHED",
-            "utcDate": "2026-05-19T19:15:00Z",
-            "localDate": "2026-05-20 00:45:00",
-            "localTime": "00:45",
-            "matchday": 37,
-            "competition": "Premier League",
-            "competitionCode": "PL",
-            "isLive": false,
-            "isFinished": true,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": true,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
-            "venue": "Chelsea FC (Home)",
-            "lastUpdated": "2026-05-20T00:20:52Z",
-            "referee": "Stuart Attwell",
-            "season": 37,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
-            "id": 538145,
-            "home": "Bournemouth",
-            "away": "Man City",
-            "homeScore": 1,
-            "awayScore": 1,
-            "homeLogo": "https:\/\/crests.football-data.org\/bournemouth.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/65.png",
-            "status": "FINISHED",
-            "utcDate": "2026-05-19T18:30:00Z",
-            "localDate": "2026-05-20 00:00:00",
-            "localTime": "00:00",
-            "matchday": 37,
-            "competition": "Premier League",
-            "competitionCode": "PL",
-            "isLive": false,
-            "isFinished": true,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": true,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "finished_yesterday",
-            "venue": "AFC Bournemouth (Home)",
-            "lastUpdated": "2026-05-19T22:25:33Z",
-            "referee": "Anthony Taylor",
-            "season": 37,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
-            "id": 538147,
-            "home": "Arsenal",
-            "away": "Burnley",
-            "homeScore": 1,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/57.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/328.png",
-            "status": "FINISHED",
-            "utcDate": "2026-05-18T19:00:00Z",
-            "localDate": "2026-05-19 00:30:00",
-            "localTime": "00:30",
-            "matchday": 37,
-            "competition": "Premier League",
-            "competitionCode": "PL",
-            "isLive": false,
-            "isFinished": true,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "finished",
-            "venue": "Arsenal FC (Home)",
-            "lastUpdated": "2026-05-20T00:20:52Z",
-            "referee": "Paul Tierney",
-            "season": 37,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
             "id": 537185,
             "home": "Fiorentina",
             "away": "Atalanta",
@@ -471,8 +378,8 @@
         "live": [],
         "finished_today": [],
         "today": [],
-        "tomorrow": {
-            "3": {
+        "tomorrow": [
+            {
                 "id": 537185,
                 "home": "Fiorentina",
                 "away": "Atalanta",
@@ -503,7 +410,7 @@
                 "minutesUntilStart": 2769,
                 "isRecent": false
             },
-            "4": {
+            {
                 "id": 537187,
                 "home": "Bologna",
                 "away": "Inter",
@@ -534,7 +441,7 @@
                 "minutesUntilStart": 4044,
                 "isRecent": false
             },
-            "5": {
+            {
                 "id": 537190,
                 "home": "Lazio",
                 "away": "AC Pisa",
@@ -565,7 +472,7 @@
                 "minutesUntilStart": 4209,
                 "isRecent": false
             },
-            "6": {
+            {
                 "id": 544581,
                 "home": "Alav\u00e9s",
                 "away": "Rayo Vallecano",
@@ -596,7 +503,7 @@
                 "minutesUntilStart": 4224,
                 "isRecent": false
             },
-            "7": {
+            {
                 "id": 544582,
                 "home": "Real Betis",
                 "away": "Levante",
@@ -627,7 +534,7 @@
                 "minutesUntilStart": 4224,
                 "isRecent": false
             },
-            "8": {
+            {
                 "id": 544583,
                 "home": "Celta",
                 "away": "Sevilla FC",
@@ -658,7 +565,7 @@
                 "minutesUntilStart": 4224,
                 "isRecent": false
             },
-            "9": {
+            {
                 "id": 544584,
                 "home": "Espanyol",
                 "away": "Real Sociedad",
@@ -689,7 +596,7 @@
                 "minutesUntilStart": 4224,
                 "isRecent": false
             },
-            "10": {
+            {
                 "id": 544585,
                 "home": "Getafe",
                 "away": "Osasuna",
@@ -720,7 +627,7 @@
                 "minutesUntilStart": 4224,
                 "isRecent": false
             },
-            "11": {
+            {
                 "id": 544586,
                 "home": "Mallorca",
                 "away": "Real Oviedo",
@@ -751,7 +658,7 @@
                 "minutesUntilStart": 4224,
                 "isRecent": false
             },
-            "12": {
+            {
                 "id": 544587,
                 "home": "Real Madrid",
                 "away": "Athletic",
@@ -782,7 +689,7 @@
                 "minutesUntilStart": 4224,
                 "isRecent": false
             },
-            "13": {
+            {
                 "id": 544589,
                 "home": "Valencia",
                 "away": "Bar\u00e7a",
@@ -813,7 +720,7 @@
                 "minutesUntilStart": 4224,
                 "isRecent": false
             },
-            "14": {
+            {
                 "id": 544590,
                 "home": "Girona",
                 "away": "Elche",
@@ -844,109 +751,14 @@
                 "minutesUntilStart": 4224,
                 "isRecent": false
             }
-        },
-        "upcoming": [],
-        "finished_yesterday": [
-            {
-                "id": 538149,
-                "home": "Chelsea",
-                "away": "Tottenham",
-                "homeScore": 2,
-                "awayScore": 1,
-                "homeLogo": "https:\/\/crests.football-data.org\/61.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/73.png",
-                "status": "FINISHED",
-                "utcDate": "2026-05-19T19:15:00Z",
-                "localDate": "2026-05-20 00:45:00",
-                "localTime": "00:45",
-                "matchday": 37,
-                "competition": "Premier League",
-                "competitionCode": "PL",
-                "isLive": false,
-                "isFinished": true,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": true,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "finished_yesterday",
-                "venue": "Chelsea FC (Home)",
-                "lastUpdated": "2026-05-20T00:20:52Z",
-                "referee": "Stuart Attwell",
-                "season": 37,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
-            {
-                "id": 538145,
-                "home": "Bournemouth",
-                "away": "Man City",
-                "homeScore": 1,
-                "awayScore": 1,
-                "homeLogo": "https:\/\/crests.football-data.org\/bournemouth.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/65.png",
-                "status": "FINISHED",
-                "utcDate": "2026-05-19T18:30:00Z",
-                "localDate": "2026-05-20 00:00:00",
-                "localTime": "00:00",
-                "matchday": 37,
-                "competition": "Premier League",
-                "competitionCode": "PL",
-                "isLive": false,
-                "isFinished": true,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": true,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "finished_yesterday",
-                "venue": "AFC Bournemouth (Home)",
-                "lastUpdated": "2026-05-19T22:25:33Z",
-                "referee": "Anthony Taylor",
-                "season": 37,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            }
         ],
+        "upcoming": [],
+        "finished_yesterday": [],
         "finished_recent": [],
-        "finished_older": {
-            "2": {
-                "id": 538147,
-                "home": "Arsenal",
-                "away": "Burnley",
-                "homeScore": 1,
-                "awayScore": 0,
-                "homeLogo": "https:\/\/crests.football-data.org\/57.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/328.png",
-                "status": "FINISHED",
-                "utcDate": "2026-05-18T19:00:00Z",
-                "localDate": "2026-05-19 00:30:00",
-                "localTime": "00:30",
-                "matchday": 37,
-                "competition": "Premier League",
-                "competitionCode": "PL",
-                "isLive": false,
-                "isFinished": true,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "finished",
-                "venue": "Arsenal FC (Home)",
-                "lastUpdated": "2026-05-20T00:20:52Z",
-                "referee": "Paul Tierney",
-                "season": 37,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            }
-        }
+        "finished_older": []
     },
     "stats": {
-        "total_matches": 15,
+        "total_matches": 12,
         "live_matches": 0,
         "today_matches": 0,
         "tomorrow_matches": 12,
@@ -965,19 +777,21 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 28101.36,
-        "current_time_local": "2026-05-21 02:05:32",
-        "api_errors": []
+        "api_call_time_ms": 33087.12,
+        "current_time_local": "2026-05-21 02:05:37",
+        "api_errors": [
+            "Failed to fetch data from PL"
+        ]
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-05-20 20:35:32",
-    "generated_at": "2026-05-20 20:35:32 UTC",
+    "last_updated": "2026-05-20 20:35:37",
+    "generated_at": "2026-05-20 20:35:37 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 36038,
+        "file_size": 28956,
         "file_path": "matches.json"
     }
 }
