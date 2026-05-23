@@ -9,28 +9,28 @@
             "awayScore": 3,
             "homeLogo": "https:\/\/crests.football-data.org\/103.png",
             "awayLogo": "https:\/\/crests.football-data.org\/108.png",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "utcDate": "2026-05-23T16:00:00Z",
             "localDate": "2026-05-23 21:30:00",
             "localTime": "21:30",
             "matchday": 38,
             "competition": "Serie A",
             "competitionCode": "SA",
-            "isLive": true,
-            "isFinished": false,
+            "isLive": false,
+            "isFinished": true,
             "isToday": false,
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
             "timeUntilStart": null,
-            "dayCategory": "live",
+            "dayCategory": "finished_today",
             "venue": "Bologna FC 1909 (Home)",
-            "lastUpdated": "2026-05-23T17:59:36Z",
+            "lastUpdated": "2026-05-23T18:00:16Z",
             "referee": "Kevin Bonacina",
             "season": 38,
             "group": null,
             "minutesUntilStart": null,
-            "isRecent": false
+            "isRecent": true
         },
         {
             "id": 537185,
@@ -933,7 +933,8 @@
         }
     ],
     "grouped_matches": {
-        "live": [
+        "live": [],
+        "finished_today": [
             {
                 "id": 537187,
                 "home": "Bologna",
@@ -942,32 +943,30 @@
                 "awayScore": 3,
                 "homeLogo": "https:\/\/crests.football-data.org\/103.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/108.png",
-                "status": "IN_PLAY",
+                "status": "FINISHED",
                 "utcDate": "2026-05-23T16:00:00Z",
                 "localDate": "2026-05-23 21:30:00",
                 "localTime": "21:30",
                 "matchday": 38,
                 "competition": "Serie A",
                 "competitionCode": "SA",
-                "isLive": true,
-                "isFinished": false,
+                "isLive": false,
+                "isFinished": true,
                 "isToday": false,
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
                 "timeUntilStart": null,
-                "dayCategory": "live",
+                "dayCategory": "finished_today",
                 "venue": "Bologna FC 1909 (Home)",
-                "lastUpdated": "2026-05-23T17:59:36Z",
+                "lastUpdated": "2026-05-23T18:00:16Z",
                 "referee": "Kevin Bonacina",
                 "season": 38,
                 "group": null,
                 "minutesUntilStart": null,
-                "isRecent": false
-            }
-        ],
-        "finished_today": {
-            "1": {
+                "isRecent": true
+            },
+            {
                 "id": 537185,
                 "home": "Fiorentina",
                 "away": "Atalanta",
@@ -998,7 +997,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             }
-        },
+        ],
         "today": [],
         "tomorrow": {
             "2": {
@@ -1877,10 +1876,10 @@
     },
     "stats": {
         "total_matches": 30,
-        "live_matches": 1,
+        "live_matches": 0,
         "today_matches": 0,
         "tomorrow_matches": 28,
-        "finished_today": 1,
+        "finished_today": 2,
         "finished_recent": 0
     },
     "query_info": {
@@ -1895,19 +1894,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 12352.89,
-        "current_time_local": "2026-05-23 23:30:17",
+        "api_call_time_ms": 15392.49,
+        "current_time_local": "2026-05-23 23:30:20",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-05-23 18:00:17",
-    "generated_at": "2026-05-23 18:00:17 UTC",
+    "last_updated": "2026-05-23 18:00:20",
+    "generated_at": "2026-05-23 18:00:20 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 71495,
+        "file_size": 71502,
         "file_path": "matches.json"
     }
 }
