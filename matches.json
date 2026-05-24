@@ -614,7 +614,7 @@
             "timeUntilStart": null,
             "dayCategory": "finished_yesterday",
             "venue": "Valencia CF (Home)",
-            "lastUpdated": "2026-05-24T05:39:52Z",
+            "lastUpdated": "2026-05-24T00:20:44Z",
             "referee": "Adri\u00e1n Cordero Vega",
             "season": 38,
             "group": null,
@@ -921,14 +921,14 @@
             "isTomorrow": false,
             "isYesterday": false,
             "currentTime": null,
-            "timeUntilStart": "14m",
+            "timeUntilStart": "9m",
             "dayCategory": "today",
             "venue": "Villarreal CF (Home)",
             "lastUpdated": "2026-05-18T01:32:01Z",
             "referee": null,
             "season": 38,
             "group": null,
-            "minutesUntilStart": 15,
+            "minutesUntilStart": 10,
             "isRecent": false
         }
     ],
@@ -1112,14 +1112,14 @@
                 "isTomorrow": false,
                 "isYesterday": false,
                 "currentTime": null,
-                "timeUntilStart": "14m",
+                "timeUntilStart": "9m",
                 "dayCategory": "today",
                 "venue": "Villarreal CF (Home)",
                 "lastUpdated": "2026-05-18T01:32:01Z",
                 "referee": null,
                 "season": 38,
                 "group": null,
-                "minutesUntilStart": 15,
+                "minutesUntilStart": 10,
                 "isRecent": false
             }
         },
@@ -1739,7 +1739,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished_yesterday",
                 "venue": "Valencia CF (Home)",
-                "lastUpdated": "2026-05-24T05:39:52Z",
+                "lastUpdated": "2026-05-24T00:20:44Z",
                 "referee": "Adri\u00e1n Cordero Vega",
                 "season": 38,
                 "group": null,
@@ -1895,19 +1895,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 3980.63,
-        "current_time_local": "2026-05-25 00:15:09",
+        "api_call_time_ms": 5846.97,
+        "current_time_local": "2026-05-25 00:20:11",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-05-24 18:45:09",
-    "generated_at": "2026-05-24 18:45:09 UTC",
+    "last_updated": "2026-05-24 18:50:11",
+    "generated_at": "2026-05-24 18:50:11 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 71668,
+        "file_size": 71666,
         "file_path": "matches.json"
     }
 }
