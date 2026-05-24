@@ -9,7 +9,7 @@
             "awayScore": 1,
             "homeLogo": "https:\/\/crests.football-data.org\/98.png",
             "awayLogo": "https:\/\/crests.football-data.org\/104.png",
-            "status": "IN_PLAY",
+            "status": "PAUSED",
             "utcDate": "2026-05-24T18:45:00Z",
             "localDate": "2026-05-25 00:15:00",
             "localTime": "00:15",
@@ -25,39 +25,8 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "AC Milan (Home)",
-            "lastUpdated": "2026-05-24T19:17:31Z",
+            "lastUpdated": "2026-05-24T19:44:26Z",
             "referee": "Marco Guida",
-            "season": 38,
-            "group": null,
-            "minutesUntilStart": null,
-            "isRecent": false
-        },
-        {
-            "id": 537188,
-            "home": "Torino",
-            "away": "Juventus",
-            "homeScore": 0,
-            "awayScore": 0,
-            "homeLogo": "https:\/\/crests.football-data.org\/586.png",
-            "awayLogo": "https:\/\/crests.football-data.org\/109.png",
-            "status": "IN_PLAY",
-            "utcDate": "2026-05-24T18:45:00Z",
-            "localDate": "2026-05-25 00:15:00",
-            "localTime": "00:15",
-            "matchday": 38,
-            "competition": "Serie A",
-            "competitionCode": "SA",
-            "isLive": true,
-            "isFinished": false,
-            "isToday": false,
-            "isTomorrow": false,
-            "isYesterday": false,
-            "currentTime": null,
-            "timeUntilStart": null,
-            "dayCategory": "live",
-            "venue": "Torino FC (Home)",
-            "lastUpdated": "2026-05-24T18:50:21Z",
-            "referee": "Luca Zufferli",
             "season": 38,
             "group": null,
             "minutesUntilStart": null,
@@ -71,7 +40,7 @@
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/450.png",
             "awayLogo": "https:\/\/crests.football-data.org\/100.png",
-            "status": "IN_PLAY",
+            "status": "PAUSED",
             "utcDate": "2026-05-24T18:45:00Z",
             "localDate": "2026-05-25 00:15:00",
             "localTime": "00:15",
@@ -87,7 +56,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Hellas Verona FC (Home)",
-            "lastUpdated": "2026-05-24T18:51:16Z",
+            "lastUpdated": "2026-05-24T19:44:56Z",
             "referee": "Simone Sozza",
             "season": 38,
             "group": null,
@@ -118,7 +87,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "US Cremonese (Home)",
-            "lastUpdated": "2026-05-24T19:34:21Z",
+            "lastUpdated": "2026-05-24T19:44:26Z",
             "referee": "Fabio Maresca",
             "season": 38,
             "group": null,
@@ -133,7 +102,7 @@
             "awayScore": 0,
             "homeLogo": "https:\/\/crests.football-data.org\/5890.png",
             "awayLogo": "https:\/\/crests.football-data.org\/107.png",
-            "status": "IN_PLAY",
+            "status": "PAUSED",
             "utcDate": "2026-05-24T18:45:00Z",
             "localDate": "2026-05-25 00:15:00",
             "localTime": "00:15",
@@ -149,7 +118,7 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "US Lecce (Home)",
-            "lastUpdated": "2026-05-24T19:04:02Z",
+            "lastUpdated": "2026-05-24T19:44:16Z",
             "referee": "Daniele Doveri",
             "season": 38,
             "group": null,
@@ -180,9 +149,9 @@
             "timeUntilStart": null,
             "dayCategory": "live",
             "venue": "Villarreal CF (Home)",
-            "lastUpdated": "2026-05-24T19:39:57Z",
+            "lastUpdated": "2026-05-24T19:45:03Z",
             "referee": null,
-            "season": 35,
+            "season": 38,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -583,9 +552,9 @@
             "timeUntilStart": null,
             "dayCategory": "finished_yesterday",
             "venue": "Deportivo Alav\u00e9s (Home)",
-            "lastUpdated": "2026-05-23T21:04:01Z",
+            "lastUpdated": "2026-05-24T00:20:44Z",
             "referee": "Jes\u00fas Gil Manzano",
-            "season": 35,
+            "season": 38,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -614,9 +583,9 @@
             "timeUntilStart": null,
             "dayCategory": "finished_yesterday",
             "venue": "Real Betis Balompi\u00e9 (Home)",
-            "lastUpdated": "2026-05-23T21:03:11Z",
+            "lastUpdated": "2026-05-24T00:20:44Z",
             "referee": "Mateo Busquets Ferrer",
-            "season": 35,
+            "season": 38,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -645,9 +614,9 @@
             "timeUntilStart": null,
             "dayCategory": "finished_yesterday",
             "venue": "RC Celta de Vigo (Home)",
-            "lastUpdated": "2026-05-23T21:03:36Z",
+            "lastUpdated": "2026-05-24T00:20:44Z",
             "referee": "Francisco Hern\u00e1ndez Maeso",
-            "season": 35,
+            "season": 38,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -676,9 +645,9 @@
             "timeUntilStart": null,
             "dayCategory": "finished_yesterday",
             "venue": "RCD Espanyol de Barcelona (Home)",
-            "lastUpdated": "2026-05-23T21:03:11Z",
+            "lastUpdated": "2026-05-24T00:20:44Z",
             "referee": "Jos\u00e9 Munuera Montero",
-            "season": 35,
+            "season": 38,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -707,9 +676,9 @@
             "timeUntilStart": null,
             "dayCategory": "finished_yesterday",
             "venue": "Getafe CF (Home)",
-            "lastUpdated": "2026-05-23T21:04:36Z",
+            "lastUpdated": "2026-05-24T00:20:44Z",
             "referee": "Alejandro Quintero Gonz\u00e1lez",
-            "season": 35,
+            "season": 38,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -738,9 +707,9 @@
             "timeUntilStart": null,
             "dayCategory": "finished_yesterday",
             "venue": "RCD Mallorca (Home)",
-            "lastUpdated": "2026-05-23T21:01:56Z",
+            "lastUpdated": "2026-05-24T00:20:44Z",
             "referee": "Jos\u00e9 S\u00e1nchez Mart\u00ednez",
-            "season": 35,
+            "season": 38,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -769,9 +738,9 @@
             "timeUntilStart": null,
             "dayCategory": "finished_yesterday",
             "venue": "Real Madrid CF (Home)",
-            "lastUpdated": "2026-05-23T21:00:47Z",
+            "lastUpdated": "2026-05-24T00:20:44Z",
             "referee": "Juan Mart\u00ednez Munuera",
-            "season": 35,
+            "season": 38,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -802,7 +771,7 @@
             "venue": "Valencia CF (Home)",
             "lastUpdated": "2026-05-24T05:39:52Z",
             "referee": "Adri\u00e1n Cordero Vega",
-            "season": 35,
+            "season": 38,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -831,9 +800,9 @@
             "timeUntilStart": null,
             "dayCategory": "finished_yesterday",
             "venue": "Girona FC (Home)",
-            "lastUpdated": "2026-05-23T21:06:31Z",
+            "lastUpdated": "2026-05-24T00:20:44Z",
             "referee": "Alejandro Hern\u00e1ndez Hern\u00e1ndez",
-            "season": 35,
+            "season": 38,
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
@@ -930,6 +899,37 @@
             "group": null,
             "minutesUntilStart": null,
             "isRecent": false
+        },
+        {
+            "id": 537188,
+            "home": "Torino",
+            "away": "Juventus",
+            "homeScore": 0,
+            "awayScore": 0,
+            "homeLogo": "https:\/\/crests.football-data.org\/586.png",
+            "awayLogo": "https:\/\/crests.football-data.org\/109.png",
+            "status": "TIMED",
+            "utcDate": "2026-05-24T19:45:00Z",
+            "localDate": "2026-05-25 01:15:00",
+            "localTime": "01:15",
+            "matchday": 38,
+            "competition": "Serie A",
+            "competitionCode": "SA",
+            "isLive": false,
+            "isFinished": false,
+            "isToday": true,
+            "isTomorrow": false,
+            "isYesterday": false,
+            "currentTime": null,
+            "timeUntilStart": null,
+            "dayCategory": "today",
+            "venue": "Torino FC (Home)",
+            "lastUpdated": "2026-05-24T19:41:11Z",
+            "referee": "Luca Zufferli",
+            "season": 38,
+            "group": null,
+            "minutesUntilStart": null,
+            "isRecent": false
         }
     ],
     "grouped_matches": {
@@ -942,7 +942,7 @@
                 "awayScore": 1,
                 "homeLogo": "https:\/\/crests.football-data.org\/98.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/104.png",
-                "status": "IN_PLAY",
+                "status": "PAUSED",
                 "utcDate": "2026-05-24T18:45:00Z",
                 "localDate": "2026-05-25 00:15:00",
                 "localTime": "00:15",
@@ -958,39 +958,8 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "AC Milan (Home)",
-                "lastUpdated": "2026-05-24T19:17:31Z",
+                "lastUpdated": "2026-05-24T19:44:26Z",
                 "referee": "Marco Guida",
-                "season": 38,
-                "group": null,
-                "minutesUntilStart": null,
-                "isRecent": false
-            },
-            {
-                "id": 537188,
-                "home": "Torino",
-                "away": "Juventus",
-                "homeScore": 0,
-                "awayScore": 0,
-                "homeLogo": "https:\/\/crests.football-data.org\/586.png",
-                "awayLogo": "https:\/\/crests.football-data.org\/109.png",
-                "status": "IN_PLAY",
-                "utcDate": "2026-05-24T18:45:00Z",
-                "localDate": "2026-05-25 00:15:00",
-                "localTime": "00:15",
-                "matchday": 38,
-                "competition": "Serie A",
-                "competitionCode": "SA",
-                "isLive": true,
-                "isFinished": false,
-                "isToday": false,
-                "isTomorrow": false,
-                "isYesterday": false,
-                "currentTime": null,
-                "timeUntilStart": null,
-                "dayCategory": "live",
-                "venue": "Torino FC (Home)",
-                "lastUpdated": "2026-05-24T18:50:21Z",
-                "referee": "Luca Zufferli",
                 "season": 38,
                 "group": null,
                 "minutesUntilStart": null,
@@ -1004,7 +973,7 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/450.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/100.png",
-                "status": "IN_PLAY",
+                "status": "PAUSED",
                 "utcDate": "2026-05-24T18:45:00Z",
                 "localDate": "2026-05-25 00:15:00",
                 "localTime": "00:15",
@@ -1020,7 +989,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Hellas Verona FC (Home)",
-                "lastUpdated": "2026-05-24T18:51:16Z",
+                "lastUpdated": "2026-05-24T19:44:56Z",
                 "referee": "Simone Sozza",
                 "season": 38,
                 "group": null,
@@ -1051,7 +1020,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "US Cremonese (Home)",
-                "lastUpdated": "2026-05-24T19:34:21Z",
+                "lastUpdated": "2026-05-24T19:44:26Z",
                 "referee": "Fabio Maresca",
                 "season": 38,
                 "group": null,
@@ -1066,7 +1035,7 @@
                 "awayScore": 0,
                 "homeLogo": "https:\/\/crests.football-data.org\/5890.png",
                 "awayLogo": "https:\/\/crests.football-data.org\/107.png",
-                "status": "IN_PLAY",
+                "status": "PAUSED",
                 "utcDate": "2026-05-24T18:45:00Z",
                 "localDate": "2026-05-25 00:15:00",
                 "localTime": "00:15",
@@ -1082,7 +1051,7 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "US Lecce (Home)",
-                "lastUpdated": "2026-05-24T19:04:02Z",
+                "lastUpdated": "2026-05-24T19:44:16Z",
                 "referee": "Daniele Doveri",
                 "season": 38,
                 "group": null,
@@ -1113,20 +1082,52 @@
                 "timeUntilStart": null,
                 "dayCategory": "live",
                 "venue": "Villarreal CF (Home)",
-                "lastUpdated": "2026-05-24T19:39:57Z",
+                "lastUpdated": "2026-05-24T19:45:03Z",
                 "referee": null,
-                "season": 35,
+                "season": 38,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
             }
         ],
         "finished_today": [],
-        "today": [],
+        "today": {
+            "29": {
+                "id": 537188,
+                "home": "Torino",
+                "away": "Juventus",
+                "homeScore": 0,
+                "awayScore": 0,
+                "homeLogo": "https:\/\/crests.football-data.org\/586.png",
+                "awayLogo": "https:\/\/crests.football-data.org\/109.png",
+                "status": "TIMED",
+                "utcDate": "2026-05-24T19:45:00Z",
+                "localDate": "2026-05-25 01:15:00",
+                "localTime": "01:15",
+                "matchday": 38,
+                "competition": "Serie A",
+                "competitionCode": "SA",
+                "isLive": false,
+                "isFinished": false,
+                "isToday": true,
+                "isTomorrow": false,
+                "isYesterday": false,
+                "currentTime": null,
+                "timeUntilStart": null,
+                "dayCategory": "today",
+                "venue": "Torino FC (Home)",
+                "lastUpdated": "2026-05-24T19:41:11Z",
+                "referee": "Luca Zufferli",
+                "season": 38,
+                "group": null,
+                "minutesUntilStart": null,
+                "isRecent": false
+            }
+        },
         "tomorrow": [],
         "upcoming": [],
         "finished_yesterday": {
-            "6": {
+            "5": {
                 "id": 537192,
                 "home": "Napoli",
                 "away": "Udinese",
@@ -1157,7 +1158,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "7": {
+            "6": {
                 "id": 538155,
                 "home": "Sunderland",
                 "away": "Chelsea",
@@ -1188,7 +1189,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "8": {
+            "7": {
                 "id": 538156,
                 "home": "Brighton Hove",
                 "away": "Man United",
@@ -1219,7 +1220,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "9": {
+            "8": {
                 "id": 538157,
                 "home": "Crystal Palace",
                 "away": "Arsenal",
@@ -1250,7 +1251,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "10": {
+            "9": {
                 "id": 538158,
                 "home": "Burnley",
                 "away": "Wolverhampton",
@@ -1281,7 +1282,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "11": {
+            "10": {
                 "id": 538159,
                 "home": "Fulham",
                 "away": "Newcastle",
@@ -1312,7 +1313,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "12": {
+            "11": {
                 "id": 538160,
                 "home": "Liverpool",
                 "away": "Brentford",
@@ -1343,7 +1344,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "13": {
+            "12": {
                 "id": 538161,
                 "home": "Man City",
                 "away": "Aston Villa",
@@ -1374,7 +1375,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "14": {
+            "13": {
                 "id": 538162,
                 "home": "Nottingham",
                 "away": "Bournemouth",
@@ -1405,7 +1406,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "15": {
+            "14": {
                 "id": 538163,
                 "home": "Tottenham",
                 "away": "Everton",
@@ -1436,7 +1437,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "16": {
+            "15": {
                 "id": 538164,
                 "home": "West Ham",
                 "away": "Leeds United",
@@ -1467,7 +1468,7 @@
                 "minutesUntilStart": null,
                 "isRecent": true
             },
-            "17": {
+            "16": {
                 "id": 537191,
                 "home": "Parma",
                 "away": "Sassuolo",
@@ -1498,7 +1499,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "18": {
+            "17": {
                 "id": 544581,
                 "home": "Alav\u00e9s",
                 "away": "Rayo Vallecano",
@@ -1522,14 +1523,14 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished_yesterday",
                 "venue": "Deportivo Alav\u00e9s (Home)",
-                "lastUpdated": "2026-05-23T21:04:01Z",
+                "lastUpdated": "2026-05-24T00:20:44Z",
                 "referee": "Jes\u00fas Gil Manzano",
-                "season": 35,
+                "season": 38,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "19": {
+            "18": {
                 "id": 544582,
                 "home": "Real Betis",
                 "away": "Levante",
@@ -1553,14 +1554,14 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished_yesterday",
                 "venue": "Real Betis Balompi\u00e9 (Home)",
-                "lastUpdated": "2026-05-23T21:03:11Z",
+                "lastUpdated": "2026-05-24T00:20:44Z",
                 "referee": "Mateo Busquets Ferrer",
-                "season": 35,
+                "season": 38,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "20": {
+            "19": {
                 "id": 544583,
                 "home": "Celta",
                 "away": "Sevilla FC",
@@ -1584,14 +1585,14 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished_yesterday",
                 "venue": "RC Celta de Vigo (Home)",
-                "lastUpdated": "2026-05-23T21:03:36Z",
+                "lastUpdated": "2026-05-24T00:20:44Z",
                 "referee": "Francisco Hern\u00e1ndez Maeso",
-                "season": 35,
+                "season": 38,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "21": {
+            "20": {
                 "id": 544584,
                 "home": "Espanyol",
                 "away": "Real Sociedad",
@@ -1615,14 +1616,14 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished_yesterday",
                 "venue": "RCD Espanyol de Barcelona (Home)",
-                "lastUpdated": "2026-05-23T21:03:11Z",
+                "lastUpdated": "2026-05-24T00:20:44Z",
                 "referee": "Jos\u00e9 Munuera Montero",
-                "season": 35,
+                "season": 38,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "22": {
+            "21": {
                 "id": 544585,
                 "home": "Getafe",
                 "away": "Osasuna",
@@ -1646,14 +1647,14 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished_yesterday",
                 "venue": "Getafe CF (Home)",
-                "lastUpdated": "2026-05-23T21:04:36Z",
+                "lastUpdated": "2026-05-24T00:20:44Z",
                 "referee": "Alejandro Quintero Gonz\u00e1lez",
-                "season": 35,
+                "season": 38,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "23": {
+            "22": {
                 "id": 544586,
                 "home": "Mallorca",
                 "away": "Real Oviedo",
@@ -1677,14 +1678,14 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished_yesterday",
                 "venue": "RCD Mallorca (Home)",
-                "lastUpdated": "2026-05-23T21:01:56Z",
+                "lastUpdated": "2026-05-24T00:20:44Z",
                 "referee": "Jos\u00e9 S\u00e1nchez Mart\u00ednez",
-                "season": 35,
+                "season": 38,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "24": {
+            "23": {
                 "id": 544587,
                 "home": "Real Madrid",
                 "away": "Athletic",
@@ -1708,14 +1709,14 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished_yesterday",
                 "venue": "Real Madrid CF (Home)",
-                "lastUpdated": "2026-05-23T21:00:47Z",
+                "lastUpdated": "2026-05-24T00:20:44Z",
                 "referee": "Juan Mart\u00ednez Munuera",
-                "season": 35,
+                "season": 38,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "25": {
+            "24": {
                 "id": 544589,
                 "home": "Valencia",
                 "away": "Bar\u00e7a",
@@ -1741,12 +1742,12 @@
                 "venue": "Valencia CF (Home)",
                 "lastUpdated": "2026-05-24T05:39:52Z",
                 "referee": "Adri\u00e1n Cordero Vega",
-                "season": 35,
+                "season": 38,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "26": {
+            "25": {
                 "id": 544590,
                 "home": "Girona",
                 "away": "Elche",
@@ -1770,14 +1771,14 @@
                 "timeUntilStart": null,
                 "dayCategory": "finished_yesterday",
                 "venue": "Girona FC (Home)",
-                "lastUpdated": "2026-05-23T21:06:31Z",
+                "lastUpdated": "2026-05-24T00:20:44Z",
                 "referee": "Alejandro Hern\u00e1ndez Hern\u00e1ndez",
-                "season": 35,
+                "season": 38,
                 "group": null,
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "27": {
+            "26": {
                 "id": 537190,
                 "home": "Lazio",
                 "away": "AC Pisa",
@@ -1811,7 +1812,7 @@
         },
         "finished_recent": [],
         "finished_older": {
-            "28": {
+            "27": {
                 "id": 537187,
                 "home": "Bologna",
                 "away": "Inter",
@@ -1842,7 +1843,7 @@
                 "minutesUntilStart": null,
                 "isRecent": false
             },
-            "29": {
+            "28": {
                 "id": 537185,
                 "home": "Fiorentina",
                 "away": "Atalanta",
@@ -1877,8 +1878,8 @@
     },
     "stats": {
         "total_matches": 30,
-        "live_matches": 6,
-        "today_matches": 0,
+        "live_matches": 5,
+        "today_matches": 1,
         "tomorrow_matches": 0,
         "finished_today": 0,
         "finished_recent": 0
@@ -1895,19 +1896,19 @@
         "competition_name": "All Major Leagues",
         "timezone": "Asia\/Kolkata",
         "from_cache": false,
-        "api_call_time_ms": 6281.36,
-        "current_time_local": "2026-05-25 01:10:10",
+        "api_call_time_ms": 5076,
+        "current_time_local": "2026-05-25 01:15:09",
         "api_errors": []
     },
     "cache_info": {
         "cache_written": true,
         "cache_file": "matches_cache.json"
     },
-    "last_updated": "2026-05-24 19:40:10",
-    "generated_at": "2026-05-24 19:40:10 UTC",
+    "last_updated": "2026-05-24 19:45:09",
+    "generated_at": "2026-05-24 19:45:09 UTC",
     "json_generation": {
         "success": true,
-        "file_size": 71776,
+        "file_size": 71778,
         "file_path": "matches.json"
     }
 }
